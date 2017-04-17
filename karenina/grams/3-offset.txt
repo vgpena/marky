@@ -1,0 +1,4449 @@
+{
+  "to her husband": {
+    "count": 4,
+    "next": {
+      "her husband that": 4
+    }
+  },
+  "her husband that": {
+    "count": 3,
+    "next": {
+      "husband that she": 3
+    }
+  },
+  "husband that she": {
+    "count": 2,
+    "next": {
+      "that she could": 1,
+      "that she had": 1
+    }
+  },
+  "that she could": {
+    "count": 12,
+    "next": {
+      "she could not": 10,
+      "she could make": 2
+    }
+  },
+  "she could not": {
+    "count": 2,
+    "next": {
+      "could not say": 1,
+      "could not for": 1
+    }
+  },
+  "as though he": {
+    "count": 14,
+    "next": {
+      "though he did": 3,
+      "though he had": 11
+    }
+  },
+  "his wife, he": {
+    "count": 2,
+    "next": {
+      "wife, he had": 2
+    }
+  },
+  "wife, he had": {
+    "count": 2,
+    "next": {
+      "he had not": 2
+    }
+  },
+  "he had not": {
+    "count": 3,
+    "next": {
+      "had not seen": 3
+    }
+  },
+  "He did not": {
+    "count": 5,
+    "next": {
+      "did not know": 5
+    }
+  },
+  "the position in": {
+    "count": 2,
+    "next": {
+      "position in which": 2
+    }
+  },
+  "position in which": {
+    "count": 4,
+    "next": {
+      "in which she": 4
+    }
+  },
+  "what he did": {
+    "count": 6,
+    "next": {
+      "he did not": 6
+    }
+  },
+  "he could not": {
+    "count": 4,
+    "next": {
+      "could not for": 2,
+      "could not say": 2
+    }
+  },
+  "and rushed out": {
+    "count": 2,
+    "next": {
+      "rushed out of": 2
+    }
+  },
+  "rushed out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "out of the": {
+    "count": 6,
+    "next": {
+      "of the question,": 6
+    }
+  },
+  "he said to": {
+    "count": 14,
+    "next": {
+      "said to himself,": 14
+    }
+  },
+  "himself that he": {
+    "count": 3,
+    "next": {
+      "that he ought": 1,
+      "that he did": 1,
+      "that he could": 1
+    }
+  },
+  "He could not": {
+    "count": 2,
+    "next": {
+      "could not say": 2
+    }
+  },
+  "of the fact": {
+    "count": 3,
+    "next": {
+      "the fact that": 3
+    }
+  },
+  "the fact that": {
+    "count": 9,
+    "next": {
+      "fact that he": 9
+    }
+  },
+  "with his wife,": {
+    "count": 2,
+    "next": {
+      "his wife, he": 2
+    }
+  },
+  "was that he": {
+    "count": 4,
+    "next": {
+      "that he had": 2,
+      "that he could": 2
+    }
+  },
+  "that he had": {
+    "count": 17,
+    "next": {
+      "he had not": 14,
+      "he had made": 3
+    }
+  },
+  "But he felt": {
+    "count": 2,
+    "next": {
+      "he felt that": 2
+    }
+  },
+  "if he had": {
+    "count": 6,
+    "next": {
+      "he had not": 6
+    }
+  },
+  "but he had": {
+    "count": 3,
+    "next": {
+      "he had not": 3
+    }
+  },
+  "from a sense": {
+    "count": 2,
+    "next": {
+      "a sense of": 2
+    }
+  },
+  "a sense of": {
+    "count": 2,
+    "next": {
+      "sense of her": 2
+    }
+  },
+  "to himself, and": {
+    "count": 3,
+    "next": {
+      "himself, and he": 3
+    }
+  },
+  "himself, and he": {
+    "count": 2,
+    "next": {
+      "and he could": 2
+    }
+  },
+  "and he could": {
+    "count": 11,
+    "next": {
+      "he could not": 11
+    }
+  },
+  "said to himself,": {
+    "count": 4,
+    "next": {
+      "to himself, and": 4
+    }
+  },
+  "in spite of": {
+    "count": 30,
+    "next": {
+      "spite of the": 30
+    }
+  },
+  "for him, and": {
+    "count": 4,
+    "next": {
+      "him, and he": 3,
+      "him, and she": 1
+    }
+  },
+  "And in spite": {
+    "count": 3,
+    "next": {
+      "in spite of": 3
+    }
+  },
+  "spite of the": {
+    "count": 2,
+    "next": {
+      "of the fact": 2
+    }
+  },
+  "he did not": {
+    "count": 27,
+    "next": {
+      "did not know": 20,
+      "did not see": 7
+    }
+  },
+  "as he did": {
+    "count": 5,
+    "next": {
+      "he did not": 5
+    }
+  },
+  "and that it": {
+    "count": 9,
+    "next": {
+      "that it was": 9
+    }
+  },
+  "make out what": {
+    "count": 2,
+    "next": {
+      "out what he": 2
+    }
+  },
+  "maintained that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "that it was": {
+    "count": 7,
+    "next": {
+      "it was a": 5,
+      "it was out": 2
+    }
+  },
+  "to him, and": {
+    "count": 13,
+    "next": {
+      "him, and he": 7,
+      "him, and so": 2,
+      "him, and she": 3,
+      "him, and what": 1
+    }
+  },
+  "him, and he": {
+    "count": 5,
+    "next": {
+      "and he could": 2,
+      "and he did": 2,
+      "and he felt": 1
+    }
+  },
+  "conscious that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he could": 1
+    }
+  },
+  "and did not": {
+    "count": 8,
+    "next": {
+      "did not know": 8
+    }
+  },
+  "and that he": {
+    "count": 9,
+    "next": {
+      "that he had": 6,
+      "that he could": 1,
+      "that he ought": 1,
+      "that he did": 1
+    }
+  },
+  "She did not": {
+    "count": 2,
+    "next": {
+      "did not know": 2
+    }
+  },
+  "again she could": {
+    "count": 2,
+    "next": {
+      "she could not": 2
+    }
+  },
+  "herself that she": {
+    "count": 2,
+    "next": {
+      "that she had": 2
+    }
+  },
+  "not get out": {
+    "count": 2,
+    "next": {
+      "get out of": 2
+    }
+  },
+  "get out of": {
+    "count": 4,
+    "next": {
+      "out of the": 4
+    }
+  },
+  "to which she": {
+    "count": 2,
+    "next": {
+      "which she had": 2
+    }
+  },
+  "and tried to": {
+    "count": 2,
+    "next": {
+      "tried to persuade": 1,
+      "tried to say": 1
+    }
+  },
+  "all that he": {
+    "count": 2,
+    "next": {
+      "that he had": 2
+    }
+  },
+  "at him, as": {
+    "count": 2,
+    "next": {
+      "him, as though": 2
+    }
+  },
+  "him, as though": {
+    "count": 2,
+    "next": {
+      "as though he": 2
+    }
+  },
+  "go out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "not knowing what": {
+    "count": 10,
+    "next": {
+      "knowing what he": 3,
+      "knowing what to": 7
+    }
+  },
+  "knowing what he": {
+    "count": 4,
+    "next": {
+      "what he was": 4
+    }
+  },
+  "what he was": {
+    "count": 3,
+    "next": {
+      "he was and": 3
+    }
+  },
+  "him. He did": {
+    "count": 3,
+    "next": {
+      "He did not": 3
+    }
+  },
+  "though she did": {
+    "count": 4,
+    "next": {
+      "she did not": 4
+    }
+  },
+  "she did not": {
+    "count": 8,
+    "next": {
+      "did not know": 8
+    }
+  },
+  "did not know": {
+    "count": 13,
+    "next": {
+      "not know what": 13
+    }
+  },
+  "walked out of": {
+    "count": 9,
+    "next": {
+      "out of the": 9
+    }
+  },
+  "I don’t see": {
+    "count": 2,
+    "next": {
+      "don’t see that": 2
+    }
+  },
+  "and walked out": {
+    "count": 2,
+    "next": {
+      "walked out of": 2
+    }
+  },
+  "coat and went": {
+    "count": 2,
+    "next": {
+      "and went out": 2
+    }
+  },
+  "and went out": {
+    "count": 6,
+    "next": {
+      "went out of": 6
+    }
+  },
+  "as she had": {
+    "count": 2,
+    "next": {
+      "she had not": 2
+    }
+  },
+  "But in spite": {
+    "count": 12,
+    "next": {
+      "in spite of": 12
+    }
+  },
+  "nothing out of": {
+    "count": 4,
+    "next": {
+      "out of the": 4
+    }
+  },
+  "in virtue of": {
+    "count": 2,
+    "next": {
+      "virtue of which": 2
+    }
+  },
+  "virtue of which": {
+    "count": 2,
+    "next": {
+      "of which he": 2
+    }
+  },
+  "of which he": {
+    "count": 7,
+    "next": {
+      "which he could": 6,
+      "which he did": 1
+    }
+  },
+  "shook hands with": {
+    "count": 2,
+    "next": {
+      "hands with him,": 2
+    }
+  },
+  "Stepan Arkadyevitch got": {
+    "count": 4,
+    "next": {
+      "Arkadyevitch got up": 4
+    }
+  },
+  "Arkadyevitch got up": {
+    "count": 2,
+    "next": {
+      "got up and": 2
+    }
+  },
+  "got up and": {
+    "count": 10,
+    "next": {
+      "up and went": 10
+    }
+  },
+  "with whom he": {
+    "count": 3,
+    "next": {
+      "whom he had": 3
+    }
+  },
+  "and so he": {
+    "count": 3,
+    "next": {
+      "so he did": 3
+    }
+  },
+  "it. It seemed": {
+    "count": 4,
+    "next": {
+      "It seemed to": 3,
+      "It seemed as": 1
+    }
+  },
+  "It seemed to": {
+    "count": 18,
+    "next": {
+      "seemed to him": 7,
+      "seemed to her": 7,
+      "seemed to Levin": 4
+    }
+  },
+  "It’s a long": {
+    "count": 2,
+    "next": {
+      "a long while": 2
+    }
+  },
+  "used to say": {
+    "count": 3,
+    "next": {
+      "to say that": 2,
+      "to say to": 1
+    }
+  },
+  "I want to": {
+    "count": 3,
+    "next": {
+      "want to say": 3
+    }
+  },
+  "he went up": {
+    "count": 14,
+    "next": {
+      "went up to": 14
+    }
+  },
+  "went up to": {
+    "count": 9,
+    "next": {
+      "up to Alexey": 2,
+      "up to her,": 6,
+      "up to him,": 1
+    }
+  },
+  "Levin went out": {
+    "count": 2,
+    "next": {
+      "went out of": 2
+    }
+  },
+  "went out of": {
+    "count": 19,
+    "next": {
+      "out of the": 19
+    }
+  },
+  "remembering that he": {
+    "count": 2,
+    "next": {
+      "that he had": 2
+    }
+  },
+  "because he could": {
+    "count": 3,
+    "next": {
+      "he could not": 3
+    }
+  },
+  "what he had": {
+    "count": 2,
+    "next": {
+      "he had not": 2
+    }
+  },
+  "so that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "and so it": {
+    "count": 2,
+    "next": {
+      "so it seemed": 2
+    }
+  },
+  "so it seemed": {
+    "count": 4,
+    "next": {
+      "it seemed to": 4
+    }
+  },
+  "it seemed to": {
+    "count": 38,
+    "next": {
+      "seemed to him": 17,
+      "seemed to Levin": 4,
+      "seemed to him,": 5,
+      "seemed to her": 11,
+      "seemed to Alexey": 1
+    }
+  },
+  "seemed to him": {
+    "count": 17,
+    "next": {
+      "to him that": 17
+    }
+  },
+  "to him that": {
+    "count": 15,
+    "next": {
+      "him that he": 11,
+      "him that it": 4
+    }
+  },
+  "but he did": {
+    "count": 14,
+    "next": {
+      "he did not": 14
+    }
+  },
+  "that he could": {
+    "count": 36,
+    "next": {
+      "he could not": 36
+    }
+  },
+  "him if he": {
+    "count": 2,
+    "next": {
+      "if he had": 2
+    }
+  },
+  "But he had": {
+    "count": 6,
+    "next": {
+      "he had not": 6
+    }
+  },
+  "what seemed to": {
+    "count": 3,
+    "next": {
+      "seemed to him": 3
+    }
+  },
+  "seemed to Levin": {
+    "count": 8,
+    "next": {
+      "to Levin that": 8
+    }
+  },
+  "to Levin that": {
+    "count": 4,
+    "next": {
+      "Levin that he": 4
+    }
+  },
+  "just as they": {
+    "count": 2,
+    "next": {
+      "as they were": 2
+    }
+  },
+  "as they were": {
+    "count": 3,
+    "next": {
+      "they were going": 3
+    }
+  },
+  "he made up": {
+    "count": 4,
+    "next": {
+      "made up his": 4
+    }
+  },
+  "made up his": {
+    "count": 16,
+    "next": {
+      "up his mind": 16
+    }
+  },
+  "up his mind": {
+    "count": 6,
+    "next": {
+      "his mind that": 6
+    }
+  },
+  "to say to": {
+    "count": 3,
+    "next": {
+      "say to him,": 3
+    }
+  },
+  "him, and so": {
+    "count": 3,
+    "next": {
+      "and so he": 2,
+      "and so it": 1
+    }
+  },
+  "Levin felt that": {
+    "count": 5,
+    "next": {
+      "felt that he": 3,
+      "felt that it": 2
+    }
+  },
+  "felt that he": {
+    "count": 12,
+    "next": {
+      "that he could": 6,
+      "that he ought": 1,
+      "that he had": 5
+    }
+  },
+  "could not for": {
+    "count": 2,
+    "next": {
+      "not for a": 2
+    }
+  },
+  "He felt that": {
+    "count": 4,
+    "next": {
+      "felt that he": 4
+    }
+  },
+  "Levin got up": {
+    "count": 2,
+    "next": {
+      "got up and": 2
+    }
+  },
+  "knowing that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he could": 1
+    }
+  },
+  "It was a": {
+    "count": 3,
+    "next": {
+      "was a long": 3
+    }
+  },
+  "he tried to": {
+    "count": 2,
+    "next": {
+      "tried to say": 1,
+      "tried to persuade": 1
+    }
+  },
+  "him. He went": {
+    "count": 2,
+    "next": {
+      "He went up": 2
+    }
+  },
+  "about her, and": {
+    "count": 2,
+    "next": {
+      "her, and that": 1,
+      "her, and he": 1
+    }
+  },
+  "her, and that": {
+    "count": 3,
+    "next": {
+      "and that he": 1,
+      "and that she": 2
+    }
+  },
+  "for a long": {
+    "count": 20,
+    "next": {
+      "a long while": 20
+    }
+  },
+  "a long while": {
+    "count": 13,
+    "next": {
+      "long while she": 5,
+      "long while he": 8
+    }
+  },
+  "though he did": {
+    "count": 12,
+    "next": {
+      "he did not": 12
+    }
+  },
+  "he was trying": {
+    "count": 4,
+    "next": {
+      "was trying to": 4
+    }
+  },
+  "was trying to": {
+    "count": 2,
+    "next": {
+      "trying to get": 2
+    }
+  },
+  "you, she said": {
+    "count": 4,
+    "next": {
+      "she said to": 4
+    }
+  },
+  "she said to": {
+    "count": 4,
+    "next": {
+      "said to him,": 4
+    }
+  },
+  "at what he": {
+    "count": 3,
+    "next": {
+      "what he had": 2,
+      "what he was": 1
+    }
+  },
+  "thought Levin, and": {
+    "count": 4,
+    "next": {
+      "Levin, and he": 4
+    }
+  },
+  "Levin, and he": {
+    "count": 2,
+    "next": {
+      "and he felt": 1,
+      "and he got": 1
+    }
+  },
+  "said to him,": {
+    "count": 2,
+    "next": {
+      "to him, but": 1,
+      "to him, and": 1
+    }
+  },
+  "whom he had": {
+    "count": 5,
+    "next": {
+      "he had not": 3,
+      "he had made": 2
+    }
+  },
+  "but she had": {
+    "count": 3,
+    "next": {
+      "she had not": 3
+    }
+  },
+  "not thinking of": {
+    "count": 2,
+    "next": {
+      "thinking of what": 2
+    }
+  },
+  "thinking of what": {
+    "count": 2,
+    "next": {
+      "of what he": 2
+    }
+  },
+  "of what he": {
+    "count": 12,
+    "next": {
+      "what he was": 7,
+      "what he had": 4,
+      "what he ought": 1
+    }
+  },
+  "that she had": {
+    "count": 2,
+    "next": {
+      "she had not": 2
+    }
+  },
+  "that she did": {
+    "count": 9,
+    "next": {
+      "she did not": 9
+    }
+  },
+  "came out of": {
+    "count": 7,
+    "next": {
+      "out of the": 7
+    }
+  },
+  "said Levin, and": {
+    "count": 2,
+    "next": {
+      "Levin, and he": 2
+    }
+  },
+  "with him, and": {
+    "count": 3,
+    "next": {
+      "him, and that": 3
+    }
+  },
+  "and she could": {
+    "count": 13,
+    "next": {
+      "she could not": 13
+    }
+  },
+  "the smile with": {
+    "count": 3,
+    "next": {
+      "smile with which": 3
+    }
+  },
+  "smile with which": {
+    "count": 2,
+    "next": {
+      "with which she": 2
+    }
+  },
+  "utterly unlike what": {
+    "count": 3,
+    "next": {
+      "unlike what he": 3
+    }
+  },
+  "unlike what he": {
+    "count": 3,
+    "next": {
+      "what he had": 3
+    }
+  },
+  "vodka, and said": {
+    "count": 2,
+    "next": {
+      "and said to": 2
+    }
+  },
+  "and said to": {
+    "count": 2,
+    "next": {
+      "said to himself,": 1,
+      "said to him,": 1
+    }
+  },
+  "in, your excellency,": {
+    "count": 2,
+    "next": {
+      "your excellency, he": 2
+    }
+  },
+  "your excellency, he": {
+    "count": 2,
+    "next": {
+      "excellency, he said": 2
+    }
+  },
+  "excellency, he said": {
+    "count": 2,
+    "next": {
+      "he said to": 2
+    }
+  },
+  "to him. He": {
+    "count": 2,
+    "next": {
+      "him. He felt": 1,
+      "him. He went": 1
+    }
+  },
+  "as soon as": {
+    "count": 15,
+    "next": {
+      "soon as he": 15
+    }
+  },
+  "I ought to": {
+    "count": 5,
+    "next": {
+      "ought to have": 5
+    }
+  },
+  "I know a": {
+    "count": 2,
+    "next": {
+      "know a gallant": 2
+    }
+  },
+  "know a gallant": {
+    "count": 2,
+    "next": {
+      "a gallant steed": 2
+    }
+  },
+  "a gallant steed": {
+    "count": 2,
+    "next": {
+      "gallant steed by": 2
+    }
+  },
+  "gallant steed by": {
+    "count": 2,
+    "next": {
+      "steed by tokens": 2
+    }
+  },
+  "steed by tokens": {
+    "count": 2,
+    "next": {
+      "by tokens sure,": 2
+    }
+  },
+  "by tokens sure,": {
+    "count": 2,
+    "next": {
+      "tokens sure, And": 2
+    }
+  },
+  "tokens sure, And": {
+    "count": 2,
+    "next": {
+      "sure, And by": 2
+    }
+  },
+  "sure, And by": {
+    "count": 2,
+    "next": {
+      "And by his": 2
+    }
+  },
+  "And by his": {
+    "count": 2,
+    "next": {
+      "by his eyes": 2
+    }
+  },
+  "by his eyes": {
+    "count": 2,
+    "next": {
+      "his eyes I": 2
+    }
+  },
+  "his eyes I": {
+    "count": 2,
+    "next": {
+      "eyes I know": 2
+    }
+  },
+  "eyes I know": {
+    "count": 2,
+    "next": {
+      "I know a": 2
+    }
+  },
+  "Well, and what": {
+    "count": 2,
+    "next": {
+      "and what have": 2
+    }
+  },
+  "and what have": {
+    "count": 2,
+    "next": {
+      "what have you": 2
+    }
+  },
+  "what have you": {
+    "count": 2,
+    "next": {
+      "have you to": 2
+    }
+  },
+  "have you to": {
+    "count": 2,
+    "next": {
+      "you to say": 2
+    }
+  },
+  "you to say": {
+    "count": 2,
+    "next": {
+      "to say to": 2
+    }
+  },
+  "you ought to": {
+    "count": 2,
+    "next": {
+      "ought to have": 2
+    }
+  },
+  "from the look": {
+    "count": 2,
+    "next": {
+      "the look in": 2
+    }
+  },
+  "Come, tell me": {
+    "count": 2,
+    "next": {
+      "tell me what": 2
+    }
+  },
+  "A feeling such": {
+    "count": 2,
+    "next": {
+      "feeling such as": 2
+    }
+  },
+  "feeling such as": {
+    "count": 2,
+    "next": {
+      "such as she": 2
+    }
+  },
+  "and he knew": {
+    "count": 5,
+    "next": {
+      "he knew that": 5
+    }
+  },
+  "had a sense": {
+    "count": 5,
+    "next": {
+      "a sense of": 5
+    }
+  },
+  "but she did": {
+    "count": 10,
+    "next": {
+      "she did not": 10
+    }
+  },
+  "and she did": {
+    "count": 7,
+    "next": {
+      "she did not": 7
+    }
+  },
+  "But, in spite": {
+    "count": 2,
+    "next": {
+      "in spite of": 2
+    }
+  },
+  "but now she": {
+    "count": 2,
+    "next": {
+      "now she could": 2
+    }
+  },
+  "she felt that": {
+    "count": 6,
+    "next": {
+      "felt that she": 4,
+      "felt that it": 2
+    }
+  },
+  "She saw that": {
+    "count": 2,
+    "next": {
+      "saw that she": 1,
+      "saw that he": 1
+    }
+  },
+  "to say that": {
+    "count": 5,
+    "next": {
+      "say that he": 5
+    }
+  },
+  "who did not": {
+    "count": 4,
+    "next": {
+      "did not know": 4
+    }
+  },
+  "with the thought": {
+    "count": 2,
+    "next": {
+      "the thought that": 2
+    }
+  },
+  "the thought that": {
+    "count": 3,
+    "next": {
+      "thought that he": 2,
+      "thought that she": 1
+    }
+  },
+  "thought that he": {
+    "count": 2,
+    "next": {
+      "that he could": 1,
+      "that he had": 1
+    }
+  },
+  "and she felt": {
+    "count": 5,
+    "next": {
+      "she felt sorry": 3,
+      "she felt that": 2
+    }
+  },
+  "want to say": {
+    "count": 4,
+    "next": {
+      "to say that": 2,
+      "to say to": 2
+    }
+  },
+  "tears in her": {
+    "count": 2,
+    "next": {
+      "in her eyes,": 2
+    }
+  },
+  "I don’t know": {
+    "count": 7,
+    "next": {
+      "don’t know what": 7
+    }
+  },
+  "don’t know what": {
+    "count": 3,
+    "next": {
+      "know what to": 3
+    }
+  },
+  "know what to": {
+    "count": 2,
+    "next": {
+      "what to say": 2
+    }
+  },
+  "what to say": {
+    "count": 3,
+    "next": {
+      "to say to": 3
+    }
+  },
+  "of which she": {
+    "count": 6,
+    "next": {
+      "which she could": 1,
+      "which she had": 5
+    }
+  },
+  "days, and that": {
+    "count": 2,
+    "next": {
+      "and that she": 1,
+      "and that it": 1
+    }
+  },
+  "and that she": {
+    "count": 7,
+    "next": {
+      "that she had": 3,
+      "that she could": 3,
+      "that she did": 1
+    }
+  },
+  "What am I": {
+    "count": 9,
+    "next": {
+      "am I to": 9
+    }
+  },
+  "am I to": {
+    "count": 4,
+    "next": {
+      "I to say": 4
+    }
+  },
+  "I to say": {
+    "count": 4,
+    "next": {
+      "to say to": 4
+    }
+  },
+  "drawing room. When": {
+    "count": 2,
+    "next": {
+      "room. When he": 2
+    }
+  },
+  "room. When he": {
+    "count": 2,
+    "next": {
+      "When he saw": 1,
+      "When he went": 1
+    }
+  },
+  "When he saw": {
+    "count": 2,
+    "next": {
+      "he saw that": 2
+    }
+  },
+  "he saw that": {
+    "count": 2,
+    "next": {
+      "saw that he": 1,
+      "saw that she": 1
+    }
+  },
+  "I did not": {
+    "count": 8,
+    "next": {
+      "did not know": 7,
+      "did not see": 1
+    }
+  },
+  "I meant to": {
+    "count": 4,
+    "next": {
+      "meant to say": 4
+    }
+  },
+  "meant to say": {
+    "count": 2,
+    "next": {
+      "to say to": 1,
+      "to say that": 1
+    }
+  },
+  "with which she": {
+    "count": 7,
+    "next": {
+      "which she had": 7
+    }
+  },
+  "recalling what he": {
+    "count": 2,
+    "next": {
+      "what he had": 2
+    }
+  },
+  "began talking to": {
+    "count": 2,
+    "next": {
+      "talking to him,": 2
+    }
+  },
+  "for him to": {
+    "count": 2,
+    "next": {
+      "him to say": 2
+    }
+  },
+  "the look in": {
+    "count": 2,
+    "next": {
+      "look in her": 2
+    }
+  },
+  "look in her": {
+    "count": 2,
+    "next": {
+      "in her eyes,": 2
+    }
+  },
+  "in her eyes,": {
+    "count": 4,
+    "next": {
+      "her eyes, and": 4
+    }
+  },
+  "knew that she": {
+    "count": 4,
+    "next": {
+      "that she had": 4
+    }
+  },
+  "if she had": {
+    "count": 2,
+    "next": {
+      "she had not": 2
+    }
+  },
+  "in him, and": {
+    "count": 4,
+    "next": {
+      "him, and so": 2,
+      "him, and that": 1,
+      "him, and he": 1
+    }
+  },
+  "Vronsky went up": {
+    "count": 4,
+    "next": {
+      "went up to": 4
+    }
+  },
+  "wanted to say": {
+    "count": 3,
+    "next": {
+      "to say something,": 1,
+      "to say to": 2
+    }
+  },
+  "to say something,": {
+    "count": 5,
+    "next": {
+      "say something, but": 5
+    }
+  },
+  "said he could": {
+    "count": 2,
+    "next": {
+      "he could not": 2
+    }
+  },
+  "No, I don’t": {
+    "count": 2,
+    "next": {
+      "I don’t see": 1,
+      "I don’t know": 1
+    }
+  },
+  "was waiting for": {
+    "count": 2,
+    "next": {
+      "waiting for him": 2
+    }
+  },
+  "waiting for him": {
+    "count": 5,
+    "next": {
+      "for him to": 5
+    }
+  },
+  "and he felt": {
+    "count": 2,
+    "next": {
+      "he felt he": 1,
+      "he felt that": 1
+    }
+  },
+  "Kitty got up": {
+    "count": 2,
+    "next": {
+      "got up and": 2
+    }
+  },
+  "Just as they": {
+    "count": 2,
+    "next": {
+      "as they were": 2
+    }
+  },
+  "towards him, and": {
+    "count": 2,
+    "next": {
+      "him, and she": 2
+    }
+  },
+  "him, and she": {
+    "count": 4,
+    "next": {
+      "and she did": 1,
+      "and she felt": 3
+    }
+  },
+  "there? he said": {
+    "count": 2,
+    "next": {
+      "he said to": 2
+    }
+  },
+  "As soon as": {
+    "count": 2,
+    "next": {
+      "soon as he": 2
+    }
+  },
+  "and in spite": {
+    "count": 15,
+    "next": {
+      "in spite of": 15
+    }
+  },
+  "glad at the": {
+    "count": 2,
+    "next": {
+      "at the thought": 2
+    }
+  },
+  "at the thought": {
+    "count": 2,
+    "next": {
+      "the thought that": 2
+    }
+  },
+  "thought that she": {
+    "count": 3,
+    "next": {
+      "that she had": 3
+    }
+  },
+  "long while she": {
+    "count": 5,
+    "next": {
+      "while she could": 5
+    }
+  },
+  "while she could": {
+    "count": 3,
+    "next": {
+      "she could not": 2,
+      "she could make": 1
+    }
+  },
+  "And she felt": {
+    "count": 2,
+    "next": {
+      "she felt sorry": 1,
+      "she felt that": 1
+    }
+  },
+  "that tears came": {
+    "count": 2,
+    "next": {
+      "tears came into": 2
+    }
+  },
+  "tears came into": {
+    "count": 8,
+    "next": {
+      "came into her": 8
+    }
+  },
+  "came into her": {
+    "count": 2,
+    "next": {
+      "into her eyes,": 2
+    }
+  },
+  "him, she did": {
+    "count": 2,
+    "next": {
+      "she did not": 2
+    }
+  },
+  "Lord, have pity": {
+    "count": 3,
+    "next": {
+      "have pity on": 3
+    }
+  },
+  "have pity on": {
+    "count": 2,
+    "next": {
+      "pity on us;": 2
+    }
+  },
+  "pity on us;": {
+    "count": 2,
+    "next": {
+      "on us; Lord,": 2
+    }
+  },
+  "on us; Lord,": {
+    "count": 2,
+    "next": {
+      "us; Lord, have": 2
+    }
+  },
+  "us; Lord, have": {
+    "count": 2,
+    "next": {
+      "Lord, have pity": 2
+    }
+  },
+  "to which he": {
+    "count": 2,
+    "next": {
+      "which he could": 2
+    }
+  },
+  "which he could": {
+    "count": 13,
+    "next": {
+      "he could not": 13
+    }
+  },
+  "to her that": {
+    "count": 4,
+    "next": {
+      "her that he": 4
+    }
+  },
+  "her that he": {
+    "count": 2,
+    "next": {
+      "that he could": 1,
+      "that he did": 1
+    }
+  },
+  "he felt that": {
+    "count": 16,
+    "next": {
+      "felt that she": 1,
+      "felt that he": 12,
+      "felt that it": 3
+    }
+  },
+  "felt that she": {
+    "count": 3,
+    "next": {
+      "that she had": 3
+    }
+  },
+  "upon him, and": {
+    "count": 2,
+    "next": {
+      "him, and he": 2
+    }
+  },
+  "her. He did": {
+    "count": 2,
+    "next": {
+      "He did not": 2
+    }
+  },
+  "him that he": {
+    "count": 6,
+    "next": {
+      "that he had": 5,
+      "that he could": 1
+    }
+  },
+  "if he did": {
+    "count": 2,
+    "next": {
+      "he did not": 2
+    }
+  },
+  "believed that he": {
+    "count": 3,
+    "next": {
+      "that he ought": 1,
+      "that he had": 2
+    }
+  },
+  "that he ought": {
+    "count": 7,
+    "next": {
+      "he ought to": 7
+    }
+  },
+  "he ought to": {
+    "count": 3,
+    "next": {
+      "ought to have": 3
+    }
+  },
+  "from the fact": {
+    "count": 8,
+    "next": {
+      "the fact that": 8
+    }
+  },
+  "fact that he": {
+    "count": 9,
+    "next": {
+      "that he had": 7,
+      "that he did": 1,
+      "that he could": 1
+    }
+  },
+  "and as soon": {
+    "count": 5,
+    "next": {
+      "as soon as": 5
+    }
+  },
+  "He shook hands": {
+    "count": 2,
+    "next": {
+      "shook hands with": 2
+    }
+  },
+  "hands with him,": {
+    "count": 2,
+    "next": {
+      "with him, and": 2
+    }
+  },
+  "that seemed to": {
+    "count": 2,
+    "next": {
+      "seemed to say": 1,
+      "seemed to her": 1
+    }
+  },
+  "seemed to say": {
+    "count": 2,
+    "next": {
+      "to say that": 1,
+      "to say to": 1
+    }
+  },
+  "say that he": {
+    "count": 4,
+    "next": {
+      "that he did": 1,
+      "that he had": 3
+    }
+  },
+  "that he did": {
+    "count": 15,
+    "next": {
+      "he did not": 15
+    }
+  },
+  "by the fact": {
+    "count": 5,
+    "next": {
+      "the fact that": 5
+    }
+  },
+  "was out of": {
+    "count": 6,
+    "next": {
+      "out of the": 6
+    }
+  },
+  "though I don’t": {
+    "count": 2,
+    "next": {
+      "I don’t know": 1,
+      "I don’t see": 1
+    }
+  },
+  "her eyes, and": {
+    "count": 5,
+    "next": {
+      "eyes, and the": 2,
+      "eyes, and she": 3
+    }
+  },
+  "light in her": {
+    "count": 2,
+    "next": {
+      "in her eyes,": 2
+    }
+  },
+  "And as soon": {
+    "count": 3,
+    "next": {
+      "as soon as": 3
+    }
+  },
+  "her hand to": {
+    "count": 4,
+    "next": {
+      "hand to him.": 4
+    }
+  },
+  "she went up": {
+    "count": 4,
+    "next": {
+      "went up to": 4
+    }
+  },
+  "which she had": {
+    "count": 2,
+    "next": {
+      "she had not": 2
+    }
+  },
+  "looking out of": {
+    "count": 8,
+    "next": {
+      "out of the": 8
+    }
+  },
+  "getting out of": {
+    "count": 3,
+    "next": {
+      "out of the": 3
+    }
+  },
+  "got out of": {
+    "count": 6,
+    "next": {
+      "out of the": 6
+    }
+  },
+  "they were going": {
+    "count": 2,
+    "next": {
+      "were going out": 2
+    }
+  },
+  "were going out": {
+    "count": 2,
+    "next": {
+      "going out of": 2
+    }
+  },
+  "going out of": {
+    "count": 5,
+    "next": {
+      "out of the": 5
+    }
+  },
+  "so that she": {
+    "count": 3,
+    "next": {
+      "that she did": 2,
+      "that she had": 1
+    }
+  },
+  "She got up": {
+    "count": 4,
+    "next": {
+      "got up and": 4
+    }
+  },
+  "but I want": {
+    "count": 2,
+    "next": {
+      "I want to": 2
+    }
+  },
+  "how am I": {
+    "count": 6,
+    "next": {
+      "am I to": 6
+    }
+  },
+  "him, and that": {
+    "count": 5,
+    "next": {
+      "and that she": 2,
+      "and that he": 3
+    }
+  },
+  "felt sorry for": {
+    "count": 2,
+    "next": {
+      "sorry for him,": 2
+    }
+  },
+  "sorry for him,": {
+    "count": 2,
+    "next": {
+      "for him, and": 2
+    }
+  },
+  "she had not": {
+    "count": 3,
+    "next": {
+      "had not seen": 3
+    }
+  },
+  "but that she": {
+    "count": 2,
+    "next": {
+      "that she had": 2
+    }
+  },
+  "and went up": {
+    "count": 7,
+    "next": {
+      "went up to": 7
+    }
+  },
+  "and out of": {
+    "count": 3,
+    "next": {
+      "out of the": 3
+    }
+  },
+  "But she did": {
+    "count": 4,
+    "next": {
+      "she did not": 4
+    }
+  },
+  "coming out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "Anna got up": {
+    "count": 2,
+    "next": {
+      "got up and": 2
+    }
+  },
+  "something out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "There was nothing": {
+    "count": 2,
+    "next": {
+      "was nothing out": 2
+    }
+  },
+  "whom he did": {
+    "count": 3,
+    "next": {
+      "he did not": 3
+    }
+  },
+  "the consciousness of": {
+    "count": 4,
+    "next": {
+      "consciousness of her": 4
+    }
+  },
+  "consciousness of her": {
+    "count": 2,
+    "next": {
+      "of her own": 2
+    }
+  },
+  "of her own": {
+    "count": 2,
+    "next": {
+      "her own seemed": 2
+    }
+  },
+  "had not seen": {
+    "count": 2,
+    "next": {
+      "not seen for": 2
+    }
+  },
+  "regret that he": {
+    "count": 3,
+    "next": {
+      "that he had": 2,
+      "that he could": 1
+    }
+  },
+  "waltz, but he": {
+    "count": 2,
+    "next": {
+      "but he did": 1,
+      "but he had": 1
+    }
+  },
+  "at him. He": {
+    "count": 2,
+    "next": {
+      "him. He did": 1,
+      "him. He went": 1
+    }
+  },
+  "The fact that": {
+    "count": 3,
+    "next": {
+      "fact that he": 3
+    }
+  },
+  "she saw that": {
+    "count": 6,
+    "next": {
+      "saw that she": 2,
+      "saw that he": 3,
+      "saw that it": 1
+    }
+  },
+  "saw that she": {
+    "count": 2,
+    "next": {
+      "that she could": 1,
+      "that she had": 1
+    }
+  },
+  "eyes, and the": {
+    "count": 2,
+    "next": {
+      "and the smile": 2
+    }
+  },
+  "and the smile": {
+    "count": 2,
+    "next": {
+      "the smile with": 2
+    }
+  },
+  "into her eyes,": {
+    "count": 3,
+    "next": {
+      "her eyes, and": 3
+    }
+  },
+  "to her, he": {
+    "count": 2,
+    "next": {
+      "her, he felt": 1,
+      "her, he had": 1
+    }
+  },
+  "myself, and I": {
+    "count": 2,
+    "next": {
+      "and I don’t": 2
+    }
+  },
+  "and I don’t": {
+    "count": 3,
+    "next": {
+      "I don’t know": 3
+    }
+  },
+  "she got up": {
+    "count": 3,
+    "next": {
+      "got up and": 3
+    }
+  },
+  "but in spite": {
+    "count": 4,
+    "next": {
+      "in spite of": 4
+    }
+  },
+  "as he came": {
+    "count": 3,
+    "next": {
+      "he came out": 3
+    }
+  },
+  "and for a": {
+    "count": 6,
+    "next": {
+      "for a long": 6
+    }
+  },
+  "to whom he": {
+    "count": 2,
+    "next": {
+      "whom he had": 2
+    }
+  },
+  "that, in spite": {
+    "count": 3,
+    "next": {
+      "in spite of": 3
+    }
+  },
+  "but he knew": {
+    "count": 4,
+    "next": {
+      "he knew that": 4
+    }
+  },
+  "the same second": {
+    "count": 2,
+    "next": {
+      "same second he": 2
+    }
+  },
+  "same second he": {
+    "count": 2,
+    "next": {
+      "second he felt": 2
+    }
+  },
+  "her out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "He saw that": {
+    "count": 3,
+    "next": {
+      "saw that she": 1,
+      "saw that it": 2
+    }
+  },
+  "could not say": {
+    "count": 3,
+    "next": {
+      "not say that": 3
+    }
+  },
+  "not say that": {
+    "count": 3,
+    "next": {
+      "say that he": 2,
+      "say that she": 1
+    }
+  },
+  "trying to get": {
+    "count": 2,
+    "next": {
+      "to get out": 1,
+      "to get him": 1
+    }
+  },
+  "to get out": {
+    "count": 6,
+    "next": {
+      "get out of": 6
+    }
+  },
+  "in the sense": {
+    "count": 3,
+    "next": {
+      "the sense that": 3
+    }
+  },
+  "that to get": {
+    "count": 2,
+    "next": {
+      "to get out": 1,
+      "to get him": 1
+    }
+  },
+  "by a sense": {
+    "count": 2,
+    "next": {
+      "a sense of": 2
+    }
+  },
+  "when he got": {
+    "count": 2,
+    "next": {
+      "he got out": 2
+    }
+  },
+  "he got out": {
+    "count": 2,
+    "next": {
+      "got out of": 2
+    }
+  },
+  "himself, and did": {
+    "count": 2,
+    "next": {
+      "and did not": 2
+    }
+  },
+  "making up his": {
+    "count": 2,
+    "next": {
+      "up his mind": 2
+    }
+  },
+  "though he had": {
+    "count": 3,
+    "next": {
+      "he had not": 3
+    }
+  },
+  "this seemed to": {
+    "count": 4,
+    "next": {
+      "seemed to him": 3,
+      "seemed to her": 1
+    }
+  },
+  "to him, but": {
+    "count": 2,
+    "next": {
+      "him, but he": 2
+    }
+  },
+  "for which he": {
+    "count": 2,
+    "next": {
+      "which he could": 2
+    }
+  },
+  "her, he said": {
+    "count": 2,
+    "next": {
+      "he said to": 2
+    }
+  },
+  "Levin, though he": {
+    "count": 2,
+    "next": {
+      "though he did": 2
+    }
+  },
+  "he knew that": {
+    "count": 3,
+    "next": {
+      "knew that it": 2,
+      "knew that she": 1
+    }
+  },
+  "knew that it": {
+    "count": 3,
+    "next": {
+      "that it was": 3
+    }
+  },
+  "up to him,": {
+    "count": 4,
+    "next": {
+      "to him, and": 4
+    }
+  },
+  "Do you suppose": {
+    "count": 7,
+    "next": {
+      "you suppose I": 7
+    }
+  },
+  "you suppose I": {
+    "count": 4,
+    "next": {
+      "suppose I don’t": 4
+    }
+  },
+  "suppose I don’t": {
+    "count": 4,
+    "next": {
+      "I don’t see": 3,
+      "I don’t know": 1
+    }
+  },
+  "and felt that": {
+    "count": 3,
+    "next": {
+      "felt that he": 1,
+      "felt that she": 1,
+      "felt that it": 1
+    }
+  },
+  "in which she": {
+    "count": 8,
+    "next": {
+      "which she could": 3,
+      "which she had": 5
+    }
+  },
+  "with tears in": {
+    "count": 3,
+    "next": {
+      "tears in her": 3
+    }
+  },
+  "but it was": {
+    "count": 2,
+    "next": {
+      "it was a": 2
+    }
+  },
+  "suddenly felt that": {
+    "count": 2,
+    "next": {
+      "felt that he": 1,
+      "felt that she": 1
+    }
+  },
+  "And what am": {
+    "count": 2,
+    "next": {
+      "what am I": 2
+    }
+  },
+  "what am I": {
+    "count": 3,
+    "next": {
+      "am I to": 3
+    }
+  },
+  "seemed as though": {
+    "count": 2,
+    "next": {
+      "as though he": 2
+    }
+  },
+  "rather a long": {
+    "count": 2,
+    "next": {
+      "a long while": 2
+    }
+  },
+  "and, in spite": {
+    "count": 3,
+    "next": {
+      "in spite of": 3
+    }
+  },
+  "the hand with": {
+    "count": 2,
+    "next": {
+      "hand with which": 2
+    }
+  },
+  "hand with which": {
+    "count": 2,
+    "next": {
+      "with which she": 2
+    }
+  },
+  "seemed to her": {
+    "count": 10,
+    "next": {
+      "to her that": 10
+    }
+  },
+  "that for a": {
+    "count": 3,
+    "next": {
+      "for a long": 3
+    }
+  },
+  "she could make": {
+    "count": 2,
+    "next": {
+      "could make out": 2
+    }
+  },
+  "feel that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he could": 1
+    }
+  },
+  "feeling that he": {
+    "count": 4,
+    "next": {
+      "that he had": 3,
+      "that he could": 1
+    }
+  },
+  "he had made": {
+    "count": 4,
+    "next": {
+      "had made up": 4
+    }
+  },
+  "think. He felt": {
+    "count": 2,
+    "next": {
+      "He felt that": 2
+    }
+  },
+  "of it. He": {
+    "count": 2,
+    "next": {
+      "it. He did": 1,
+      "it. He felt": 1
+    }
+  },
+  "it. He did": {
+    "count": 3,
+    "next": {
+      "He did not": 3
+    }
+  },
+  "believed in him,": {
+    "count": 2,
+    "next": {
+      "in him, and": 2
+    }
+  },
+  "especially when he": {
+    "count": 2,
+    "next": {
+      "when he knew": 2
+    }
+  },
+  "with a sense": {
+    "count": 3,
+    "next": {
+      "a sense of": 3
+    }
+  },
+  "up to Alexey": {
+    "count": 3,
+    "next": {
+      "to Alexey Alexandrovitch": 3
+    }
+  },
+  "to Alexey Alexandrovitch": {
+    "count": 3,
+    "next": {
+      "Alexey Alexandrovitch that": 3
+    }
+  },
+  "to her, in": {
+    "count": 2,
+    "next": {
+      "her, in spite": 2
+    }
+  },
+  "her, in spite": {
+    "count": 3,
+    "next": {
+      "in spite of": 3
+    }
+  },
+  "up to her,": {
+    "count": 2,
+    "next": {
+      "to her, he": 2
+    }
+  },
+  "ought to have": {
+    "count": 3,
+    "next": {
+      "to have said": 3
+    }
+  },
+  "unnecessary and out": {
+    "count": 2,
+    "next": {
+      "and out of": 2
+    }
+  },
+  "but that he": {
+    "count": 4,
+    "next": {
+      "that he had": 1,
+      "that he could": 2,
+      "that he did": 1
+    }
+  },
+  "they ought to": {
+    "count": 2,
+    "next": {
+      "ought to have": 2
+    }
+  },
+  "that had seemed": {
+    "count": 3,
+    "next": {
+      "had seemed to": 3
+    }
+  },
+  "had seemed to": {
+    "count": 9,
+    "next": {
+      "seemed to her": 4,
+      "seemed to him": 4,
+      "seemed to him,": 1
+    }
+  },
+  "holding out her": {
+    "count": 2,
+    "next": {
+      "out her hand": 2
+    }
+  },
+  "out her hand": {
+    "count": 4,
+    "next": {
+      "her hand to": 4
+    }
+  },
+  "hand to him.": {
+    "count": 2,
+    "next": {
+      "to him. He": 2
+    }
+  },
+  "he said that": {
+    "count": 2,
+    "next": {
+      "said that he": 2
+    }
+  },
+  "that in spite": {
+    "count": 3,
+    "next": {
+      "in spite of": 3
+    }
+  },
+  "but, in spite": {
+    "count": 2,
+    "next": {
+      "in spite of": 2
+    }
+  },
+  "him out of": {
+    "count": 4,
+    "next": {
+      "out of the": 4
+    }
+  },
+  "Well, what am": {
+    "count": 2,
+    "next": {
+      "what am I": 2
+    }
+  },
+  "Now I want": {
+    "count": 2,
+    "next": {
+      "I want to": 2
+    }
+  },
+  "that one ought": {
+    "count": 2,
+    "next": {
+      "one ought to": 2
+    }
+  },
+  "one ought to": {
+    "count": 2,
+    "next": {
+      "ought to have": 2
+    }
+  },
+  "to get him": {
+    "count": 2,
+    "next": {
+      "get him out": 2
+    }
+  },
+  "had made up": {
+    "count": 6,
+    "next": {
+      "made up his": 6
+    }
+  },
+  "because he did": {
+    "count": 2,
+    "next": {
+      "he did not": 2
+    }
+  },
+  "as it seemed": {
+    "count": 5,
+    "next": {
+      "it seemed to": 5
+    }
+  },
+  "seemed to him,": {
+    "count": 2,
+    "next": {
+      "to him, and": 1,
+      "to him, but": 1
+    }
+  },
+  "perceived that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "not know what": {
+    "count": 11,
+    "next": {
+      "know what to": 11
+    }
+  },
+  "But she could": {
+    "count": 4,
+    "next": {
+      "she could not": 4
+    }
+  },
+  "It seemed as": {
+    "count": 3,
+    "next": {
+      "seemed as though": 3
+    }
+  },
+  "service, he said": {
+    "count": 2,
+    "next": {
+      "he said to": 2
+    }
+  },
+  "She could not": {
+    "count": 2,
+    "next": {
+      "could not say": 2
+    }
+  },
+  "but as soon": {
+    "count": 7,
+    "next": {
+      "as soon as": 7
+    }
+  },
+  "He went up": {
+    "count": 11,
+    "next": {
+      "went up to": 11
+    }
+  },
+  "to the fact": {
+    "count": 5,
+    "next": {
+      "the fact that": 5
+    }
+  },
+  "she wanted to": {
+    "count": 2,
+    "next": {
+      "wanted to say": 2
+    }
+  },
+  "but he could": {
+    "count": 16,
+    "next": {
+      "he could not": 16
+    }
+  },
+  "though she could": {
+    "count": 2,
+    "next": {
+      "she could not": 2
+    }
+  },
+  "tell me what": {
+    "count": 2,
+    "next": {
+      "me what I": 2
+    }
+  },
+  "it was a": {
+    "count": 2,
+    "next": {
+      "was a long": 2
+    }
+  },
+  "was a long": {
+    "count": 3,
+    "next": {
+      "a long while": 3
+    }
+  },
+  "lay in the": {
+    "count": 4,
+    "next": {
+      "in the fact": 4
+    }
+  },
+  "in the fact": {
+    "count": 7,
+    "next": {
+      "the fact that": 7
+    }
+  },
+  "way out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "up and went": {
+    "count": 3,
+    "next": {
+      "and went up": 1,
+      "and went out": 2
+    }
+  },
+  "her, and he": {
+    "count": 3,
+    "next": {
+      "and he felt": 1,
+      "and he did": 2
+    }
+  },
+  "what she wanted": {
+    "count": 2,
+    "next": {
+      "she wanted to": 2
+    }
+  },
+  "to say what": {
+    "count": 3,
+    "next": {
+      "say what he": 3
+    }
+  },
+  "and it seemed": {
+    "count": 4,
+    "next": {
+      "it seemed to": 4
+    }
+  },
+  "something, but he": {
+    "count": 3,
+    "next": {
+      "but he could": 2,
+      "but he did": 1
+    }
+  },
+  "the sense that": {
+    "count": 2,
+    "next": {
+      "sense that he": 2
+    }
+  },
+  "sense that he": {
+    "count": 2,
+    "next": {
+      "that he had": 2
+    }
+  },
+  "reason it seemed": {
+    "count": 2,
+    "next": {
+      "it seemed to": 2
+    }
+  },
+  "his mind that": {
+    "count": 4,
+    "next": {
+      "mind that he": 4
+    }
+  },
+  "mind that he": {
+    "count": 2,
+    "next": {
+      "that he had": 2
+    }
+  },
+  "he got up": {
+    "count": 2,
+    "next": {
+      "got up and": 2
+    }
+  },
+  "to his usual": {
+    "count": 2,
+    "next": {
+      "his usual habit,": 2
+    }
+  },
+  "his usual habit,": {
+    "count": 2,
+    "next": {
+      "usual habit, he": 2
+    }
+  },
+  "usual habit, he": {
+    "count": 2,
+    "next": {
+      "habit, he did": 2
+    }
+  },
+  "habit, he did": {
+    "count": 2,
+    "next": {
+      "he did not": 2
+    }
+  },
+  "himself. But he": {
+    "count": 3,
+    "next": {
+      "But he had": 3
+    }
+  },
+  "told himself that": {
+    "count": 3,
+    "next": {
+      "himself that he": 3
+    }
+  },
+  "he told himself": {
+    "count": 2,
+    "next": {
+      "told himself that": 2
+    }
+  },
+  "told him that": {
+    "count": 3,
+    "next": {
+      "him that it": 2,
+      "him that he": 1
+    }
+  },
+  "him that it": {
+    "count": 6,
+    "next": {
+      "that it was": 6
+    }
+  },
+  "and that if": {
+    "count": 2,
+    "next": {
+      "that if she": 2
+    }
+  },
+  "her own seemed": {
+    "count": 2,
+    "next": {
+      "own seemed to": 2
+    }
+  },
+  "own seemed to": {
+    "count": 2,
+    "next": {
+      "seemed to him": 1,
+      "seemed to her": 1
+    }
+  },
+  "Alexey Alexandrovitch said": {
+    "count": 4,
+    "next": {
+      "Alexandrovitch said to": 4
+    }
+  },
+  "Alexandrovitch said to": {
+    "count": 3,
+    "next": {
+      "said to himself,": 3
+    }
+  },
+  "and though he": {
+    "count": 2,
+    "next": {
+      "though he had": 2
+    }
+  },
+  "sense of her": {
+    "count": 3,
+    "next": {
+      "of her own": 3
+    }
+  },
+  "a feeling such": {
+    "count": 2,
+    "next": {
+      "feeling such as": 2
+    }
+  },
+  "it. But he": {
+    "count": 2,
+    "next": {
+      "But he did": 1,
+      "But he had": 1
+    }
+  },
+  "Alexey Alexandrovitch saw": {
+    "count": 4,
+    "next": {
+      "Alexandrovitch saw that": 4
+    }
+  },
+  "her, he felt": {
+    "count": 2,
+    "next": {
+      "he felt that": 2
+    }
+  },
+  "say what he": {
+    "count": 4,
+    "next": {
+      "what he was": 2,
+      "what he had": 2
+    }
+  },
+  "words in which": {
+    "count": 3,
+    "next": {
+      "in which she": 3
+    }
+  },
+  "which she could": {
+    "count": 5,
+    "next": {
+      "she could not": 5
+    }
+  },
+  "felt that it": {
+    "count": 8,
+    "next": {
+      "that it was": 8
+    }
+  },
+  "of the question,": {
+    "count": 2,
+    "next": {
+      "the question, out": 2
+    }
+  },
+  "he came out": {
+    "count": 2,
+    "next": {
+      "came out of": 2
+    }
+  },
+  "him. But he": {
+    "count": 4,
+    "next": {
+      "But he felt": 1,
+      "But he had": 2,
+      "But he did": 1
+    }
+  },
+  "which ought to": {
+    "count": 2,
+    "next": {
+      "ought to have": 2
+    }
+  },
+  "Only I don’t": {
+    "count": 2,
+    "next": {
+      "I don’t know": 2
+    }
+  },
+  "make it up": {
+    "count": 2,
+    "next": {
+      "it up with": 2
+    }
+  },
+  "it up with": {
+    "count": 2,
+    "next": {
+      "up with him,": 2
+    }
+  },
+  "up with him,": {
+    "count": 2,
+    "next": {
+      "with him, and": 2
+    }
+  },
+  "and began talking": {
+    "count": 3,
+    "next": {
+      "began talking to": 3
+    }
+  },
+  "and he tried": {
+    "count": 2,
+    "next": {
+      "he tried to": 2
+    }
+  },
+  "him, which he": {
+    "count": 3,
+    "next": {
+      "which he could": 2,
+      "which he did": 1
+    }
+  },
+  "looked out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "Levin said to": {
+    "count": 4,
+    "next": {
+      "said to himself,": 4
+    }
+  },
+  "in a position": {
+    "count": 2,
+    "next": {
+      "a position in": 2
+    }
+  },
+  "him, but he": {
+    "count": 3,
+    "next": {
+      "but he did": 2,
+      "but he could": 1
+    }
+  },
+  "said that he": {
+    "count": 5,
+    "next": {
+      "that he did": 1,
+      "that he had": 4
+    }
+  },
+  "and he did": {
+    "count": 18,
+    "next": {
+      "he did not": 18
+    }
+  },
+  "love. He felt": {
+    "count": 2,
+    "next": {
+      "He felt that": 2
+    }
+  },
+  "on it, and": {
+    "count": 2,
+    "next": {
+      "it, and he": 2
+    }
+  },
+  "it, and he": {
+    "count": 2,
+    "next": {
+      "and he did": 1,
+      "and he could": 1
+    }
+  },
+  "he walked out": {
+    "count": 2,
+    "next": {
+      "walked out of": 2
+    }
+  },
+  "But he knew": {
+    "count": 2,
+    "next": {
+      "he knew that": 2
+    }
+  },
+  "he went out": {
+    "count": 5,
+    "next": {
+      "went out of": 5
+    }
+  },
+  "right. He felt": {
+    "count": 2,
+    "next": {
+      "He felt that": 2
+    }
+  },
+  "nothing but that": {
+    "count": 2,
+    "next": {
+      "but that he": 2
+    }
+  },
+  "to forgive him": {
+    "count": 2,
+    "next": {
+      "forgive him if": 2
+    }
+  },
+  "forgive him if": {
+    "count": 2,
+    "next": {
+      "him if he": 2
+    }
+  },
+  "but she could": {
+    "count": 6,
+    "next": {
+      "she could not": 6
+    }
+  },
+  "But he did": {
+    "count": 6,
+    "next": {
+      "he did not": 6
+    }
+  },
+  "me. I don’t": {
+    "count": 2,
+    "next": {
+      "I don’t know": 2
+    }
+  },
+  "can’t make out": {
+    "count": 2,
+    "next": {
+      "make out what": 2
+    }
+  },
+  "attention in spite": {
+    "count": 2,
+    "next": {
+      "in spite of": 2
+    }
+  },
+  "did not see": {
+    "count": 2,
+    "next": {
+      "not see and": 2
+    }
+  },
+  "and what he": {
+    "count": 6,
+    "next": {
+      "what he had": 2,
+      "what he ought": 2,
+      "what he was": 2
+    }
+  },
+  "tried to persuade": {
+    "count": 2,
+    "next": {
+      "to persuade himself": 2
+    }
+  },
+  "added, looking out": {
+    "count": 2,
+    "next": {
+      "looking out of": 2
+    }
+  },
+  "held out her": {
+    "count": 2,
+    "next": {
+      "out her hand": 2
+    }
+  },
+  "But as soon": {
+    "count": 6,
+    "next": {
+      "as soon as": 6
+    }
+  },
+  "saw that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he did": 1
+    }
+  },
+  "so he did": {
+    "count": 3,
+    "next": {
+      "he did not": 3
+    }
+  },
+  "Alexandrovitch saw that": {
+    "count": 2,
+    "next": {
+      "saw that she": 1,
+      "saw that it": 1
+    }
+  },
+  "say to him,": {
+    "count": 4,
+    "next": {
+      "to him, and": 3,
+      "to him, but": 1
+    }
+  },
+  "could make out": {
+    "count": 2,
+    "next": {
+      "make out what": 2
+    }
+  },
+  "him and did": {
+    "count": 3,
+    "next": {
+      "and did not": 3
+    }
+  },
+  "In spite of": {
+    "count": 11,
+    "next": {
+      "spite of the": 11
+    }
+  },
+  "began to say": {
+    "count": 2,
+    "next": {
+      "to say what": 1,
+      "to say that": 1
+    }
+  },
+  "He got up": {
+    "count": 5,
+    "next": {
+      "got up and": 5
+    }
+  },
+  "was what he": {
+    "count": 3,
+    "next": {
+      "what he had": 3
+    }
+  },
+  "say that she": {
+    "count": 2,
+    "next": {
+      "that she had": 2
+    }
+  },
+  "She went up": {
+    "count": 5,
+    "next": {
+      "went up to": 5
+    }
+  },
+  "princess went up": {
+    "count": 2,
+    "next": {
+      "went up to": 2
+    }
+  },
+  "heart to you,": {
+    "count": 2,
+    "next": {
+      "to you, she": 2
+    }
+  },
+  "to you, she": {
+    "count": 2,
+    "next": {
+      "you, she said": 2
+    }
+  },
+  "knowing what to": {
+    "count": 2,
+    "next": {
+      "what to say": 2
+    }
+  },
+  "because she did": {
+    "count": 2,
+    "next": {
+      "she did not": 2
+    }
+  },
+  "of a sense": {
+    "count": 3,
+    "next": {
+      "a sense of": 3
+    }
+  },
+  "might have got": {
+    "count": 2,
+    "next": {
+      "have got out": 2
+    }
+  },
+  "have got out": {
+    "count": 2,
+    "next": {
+      "got out of": 2
+    }
+  },
+  "him so that": {
+    "count": 2,
+    "next": {
+      "so that he": 2
+    }
+  },
+  "so that he": {
+    "count": 8,
+    "next": {
+      "that he could": 6,
+      "that he had": 2
+    }
+  },
+  "eyes. He went": {
+    "count": 2,
+    "next": {
+      "He went up": 1,
+      "He went out": 1
+    }
+  },
+  "such as she": {
+    "count": 3,
+    "next": {
+      "as she had": 3
+    }
+  },
+  "it’s a long": {
+    "count": 2,
+    "next": {
+      "a long while": 2
+    }
+  },
+  "and a sense": {
+    "count": 3,
+    "next": {
+      "a sense of": 3
+    }
+  },
+  "liked and did": {
+    "count": 2,
+    "next": {
+      "and did not": 2
+    }
+  },
+  "the people, did": {
+    "count": 2,
+    "next": {
+      "people, did not": 2
+    }
+  },
+  "people, did not": {
+    "count": 2,
+    "next": {
+      "did not see": 1,
+      "did not know": 1
+    }
+  },
+  "him to say": {
+    "count": 2,
+    "next": {
+      "to say what": 1,
+      "to say to": 1
+    }
+  },
+  "when he knew": {
+    "count": 2,
+    "next": {
+      "he knew that": 2
+    }
+  },
+  "Levin went up": {
+    "count": 6,
+    "next": {
+      "went up to": 6
+    }
+  },
+  "to what he": {
+    "count": 5,
+    "next": {
+      "what he was": 3,
+      "what he had": 2
+    }
+  },
+  "that what he": {
+    "count": 3,
+    "next": {
+      "what he had": 2,
+      "what he was": 1
+    }
+  },
+  "don’t see that": {
+    "count": 2,
+    "next": {
+      "see that it": 2
+    }
+  },
+  "see that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "said what he": {
+    "count": 2,
+    "next": {
+      "what he did": 1,
+      "what he had": 1
+    }
+  },
+  "admit that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "but he felt": {
+    "count": 2,
+    "next": {
+      "he felt that": 2
+    }
+  },
+  "he felt he": {
+    "count": 2,
+    "next": {
+      "felt he could": 2
+    }
+  },
+  "soon as he": {
+    "count": 2,
+    "next": {
+      "as he did": 1,
+      "as he came": 1
+    }
+  },
+  "which seemed to": {
+    "count": 3,
+    "next": {
+      "seemed to him": 2,
+      "seemed to Alexey": 1
+    }
+  },
+  "Levin that he": {
+    "count": 2,
+    "next": {
+      "that he had": 2
+    }
+  },
+  "to herself that": {
+    "count": 3,
+    "next": {
+      "herself that she": 3
+    }
+  },
+  "the tears came": {
+    "count": 3,
+    "next": {
+      "tears came into": 3
+    }
+  },
+  "eyes, and she": {
+    "count": 2,
+    "next": {
+      "and she could": 2
+    }
+  },
+  "all seemed to": {
+    "count": 2,
+    "next": {
+      "seemed to her": 1,
+      "seemed to him": 1
+    }
+  },
+  "and tears came": {
+    "count": 4,
+    "next": {
+      "tears came into": 4
+    }
+  },
+  "a position in": {
+    "count": 3,
+    "next": {
+      "position in which": 3
+    }
+  },
+  "not seen for": {
+    "count": 2,
+    "next": {
+      "seen for a": 2
+    }
+  },
+  "seen for a": {
+    "count": 2,
+    "next": {
+      "for a long": 2
+    }
+  },
+  "were to say": {
+    "count": 2,
+    "next": {
+      "to say to": 2
+    }
+  },
+  "tried to say": {
+    "count": 7,
+    "next": {
+      "to say what": 1,
+      "to say something,": 5,
+      "to say that": 1
+    }
+  },
+  "But he could": {
+    "count": 4,
+    "next": {
+      "he could not": 4
+    }
+  },
+  "How am I": {
+    "count": 3,
+    "next": {
+      "am I to": 3
+    }
+  },
+  "He went out": {
+    "count": 2,
+    "next": {
+      "went out of": 2
+    }
+  },
+  "the best way": {
+    "count": 2,
+    "next": {
+      "best way out": 2
+    }
+  },
+  "best way out": {
+    "count": 2,
+    "next": {
+      "way out of": 2
+    }
+  },
+  "it, he said": {
+    "count": 2,
+    "next": {
+      "he said to": 2
+    }
+  },
+  "what I ought": {
+    "count": 3,
+    "next": {
+      "I ought to": 3
+    }
+  },
+  "even if he": {
+    "count": 2,
+    "next": {
+      "if he had": 2
+    }
+  },
+  "it’s out of": {
+    "count": 5,
+    "next": {
+      "out of the": 5
+    }
+  },
+  "the question, out": {
+    "count": 2,
+    "next": {
+      "question, out of": 2
+    }
+  },
+  "question, out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "He tried to": {
+    "count": 3,
+    "next": {
+      "tried to say": 3
+    }
+  },
+  "it. He felt": {
+    "count": 2,
+    "next": {
+      "He felt that": 2
+    }
+  },
+  "when he did": {
+    "count": 2,
+    "next": {
+      "he did not": 2
+    }
+  },
+  "so awful that": {
+    "count": 2,
+    "next": {
+      "awful that she": 2
+    }
+  },
+  "awful that she": {
+    "count": 2,
+    "next": {
+      "that she could": 2
+    }
+  },
+  "which had seemed": {
+    "count": 3,
+    "next": {
+      "had seemed to": 3
+    }
+  },
+  "being turned out": {
+    "count": 2,
+    "next": {
+      "turned out of": 2
+    }
+  },
+  "turned out of": {
+    "count": 3,
+    "next": {
+      "out of the": 3
+    }
+  },
+  "face. She could": {
+    "count": 2,
+    "next": {
+      "She could not": 2
+    }
+  },
+  "him? she said": {
+    "count": 2,
+    "next": {
+      "she said to": 2
+    }
+  },
+  "sat a long": {
+    "count": 2,
+    "next": {
+      "a long while": 2
+    }
+  },
+  "was so awful": {
+    "count": 2,
+    "next": {
+      "so awful that": 2
+    }
+  },
+  "Again she felt": {
+    "count": 2,
+    "next": {
+      "she felt that": 1,
+      "she felt sorry": 1
+    }
+  },
+  "me what I": {
+    "count": 2,
+    "next": {
+      "what I ought": 2
+    }
+  },
+  "And, in spite": {
+    "count": 2,
+    "next": {
+      "in spite of": 2
+    }
+  },
+  "you for a": {
+    "count": 2,
+    "next": {
+      "for a long": 2
+    }
+  },
+  "that if she": {
+    "count": 2,
+    "next": {
+      "if she did": 1,
+      "if she had": 1
+    }
+  },
+  "and shook hands": {
+    "count": 2,
+    "next": {
+      "shook hands with": 2
+    }
+  },
+  "if she did": {
+    "count": 3,
+    "next": {
+      "she did not": 3
+    }
+  },
+  "was essential for": {
+    "count": 2,
+    "next": {
+      "essential for him": 2
+    }
+  },
+  "essential for him": {
+    "count": 2,
+    "next": {
+      "for him to": 2
+    }
+  },
+  "necessary for him": {
+    "count": 2,
+    "next": {
+      "for him to": 2
+    }
+  },
+  "what he ought": {
+    "count": 4,
+    "next": {
+      "he ought to": 4
+    }
+  },
+  "doing what he": {
+    "count": 3,
+    "next": {
+      "what he ought": 1,
+      "what he had": 1,
+      "what he did": 1
+    }
+  },
+  "which he did": {
+    "count": 4,
+    "next": {
+      "he did not": 4
+    }
+  },
+  "once made up": {
+    "count": 2,
+    "next": {
+      "made up his": 2
+    }
+  },
+  "on! he said": {
+    "count": 2,
+    "next": {
+      "he said to": 2
+    }
+  },
+  "putting his head": {
+    "count": 2,
+    "next": {
+      "his head out": 2
+    }
+  },
+  "his head out": {
+    "count": 2,
+    "next": {
+      "head out of": 2
+    }
+  },
+  "head out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "jumped out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "him, and what": {
+    "count": 2,
+    "next": {
+      "and what he": 2
+    }
+  },
+  "and she wanted": {
+    "count": 6,
+    "next": {
+      "she wanted to": 6
+    }
+  },
+  "felt he could": {
+    "count": 2,
+    "next": {
+      "he could not": 2
+    }
+  },
+  "voice that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he could": 1
+    }
+  },
+  "jumped up and": {
+    "count": 2,
+    "next": {
+      "up and went": 2
+    }
+  },
+  "forgotten that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "before, and he": {
+    "count": 3,
+    "next": {
+      "and he got": 1,
+      "and he did": 1,
+      "and he knew": 1
+    }
+  },
+  "and he got": {
+    "count": 2,
+    "next": {
+      "he got up": 2
+    }
+  },
+  "she felt sorry": {
+    "count": 5,
+    "next": {
+      "felt sorry for": 5
+    }
+  },
+  "him. In spite": {
+    "count": 2,
+    "next": {
+      "In spite of": 2
+    }
+  },
+  "(and he could": {
+    "count": 2,
+    "next": {
+      "he could not": 2
+    }
+  },
+  "Levin saw that": {
+    "count": 5,
+    "next": {
+      "saw that he": 4,
+      "saw that she": 1
+    }
+  },
+  "life so that": {
+    "count": 2,
+    "next": {
+      "so that she": 1,
+      "so that it": 1
+    }
+  },
+  "have said to": {
+    "count": 2,
+    "next": {
+      "said to himself,": 1,
+      "said to him,": 1
+    }
+  },
+  "now that he": {
+    "count": 2,
+    "next": {
+      "that he could": 1,
+      "that he ought": 1
+    }
+  },
+  "new to him,": {
+    "count": 2,
+    "next": {
+      "to him, and": 2
+    }
+  },
+  "up out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "found that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "to prove to": {
+    "count": 2,
+    "next": {
+      "prove to him": 2
+    }
+  },
+  "prove to him": {
+    "count": 2,
+    "next": {
+      "to him that": 2
+    }
+  },
+  "arises from the": {
+    "count": 2,
+    "next": {
+      "from the fact": 2
+    }
+  },
+  "get him out": {
+    "count": 2,
+    "next": {
+      "him out of": 2
+    }
+  },
+  "And it seemed": {
+    "count": 3,
+    "next": {
+      "it seemed to": 3
+    }
+  },
+  "to have said": {
+    "count": 2,
+    "next": {
+      "have said to": 2
+    }
+  },
+  "in what he": {
+    "count": 2,
+    "next": {
+      "what he did": 1,
+      "what he was": 1
+    }
+  },
+  "out what he": {
+    "count": 2,
+    "next": {
+      "what he had": 2
+    }
+  },
+  "him, and went": {
+    "count": 2,
+    "next": {
+      "and went out": 2
+    }
+  },
+  "her and did": {
+    "count": 2,
+    "next": {
+      "and did not": 2
+    }
+  },
+  "long while he": {
+    "count": 7,
+    "next": {
+      "while he could": 7
+    }
+  },
+  "while he could": {
+    "count": 6,
+    "next": {
+      "he could not": 6
+    }
+  },
+  "do what he": {
+    "count": 2,
+    "next": {
+      "what he had": 1,
+      "what he was": 1
+    }
+  },
+  "saw that it": {
+    "count": 4,
+    "next": {
+      "that it was": 4
+    }
+  },
+  "saw it was": {
+    "count": 2,
+    "next": {
+      "it was a": 2
+    }
+  },
+  "going to say": {
+    "count": 2,
+    "next": {
+      "to say that": 1,
+      "to say to": 1
+    }
+  },
+  "was utterly unlike": {
+    "count": 2,
+    "next": {
+      "utterly unlike what": 2
+    }
+  },
+  "that moment it": {
+    "count": 2,
+    "next": {
+      "moment it seemed": 2
+    }
+  },
+  "moment it seemed": {
+    "count": 2,
+    "next": {
+      "it seemed to": 2
+    }
+  },
+  "anger with his": {
+    "count": 2,
+    "next": {
+      "with his wife,": 2
+    }
+  },
+  "Alexey Alexandrovitch that": {
+    "count": 3,
+    "next": {
+      "Alexandrovitch that he": 3
+    }
+  },
+  "Alexandrovitch that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he did": 1
+    }
+  },
+  "her, he went": {
+    "count": 2,
+    "next": {
+      "he went out": 2
+    }
+  },
+  "detection in the": {
+    "count": 2,
+    "next": {
+      "in the fact": 2
+    }
+  },
+  "and getting out": {
+    "count": 2,
+    "next": {
+      "getting out of": 2
+    }
+  },
+  "explaining that he": {
+    "count": 2,
+    "next": {
+      "that he could": 1,
+      "that he had": 1
+    }
+  },
+  "and the fact": {
+    "count": 3,
+    "next": {
+      "the fact that": 3
+    }
+  },
+  "to persuade himself": {
+    "count": 2,
+    "next": {
+      "persuade himself that": 2
+    }
+  },
+  "persuade himself that": {
+    "count": 2,
+    "next": {
+      "himself that he": 2
+    }
+  },
+  "women, and that": {
+    "count": 2,
+    "next": {
+      "and that it": 1,
+      "and that she": 1
+    }
+  },
+  "For a long": {
+    "count": 7,
+    "next": {
+      "a long while": 7
+    }
+  },
+  "forget what he": {
+    "count": 2,
+    "next": {
+      "what he had": 1,
+      "what he did": 1
+    }
+  },
+  "so out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "And Levin saw": {
+    "count": 2,
+    "next": {
+      "Levin saw that": 2
+    }
+  },
+  "and Levin felt": {
+    "count": 2,
+    "next": {
+      "Levin felt that": 2
+    }
+  },
+  "her, he had": {
+    "count": 2,
+    "next": {
+      "he had not": 2
+    }
+  },
+  "annoyed that he": {
+    "count": 2,
+    "next": {
+      "that he had": 2
+    }
+  },
+  "He jumped up": {
+    "count": 2,
+    "next": {
+      "jumped up and": 2
+    }
+  },
+  "say something, but": {
+    "count": 2,
+    "next": {
+      "something, but he": 2
+    }
+  },
+  "He suddenly felt": {
+    "count": 2,
+    "next": {
+      "suddenly felt that": 2
+    }
+  },
+  "now seemed to": {
+    "count": 2,
+    "next": {
+      "seemed to him,": 1,
+      "seemed to him": 1
+    }
+  },
+  "seemed to Alexey": {
+    "count": 3,
+    "next": {
+      "to Alexey Alexandrovitch": 3
+    }
+  },
+  "and not knowing": {
+    "count": 2,
+    "next": {
+      "not knowing what": 2
+    }
+  },
+  "simply because it": {
+    "count": 2,
+    "next": {
+      "because it seemed": 2
+    }
+  },
+  "because it seemed": {
+    "count": 2,
+    "next": {
+      "it seemed to": 2
+    }
+  },
+  "of getting out": {
+    "count": 2,
+    "next": {
+      "getting out of": 2
+    }
+  },
+  "When he went": {
+    "count": 2,
+    "next": {
+      "he went out": 1,
+      "he went up": 1
+    }
+  },
+  "thing he could": {
+    "count": 2,
+    "next": {
+      "he could not": 2
+    }
+  },
+  "of happiness that": {
+    "count": 2,
+    "next": {
+      "happiness that he": 2
+    }
+  },
+  "happiness that he": {
+    "count": 2,
+    "next": {
+      "that he had": 1,
+      "that he could": 1
+    }
+  },
+  "And she could": {
+    "count": 3,
+    "next": {
+      "she could not": 3
+    }
+  },
+  "it was out": {
+    "count": 2,
+    "next": {
+      "was out of": 2
+    }
+  },
+  "And this seemed": {
+    "count": 2,
+    "next": {
+      "this seemed to": 2
+    }
+  },
+  "her. She did": {
+    "count": 4,
+    "next": {
+      "She did not": 4
+    }
+  },
+  "room, she said": {
+    "count": 2,
+    "next": {
+      "she said to": 2
+    }
+  },
+  "him. It seemed": {
+    "count": 2,
+    "next": {
+      "It seemed to": 2
+    }
+  },
+  "found, but it": {
+    "count": 2,
+    "next": {
+      "but it was": 2
+    }
+  },
+  "does not know": {
+    "count": 2,
+    "next": {
+      "not know what": 2
+    }
+  },
+  "gazed a long": {
+    "count": 2,
+    "next": {
+      "a long while": 2
+    }
+  },
+  "from what he": {
+    "count": 3,
+    "next": {
+      "what he was": 1,
+      "what he had": 2
+    }
+  },
+  "one, and that": {
+    "count": 2,
+    "next": {
+      "and that it": 2
+    }
+  },
+  "second he felt": {
+    "count": 3,
+    "next": {
+      "he felt that": 3
+    }
+  },
+  "not for a": {
+    "count": 2,
+    "next": {
+      "for a long": 2
+    }
+  },
+  "ideas seemed to": {
+    "count": 2,
+    "next": {
+      "seemed to him": 2
+    }
+  },
+  "by the thought": {
+    "count": 2,
+    "next": {
+      "the thought that": 2
+    }
+  },
+  "was so out": {
+    "count": 2,
+    "next": {
+      "so out of": 2
+    }
+  },
+  "not see and": {
+    "count": 2,
+    "next": {
+      "see and did": 2
+    }
+  },
+  "see and did": {
+    "count": 2,
+    "next": {
+      "and did not": 2
+    }
+  },
+  "was and what": {
+    "count": 2,
+    "next": {
+      "and what he": 2
+    }
+  },
+  "but I did": {
+    "count": 2,
+    "next": {
+      "I did not": 2
+    }
+  },
+  "was the fact": {
+    "count": 3,
+    "next": {
+      "the fact that": 3
+    }
+  },
+  "for what he": {
+    "count": 2,
+    "next": {
+      "what he was": 2
+    }
+  },
+  "sat for a": {
+    "count": 2,
+    "next": {
+      "for a long": 2
+    }
+  },
+  "him. He felt": {
+    "count": 2,
+    "next": {
+      "He felt that": 2
+    }
+  },
+  "But the fact": {
+    "count": 2,
+    "next": {
+      "the fact that": 2
+    }
+  },
+  "close up to": {
+    "count": 2,
+    "next": {
+      "up to her,": 1,
+      "up to him,": 1
+    }
+  },
+  "by which she": {
+    "count": 2,
+    "next": {
+      "which she had": 2
+    }
+  },
+  "ran out of": {
+    "count": 3,
+    "next": {
+      "out of the": 3
+    }
+  },
+  "the words in": {
+    "count": 3,
+    "next": {
+      "words in which": 3
+    }
+  },
+  "something I want": {
+    "count": 3,
+    "next": {
+      "I want to": 3
+    }
+  },
+  "that it’s out": {
+    "count": 2,
+    "next": {
+      "it’s out of": 2
+    }
+  },
+  "And though he": {
+    "count": 2,
+    "next": {
+      "though he had": 2
+    }
+  },
+  "was nothing out": {
+    "count": 2,
+    "next": {
+      "nothing out of": 2
+    }
+  },
+  "he was out": {
+    "count": 2,
+    "next": {
+      "was out of": 2
+    }
+  },
+  "now that it": {
+    "count": 2,
+    "next": {
+      "that it was": 2
+    }
+  },
+  "to admit that": {
+    "count": 2,
+    "next": {
+      "admit that it": 2
+    }
+  },
+  "Where am I": {
+    "count": 2,
+    "next": {
+      "am I to": 2
+    }
+  },
+  "knowledge of what": {
+    "count": 2,
+    "next": {
+      "of what he": 2
+    }
+  },
+  "talking to him,": {
+    "count": 2,
+    "next": {
+      "to him, but": 1,
+      "to him, and": 1
+    }
+  },
+  "was there for": {
+    "count": 2,
+    "next": {
+      "there for him": 2
+    }
+  },
+  "there for him": {
+    "count": 2,
+    "next": {
+      "for him to": 2
+    }
+  },
+  "now she could": {
+    "count": 2,
+    "next": {
+      "she could not": 2
+    }
+  },
+  "and looking out": {
+    "count": 2,
+    "next": {
+      "looking out of": 2
+    }
+  },
+  "and of what": {
+    "count": 2,
+    "next": {
+      "of what he": 2
+    }
+  },
+  "driving out of": {
+    "count": 2,
+    "next": {
+      "out of the": 2
+    }
+  },
+  "he jumped up": {
+    "count": 2,
+    "next": {
+      "jumped up and": 2
+    }
+  },
+  "he was and": {
+    "count": 2,
+    "next": {
+      "was and what": 2
+    }
+  }
+}

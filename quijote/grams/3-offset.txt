@@ -1,0 +1,4524 @@
+{
+  "escribano de Cámara": {
+    "count": 2,
+    "next": {
+      "de Cámara del": 2
+    }
+  },
+  "de Cámara del": {
+    "count": 2,
+    "next": {
+      "Cámara del Rey": 2
+    }
+  },
+  "Cámara del Rey": {
+    "count": 2,
+    "next": {
+      "del Rey nuestro": 2
+    }
+  },
+  "del Rey nuestro": {
+    "count": 2,
+    "next": {
+      "Rey nuestro señor,": 2
+    }
+  },
+  "Rey nuestro señor,": {
+    "count": 2,
+    "next": {
+      "nuestro señor, de": 2
+    }
+  },
+  "nuestro señor, de": {
+    "count": 2,
+    "next": {
+      "señor, de los": 2
+    }
+  },
+  "señor, de los": {
+    "count": 2,
+    "next": {
+      "de los que": 2
+    }
+  },
+  "de los que": {
+    "count": 4,
+    "next": {
+      "los que en": 4
+    }
+  },
+  "visto por los": {
+    "count": 2,
+    "next": {
+      "por los del": 2
+    }
+  },
+  "el dicho libro": {
+    "count": 2,
+    "next": {
+      "dicho libro esté": 2
+    }
+  },
+  "en que se": {
+    "count": 2,
+    "next": {
+      "que se había": 2
+    }
+  },
+  "o como la": {
+    "count": 2,
+    "next": {
+      "como la nuestra": 2
+    }
+  },
+  "como la nuestra": {
+    "count": 2,
+    "next": {
+      "la nuestra merced": 2
+    }
+  },
+  "la nuestra merced": {
+    "count": 2,
+    "next": {
+      "nuestra merced fuese;": 2
+    }
+  },
+  "nuestra merced fuese;": {
+    "count": 2,
+    "next": {
+      "merced fuese; lo": 2
+    }
+  },
+  "merced fuese; lo": {
+    "count": 2,
+    "next": {
+      "fuese; lo cual": 2
+    }
+  },
+  "fuese; lo cual": {
+    "count": 2,
+    "next": {
+      "lo cual visto": 2
+    }
+  },
+  "lo cual visto": {
+    "count": 14,
+    "next": {
+      "cual visto por": 14
+    }
+  },
+  "cual visto por": {
+    "count": 3,
+    "next": {
+      "visto por los": 3
+    }
+  },
+  "por los del": {
+    "count": 4,
+    "next": {
+      "los del nuestro": 4
+    }
+  },
+  "los del nuestro": {
+    "count": 5,
+    "next": {
+      "del nuestro Consejo,": 5
+    }
+  },
+  "del nuestro Consejo,": {
+    "count": 2,
+    "next": {
+      "nuestro Consejo, por": 2
+    }
+  },
+  "nuestro Consejo, por": {
+    "count": 2,
+    "next": {
+      "Consejo, por cuanto": 2
+    }
+  },
+  "Consejo, por cuanto": {
+    "count": 2,
+    "next": {
+      "por cuanto en": 2
+    }
+  },
+  "por cuanto en": {
+    "count": 2,
+    "next": {
+      "cuanto en el": 2
+    }
+  },
+  "cuanto en el": {
+    "count": 2,
+    "next": {
+      "en el dicho": 2
+    }
+  },
+  "en el dicho": {
+    "count": 2,
+    "next": {
+      "el dicho libro": 2
+    }
+  },
+  "cual dicha pena": {
+    "count": 2,
+    "next": {
+      "dicha pena sea": 2
+    }
+  },
+  "dicha pena sea": {
+    "count": 2,
+    "next": {
+      "pena sea la": 2
+    }
+  },
+  "pena sea la": {
+    "count": 2,
+    "next": {
+      "sea la tercia": 2
+    }
+  },
+  "sea la tercia": {
+    "count": 2,
+    "next": {
+      "la tercia parte": 2
+    }
+  },
+  "la tercia parte": {
+    "count": 2,
+    "next": {
+      "tercia parte para": 2
+    }
+  },
+  "tercia parte para": {
+    "count": 2,
+    "next": {
+      "parte para nuestra": 2
+    }
+  },
+  "y la otra": {
+    "count": 4,
+    "next": {
+      "la otra tercia": 4
+    }
+  },
+  "la otra tercia": {
+    "count": 4,
+    "next": {
+      "otra tercia parte": 4
+    }
+  },
+  "otra tercia parte": {
+    "count": 3,
+    "next": {
+      "tercia parte para": 3
+    }
+  },
+  "parte para nuestra": {
+    "count": 2,
+    "next": {
+      "para nuestra Cámara,": 2
+    }
+  },
+  "para nuestra Cámara,": {
+    "count": 2,
+    "next": {
+      "nuestra Cámara, y": 2
+    }
+  },
+  "nuestra Cámara, y": {
+    "count": 2,
+    "next": {
+      "Cámara, y la": 2
+    }
+  },
+  "Cámara, y la": {
+    "count": 2,
+    "next": {
+      "y la otra": 2
+    }
+  },
+  "los que en": {
+    "count": 5,
+    "next": {
+      "que en la": 4,
+      "que en el": 1
+    }
+  },
+  "de la dicha": {
+    "count": 2,
+    "next": {
+      "la dicha correción": 2
+    }
+  },
+  "la dicha correción": {
+    "count": 2,
+    "next": {
+      "dicha correción y": 2
+    }
+  },
+  "dicha correción y": {
+    "count": 2,
+    "next": {
+      "correción y tasa,": 2
+    }
+  },
+  "correción y tasa,": {
+    "count": 2,
+    "next": {
+      "y tasa, hasta": 2
+    }
+  },
+  "y tasa, hasta": {
+    "count": 2,
+    "next": {
+      "tasa, hasta que": 2
+    }
+  },
+  "tasa, hasta que": {
+    "count": 2,
+    "next": {
+      "hasta que antes": 2
+    }
+  },
+  "hasta que antes": {
+    "count": 2,
+    "next": {
+      "que antes y": 2
+    }
+  },
+  "que antes y": {
+    "count": 3,
+    "next": {
+      "antes y primero": 3
+    }
+  },
+  "antes y primero": {
+    "count": 2,
+    "next": {
+      "y primero el": 2
+    }
+  },
+  "y primero el": {
+    "count": 2,
+    "next": {
+      "primero el dicho": 2
+    }
+  },
+  "primero el dicho": {
+    "count": 2,
+    "next": {
+      "el dicho libro": 2
+    }
+  },
+  "dicho libro esté": {
+    "count": 2,
+    "next": {
+      "libro esté corregido": 2
+    }
+  },
+  "libro esté corregido": {
+    "count": 2,
+    "next": {
+      "esté corregido y": 2
+    }
+  },
+  "esté corregido y": {
+    "count": 2,
+    "next": {
+      "corregido y tasado": 2
+    }
+  },
+  "corregido y tasado": {
+    "count": 2,
+    "next": {
+      "y tasado por": 2
+    }
+  },
+  "y tasado por": {
+    "count": 2,
+    "next": {
+      "tasado por los": 2
+    }
+  },
+  "tasado por los": {
+    "count": 2,
+    "next": {
+      "por los del": 2
+    }
+  },
+  "so pena de": {
+    "count": 4,
+    "next": {
+      "pena de caer": 4
+    }
+  },
+  "pena de caer": {
+    "count": 2,
+    "next": {
+      "de caer en": 2
+    }
+  },
+  "a los del": {
+    "count": 2,
+    "next": {
+      "los del nuestro": 2
+    }
+  },
+  "años. YO, EL": {
+    "count": 2,
+    "next": {
+      "YO, EL REY.": 2
+    }
+  },
+  "YO, EL REY.": {
+    "count": 2,
+    "next": {
+      "EL REY. Por": 2
+    }
+  },
+  "EL REY. Por": {
+    "count": 2,
+    "next": {
+      "REY. Por mandado": 2
+    }
+  },
+  "REY. Por mandado": {
+    "count": 2,
+    "next": {
+      "Por mandado del": 2
+    }
+  },
+  "Por mandado del": {
+    "count": 2,
+    "next": {
+      "mandado del Rey": 2
+    }
+  },
+  "mandado del Rey": {
+    "count": 2,
+    "next": {
+      "del Rey nuestro": 2
+    }
+  },
+  "que a su": {
+    "count": 2,
+    "next": {
+      "a su padre": 1,
+      "a su señor": 1
+    }
+  },
+  "la historia de": {
+    "count": 6,
+    "next": {
+      "historia de don": 6
+    }
+  },
+  "para que no": {
+    "count": 4,
+    "next": {
+      "que no se": 1,
+      "que no me": 3
+    }
+  },
+  "Todo lo cual": {
+    "count": 3,
+    "next": {
+      "lo cual visto": 3
+    }
+  },
+  "de la historia": {
+    "count": 7,
+    "next": {
+      "la historia de": 7
+    }
+  },
+  "que había de": {
+    "count": 9,
+    "next": {
+      "había de hacer": 9
+    }
+  },
+  "había de hacer": {
+    "count": 2,
+    "next": {
+      "de hacer lo": 2
+    }
+  },
+  "historia de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "de don Quijote,": {
+    "count": 37,
+    "next": {
+      "don Quijote, y": 19,
+      "don Quijote, que": 13,
+      "don Quijote, el": 4,
+      "don Quijote, se": 1
+    }
+  },
+  "don Quijote, y": {
+    "count": 8,
+    "next": {
+      "Quijote, y que": 4,
+      "Quijote, y el": 4
+    }
+  },
+  "Quijote, y que": {
+    "count": 2,
+    "next": {
+      "y que no": 2
+    }
+  },
+  "las hazañas de": {
+    "count": 3,
+    "next": {
+      "hazañas de don": 3
+    }
+  },
+  "que no me": {
+    "count": 3,
+    "next": {
+      "no me parece": 3
+    }
+  },
+  "que el señor": {
+    "count": 9,
+    "next": {
+      "el señor don": 9
+    }
+  },
+  "el señor don": {
+    "count": 3,
+    "next": {
+      "señor don Quijote,": 3
+    }
+  },
+  "si es verdad": {
+    "count": 4,
+    "next": {
+      "es verdad lo": 4
+    }
+  },
+  "es verdad lo": {
+    "count": 7,
+    "next": {
+      "verdad lo que": 7
+    }
+  },
+  "verdad lo que": {
+    "count": 2,
+    "next": {
+      "lo que en": 1,
+      "lo que a": 1
+    }
+  },
+  "lo que me": {
+    "count": 2,
+    "next": {
+      "que me parece": 2
+    }
+  },
+  "todo lo que": {
+    "count": 14,
+    "next": {
+      "lo que me": 2,
+      "lo que había": 5,
+      "lo que a": 1,
+      "lo que el": 1,
+      "lo que en": 5
+    }
+  },
+  "y el más": {
+    "count": 2,
+    "next": {
+      "el más valiente": 2
+    }
+  },
+  "que en el": {
+    "count": 2,
+    "next": {
+      "en el discurso": 1,
+      "en el aposento": 1
+    }
+  },
+  "que, puesto que": {
+    "count": 3,
+    "next": {
+      "puesto que no": 3
+    }
+  },
+  "Y más, que": {
+    "count": 2,
+    "next": {
+      "más, que podría": 2
+    }
+  },
+  "la cuenta de": {
+    "count": 6,
+    "next": {
+      "cuenta de lo": 6
+    }
+  },
+  "en lo que": {
+    "count": 8,
+    "next": {
+      "lo que no": 2,
+      "lo que había": 4,
+      "lo que me": 2
+    }
+  },
+  "en todo lo": {
+    "count": 7,
+    "next": {
+      "todo lo que": 7
+    }
+  },
+  "el más valiente": {
+    "count": 2,
+    "next": {
+      "más valiente y": 2
+    }
+  },
+  "que en la": {
+    "count": 5,
+    "next": {
+      "en la primera": 3,
+      "en la casa": 2
+    }
+  },
+  "que, en lo": {
+    "count": 3,
+    "next": {
+      "en lo que": 3
+    }
+  },
+  "lo que no": {
+    "count": 3,
+    "next": {
+      "que no se": 2,
+      "que no sé": 1
+    }
+  },
+  "más que en": {
+    "count": 2,
+    "next": {
+      "que en el": 1,
+      "que en la": 1
+    }
+  },
+  "Que trata de": {
+    "count": 4,
+    "next": {
+      "trata de lo": 4
+    }
+  },
+  "y los días": {
+    "count": 2,
+    "next": {
+      "los días de": 2
+    }
+  },
+  "los días de": {
+    "count": 10,
+    "next": {
+      "días de su": 10
+    }
+  },
+  "que a mi": {
+    "count": 2,
+    "next": {
+      "a mi señor": 2
+    }
+  },
+  "que no se": {
+    "count": 2,
+    "next": {
+      "no se había": 2
+    }
+  },
+  "con el cura": {
+    "count": 2,
+    "next": {
+      "el cura y": 2
+    }
+  },
+  "y que en": {
+    "count": 4,
+    "next": {
+      "que en el": 3,
+      "que en todo": 1
+    }
+  },
+  "y aun a": {
+    "count": 3,
+    "next": {
+      "aun a todos": 3
+    }
+  },
+  "a su sobrina": {
+    "count": 3,
+    "next": {
+      "su sobrina y": 3
+    }
+  },
+  "lo que había": {
+    "count": 10,
+    "next": {
+      "que había de": 10
+    }
+  },
+  "y lo que": {
+    "count": 3,
+    "next": {
+      "lo que en": 1,
+      "lo que no": 1,
+      "lo que me": 1
+    }
+  },
+  "de lo que": {
+    "count": 26,
+    "next": {
+      "lo que había": 7,
+      "lo que no": 3,
+      "lo que me": 6,
+      "lo que el": 4,
+      "lo que en": 4,
+      "lo que a": 2
+    }
+  },
+  "de todos los": {
+    "count": 3,
+    "next": {
+      "todos los que": 3
+    }
+  },
+  "a lo que": {
+    "count": 9,
+    "next": {
+      "lo que había": 1,
+      "lo que me": 2,
+      "lo que a": 3,
+      "lo que el": 3
+    }
+  },
+  "a él y": {
+    "count": 4,
+    "next": {
+      "él y a": 4
+    }
+  },
+  "él y a": {
+    "count": 2,
+    "next": {
+      "y a su": 1,
+      "y a todos": 1
+    }
+  },
+  "Capítulo II. Que": {
+    "count": 2,
+    "next": {
+      "II. Que trata": 2
+    }
+  },
+  "II. Que trata": {
+    "count": 2,
+    "next": {
+      "Que trata de": 2
+    }
+  },
+  "era uno de": {
+    "count": 5,
+    "next": {
+      "uno de los": 5
+    }
+  },
+  "uno de los": {
+    "count": 12,
+    "next": {
+      "de los que": 11,
+      "de los cristianos": 1
+    }
+  },
+  "se llegó a": {
+    "count": 2,
+    "next": {
+      "llegó a él": 2
+    }
+  },
+  "le dijo: -Si": {
+    "count": 2,
+    "next": {
+      "dijo: -Si vuestra": 2
+    }
+  },
+  "dijo: -Si vuestra": {
+    "count": 2,
+    "next": {
+      "-Si vuestra merced,": 2
+    }
+  },
+  "-Si vuestra merced,": {
+    "count": 2,
+    "next": {
+      "vuestra merced, señor": 2
+    }
+  },
+  "vuestra merced, señor": {
+    "count": 19,
+    "next": {
+      "merced, señor don": 19
+    }
+  },
+  "a don Quijote,": {
+    "count": 29,
+    "next": {
+      "don Quijote, el": 7,
+      "don Quijote, y": 8,
+      "don Quijote, que": 11,
+      "don Quijote, se": 3
+    }
+  },
+  "don Quijote, el": {
+    "count": 2,
+    "next": {
+      "Quijote, el cura": 2
+    }
+  },
+  "que en todo": {
+    "count": 4,
+    "next": {
+      "en todo el": 4
+    }
+  },
+  "no se había": {
+    "count": 2,
+    "next": {
+      "se había de": 2
+    }
+  },
+  "volvió a ver": {
+    "count": 2,
+    "next": {
+      "a ver lo": 2
+    }
+  },
+  "a ver lo": {
+    "count": 10,
+    "next": {
+      "ver lo que": 10
+    }
+  },
+  "ver lo que": {
+    "count": 3,
+    "next": {
+      "lo que el": 2,
+      "lo que en": 1
+    }
+  },
+  "puesto que no": {
+    "count": 3,
+    "next": {
+      "que no me": 2,
+      "que no sé": 1
+    }
+  },
+  "yo -respondió don": {
+    "count": 3,
+    "next": {
+      "-respondió don Quijote-": 3
+    }
+  },
+  "porque, a lo": {
+    "count": 2,
+    "next": {
+      "a lo que": 2
+    }
+  },
+  "más, que podría": {
+    "count": 2,
+    "next": {
+      "que podría ser": 2
+    }
+  },
+  "que podría ser": {
+    "count": 6,
+    "next": {
+      "podría ser que": 6
+    }
+  },
+  "podría ser que": {
+    "count": 3,
+    "next": {
+      "ser que en": 3
+    }
+  },
+  "y que el": {
+    "count": 3,
+    "next": {
+      "que el señor": 3
+    }
+  },
+  "señor mío -respondió": {
+    "count": 4,
+    "next": {
+      "mío -respondió Sancho-,": 4
+    }
+  },
+  "que, a lo": {
+    "count": 15,
+    "next": {
+      "a lo que": 15
+    }
+  },
+  "a todos los": {
+    "count": 14,
+    "next": {
+      "todos los que": 14
+    }
+  },
+  "que en las": {
+    "count": 2,
+    "next": {
+      "en las manos": 1,
+      "en las razones": 1
+    }
+  },
+  "se había de": {
+    "count": 3,
+    "next": {
+      "había de hacer": 3
+    }
+  },
+  "que todos los": {
+    "count": 5,
+    "next": {
+      "todos los que": 5
+    }
+  },
+  "por lo que": {
+    "count": 2,
+    "next": {
+      "lo que a": 2
+    }
+  },
+  "que, en tanto": {
+    "count": 5,
+    "next": {
+      "en tanto que": 5
+    }
+  },
+  "en tanto que": {
+    "count": 3,
+    "next": {
+      "tanto que el": 3
+    }
+  },
+  "de hacer lo": {
+    "count": 11,
+    "next": {
+      "hacer lo que": 11
+    }
+  },
+  "hacer lo que": {
+    "count": 4,
+    "next": {
+      "lo que me": 1,
+      "lo que en": 1,
+      "lo que no": 2
+    }
+  },
+  "la locura de": {
+    "count": 6,
+    "next": {
+      "locura de don": 6
+    }
+  },
+  "a uno de": {
+    "count": 4,
+    "next": {
+      "uno de los": 4
+    }
+  },
+  "armas de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "don Quijote, que": {
+    "count": 2,
+    "next": {
+      "Quijote, que todo": 2
+    }
+  },
+  "Lo cual visto": {
+    "count": 6,
+    "next": {
+      "cual visto por": 6
+    }
+  },
+  "piedras sobre don": {
+    "count": 2,
+    "next": {
+      "sobre don Quijote,": 2
+    }
+  },
+  "sobre don Quijote,": {
+    "count": 3,
+    "next": {
+      "don Quijote, el": 1,
+      "don Quijote, que": 1,
+      "don Quijote, y": 1
+    }
+  },
+  "cumplido con lo": {
+    "count": 3,
+    "next": {
+      "con lo que": 3
+    }
+  },
+  "con lo que": {
+    "count": 6,
+    "next": {
+      "lo que a": 4,
+      "lo que el": 2
+    }
+  },
+  "a vuestra merced": {
+    "count": 8,
+    "next": {
+      "vuestra merced que": 8
+    }
+  },
+  "alguna parte de": {
+    "count": 2,
+    "next": {
+      "parte de la": 2
+    }
+  },
+  "parte de la": {
+    "count": 4,
+    "next": {
+      "de la historia": 4
+    }
+  },
+  "De lo que": {
+    "count": 2,
+    "next": {
+      "lo que el": 1,
+      "lo que a": 1
+    }
+  },
+  "cumplir con lo": {
+    "count": 3,
+    "next": {
+      "con lo que": 3
+    }
+  },
+  "que era el": {
+    "count": 5,
+    "next": {
+      "era el que": 5
+    }
+  },
+  "era el que": {
+    "count": 2,
+    "next": {
+      "el que había": 2
+    }
+  },
+  "-Mire vuestra merced,": {
+    "count": 2,
+    "next": {
+      "vuestra merced, señor": 2
+    }
+  },
+  "punto por punto": {
+    "count": 2,
+    "next": {
+      "por punto lo": 2
+    }
+  },
+  "por punto lo": {
+    "count": 2,
+    "next": {
+      "punto lo que": 2
+    }
+  },
+  "punto lo que": {
+    "count": 2,
+    "next": {
+      "lo que había": 1,
+      "lo que me": 1
+    }
+  },
+  "y, cuando llegaron": {
+    "count": 2,
+    "next": {
+      "cuando llegaron a": 2
+    }
+  },
+  "cuando llegaron a": {
+    "count": 2,
+    "next": {
+      "llegaron a la": 2
+    }
+  },
+  "suplico a vuestra": {
+    "count": 6,
+    "next": {
+      "a vuestra merced,": 4,
+      "a vuestra merced": 2
+    }
+  },
+  "a vuestra merced,": {
+    "count": 5,
+    "next": {
+      "vuestra merced, señor": 5
+    }
+  },
+  "al cielo y": {
+    "count": 3,
+    "next": {
+      "cielo y a": 3
+    }
+  },
+  "cielo y a": {
+    "count": 2,
+    "next": {
+      "y a todos": 1,
+      "y a los": 1
+    }
+  },
+  "y a los": {
+    "count": 3,
+    "next": {
+      "a los pies": 1,
+      "a los ojos": 1,
+      "a los del": 1
+    }
+  },
+  "llegó a él": {
+    "count": 2,
+    "next": {
+      "a él y": 2
+    }
+  },
+  "de modo que": {
+    "count": 5,
+    "next": {
+      "modo que no": 5
+    }
+  },
+  "merced, señor don": {
+    "count": 15,
+    "next": {
+      "señor don Quijote,": 15
+    }
+  },
+  "y sé que": {
+    "count": 3,
+    "next": {
+      "sé que es": 3
+    }
+  },
+  "entró en el": {
+    "count": 3,
+    "next": {
+      "en el aposento": 3
+    }
+  },
+  "en la casa": {
+    "count": 4,
+    "next": {
+      "la casa de": 4
+    }
+  },
+  "la casa de": {
+    "count": 8,
+    "next": {
+      "casa de don": 8
+    }
+  },
+  "casa de don": {
+    "count": 4,
+    "next": {
+      "de don Quijote,": 4
+    }
+  },
+  "el cura y": {
+    "count": 24,
+    "next": {
+      "cura y el": 24
+    }
+  },
+  "cura y el": {
+    "count": 14,
+    "next": {
+      "y el barbero": 14
+    }
+  },
+  "y el barbero": {
+    "count": 6,
+    "next": {
+      "el barbero se": 6
+    }
+  },
+  "le parece a": {
+    "count": 3,
+    "next": {
+      "parece a vuestra": 3
+    }
+  },
+  "parece a vuestra": {
+    "count": 3,
+    "next": {
+      "a vuestra merced,": 2,
+      "a vuestra merced": 1
+    }
+  },
+  "a mi señor": {
+    "count": 5,
+    "next": {
+      "mi señor don": 5
+    }
+  },
+  "de mi señor": {
+    "count": 2,
+    "next": {
+      "mi señor don": 2
+    }
+  },
+  "y a fee": {
+    "count": 2,
+    "next": {
+      "a fee que": 2
+    }
+  },
+  "a fee que": {
+    "count": 4,
+    "next": {
+      "fee que no": 4
+    }
+  },
+  "fee que no": {
+    "count": 2,
+    "next": {
+      "que no se": 2
+    }
+  },
+  "y don Quijote,": {
+    "count": 3,
+    "next": {
+      "don Quijote, que": 1,
+      "don Quijote, y": 1,
+      "don Quijote, se": 1
+    }
+  },
+  "que aún no": {
+    "count": 2,
+    "next": {
+      "aún no se": 2
+    }
+  },
+  "aún no se": {
+    "count": 4,
+    "next": {
+      "no se había": 4
+    }
+  },
+  "en gran parte": {
+    "count": 3,
+    "next": {
+      "gran parte de": 3
+    }
+  },
+  "gran parte de": {
+    "count": 6,
+    "next": {
+      "parte de la": 6
+    }
+  },
+  "y el cura": {
+    "count": 4,
+    "next": {
+      "el cura y": 4
+    }
+  },
+  "del modo que": {
+    "count": 2,
+    "next": {
+      "modo que había": 2
+    }
+  },
+  "modo que había": {
+    "count": 2,
+    "next": {
+      "que había de": 2
+    }
+  },
+  "a casa de": {
+    "count": 4,
+    "next": {
+      "casa de don": 4
+    }
+  },
+  "que el cura": {
+    "count": 5,
+    "next": {
+      "el cura y": 5
+    }
+  },
+  "de muy buena": {
+    "count": 7,
+    "next": {
+      "muy buena gana,": 7
+    }
+  },
+  "en las manos": {
+    "count": 2,
+    "next": {
+      "las manos a": 2
+    }
+  },
+  "y todos los": {
+    "count": 3,
+    "next": {
+      "todos los que": 3
+    }
+  },
+  "todos los que": {
+    "count": 3,
+    "next": {
+      "los que en": 3
+    }
+  },
+  "entender que era": {
+    "count": 2,
+    "next": {
+      "que era el": 2
+    }
+  },
+  "a los pies": {
+    "count": 6,
+    "next": {
+      "los pies de": 6
+    }
+  },
+  "todos los días": {
+    "count": 27,
+    "next": {
+      "los días de": 27
+    }
+  },
+  "días de su": {
+    "count": 4,
+    "next": {
+      "de su vida.": 4
+    }
+  },
+  "de su vida.": {
+    "count": 2,
+    "next": {
+      "su vida. A": 2
+    }
+  },
+  "que es verdad": {
+    "count": 3,
+    "next": {
+      "es verdad lo": 3
+    }
+  },
+  "soy de parecer": {
+    "count": 5,
+    "next": {
+      "de parecer que": 5
+    }
+  },
+  "de parecer que": {
+    "count": 4,
+    "next": {
+      "parecer que no": 4
+    }
+  },
+  "parecer que no": {
+    "count": 4,
+    "next": {
+      "que no se": 4
+    }
+  },
+  "el autor de": {
+    "count": 2,
+    "next": {
+      "autor de la": 2
+    }
+  },
+  "sé que es": {
+    "count": 2,
+    "next": {
+      "que es lo": 1,
+      "que es verdad": 1
+    }
+  },
+  "fue uno de": {
+    "count": 5,
+    "next": {
+      "uno de los": 5
+    }
+  },
+  "mengua de los": {
+    "count": 2,
+    "next": {
+      "de los que": 2
+    }
+  },
+  "y que lo": {
+    "count": 3,
+    "next": {
+      "que lo que": 3
+    }
+  },
+  "que lo que": {
+    "count": 6,
+    "next": {
+      "lo que había": 2,
+      "lo que en": 1,
+      "lo que a": 2,
+      "lo que el": 1
+    }
+  },
+  "que me parece": {
+    "count": 17,
+    "next": {
+      "me parece que": 17
+    }
+  },
+  "me parece que": {
+    "count": 6,
+    "next": {
+      "parece que no": 6
+    }
+  },
+  "que sé que": {
+    "count": 2,
+    "next": {
+      "sé que es": 2
+    }
+  },
+  "que es lo": {
+    "count": 10,
+    "next": {
+      "es lo que": 10
+    }
+  },
+  "es lo que": {
+    "count": 4,
+    "next": {
+      "lo que en": 2,
+      "lo que no": 1,
+      "lo que me": 1
+    }
+  },
+  "el aposento de": {
+    "count": 3,
+    "next": {
+      "aposento de don": 3
+    }
+  },
+  "a su ama": {
+    "count": 2,
+    "next": {
+      "su ama y": 2
+    }
+  },
+  "y no sé": {
+    "count": 2,
+    "next": {
+      "no sé lo": 2
+    }
+  },
+  "no sé lo": {
+    "count": 8,
+    "next": {
+      "sé lo que": 8
+    }
+  },
+  "sé lo que": {
+    "count": 3,
+    "next": {
+      "lo que me": 3
+    }
+  },
+  "y de que": {
+    "count": 3,
+    "next": {
+      "de que no": 3
+    }
+  },
+  "su ama y": {
+    "count": 2,
+    "next": {
+      "ama y a": 2
+    }
+  },
+  "de que no": {
+    "count": 5,
+    "next": {
+      "que no me": 2,
+      "que no se": 3
+    }
+  },
+  "bien podría ser": {
+    "count": 3,
+    "next": {
+      "podría ser que": 3
+    }
+  },
+  "más de lo": {
+    "count": 17,
+    "next": {
+      "de lo que": 17
+    }
+  },
+  "mejor de lo": {
+    "count": 3,
+    "next": {
+      "de lo que": 3
+    }
+  },
+  "lo que en": {
+    "count": 11,
+    "next": {
+      "que en la": 5,
+      "que en el": 6
+    }
+  },
+  "-respondió don Quijote-": {
+    "count": 10,
+    "next": {
+      "don Quijote- que": 10
+    }
+  },
+  "don Quijote- que": {
+    "count": 2,
+    "next": {
+      "Quijote- que todo": 2
+    }
+  },
+  "vuestra merced que": {
+    "count": 3,
+    "next": {
+      "merced que no": 3
+    }
+  },
+  "Y, en tanto": {
+    "count": 3,
+    "next": {
+      "en tanto que": 3
+    }
+  },
+  "señor -respondió Sancho-,": {
+    "count": 6,
+    "next": {
+      "-respondió Sancho-, que": 4,
+      "-respondió Sancho-, porque": 2
+    }
+  },
+  "-respondió Sancho-, que": {
+    "count": 7,
+    "next": {
+      "Sancho-, que no": 7
+    }
+  },
+  "su señor don": {
+    "count": 4,
+    "next": {
+      "señor don Quijote,": 4
+    }
+  },
+  "las que en": {
+    "count": 3,
+    "next": {
+      "que en el": 2,
+      "que en la": 1
+    }
+  },
+  "ama y a": {
+    "count": 2,
+    "next": {
+      "y a su": 2
+    }
+  },
+  "en el discurso": {
+    "count": 11,
+    "next": {
+      "el discurso de": 11
+    }
+  },
+  "el discurso de": {
+    "count": 5,
+    "next": {
+      "discurso de su": 5
+    }
+  },
+  "peligro en que": {
+    "count": 2,
+    "next": {
+      "en que se": 2
+    }
+  },
+  "hazañas de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "en la primera": {
+    "count": 4,
+    "next": {
+      "la primera parte": 4
+    }
+  },
+  "la primera parte": {
+    "count": 3,
+    "next": {
+      "primera parte de": 3
+    }
+  },
+  "ninguno de los": {
+    "count": 2,
+    "next": {
+      "de los que": 1,
+      "de los cristianos": 1
+    }
+  },
+  "que en todos": {
+    "count": 5,
+    "next": {
+      "en todos los": 5
+    }
+  },
+  "los pies de": {
+    "count": 3,
+    "next": {
+      "pies de don": 3
+    }
+  },
+  "y que no": {
+    "count": 9,
+    "next": {
+      "que no se": 8,
+      "que no me": 1
+    }
+  },
+  "testigo de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "que entró en": {
+    "count": 2,
+    "next": {
+      "entró en el": 2
+    }
+  },
+  "contento de hacer": {
+    "count": 2,
+    "next": {
+      "de hacer lo": 2
+    }
+  },
+  "cuenta de lo": {
+    "count": 12,
+    "next": {
+      "de lo que": 12
+    }
+  },
+  "del peligro en": {
+    "count": 3,
+    "next": {
+      "peligro en que": 3
+    }
+  },
+  "señor don Quijote,": {
+    "count": 32,
+    "next": {
+      "don Quijote, y": 7,
+      "don Quijote, que": 24,
+      "don Quijote, se": 1
+    }
+  },
+  "en todos los": {
+    "count": 23,
+    "next": {
+      "todos los días": 21,
+      "todos los que": 2
+    }
+  },
+  "lo que a": {
+    "count": 7,
+    "next": {
+      "que a su": 2,
+      "que a los": 1,
+      "que a todos": 2,
+      "que a vuestra": 2
+    }
+  },
+  "y a su": {
+    "count": 3,
+    "next": {
+      "a su sobrina": 2,
+      "a su padre,": 1
+    }
+  },
+  "sé decir a": {
+    "count": 3,
+    "next": {
+      "decir a vuestra": 3
+    }
+  },
+  "decir a vuestra": {
+    "count": 5,
+    "next": {
+      "a vuestra merced": 5
+    }
+  },
+  "escudero de vuestra": {
+    "count": 2,
+    "next": {
+      "de vuestra merced,": 2
+    }
+  },
+  "de vuestra merced,": {
+    "count": 3,
+    "next": {
+      "vuestra merced, señor": 3
+    }
+  },
+  "y en lo": {
+    "count": 5,
+    "next": {
+      "en lo que": 5
+    }
+  },
+  "el que había": {
+    "count": 3,
+    "next": {
+      "que había de": 3
+    }
+  },
+  "algunos de los": {
+    "count": 3,
+    "next": {
+      "de los que": 3
+    }
+  },
+  "-Bien puede vuestra": {
+    "count": 2,
+    "next": {
+      "puede vuestra merced,": 2
+    }
+  },
+  "mas, a lo": {
+    "count": 2,
+    "next": {
+      "a lo que": 2
+    }
+  },
+  "y de lo": {
+    "count": 5,
+    "next": {
+      "de lo que": 5
+    }
+  },
+  "su padre y": {
+    "count": 2,
+    "next": {
+      "padre y a": 2
+    }
+  },
+  "de todo lo": {
+    "count": 14,
+    "next": {
+      "todo lo que": 14
+    }
+  },
+  "que todo lo": {
+    "count": 11,
+    "next": {
+      "todo lo que": 11
+    }
+  },
+  "y de todo": {
+    "count": 2,
+    "next": {
+      "de todo lo": 2
+    }
+  },
+  "contó todo lo": {
+    "count": 3,
+    "next": {
+      "todo lo que": 3
+    }
+  },
+  "en ejecución lo": {
+    "count": 4,
+    "next": {
+      "ejecución lo que": 4
+    }
+  },
+  "ejecución lo que": {
+    "count": 2,
+    "next": {
+      "lo que el": 1,
+      "lo que no": 1
+    }
+  },
+  "discurso de su": {
+    "count": 2,
+    "next": {
+      "de su vida.": 2
+    }
+  },
+  "puede ser -respondió": {
+    "count": 3,
+    "next": {
+      "ser -respondió Sancho-,": 3
+    }
+  },
+  "Y si es": {
+    "count": 6,
+    "next": {
+      "si es que": 6
+    }
+  },
+  "si es que": {
+    "count": 3,
+    "next": {
+      "es que no": 3
+    }
+  },
+  "por uno de": {
+    "count": 4,
+    "next": {
+      "uno de los": 4
+    }
+  },
+  "que uno de": {
+    "count": 4,
+    "next": {
+      "uno de los": 4
+    }
+  },
+  "lo que el": {
+    "count": 9,
+    "next": {
+      "que el señor": 4,
+      "que el cura": 4,
+      "que el autor": 1
+    }
+  },
+  "de caer en": {
+    "count": 3,
+    "next": {
+      "caer en la": 3
+    }
+  },
+  "-Eso haré yo": {
+    "count": 6,
+    "next": {
+      "haré yo de": 6
+    }
+  },
+  "haré yo de": {
+    "count": 5,
+    "next": {
+      "yo de muy": 5
+    }
+  },
+  "yo de muy": {
+    "count": 6,
+    "next": {
+      "de muy buena": 6
+    }
+  },
+  "no me parece": {
+    "count": 2,
+    "next": {
+      "me parece que": 2
+    }
+  },
+  "ofreció a los": {
+    "count": 2,
+    "next": {
+      "a los ojos": 2
+    }
+  },
+  "cada uno de": {
+    "count": 2,
+    "next": {
+      "uno de los": 2
+    }
+  },
+  "y se entró": {
+    "count": 2,
+    "next": {
+      "se entró en": 2
+    }
+  },
+  "caer en la": {
+    "count": 4,
+    "next": {
+      "en la cuenta": 4
+    }
+  },
+  "que se había": {
+    "count": 4,
+    "next": {
+      "se había de": 4
+    }
+  },
+  "-A lo que": {
+    "count": 2,
+    "next": {
+      "lo que el": 2
+    }
+  },
+  "porque me parece": {
+    "count": 4,
+    "next": {
+      "me parece que": 4
+    }
+  },
+  "debajo de los": {
+    "count": 4,
+    "next": {
+      "de los pies": 4
+    }
+  },
+  "-dijo don Quijote-": {
+    "count": 11,
+    "next": {
+      "don Quijote- que": 11
+    }
+  },
+  "Capítulo XVI. De": {
+    "count": 2,
+    "next": {
+      "XVI. De lo": 2
+    }
+  },
+  "XVI. De lo": {
+    "count": 2,
+    "next": {
+      "De lo que": 2
+    }
+  },
+  "de los pies": {
+    "count": 3,
+    "next": {
+      "los pies de": 3
+    }
+  },
+  "la de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "partes a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "que mi señor": {
+    "count": 4,
+    "next": {
+      "mi señor don": 4
+    }
+  },
+  "mi señor don": {
+    "count": 7,
+    "next": {
+      "señor don Quijote,": 7
+    }
+  },
+  "-respondió Sancho-, porque": {
+    "count": 2,
+    "next": {
+      "Sancho-, porque me": 2
+    }
+  },
+  "si mi señor": {
+    "count": 2,
+    "next": {
+      "mi señor don": 2
+    }
+  },
+  "en el aposento": {
+    "count": 5,
+    "next": {
+      "el aposento de": 5
+    }
+  },
+  "de Sancho Panza,": {
+    "count": 3,
+    "next": {
+      "Sancho Panza, de": 3
+    }
+  },
+  "dejando a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "sino que todos": {
+    "count": 2,
+    "next": {
+      "que todos los": 2
+    }
+  },
+  "de los días": {
+    "count": 2,
+    "next": {
+      "los días de": 2
+    }
+  },
+  "eso -respondió Sancho-,": {
+    "count": 2,
+    "next": {
+      "-respondió Sancho-, porque": 1,
+      "-respondió Sancho-, que": 1
+    }
+  },
+  "y esto es": {
+    "count": 2,
+    "next": {
+      "esto es lo": 2
+    }
+  },
+  "esto es lo": {
+    "count": 2,
+    "next": {
+      "es lo que": 2
+    }
+  },
+  "a todo lo": {
+    "count": 3,
+    "next": {
+      "todo lo que": 3
+    }
+  },
+  "donde se había": {
+    "count": 2,
+    "next": {
+      "se había de": 2
+    }
+  },
+  "y a todos": {
+    "count": 5,
+    "next": {
+      "a todos los": 5
+    }
+  },
+  "Y lo que": {
+    "count": 3,
+    "next": {
+      "lo que me": 2,
+      "lo que en": 1
+    }
+  },
+  "ser -respondió Sancho-,": {
+    "count": 2,
+    "next": {
+      "-respondió Sancho-, que": 1,
+      "-respondió Sancho-, porque": 1
+    }
+  },
+  "y aun podría": {
+    "count": 2,
+    "next": {
+      "aun podría ser": 2
+    }
+  },
+  "aun podría ser": {
+    "count": 2,
+    "next": {
+      "podría ser que": 2
+    }
+  },
+  "se volvió a": {
+    "count": 3,
+    "next": {
+      "volvió a Sancho": 3
+    }
+  },
+  "volvió a Sancho": {
+    "count": 2,
+    "next": {
+      "a Sancho y": 2
+    }
+  },
+  "a Sancho y": {
+    "count": 2,
+    "next": {
+      "Sancho y a": 2
+    }
+  },
+  "y si es": {
+    "count": 8,
+    "next": {
+      "si es que": 8
+    }
+  },
+  "¿Qué es lo": {
+    "count": 9,
+    "next": {
+      "es lo que": 9
+    }
+  },
+  "ser verdad lo": {
+    "count": 6,
+    "next": {
+      "verdad lo que": 6
+    }
+  },
+  "parece que no": {
+    "count": 2,
+    "next": {
+      "que no me": 1,
+      "que no se": 1
+    }
+  },
+  "echó de ver": {
+    "count": 2,
+    "next": {
+      "de ver en": 1,
+      "de ver lo": 1
+    }
+  },
+  "de ver en": {
+    "count": 4,
+    "next": {
+      "ver en lo": 2,
+      "ver en todos": 2
+    }
+  },
+  "porque te hago": {
+    "count": 3,
+    "next": {
+      "te hago saber": 3
+    }
+  },
+  "qué es lo": {
+    "count": 9,
+    "next": {
+      "es lo que": 9
+    }
+  },
+  "-respondió uno de": {
+    "count": 3,
+    "next": {
+      "uno de los": 3
+    }
+  },
+  "quiero que sepa": {
+    "count": 2,
+    "next": {
+      "que sepa vuesa": 2
+    }
+  },
+  "le prometo a": {
+    "count": 2,
+    "next": {
+      "prometo a vuestra": 2
+    }
+  },
+  "prometo a vuestra": {
+    "count": 2,
+    "next": {
+      "a vuestra merced,": 2
+    }
+  },
+  "advierta vuestra merced": {
+    "count": 2,
+    "next": {
+      "vuestra merced que": 2
+    }
+  },
+  "en la cuenta": {
+    "count": 19,
+    "next": {
+      "la cuenta de": 19
+    }
+  },
+  "a su señor": {
+    "count": 2,
+    "next": {
+      "su señor don": 2
+    }
+  },
+  "las palabras de": {
+    "count": 2,
+    "next": {
+      "palabras de don": 2
+    }
+  },
+  "a servir a": {
+    "count": 2,
+    "next": {
+      "servir a vuestra": 2
+    }
+  },
+  "servir a vuestra": {
+    "count": 3,
+    "next": {
+      "a vuestra merced,": 1,
+      "a vuestra merced": 2
+    }
+  },
+  "en todo el": {
+    "count": 5,
+    "next": {
+      "todo el discurso": 5
+    }
+  },
+  "mío -respondió Sancho-,": {
+    "count": 2,
+    "next": {
+      "-respondió Sancho-, que": 2
+    }
+  },
+  "Sancho-, que no": {
+    "count": 2,
+    "next": {
+      "que no se": 1,
+      "que no sé": 1
+    }
+  },
+  "el temor de": {
+    "count": 2,
+    "next": {
+      "temor de lo": 2
+    }
+  },
+  "temor de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "y que todo": {
+    "count": 2,
+    "next": {
+      "que todo lo": 2
+    }
+  },
+  "-Todo puede ser": {
+    "count": 4,
+    "next": {
+      "puede ser -respondió": 4
+    }
+  },
+  "y con lo": {
+    "count": 6,
+    "next": {
+      "con lo que": 6
+    }
+  },
+  "don Quijote, se": {
+    "count": 2,
+    "next": {
+      "Quijote, se volvió": 2
+    }
+  },
+  "Pero dígame vuestra": {
+    "count": 2,
+    "next": {
+      "dígame vuestra merced,": 2
+    }
+  },
+  "dígame vuestra merced,": {
+    "count": 2,
+    "next": {
+      "vuestra merced, señor": 2
+    }
+  },
+  "gracias a Dios": {
+    "count": 2,
+    "next": {
+      "a Dios y": 2
+    }
+  },
+  "a Dios y": {
+    "count": 6,
+    "next": {
+      "Dios y a": 6
+    }
+  },
+  "Dios y a": {
+    "count": 2,
+    "next": {
+      "y a su": 2
+    }
+  },
+  "Quijote- que todo": {
+    "count": 2,
+    "next": {
+      "que todo lo": 2
+    }
+  },
+  "creo yo -respondió": {
+    "count": 2,
+    "next": {
+      "yo -respondió don": 2
+    }
+  },
+  "-dijo Sancho-, que": {
+    "count": 2,
+    "next": {
+      "Sancho-, que no": 2
+    }
+  },
+  "y le puso": {
+    "count": 2,
+    "next": {
+      "le puso en": 2
+    }
+  },
+  "le puso en": {
+    "count": 3,
+    "next": {
+      "puso en las": 3
+    }
+  },
+  "puso en las": {
+    "count": 2,
+    "next": {
+      "en las manos": 2
+    }
+  },
+  "una doncella de": {
+    "count": 2,
+    "next": {
+      "doncella de la": 2
+    }
+  },
+  "a besar las": {
+    "count": 2,
+    "next": {
+      "besar las manos": 2
+    }
+  },
+  "como la de": {
+    "count": 2,
+    "next": {
+      "la de don": 2
+    }
+  },
+  "a su padre": {
+    "count": 4,
+    "next": {
+      "su padre y": 4
+    }
+  },
+  "doncella de la": {
+    "count": 2,
+    "next": {
+      "de la duquesa": 2
+    }
+  },
+  "de los cristianos": {
+    "count": 2,
+    "next": {
+      "los cristianos que": 2
+    }
+  },
+  "y podría ser": {
+    "count": 9,
+    "next": {
+      "podría ser que": 9
+    }
+  },
+  "de su padre,": {
+    "count": 6,
+    "next": {
+      "su padre, y": 6
+    }
+  },
+  "Dios -respondió don": {
+    "count": 2,
+    "next": {
+      "-respondió don Quijote-": 2
+    }
+  },
+  "Dios -dijo Sancho-,": {
+    "count": 5,
+    "next": {
+      "-dijo Sancho-, que": 5
+    }
+  },
+  "de ver lo": {
+    "count": 4,
+    "next": {
+      "ver lo que": 4
+    }
+  },
+  "decir -dijo don": {
+    "count": 2,
+    "next": {
+      "-dijo don Quijote-": 2
+    }
+  },
+  "que a los": {
+    "count": 2,
+    "next": {
+      "a los ojos": 2
+    }
+  },
+  "gusto, y que": {
+    "count": 2,
+    "next": {
+      "y que no": 1,
+      "y que el": 1
+    }
+  },
+  "y uno de": {
+    "count": 8,
+    "next": {
+      "uno de los": 8
+    }
+  },
+  "porque le hago": {
+    "count": 4,
+    "next": {
+      "le hago saber": 4
+    }
+  },
+  "le hago saber": {
+    "count": 6,
+    "next": {
+      "hago saber que": 6
+    }
+  },
+  "hago saber que": {
+    "count": 2,
+    "next": {
+      "saber que no": 2
+    }
+  },
+  "que ya me": {
+    "count": 2,
+    "next": {
+      "ya me parece": 2
+    }
+  },
+  "ya me parece": {
+    "count": 2,
+    "next": {
+      "me parece que": 2
+    }
+  },
+  "aun a todos": {
+    "count": 3,
+    "next": {
+      "a todos los": 3
+    }
+  },
+  "por una parte": {
+    "count": 3,
+    "next": {
+      "una parte de": 3
+    }
+  },
+  "una parte de": {
+    "count": 3,
+    "next": {
+      "parte de la": 3
+    }
+  },
+  "venir en conocimiento": {
+    "count": 2,
+    "next": {
+      "en conocimiento de": 2
+    }
+  },
+  "en conocimiento de": {
+    "count": 2,
+    "next": {
+      "conocimiento de lo": 2
+    }
+  },
+  "conocimiento de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "que las razones": {
+    "count": 2,
+    "next": {
+      "las razones de": 2
+    }
+  },
+  "las razones de": {
+    "count": 2,
+    "next": {
+      "razones de don": 2
+    }
+  },
+  "En tanto que": {
+    "count": 2,
+    "next": {
+      "tanto que el": 2
+    }
+  },
+  "A lo que": {
+    "count": 9,
+    "next": {
+      "lo que el": 9
+    }
+  },
+  "esto, se volvió": {
+    "count": 2,
+    "next": {
+      "se volvió a": 2
+    }
+  },
+  "a la estancia": {
+    "count": 3,
+    "next": {
+      "la estancia de": 3
+    }
+  },
+  "la estancia de": {
+    "count": 3,
+    "next": {
+      "estancia de don": 3
+    }
+  },
+  "Fernando y a": {
+    "count": 3,
+    "next": {
+      "y a los": 2,
+      "y a Cardenio,": 1
+    }
+  },
+  "admirado de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "fue a abrazar": {
+    "count": 3,
+    "next": {
+      "a abrazar a": 3
+    }
+  },
+  "y, en tanto": {
+    "count": 6,
+    "next": {
+      "en tanto que": 6
+    }
+  },
+  "a su padre,": {
+    "count": 3,
+    "next": {
+      "su padre, y": 3
+    }
+  },
+  "por la mayor": {
+    "count": 4,
+    "next": {
+      "la mayor parte": 4
+    }
+  },
+  "que le puso": {
+    "count": 2,
+    "next": {
+      "le puso en": 2
+    }
+  },
+  "-Déjeme vuestra merced,": {
+    "count": 2,
+    "next": {
+      "vuestra merced, señor": 2
+    }
+  },
+  "de las palabras": {
+    "count": 2,
+    "next": {
+      "las palabras de": 2
+    }
+  },
+  "te hago saber": {
+    "count": 3,
+    "next": {
+      "hago saber que": 3
+    }
+  },
+  "saber que no": {
+    "count": 2,
+    "next": {
+      "que no me": 2
+    }
+  },
+  "¿qué es lo": {
+    "count": 6,
+    "next": {
+      "es lo que": 6
+    }
+  },
+  "su gusto, y": {
+    "count": 2,
+    "next": {
+      "gusto, y que": 2
+    }
+  },
+  "a los ojos": {
+    "count": 2,
+    "next": {
+      "los ojos que": 2
+    }
+  },
+  "los ojos que": {
+    "count": 2,
+    "next": {
+      "ojos que en": 2
+    }
+  },
+  "el humor de": {
+    "count": 2,
+    "next": {
+      "humor de don": 2
+    }
+  },
+  "porque quiero que": {
+    "count": 3,
+    "next": {
+      "quiero que sepa": 3
+    }
+  },
+  "merced que no": {
+    "count": 2,
+    "next": {
+      "que no se": 1,
+      "que no me": 1
+    }
+  },
+  "Y, en lo": {
+    "count": 4,
+    "next": {
+      "en lo que": 4
+    }
+  },
+  "con verdad que": {
+    "count": 2,
+    "next": {
+      "verdad que en": 2
+    }
+  },
+  "verdad que en": {
+    "count": 3,
+    "next": {
+      "que en las": 3
+    }
+  },
+  "tiene es que": {
+    "count": 2,
+    "next": {
+      "es que no": 2
+    }
+  },
+  "es que no": {
+    "count": 3,
+    "next": {
+      "que no me": 3
+    }
+  },
+  "diablo, y que": {
+    "count": 2,
+    "next": {
+      "y que no": 2
+    }
+  },
+  "a contar lo": {
+    "count": 3,
+    "next": {
+      "contar lo que": 3
+    }
+  },
+  "contar lo que": {
+    "count": 2,
+    "next": {
+      "lo que en": 1,
+      "lo que el": 1
+    }
+  },
+  "ha visto en": {
+    "count": 2,
+    "next": {
+      "visto en todos": 2
+    }
+  },
+  "visto en todos": {
+    "count": 3,
+    "next": {
+      "en todos los": 3
+    }
+  },
+  "por contar lo": {
+    "count": 2,
+    "next": {
+      "contar lo que": 2
+    }
+  },
+  "ojos que en": {
+    "count": 2,
+    "next": {
+      "que en la": 1,
+      "que en el": 1
+    }
+  },
+  "locura de don": {
+    "count": 4,
+    "next": {
+      "de don Quijote,": 4
+    }
+  },
+  "besa a vuestra": {
+    "count": 2,
+    "next": {
+      "a vuestra merced": 2
+    }
+  },
+  "cura de modo": {
+    "count": 2,
+    "next": {
+      "de modo que": 2
+    }
+  },
+  "modo que no": {
+    "count": 2,
+    "next": {
+      "que no se": 2
+    }
+  },
+  "Sancho, y lo": {
+    "count": 2,
+    "next": {
+      "y lo que": 2
+    }
+  },
+  "a caer en": {
+    "count": 2,
+    "next": {
+      "caer en la": 2
+    }
+  },
+  "de la locura": {
+    "count": 3,
+    "next": {
+      "la locura de": 3
+    }
+  },
+  "en la opinión": {
+    "count": 3,
+    "next": {
+      "la opinión de": 3
+    }
+  },
+  "la opinión de": {
+    "count": 3,
+    "next": {
+      "opinión de don": 3
+    }
+  },
+  "opinión de don": {
+    "count": 2,
+    "next": {
+      "de don Fernando": 1,
+      "de don Quijote,": 1
+    }
+  },
+  "de don Fernando": {
+    "count": 2,
+    "next": {
+      "don Fernando y": 2
+    }
+  },
+  "a don Fernando": {
+    "count": 3,
+    "next": {
+      "don Fernando y": 3
+    }
+  },
+  "hasta ver lo": {
+    "count": 2,
+    "next": {
+      "ver lo que": 2
+    }
+  },
+  "parecía que lo": {
+    "count": 2,
+    "next": {
+      "que lo que": 2
+    }
+  },
+  "que se ofreció": {
+    "count": 2,
+    "next": {
+      "se ofreció a": 2
+    }
+  },
+  "y a lo": {
+    "count": 3,
+    "next": {
+      "a lo que": 3
+    }
+  },
+  "tanto que el": {
+    "count": 2,
+    "next": {
+      "que el cura": 1,
+      "que el señor": 1
+    }
+  },
+  "al señor don": {
+    "count": 4,
+    "next": {
+      "señor don Quijote,": 4
+    }
+  },
+  "a abrazar a": {
+    "count": 2,
+    "next": {
+      "abrazar a don": 2
+    }
+  },
+  "que no sé": {
+    "count": 2,
+    "next": {
+      "no sé lo": 2
+    }
+  },
+  "de que a": {
+    "count": 3,
+    "next": {
+      "que a todos": 1,
+      "que a su": 2
+    }
+  },
+  "que a todos": {
+    "count": 2,
+    "next": {
+      "a todos los": 2
+    }
+  },
+  "y en tanto": {
+    "count": 3,
+    "next": {
+      "en tanto que": 3
+    }
+  },
+  "en las razones": {
+    "count": 2,
+    "next": {
+      "las razones de": 2
+    }
+  },
+  "por testigo de": {
+    "count": 2,
+    "next": {
+      "testigo de lo": 2
+    }
+  },
+  "que él era": {
+    "count": 2,
+    "next": {
+      "él era el": 2
+    }
+  },
+  "se ofreció a": {
+    "count": 2,
+    "next": {
+      "ofreció a los": 2
+    }
+  },
+  "sí a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "vino en conocimiento": {
+    "count": 2,
+    "next": {
+      "en conocimiento de": 2
+    }
+  },
+  "su padre, y": {
+    "count": 2,
+    "next": {
+      "padre, y que": 2
+    }
+  },
+  "todo el discurso": {
+    "count": 3,
+    "next": {
+      "el discurso de": 3
+    }
+  },
+  "y que, puesto": {
+    "count": 2,
+    "next": {
+      "que, puesto que": 2
+    }
+  },
+  "del cura y": {
+    "count": 2,
+    "next": {
+      "cura y el": 2
+    }
+  },
+  "el barbero se": {
+    "count": 2,
+    "next": {
+      "barbero se despidieron": 2
+    }
+  },
+  "era don Quijote,": {
+    "count": 2,
+    "next": {
+      "don Quijote, y": 2
+    }
+  },
+  "le dijo: -Bien": {
+    "count": 2,
+    "next": {
+      "dijo: -Bien puede": 2
+    }
+  },
+  "dijo: -Bien puede": {
+    "count": 2,
+    "next": {
+      "-Bien puede vuestra": 2
+    }
+  },
+  "puede vuestra merced,": {
+    "count": 2,
+    "next": {
+      "vuestra merced, señor": 2
+    }
+  },
+  "conforme a lo": {
+    "count": 3,
+    "next": {
+      "a lo que": 3
+    }
+  },
+  "Cardenio y el": {
+    "count": 6,
+    "next": {
+      "y el barbero": 1,
+      "y el cura": 5
+    }
+  },
+  "a Cardenio, y": {
+    "count": 2,
+    "next": {
+      "Cardenio, y a": 2
+    }
+  },
+  "y de modo": {
+    "count": 2,
+    "next": {
+      "de modo que": 2
+    }
+  },
+  "por ver lo": {
+    "count": 3,
+    "next": {
+      "ver lo que": 3
+    }
+  },
+  "humor de don": {
+    "count": 4,
+    "next": {
+      "de don Quijote,": 4
+    }
+  },
+  "y que todos": {
+    "count": 2,
+    "next": {
+      "que todos los": 2
+    }
+  },
+  "don Quijote. A": {
+    "count": 2,
+    "next": {
+      "Quijote. A lo": 2
+    }
+  },
+  "Quijote. A lo": {
+    "count": 2,
+    "next": {
+      "A lo que": 2
+    }
+  },
+  "deseosos de ver": {
+    "count": 2,
+    "next": {
+      "de ver en": 1,
+      "de ver lo": 1
+    }
+  },
+  "que por lo": {
+    "count": 2,
+    "next": {
+      "por lo que": 2
+    }
+  },
+  "-No, señor -respondió": {
+    "count": 2,
+    "next": {
+      "señor -respondió Sancho-,": 2
+    }
+  },
+  "-replicó don Quijote-": {
+    "count": 2,
+    "next": {
+      "don Quijote- que": 2
+    }
+  },
+  "de parte de": {
+    "count": 2,
+    "next": {
+      "parte de la": 2
+    }
+  },
+  "muy al revés": {
+    "count": 2,
+    "next": {
+      "al revés de": 2
+    }
+  },
+  "al revés de": {
+    "count": 5,
+    "next": {
+      "revés de lo": 5
+    }
+  },
+  "revés de lo": {
+    "count": 5,
+    "next": {
+      "de lo que": 5
+    }
+  },
+  "trata de lo": {
+    "count": 4,
+    "next": {
+      "de lo que": 4
+    }
+  },
+  "de Sancho Panza;": {
+    "count": 2,
+    "next": {
+      "Sancho Panza; que,": 2
+    }
+  },
+  "comer de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "y del modo": {
+    "count": 3,
+    "next": {
+      "del modo que": 3
+    }
+  },
+  "-No sé lo": {
+    "count": 3,
+    "next": {
+      "sé lo que": 3
+    }
+  },
+  "acerca de lo": {
+    "count": 5,
+    "next": {
+      "de lo que": 5
+    }
+  },
+  "de dar gracias": {
+    "count": 2,
+    "next": {
+      "dar gracias a": 2
+    }
+  },
+  "más de los": {
+    "count": 2,
+    "next": {
+      "de los días": 1,
+      "de los que": 1
+    }
+  },
+  "los más de": {
+    "count": 2,
+    "next": {
+      "más de los": 2
+    }
+  },
+  "que de muy": {
+    "count": 2,
+    "next": {
+      "de muy buena": 2
+    }
+  },
+  "has de ver": {
+    "count": 3,
+    "next": {
+      "de ver en": 3
+    }
+  },
+  "primera parte de": {
+    "count": 2,
+    "next": {
+      "parte de la": 2
+    }
+  },
+  "propósito de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "algo de lo": {
+    "count": 3,
+    "next": {
+      "de lo que": 3
+    }
+  },
+  "palabras, y que": {
+    "count": 2,
+    "next": {
+      "y que no": 2
+    }
+  },
+  "cayó en la": {
+    "count": 2,
+    "next": {
+      "en la cuenta": 2
+    }
+  },
+  "temerosa de que": {
+    "count": 2,
+    "next": {
+      "de que no": 2
+    }
+  },
+  "el decoro que": {
+    "count": 3,
+    "next": {
+      "decoro que a": 3
+    }
+  },
+  "de las razones": {
+    "count": 4,
+    "next": {
+      "las razones de": 4
+    }
+  },
+  "decoro que a": {
+    "count": 2,
+    "next": {
+      "que a su": 2
+    }
+  },
+  "de la verdad": {
+    "count": 2,
+    "next": {
+      "la verdad de": 2
+    }
+  },
+  "la verdad de": {
+    "count": 5,
+    "next": {
+      "verdad de la": 4,
+      "verdad de lo": 1
+    }
+  },
+  "con las razones": {
+    "count": 3,
+    "next": {
+      "las razones de": 3
+    }
+  },
+  "cuenta de todo": {
+    "count": 2,
+    "next": {
+      "de todo lo": 2
+    }
+  },
+  "descuido de los": {
+    "count": 2,
+    "next": {
+      "de los que": 1,
+      "de los pies": 1
+    }
+  },
+  "verdad de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "con don Quijote,": {
+    "count": 4,
+    "next": {
+      "don Quijote, y": 3,
+      "don Quijote, el": 1
+    }
+  },
+  "que echase de": {
+    "count": 2,
+    "next": {
+      "echase de ver": 2
+    }
+  },
+  "echase de ver": {
+    "count": 2,
+    "next": {
+      "de ver en": 1,
+      "de ver lo": 1
+    }
+  },
+  "las manos a": {
+    "count": 2,
+    "next": {
+      "manos a don": 2
+    }
+  },
+  "manos a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "le dé Dios": {
+    "count": 2,
+    "next": {
+      "dé Dios a": 2
+    }
+  },
+  "dé Dios a": {
+    "count": 3,
+    "next": {
+      "Dios a él": 3
+    }
+  },
+  "Dios a él": {
+    "count": 2,
+    "next": {
+      "a él y": 2
+    }
+  },
+  "razón de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "a la aldea": {
+    "count": 5,
+    "next": {
+      "la aldea de": 5
+    }
+  },
+  "la aldea de": {
+    "count": 2,
+    "next": {
+      "aldea de don": 2
+    }
+  },
+  "las ventanas de": {
+    "count": 2,
+    "next": {
+      "ventanas de la": 2
+    }
+  },
+  "ventanas de la": {
+    "count": 2,
+    "next": {
+      "de la casa": 2
+    }
+  },
+  "de la casa": {
+    "count": 6,
+    "next": {
+      "la casa de": 6
+    }
+  },
+  "se entró en": {
+    "count": 2,
+    "next": {
+      "entró en el": 2
+    }
+  },
+  "aposento de don": {
+    "count": 3,
+    "next": {
+      "de don Quijote,": 3
+    }
+  },
+  "del aposento de": {
+    "count": 2,
+    "next": {
+      "aposento de don": 2
+    }
+  },
+  "Dios! ¿Qué es": {
+    "count": 2,
+    "next": {
+      "¿Qué es lo": 2
+    }
+  },
+  "esta verdad que": {
+    "count": 2,
+    "next": {
+      "verdad que en": 2
+    }
+  },
+  "don Fernando y": {
+    "count": 3,
+    "next": {
+      "Fernando y a": 3
+    }
+  },
+  "-¿Qué es lo": {
+    "count": 5,
+    "next": {
+      "es lo que": 5
+    }
+  },
+  "dijo más don": {
+    "count": 2,
+    "next": {
+      "más don Quijote,": 2
+    }
+  },
+  "más don Quijote,": {
+    "count": 2,
+    "next": {
+      "don Quijote, y": 2
+    }
+  },
+  "Quijote, se volvió": {
+    "count": 2,
+    "next": {
+      "se volvió a": 2
+    }
+  },
+  "estado en todos": {
+    "count": 2,
+    "next": {
+      "en todos los": 2
+    }
+  },
+  "padre, y que": {
+    "count": 2,
+    "next": {
+      "y que no": 1,
+      "y que en": 1
+    }
+  },
+  "y, a lo": {
+    "count": 5,
+    "next": {
+      "a lo que": 5
+    }
+  },
+  "los cristianos que": {
+    "count": 2,
+    "next": {
+      "cristianos que en": 2
+    }
+  },
+  "cristianos que en": {
+    "count": 2,
+    "next": {
+      "que en el": 1,
+      "que en la": 1
+    }
+  },
+  "que fue uno": {
+    "count": 2,
+    "next": {
+      "fue uno de": 2
+    }
+  },
+  "si era verdad": {
+    "count": 3,
+    "next": {
+      "era verdad lo": 3
+    }
+  },
+  "era verdad lo": {
+    "count": 4,
+    "next": {
+      "verdad lo que": 4
+    }
+  },
+  "jardín de su": {
+    "count": 2,
+    "next": {
+      "de su padre,": 2
+    }
+  },
+  "él era el": {
+    "count": 2,
+    "next": {
+      "era el que": 2
+    }
+  },
+  "ver en lo": {
+    "count": 2,
+    "next": {
+      "en lo que": 2
+    }
+  },
+  "a la casa": {
+    "count": 4,
+    "next": {
+      "la casa de": 4
+    }
+  },
+  "el peligro en": {
+    "count": 3,
+    "next": {
+      "peligro en que": 3
+    }
+  },
+  "padre y a": {
+    "count": 2,
+    "next": {
+      "y a los": 1,
+      "y a todos": 1
+    }
+  },
+  "ver a su": {
+    "count": 2,
+    "next": {
+      "a su padre,": 1,
+      "a su señor": 1
+    }
+  },
+  "a dar gracias": {
+    "count": 2,
+    "next": {
+      "dar gracias a": 2
+    }
+  },
+  "dar gracias a": {
+    "count": 3,
+    "next": {
+      "gracias a Dios": 3
+    }
+  },
+  "-dijo uno de": {
+    "count": 2,
+    "next": {
+      "uno de los": 2
+    }
+  },
+  "del razonamiento de": {
+    "count": 2,
+    "next": {
+      "razonamiento de don": 2
+    }
+  },
+  "razonamiento de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "don Fernando, Cardenio": {
+    "count": 3,
+    "next": {
+      "Fernando, Cardenio y": 3
+    }
+  },
+  "Fernando, Cardenio y": {
+    "count": 2,
+    "next": {
+      "Cardenio y el": 2
+    }
+  },
+  "Pero de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "atenta a lo": {
+    "count": 2,
+    "next": {
+      "a lo que": 2
+    }
+  },
+  "razones de don": {
+    "count": 4,
+    "next": {
+      "de don Quijote,": 4
+    }
+  },
+  "llegaron a la": {
+    "count": 3,
+    "next": {
+      "a la aldea": 2,
+      "a la casa": 1
+    }
+  },
+  "pies de don": {
+    "count": 3,
+    "next": {
+      "de don Quijote,": 3
+    }
+  },
+  "palabras de don": {
+    "count": 3,
+    "next": {
+      "de don Quijote,": 3
+    }
+  },
+  "criado de su": {
+    "count": 2,
+    "next": {
+      "de su padre,": 2
+    }
+  },
+  "y a Cardenio,": {
+    "count": 2,
+    "next": {
+      "a Cardenio, y": 2
+    }
+  },
+  "Cardenio, y a": {
+    "count": 2,
+    "next": {
+      "y a los": 1,
+      "y a don": 1
+    }
+  },
+  "respondió que en": {
+    "count": 2,
+    "next": {
+      "que en la": 1,
+      "que en todo": 1
+    }
+  },
+  "señor -dijo Sancho-,": {
+    "count": 2,
+    "next": {
+      "-dijo Sancho-, que": 2
+    }
+  },
+  "verdad de la": {
+    "count": 3,
+    "next": {
+      "de la historia": 3
+    }
+  },
+  "y a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "en don Quijote,": {
+    "count": 2,
+    "next": {
+      "don Quijote, y": 1,
+      "don Quijote, el": 1
+    }
+  },
+  "rostro de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "-Así lo creo": {
+    "count": 3,
+    "next": {
+      "lo creo yo": 3
+    }
+  },
+  "lo creo yo": {
+    "count": 2,
+    "next": {
+      "creo yo -respondió": 2
+    }
+  },
+  "yo -dijo Sancho-,": {
+    "count": 2,
+    "next": {
+      "-dijo Sancho-, que": 2
+    }
+  },
+  "Sancho Panza, de": {
+    "count": 3,
+    "next": {
+      "Panza, de que": 3
+    }
+  },
+  "Panza, de que": {
+    "count": 2,
+    "next": {
+      "de que no": 2
+    }
+  },
+  "otra, de modo": {
+    "count": 2,
+    "next": {
+      "de modo que": 2
+    }
+  },
+  "dio en la": {
+    "count": 2,
+    "next": {
+      "en la cuenta": 2
+    }
+  },
+  "Quijote, el cura": {
+    "count": 2,
+    "next": {
+      "el cura y": 2
+    }
+  },
+  "barbero se despidieron": {
+    "count": 2,
+    "next": {
+      "se despidieron de": 2
+    }
+  },
+  "se despidieron de": {
+    "count": 2,
+    "next": {
+      "despidieron de don": 2
+    }
+  },
+  "despidieron de don": {
+    "count": 2,
+    "next": {
+      "de don Fernando": 1,
+      "de don Quijote,": 1
+    }
+  },
+  "cayeron todos los": {
+    "count": 3,
+    "next": {
+      "todos los que": 3
+    }
+  },
+  "los de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "que el autor": {
+    "count": 2,
+    "next": {
+      "el autor de": 2
+    }
+  },
+  "la mayor parte": {
+    "count": 3,
+    "next": {
+      "mayor parte de": 3
+    }
+  },
+  "que esto es": {
+    "count": 2,
+    "next": {
+      "esto es lo": 2
+    }
+  },
+  "Esto es lo": {
+    "count": 2,
+    "next": {
+      "es lo que": 2
+    }
+  },
+  "Quijote, que todo": {
+    "count": 3,
+    "next": {
+      "que todo lo": 3
+    }
+  },
+  "entendimiento de vuestra": {
+    "count": 2,
+    "next": {
+      "de vuestra merced,": 2
+    }
+  },
+  "encomendándose a Dios": {
+    "count": 2,
+    "next": {
+      "a Dios y": 2
+    }
+  },
+  "que en tanto": {
+    "count": 2,
+    "next": {
+      "en tanto que": 2
+    }
+  },
+  "y el señor": {
+    "count": 2,
+    "next": {
+      "el señor don": 2
+    }
+  },
+  "hay mucho que": {
+    "count": 3,
+    "next": {
+      "mucho que decir": 3
+    }
+  },
+  "mucho que decir": {
+    "count": 2,
+    "next": {
+      "que decir -respondió": 2
+    }
+  },
+  "que es uno": {
+    "count": 4,
+    "next": {
+      "es uno de": 4
+    }
+  },
+  "es uno de": {
+    "count": 8,
+    "next": {
+      "uno de los": 8
+    }
+  },
+  "muy buena gana,": {
+    "count": 3,
+    "next": {
+      "buena gana, señor": 3
+    }
+  },
+  "cabrero a todos": {
+    "count": 2,
+    "next": {
+      "a todos los": 2
+    }
+  },
+  "contó punto por": {
+    "count": 2,
+    "next": {
+      "punto por punto": 2
+    }
+  },
+  "había en todo": {
+    "count": 2,
+    "next": {
+      "en todo el": 2
+    }
+  },
+  "fue don Quijote,": {
+    "count": 2,
+    "next": {
+      "don Quijote, que": 1,
+      "don Quijote, el": 1
+    }
+  },
+  "llevaban; y uno": {
+    "count": 2,
+    "next": {
+      "y uno de": 2
+    }
+  },
+  "cura que en": {
+    "count": 2,
+    "next": {
+      "que en la": 1,
+      "que en el": 1
+    }
+  },
+  "que es todo": {
+    "count": 2,
+    "next": {
+      "es todo lo": 2
+    }
+  },
+  "es todo lo": {
+    "count": 2,
+    "next": {
+      "todo lo que": 2
+    }
+  },
+  "buena gana, señor": {
+    "count": 3,
+    "next": {
+      "gana, señor mío": 3
+    }
+  },
+  "gana, señor mío": {
+    "count": 3,
+    "next": {
+      "señor mío -respondió": 3
+    }
+  },
+  "en hacer lo": {
+    "count": 2,
+    "next": {
+      "hacer lo que": 2
+    }
+  },
+  "aldea de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "Segunda parte de": {
+    "count": 2,
+    "next": {
+      "parte de la": 2
+    }
+  },
+  "la Segunda parte": {
+    "count": 4,
+    "next": {
+      "Segunda parte de": 4
+    }
+  },
+  "bien sé lo": {
+    "count": 2,
+    "next": {
+      "sé lo que": 2
+    }
+  },
+  "besar las manos": {
+    "count": 2,
+    "next": {
+      "las manos a": 2
+    }
+  },
+  "su sobrina y": {
+    "count": 2,
+    "next": {
+      "sobrina y a": 2
+    }
+  },
+  "sobrina y a": {
+    "count": 2,
+    "next": {
+      "y a su": 2
+    }
+  },
+  "quizá podría ser": {
+    "count": 2,
+    "next": {
+      "podría ser que": 2
+    }
+  },
+  "Quijote, y el": {
+    "count": 2,
+    "next": {
+      "y el cura": 1,
+      "y el duque": 1
+    }
+  },
+  "que le hago": {
+    "count": 2,
+    "next": {
+      "le hago saber": 2
+    }
+  },
+  "ni en todo": {
+    "count": 2,
+    "next": {
+      "en todo el": 2
+    }
+  },
+  "merced, mi señor": {
+    "count": 3,
+    "next": {
+      "mi señor don": 3
+    }
+  },
+  "sobrina y ama": {
+    "count": 2,
+    "next": {
+      "y ama de": 2
+    }
+  },
+  "y ama de": {
+    "count": 2,
+    "next": {
+      "ama de don": 2
+    }
+  },
+  "ama de don": {
+    "count": 3,
+    "next": {
+      "de don Quijote,": 3
+    }
+  },
+  "nada de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "autor de la": {
+    "count": 3,
+    "next": {
+      "de la historia": 3
+    }
+  },
+  "que a vuestra": {
+    "count": 5,
+    "next": {
+      "a vuestra merced": 5
+    }
+  },
+  "A fee que": {
+    "count": 2,
+    "next": {
+      "fee que no": 2
+    }
+  },
+  "por el señor": {
+    "count": 2,
+    "next": {
+      "el señor don": 2
+    }
+  },
+  "del señor don": {
+    "count": 6,
+    "next": {
+      "señor don Quijote,": 6
+    }
+  },
+  "mundo de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "tomado el pulso": {
+    "count": 2,
+    "next": {
+      "el pulso a": 2
+    }
+  },
+  "el pulso a": {
+    "count": 2,
+    "next": {
+      "pulso a lo": 2
+    }
+  },
+  "mi amo don": {
+    "count": 2,
+    "next": {
+      "amo don Quijote,": 2
+    }
+  },
+  "amo don Quijote,": {
+    "count": 3,
+    "next": {
+      "don Quijote, el": 1,
+      "don Quijote, que": 2
+    }
+  },
+  "mujer -respondió Sancho-,": {
+    "count": 2,
+    "next": {
+      "-respondió Sancho-, que": 2
+    }
+  },
+  "y por lo": {
+    "count": 2,
+    "next": {
+      "por lo que": 2
+    }
+  },
+  "oído en todos": {
+    "count": 2,
+    "next": {
+      "en todos los": 2
+    }
+  },
+  "Sancho Panza; que,": {
+    "count": 2,
+    "next": {
+      "Panza; que, puesto": 2
+    }
+  },
+  "Panza; que, puesto": {
+    "count": 2,
+    "next": {
+      "que, puesto que": 2
+    }
+  },
+  "leído la primera": {
+    "count": 3,
+    "next": {
+      "la primera parte": 3
+    }
+  },
+  "testamento y codicilo": {
+    "count": 2,
+    "next": {
+      "y codicilo que": 2
+    }
+  },
+  "y codicilo que": {
+    "count": 2,
+    "next": {
+      "codicilo que no": 2
+    }
+  },
+  "codicilo que no": {
+    "count": 2,
+    "next": {
+      "que no se": 2
+    }
+  },
+  "-Eso es lo": {
+    "count": 2,
+    "next": {
+      "es lo que": 2
+    }
+  },
+  "ser que en": {
+    "count": 2,
+    "next": {
+      "que en el": 1,
+      "que en la": 1
+    }
+  },
+  "temeroso de que": {
+    "count": 2,
+    "next": {
+      "de que no": 2
+    }
+  },
+  "a pelo de": {
+    "count": 2,
+    "next": {
+      "pelo de lo": 2
+    }
+  },
+  "pelo de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "relación de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "llegándose a don": {
+    "count": 3,
+    "next": {
+      "a don Quijote,": 3
+    }
+  },
+  "vuesa merced, señor": {
+    "count": 7,
+    "next": {
+      "merced, señor don": 7
+    }
+  },
+  "pasó gran parte": {
+    "count": 2,
+    "next": {
+      "gran parte de": 2
+    }
+  },
+  "decir -respondió don": {
+    "count": 3,
+    "next": {
+      "-respondió don Quijote-": 3
+    }
+  },
+  "más valiente y": {
+    "count": 2,
+    "next": {
+      "valiente y el": 2
+    }
+  },
+  "valiente y el": {
+    "count": 2,
+    "next": {
+      "y el más": 2
+    }
+  },
+  "mayor parte de": {
+    "count": 2,
+    "next": {
+      "parte de la": 2
+    }
+  },
+  "que vuesa merced,": {
+    "count": 3,
+    "next": {
+      "vuesa merced, señor": 3
+    }
+  },
+  "en esta verdad": {
+    "count": 2,
+    "next": {
+      "esta verdad que": 2
+    }
+  },
+  "mí -respondió don": {
+    "count": 2,
+    "next": {
+      "-respondió don Quijote-": 2
+    }
+  },
+  "-Suplico a vuesa": {
+    "count": 2,
+    "next": {
+      "a vuesa merced,": 2
+    }
+  },
+  "a vuesa merced,": {
+    "count": 4,
+    "next": {
+      "vuesa merced, señor": 3,
+      "vuesa merced, mi": 1
+    }
+  },
+  "sabe la verdad": {
+    "count": 2,
+    "next": {
+      "la verdad de": 2
+    }
+  },
+  "-Hay mucho que": {
+    "count": 2,
+    "next": {
+      "mucho que decir": 2
+    }
+  },
+  "que decir -respondió": {
+    "count": 2,
+    "next": {
+      "decir -respondió don": 2
+    }
+  },
+  "su vida. A": {
+    "count": 2,
+    "next": {
+      "vida. A lo": 2
+    }
+  },
+  "vida. A lo": {
+    "count": 2,
+    "next": {
+      "A lo que": 2
+    }
+  },
+  "Sancho-, porque me": {
+    "count": 2,
+    "next": {
+      "porque me parece": 2
+    }
+  },
+  "señor, a lo": {
+    "count": 2,
+    "next": {
+      "a lo que": 2
+    }
+  },
+  "dicho, en tanto": {
+    "count": 2,
+    "next": {
+      "en tanto que": 2
+    }
+  },
+  "de agua, que": {
+    "count": 2,
+    "next": {
+      "agua, que en": 2
+    }
+  },
+  "agua, que en": {
+    "count": 2,
+    "next": {
+      "que en la": 2
+    }
+  },
+  "Sancho y a": {
+    "count": 2,
+    "next": {
+      "y a don": 2
+    }
+  },
+  "pulso a lo": {
+    "count": 2,
+    "next": {
+      "a lo que": 2
+    }
+  },
+  "huésped. A lo": {
+    "count": 2,
+    "next": {
+      "A lo que": 2
+    }
+  },
+  "abundancia de la": {
+    "count": 2,
+    "next": {
+      "de la casa": 2
+    }
+  },
+  "suplica a vuestra": {
+    "count": 2,
+    "next": {
+      "a vuestra merced": 1,
+      "a vuestra merced,": 1
+    }
+  },
+  "vuesa merced, mi": {
+    "count": 2,
+    "next": {
+      "merced, mi señor": 2
+    }
+  },
+  "el que hubiere": {
+    "count": 2,
+    "next": {
+      "que hubiere leído": 2
+    }
+  },
+  "que hubiere leído": {
+    "count": 2,
+    "next": {
+      "hubiere leído la": 2
+    }
+  },
+  "hubiere leído la": {
+    "count": 2,
+    "next": {
+      "leído la primera": 2
+    }
+  },
+  "bien al revés": {
+    "count": 3,
+    "next": {
+      "al revés de": 3
+    }
+  },
+  "de servir a": {
+    "count": 2,
+    "next": {
+      "servir a vuestra": 2
+    }
+  },
+  "abrazar a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "a la duquesa": {
+    "count": 3,
+    "next": {
+      "la duquesa y": 1,
+      "la duquesa de": 2
+    }
+  },
+  "la duquesa y": {
+    "count": 4,
+    "next": {
+      "duquesa y don": 3,
+      "duquesa y el": 1
+    }
+  },
+  "y la duquesa": {
+    "count": 5,
+    "next": {
+      "la duquesa de": 3,
+      "la duquesa y": 2
+    }
+  },
+  "y el duque": {
+    "count": 2,
+    "next": {
+      "el duque y": 2
+    }
+  },
+  "de la duquesa": {
+    "count": 2,
+    "next": {
+      "la duquesa y": 1,
+      "la duquesa de": 1
+    }
+  },
+  "el duque y": {
+    "count": 16,
+    "next": {
+      "duque y la": 16
+    }
+  },
+  "la duquesa de": {
+    "count": 2,
+    "next": {
+      "duquesa de lo": 2
+    }
+  },
+  "duquesa de lo": {
+    "count": 2,
+    "next": {
+      "de lo que": 2
+    }
+  },
+  "La duquesa y": {
+    "count": 2,
+    "next": {
+      "duquesa y el": 2
+    }
+  },
+  "duquesa y el": {
+    "count": 3,
+    "next": {
+      "y el duque": 3
+    }
+  },
+  "duque y la": {
+    "count": 11,
+    "next": {
+      "y la duquesa": 11
+    }
+  },
+  "-dijo la duquesa-,": {
+    "count": 2,
+    "next": {
+      "la duquesa-, señor": 2
+    }
+  },
+  "de plata, y": {
+    "count": 2,
+    "next": {
+      "plata, y la": 2
+    }
+  },
+  "plata, y la": {
+    "count": 2,
+    "next": {
+      "y la otra": 2
+    }
+  },
+  "la doncella de": {
+    "count": 2,
+    "next": {
+      "doncella de la": 2
+    }
+  },
+  "como a don": {
+    "count": 2,
+    "next": {
+      "a don Quijote,": 2
+    }
+  },
+  "Sancho -dijo la": {
+    "count": 5,
+    "next": {
+      "-dijo la duquesa-,": 5
+    }
+  },
+  "los duques y": {
+    "count": 2,
+    "next": {
+      "duques y a": 2
+    }
+  },
+  "el duque, la": {
+    "count": 3,
+    "next": {
+      "duque, la duquesa": 3
+    }
+  },
+  "duque, la duquesa": {
+    "count": 3,
+    "next": {
+      "la duquesa y": 3
+    }
+  },
+  "duquesa y don": {
+    "count": 2,
+    "next": {
+      "y don Quijote,": 2
+    }
+  },
+  "buen Sancho -dijo": {
+    "count": 2,
+    "next": {
+      "Sancho -dijo la": 2
+    }
+  },
+  "de cómo se": {
+    "count": 3,
+    "next": {
+      "cómo se había": 3
+    }
+  },
+  "cómo se había": {
+    "count": 6,
+    "next": {
+      "se había de": 6
+    }
+  },
+  "a los duques": {
+    "count": 3,
+    "next": {
+      "los duques y": 3
+    }
+  },
+  "responder a lo": {
+    "count": 2,
+    "next": {
+      "a lo que": 2
+    }
+  },
+  "en la estancia": {
+    "count": 2,
+    "next": {
+      "la estancia de": 2
+    }
+  },
+  "mundo, si es": {
+    "count": 2,
+    "next": {
+      "si es que": 2
+    }
+  },
+  "la duquesa-, señor": {
+    "count": 2,
+    "next": {
+      "duquesa-, señor don": 2
+    }
+  },
+  "duquesa-, señor don": {
+    "count": 2,
+    "next": {
+      "señor don Quijote,": 2
+    }
+  },
+  "Sancho. A lo": {
+    "count": 2,
+    "next": {
+      "A lo que": 2
+    }
+  },
+  "que sepa vuesa": {
+    "count": 2,
+    "next": {
+      "sepa vuesa merced,": 2
+    }
+  },
+  "sepa vuesa merced,": {
+    "count": 2,
+    "next": {
+      "vuesa merced, señor": 1,
+      "vuesa merced, mi": 1
+    }
+  },
+  "estancia de don": {
+    "count": 2,
+    "next": {
+      "de don Quijote,": 2
+    }
+  },
+  "tarde. A lo": {
+    "count": 2,
+    "next": {
+      "A lo que": 2
+    }
+  },
+  "licencia a los": {
+    "count": 2,
+    "next": {
+      "a los duques": 2
+    }
+  },
+  "de mi amo": {
+    "count": 2,
+    "next": {
+      "mi amo don": 2
+    }
+  },
+  "duques y a": {
+    "count": 2,
+    "next": {
+      "y a todos": 1,
+      "y a los": 1
+    }
+  },
+  "por ser uno": {
+    "count": 2,
+    "next": {
+      "ser uno de": 2
+    }
+  },
+  "ser uno de": {
+    "count": 2,
+    "next": {
+      "uno de los": 2
+    }
+  },
+  "y de Sancho": {
+    "count": 2,
+    "next": {
+      "de Sancho Panza,": 2
+    }
+  },
+  "-Yo -dijo don": {
+    "count": 2,
+    "next": {
+      "-dijo don Quijote-": 2
+    }
+  },
+  "y se volvió": {
+    "count": 2,
+    "next": {
+      "se volvió a": 2
+    }
+  },
+  "la has de": {
+    "count": 2,
+    "next": {
+      "has de ver": 2
+    }
+  },
+  "ver en todos": {
+    "count": 2,
+    "next": {
+      "en todos los": 2
+    }
+  }
+}

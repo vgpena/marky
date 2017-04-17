@@ -1,0 +1,5970 @@
+{
+  "my mouth": {
+    "count": 2,
+    "next": {
+      "the words": 1,
+      "the fire": 1
+    }
+  },
+  "the words": {
+    "count": 10,
+    "next": {
+      "the hero": 1,
+      "the blacksmith": 1,
+      "of Ilmarinen:": 5,
+      "the master": 1,
+      "of magic,": 1,
+      "of the": 1
+    }
+  },
+  "the other,": {
+    "count": 2,
+    "next": {
+      "In a": 1,
+      "On the": 1
+    }
+  },
+  "O'er the": {
+    "count": 4,
+    "next": {
+      "snow-capped hills": 1,
+      "blue-back of": 2,
+      "sacred stream": 1
+    }
+  },
+  "of the": {
+    "count": 12,
+    "next": {
+      "Northland. Spake": 3,
+      "Northland, To": 1,
+      "highways, To": 2,
+      "waters, From": 1,
+      "evening, For": 1,
+      "cloudlets, On": 2,
+      "magician, To": 1,
+      "needle, Through": 1
+    }
+  },
+  "the belt": {
+    "count": 2,
+    "next": {
+      "of Wainamoinen,": 1,
+      "of heaven,": 1
+    }
+  },
+  "of Wainamoinen,": {
+    "count": 5,
+    "next": {
+      "From the": 1,
+      "Through the": 1,
+      "For the": 1,
+      "To the": 2
+    }
+  },
+  "From the": {
+    "count": 22,
+    "next": {
+      "dwellings of": 2,
+      "tips of": 2,
+      "milk of": 2,
+      "fragments of": 3,
+      "wounds of": 3,
+      "never-pleasant Northland,": 1,
+      "fatal stream": 1,
+      "kingdom of": 2,
+      "bottom of": 1,
+      "cataract's commotion,": 1,
+      "river of": 1,
+      "mother of": 1,
+      "copper-bearing mountains,": 1,
+      "red rims": 1
+    }
+  },
+  "the sword": {
+    "count": 2,
+    "next": {
+      "of battle,": 2
+    }
+  },
+  "of Kalevala.": {
+    "count": 2,
+    "next": {
+      "Thereupon the": 1,
+      "On the": 1
+    }
+  },
+  "the songs": {
+    "count": 4,
+    "next": {
+      "of the": 3,
+      "of gladness,": 1
+    }
+  },
+  "among the": {
+    "count": 2,
+    "next": {
+      "billows; With": 2
+    }
+  },
+  "has brought": {
+    "count": 3,
+    "next": {
+      "thee to": 2,
+      "me to": 1
+    }
+  },
+  "them to": {
+    "count": 4,
+    "next": {
+      "the Northland,": 1,
+      "the hands": 1,
+      "the woodlands,": 1,
+      "upper Northland,": 1
+    }
+  },
+  "Laid them": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "Through the": {
+    "count": 5,
+    "next": {
+      "blue-back of": 1,
+      "kingdom of": 1,
+      "hamlets of": 1,
+      "sacred stream": 1,
+      "dwellings of": 1
+    }
+  },
+  "To the": {
+    "count": 67,
+    "next": {
+      "pleasure of": 7,
+      "dwellings of": 3,
+      "meadows of": 3,
+      "joy of": 10,
+      "kingdom of": 4,
+      "bottom of": 4,
+      "borders of": 4,
+      "river of": 4,
+      "snow-capped hills": 1,
+      "sacred stream": 2,
+      "fatal stream": 1,
+      "bear-dens of": 3,
+      "islands in": 2,
+      "hands of": 2,
+      "foaming beer": 1,
+      "blacksmith, Ilmarinen,": 2,
+      "reckless Lemminkainen,": 1,
+      "hero of": 1,
+      "unfamiliar portals,": 1,
+      "forests of": 1,
+      "cataract's commotion,": 2,
+      "songs of": 2,
+      "copper-bearing mountain,": 2,
+      "fog-point in": 2,
+      "border of": 1,
+      "hamlets of": 1
+    }
+  },
+  "the beer": {
+    "count": 2,
+    "next": {
+      "of barley,": 1,
+      "of Kalevala,": 1
+    }
+  },
+  "Of the": {
+    "count": 6,
+    "next": {
+      "sacred stream": 1,
+      "blacksmith, Ilmarinen,": 1,
+      "hostess of": 1,
+      "master of": 1,
+      "Sun in": 1,
+      "hero, Lemminkainen,": 1
+    }
+  },
+  "pleasure of": {
+    "count": 6,
+    "next": {
+      "the evening,": 4,
+      "the maidens,": 1,
+      "his people.": 1
+    }
+  },
+  "the evening,": {
+    "count": 4,
+    "next": {
+      "To the": 2,
+      "In the": 1,
+      "For the": 1
+    }
+  },
+  "evening, For": {
+    "count": 2,
+    "next": {
+      "the beauty": 1,
+      "the joy": 1
+    }
+  },
+  "the beauty": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the pleasure": {
+    "count": 5,
+    "next": {
+      "of the": 5
+    }
+  },
+  "them singing,": {
+    "count": 2,
+    "next": {
+      "That the": 1,
+      "Through the": 1
+    }
+  },
+  "That the": {
+    "count": 5,
+    "next": {
+      "hero, Lemminkainen,": 1,
+      "father may": 2,
+      "ancient Wainamoinen,": 1,
+      "ancient Wainamoinen": 1
+    }
+  },
+  "a maiden,": {
+    "count": 2,
+    "next": {
+      "That can": 1,
+      "On the": 1
+    }
+  },
+  "In the": {
+    "count": 21,
+    "next": {
+      "morning, in": 2,
+      "kingdom of": 6,
+      "forests of": 1,
+      "river of": 2,
+      "hands of": 5,
+      "hamlets of": 1,
+      "copper-bearing mountain.": 3,
+      "copper-bearing mountain,": 1
+    }
+  },
+  "of heaven,": {
+    "count": 5,
+    "next": {
+      "O'er the": 1,
+      "From the": 2,
+      "To thy": 1,
+      "In the": 1
+    }
+  },
+  "the maiden": {
+    "count": 5,
+    "next": {
+      "in the": 1,
+      "gives him:": 2,
+      "of the": 1,
+      "With the": 1
+    }
+  },
+  "to the": {
+    "count": 5,
+    "next": {
+      "music Of": 2,
+      "hands of": 2,
+      "waters, From": 1
+    }
+  },
+  "Thereupon the": {
+    "count": 4,
+    "next": {
+      "youth, Kullervo,": 4
+    }
+  },
+  "and fro": {
+    "count": 2,
+    "next": {
+      "among the": 1,
+      "the lid": 1
+    }
+  },
+  "the blue": {
+    "count": 6,
+    "next": {
+      "back of": 6
+    }
+  },
+  "back of": {
+    "count": 6,
+    "next": {
+      "the marshes,": 1,
+      "the waters,": 2,
+      "the ocean,": 3
+    }
+  },
+  "On the": {
+    "count": 36,
+    "next": {
+      "blue back": 3,
+      "red rims": 3,
+      "border of": 7,
+      "evening of": 2,
+      "blue-back of": 4,
+      "borders of": 7,
+      "next day": 1,
+      "bottom of": 2,
+      "meadows of": 1,
+      "back of": 1,
+      "tips of": 1,
+      "snow-capped hills": 1,
+      "fog-point in": 3
+    }
+  },
+  "With the": {
+    "count": 4,
+    "next": {
+      "stone of": 1,
+      "milk of": 1,
+      "beauty of": 1,
+      "blacksmith, Ilmarinen,": 1
+    }
+  },
+  "in all": {
+    "count": 4,
+    "next": {
+      "of Northland,": 2,
+      "directions, Called,": 2
+    }
+  },
+  "Spake these": {
+    "count": 5,
+    "next": {
+      "words of": 5
+    }
+  },
+  "in the": {
+    "count": 5,
+    "next": {
+      "course of": 4,
+      "hero's pathway.": 1
+    }
+  },
+  "the smallest": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "in safety.": {
+    "count": 2,
+    "next": {
+      "Thereupon the": 1,
+      "Spake the": 1
+    }
+  },
+  "the winds": {
+    "count": 2,
+    "next": {
+      "my dwelling,": 1,
+      "of heaven,": 1
+    }
+  },
+  "my dwelling,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "In the": 1
+    }
+  },
+  "away the": {
+    "count": 2,
+    "next": {
+      "magic Sampo,": 1,
+      "wondrous Sampo,": 1
+    }
+  },
+  "Then the": {
+    "count": 22,
+    "next": {
+      "ancient Wainamoinen": 8,
+      "blacksmith, Ilmarinen,": 3,
+      "hero, Lemminkainen,": 1,
+      "mother of": 1,
+      "hostess of": 5,
+      "master of": 1,
+      "hero of": 1,
+      "beauty of": 1,
+      "reckless Lemminkainen,": 1
+    }
+  },
+  "Now the": {
+    "count": 2,
+    "next": {
+      "ancient Wainamoinen,": 1,
+      "blacksmith, Ilmarinen,": 1
+    }
+  },
+  "the ocean,": {
+    "count": 15,
+    "next": {
+      "That the": 1,
+      "Through the": 1,
+      "And the": 2,
+      "To the": 4,
+      "From the": 1,
+      "On the": 3,
+      "As the": 1,
+      "Never in": 1,
+      "When the": 1
+    }
+  },
+  "blue back": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "on the": {
+    "count": 3,
+    "next": {
+      "waste of": 1,
+      "very bottom": 1,
+      "courser, Hitched": 1
+    }
+  },
+  "of iron;": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "I will": 1
+    }
+  },
+  "one day,": {
+    "count": 23,
+    "next": {
+      "then a": 10,
+      "and then": 13
+    }
+  },
+  "then a": {
+    "count": 6,
+    "next": {
+      "second, Then": 2,
+      "second, Blows": 2,
+      "second, Swam": 2
+    }
+  },
+  "second, Then": {
+    "count": 3,
+    "next": {
+      "a third": 3
+    }
+  },
+  "a third": {
+    "count": 4,
+    "next": {
+      "day evening": 1,
+      "of magic": 1,
+      "from morn": 2
+    }
+  },
+  "And the": {
+    "count": 3,
+    "next": {
+      "next day": 1,
+      "blacksmith, Ilmarinen,": 2
+    }
+  },
+  "the bottom": {
+    "count": 13,
+    "next": {
+      "Of the": 5,
+      "of the": 8
+    }
+  },
+  "the rocks": {
+    "count": 3,
+    "next": {
+      "her silken": 2,
+      "in slumber,": 1
+    }
+  },
+  "of many": {
+    "count": 2,
+    "next": {
+      "colors Sank": 2
+    }
+  },
+  "the sunshine,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "From the": 1
+    }
+  },
+  "waste of": {
+    "count": 2,
+    "next": {
+      "waters, On": 2
+    }
+  },
+  "waters, On": {
+    "count": 2,
+    "next": {
+      "the blue": 1,
+      "the waters": 1
+    }
+  },
+  "the moonlight,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "From the": 1
+    }
+  },
+  "the islands,": {
+    "count": 5,
+    "next": {
+      "On the": 2,
+      "From the": 1,
+      "O'er the": 1,
+      "For the": 1
+    }
+  },
+  "Nor the": {
+    "count": 4,
+    "next": {
+      "dawning of": 1,
+      "dwellings of": 3
+    }
+  },
+  "across the": {
+    "count": 2,
+    "next": {
+      "waters, On": 1,
+      "hero's pathway.": 1
+    }
+  },
+  "the waters,": {
+    "count": 18,
+    "next": {
+      "Nor belonged": 1,
+      "On the": 6,
+      "Travels one": 1,
+      "O'er the": 3,
+      "To the": 4,
+      "Sang the": 1,
+      "Spake these": 1,
+      "From the": 1
+    }
+  },
+  "On his": {
+    "count": 3,
+    "next": {
+      "journey to": 3
+    }
+  },
+  "the island,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "To the": 1
+    }
+  },
+  "the mountains,": {
+    "count": 7,
+    "next": {
+      "In the": 1,
+      "And the": 1,
+      "To the": 3,
+      "From the": 1,
+      "On the": 1
+    }
+  },
+  "the marshes,": {
+    "count": 6,
+    "next": {
+      "In the": 2,
+      "On the": 2,
+      "To the": 1,
+      "Learned the": 1
+    }
+  },
+  "all the": {
+    "count": 3,
+    "next": {
+      "next day": 3
+    }
+  },
+  "the hero,": {
+    "count": 3,
+    "next": {
+      "In the": 1,
+      "From the": 1,
+      "Who will": 1
+    }
+  },
+  "the forests": {
+    "count": 5,
+    "next": {
+      "of the": 3,
+      "to the": 1,
+      "of Wainola,": 1
+    }
+  },
+  "In a": {
+    "count": 2,
+    "next": {
+      "single night": 2
+    }
+  },
+  "Wainamoinen, old": {
+    "count": 9,
+    "next": {
+      "and trusty,": 5,
+      "and faithful,": 4
+    }
+  },
+  "and trusty,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "At the": 1
+    }
+  },
+  "and well": {
+    "count": 2,
+    "next": {
+      "examined, On": 2
+    }
+  },
+  "How to": {
+    "count": 2,
+    "next": {
+      "bear the": 1,
+      "live without": 1
+    }
+  },
+  "the moonlight": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "mighty hero,": {
+    "count": 2,
+    "next": {
+      "On the": 2
+    }
+  },
+  "That can": {
+    "count": 8,
+    "next": {
+      "know the": 3,
+      "check this": 3,
+      "heal the": 2
+    }
+  },
+  "these words": {
+    "count": 13,
+    "next": {
+      "of Ilmarinen,": 1,
+      "the hero": 4,
+      "of magic,": 1,
+      "in wonder,": 2,
+      "to those": 2,
+      "to the": 2,
+      "of magic": 1
+    }
+  },
+  "Rose a": {
+    "count": 2,
+    "next": {
+      "hero from": 2
+    }
+  },
+  "hero from": {
+    "count": 2,
+    "next": {
+      "the waters,": 2
+    }
+  },
+  "Nor belonged": {
+    "count": 4,
+    "next": {
+      "he to": 4
+    }
+  },
+  "he to": {
+    "count": 2,
+    "next": {
+      "the largest,": 2
+    }
+  },
+  "the largest,": {
+    "count": 2,
+    "next": {
+      "Nor belonged": 2
+    }
+  },
+  "the hand": {
+    "count": 2,
+    "next": {
+      "to touch": 2
+    }
+  },
+  "of copper,": {
+    "count": 5,
+    "next": {
+      "In a": 2,
+      "On his": 1,
+      "In the": 1,
+      "On the": 1
+    }
+  },
+  "a hero,": {
+    "count": 2,
+    "next": {
+      "How to": 1,
+      "That will": 1
+    }
+  },
+  "Spake the": {
+    "count": 36,
+    "next": {
+      "ancient Wainamoinen:": 13,
+      "hero, Lemminkainen,": 2,
+      "hero, Lemminkainen:": 5,
+      "reckless Lemminkainen,": 5,
+      "hostess of": 6,
+      "hero of": 1,
+      "master of": 3,
+      "ancient Wainamoinen,": 1
+    }
+  },
+  "it, Using": {
+    "count": 4,
+    "next": {
+      "not the": 2,
+      "nothing to": 2
+    }
+  },
+  "In his": {
+    "count": 3,
+    "next": {
+      "journey to": 1,
+      "magic shoes": 2
+    }
+  },
+  "his blade": {
+    "count": 4,
+    "next": {
+      "from morn": 1,
+      "with might": 1,
+      "of magic": 1,
+      "of battle,": 1
+    }
+  },
+  "the master": {
+    "count": 8,
+    "next": {
+      "of Pohyola:": 3,
+      "of the": 4,
+      "of Manala,": 1
+    }
+  },
+  "the billows;": {
+    "count": 2,
+    "next": {
+      "With the": 2
+    }
+  },
+  "the Northland,": {
+    "count": 12,
+    "next": {
+      "For the": 1,
+      "From a": 1,
+      "In the": 1,
+      "There to": 1,
+      "On the": 1,
+      "To the": 3,
+      "With the": 1,
+      "At the": 1,
+      "Spake these": 1,
+      "Through the": 1
+    }
+  },
+  "her silken": {
+    "count": 2,
+    "next": {
+      "stockings, On": 2
+    }
+  },
+  "the waters": {
+    "count": 8,
+    "next": {
+      "of Pohyola,": 2,
+      "in the": 1,
+      "of Wainola,": 1,
+      "of the": 2,
+      "of Tuoni,": 1,
+      "of Manala,": 1
+    }
+  },
+  "of Pohyola,": {
+    "count": 16,
+    "next": {
+      "How to": 1,
+      "Of the": 1,
+      "When the": 1,
+      "With the": 1,
+      "To the": 4,
+      "At the": 1,
+      "O'er the": 3,
+      "In the": 2,
+      "There to": 1,
+      "Give to": 1
+    }
+  },
+  "the clouds": {
+    "count": 3,
+    "next": {
+      "of heaven,": 2,
+      "of Northland": 1
+    }
+  },
+  "the vault": {
+    "count": 2,
+    "next": {
+      "of heaven,": 2
+    }
+  },
+  "the barley": {
+    "count": 5,
+    "next": {
+      "of Wainola,": 1,
+      "bread-crust, Dwell": 2,
+      "On the": 1,
+      "with the": 1
+    }
+  },
+  "well considers,": {
+    "count": 2,
+    "next": {
+      "By the": 1,
+      "And the": 1
+    }
+  },
+  "By the": {
+    "count": 3,
+    "next": {
+      "borders of": 1,
+      "hands of": 1,
+      "sacred stream": 1
+    }
+  },
+  "borders of": {
+    "count": 7,
+    "next": {
+      "the waters,": 2,
+      "the Northland,": 2,
+      "the cloudlets,": 1,
+      "the lowlands,": 1,
+      "the forest,": 1
+    }
+  },
+  "of Wainola,": {
+    "count": 16,
+    "next": {
+      "On the": 5,
+      "Through the": 1,
+      "To the": 4,
+      "From the": 2,
+      "To thy": 1,
+      "Spake these": 1,
+      "With the": 1,
+      "In the": 1
+    }
+  },
+  "For the": {
+    "count": 6,
+    "next": {
+      "joy of": 2,
+      "bottom of": 1,
+      "hostess of": 1,
+      "fragments of": 1,
+      "pleasure of": 1
+    }
+  },
+  "the eagle,": {
+    "count": 3,
+    "next": {
+      "Through the": 1,
+      "On the": 1,
+      "On his": 1
+    }
+  },
+  "ancient Wainamoinen,": {
+    "count": 2,
+    "next": {
+      "Spake these": 1,
+      "In the": 1
+    }
+  },
+  "of barley,": {
+    "count": 5,
+    "next": {
+      "From the": 3,
+      "Spake the": 1,
+      "Do not": 1
+    }
+  },
+  "the earth": {
+    "count": 2,
+    "next": {
+      "to heaven,": 1,
+      "a hundred": 1
+    }
+  },
+  "the fields": {
+    "count": 5,
+    "next": {
+      "and forests,": 1,
+      "of Sariola,": 2,
+      "the child": 1,
+      "of Northland": 1
+    }
+  },
+  "and forests,": {
+    "count": 2,
+    "next": {
+      "There to": 1,
+      "In the": 1
+    }
+  },
+  "the daughters": {
+    "count": 4,
+    "next": {
+      "Of the": 3,
+      "of the": 1
+    }
+  },
+  "of ages,": {
+    "count": 2,
+    "next": {
+      "Let the": 1,
+      "Lay her": 1
+    }
+  },
+  "Let the": {
+    "count": 2,
+    "next": {
+      "hostess of": 1,
+      "hands of": 1
+    }
+  },
+  "the ears": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of Otso,": 1
+    }
+  },
+  "the heavens,": {
+    "count": 5,
+    "next": {
+      "Come thou": 1,
+      "Sang the": 1,
+      "To the": 2,
+      "From the": 1
+    }
+  },
+  "from heaven,": {
+    "count": 2,
+    "next": {
+      "That the": 1,
+      "On the": 1
+    }
+  },
+  "When the": {
+    "count": 3,
+    "next": {
+      "ancient Wainamoinen": 1,
+      "hostess of": 2
+    }
+  },
+  "ancient Wainamoinen:": {
+    "count": 4,
+    "next": {
+      "I have": 1,
+      "With the": 1,
+      "O thou": 1,
+      "Let the": 1
+    }
+  },
+  "for thee": {
+    "count": 2,
+    "next": {
+      "the Sampo,": 1,
+      "I forged": 1
+    }
+  },
+  "joy of": {
+    "count": 2,
+    "next": {
+      "all the": 2
+    }
+  },
+  "the meadows": {
+    "count": 8,
+    "next": {
+      "of Wainola,": 8
+    }
+  },
+  "of Northland": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "O'er the": 1
+    }
+  },
+  "To his": {
+    "count": 4,
+    "next": {
+      "home in": 4
+    }
+  },
+  "dwellings of": {
+    "count": 3,
+    "next": {
+      "Wainola, To": 1,
+      "the whiting,": 2
+    }
+  },
+  "Wainola, To": {
+    "count": 6,
+    "next": {
+      "the cabins": 1,
+      "the plains": 4,
+      "the forge": 1
+    }
+  },
+  "the cabins": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "him to": {
+    "count": 2,
+    "next": {
+      "the highway,": 1,
+      "my sledge": 1
+    }
+  },
+  "These the": {
+    "count": 24,
+    "next": {
+      "words of": 24
+    }
+  },
+  "words of": {
+    "count": 4,
+    "next": {
+      "ancient wisdom,": 4
+    }
+  },
+  "I will": {
+    "count": 5,
+    "next": {
+      "bear the": 1,
+      "forge for": 1,
+      "only give": 2,
+      "hasten to": 1
+    }
+  },
+  "So the": {
+    "count": 2,
+    "next": {
+      "third from": 2
+    }
+  },
+  "third from": {
+    "count": 11,
+    "next": {
+      "morn till": 11
+    }
+  },
+  "morn till": {
+    "count": 2,
+    "next": {
+      "evening, Till": 2
+    }
+  },
+  "evening, Till": {
+    "count": 2,
+    "next": {
+      "the third": 2
+    }
+  },
+  "the third": {
+    "count": 13,
+    "next": {
+      "from morn": 10,
+      "day evening": 3
+    }
+  },
+  "brings him": {
+    "count": 3,
+    "next": {
+      "To the": 3
+    }
+  },
+  "meadows of": {
+    "count": 4,
+    "next": {
+      "Wainola, To": 3,
+      "thy father,": 1
+    }
+  },
+  "the plains": {
+    "count": 11,
+    "next": {
+      "of Kalevala.": 5,
+      "of Sariola,": 1,
+      "of Kalma,": 1,
+      "of Kalevala,": 3,
+      "of the": 1
+    }
+  },
+  "to pieces.": {
+    "count": 2,
+    "next": {
+      "Spake the": 1,
+      "When the": 1
+    }
+  },
+  "Spake again": {
+    "count": 2,
+    "next": {
+      "to those": 1,
+      "the magic": 1
+    }
+  },
+  "the highway,": {
+    "count": 7,
+    "next": {
+      "And the": 1,
+      "To his": 1,
+      "Toward the": 1,
+      "There to": 1,
+      "Then the": 1,
+      "Spake these": 1,
+      "Speaks these": 1
+    }
+  },
+  "Art thou": {
+    "count": 3,
+    "next": {
+      "ancient Wainamoinen,": 1,
+      "then a": 1,
+      "blacksmith, Ilmarinen,": 1
+    }
+  },
+  "the pike": {
+    "count": 4,
+    "next": {
+      "of Suomi,": 1,
+      "of Mana,": 2,
+      "in all": 1
+    }
+  },
+  "the first": {
+    "count": 2,
+    "next": {
+      "words of": 1,
+      "and last": 1
+    }
+  },
+  "First of": {
+    "count": 3,
+    "next": {
+      "all the": 3
+    }
+  },
+  "thee still": {
+    "count": 3,
+    "next": {
+      "farther, To": 3
+    }
+  },
+  "planted, When": {
+    "count": 2,
+    "next": {
+      "the Bear": 1,
+      "a child": 1
+    }
+  },
+  "the Bear": {
+    "count": 2,
+    "next": {
+      "of heaven,": 2
+    }
+  },
+  "Lord of": {
+    "count": 2,
+    "next": {
+      "all the": 2
+    }
+  },
+  "the forest,": {
+    "count": 3,
+    "next": {
+      "On the": 1,
+      "And the": 1,
+      "For the": 1
+    }
+  },
+  "not the": {
+    "count": 2,
+    "next": {
+      "largest, Nor": 2
+    }
+  },
+  "copper-bearing mountains,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "From the": 1
+    }
+  },
+  "But alas!": {
+    "count": 2,
+    "next": {
+      "the foot": 1,
+      "the child": 1
+    }
+  },
+  "the foot": {
+    "count": 2,
+    "next": {
+      "to turn": 2
+    }
+  },
+  "O thou": {
+    "count": 7,
+    "next": {
+      "ancient Wainamoinen,": 3,
+      "metal-artist, Forge": 1,
+      "blacksmith, Ilmarinen,": 3
+    }
+  },
+  "I have": {
+    "count": 3,
+    "next": {
+      "not the": 2,
+      "come to": 1
+    }
+  },
+  "ancient Wainamoinen": {
+    "count": 2,
+    "next": {
+      "Spake these": 1,
+      "Sang the": 1
+    }
+  },
+  "not need": {
+    "count": 2,
+    "next": {
+      "the hand": 1,
+      "the foot": 1
+    }
+  },
+  "of anguish,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "And the": 1
+    }
+  },
+  "Youkahainen thus": {
+    "count": 2,
+    "next": {
+      "made answer:": 2
+    }
+  },
+  "Wainamoinen, Wisest": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "and water,": {
+    "count": 2,
+    "next": {
+      "I will": 1,
+      "On the": 1
+    }
+  },
+  "Pride and": {
+    "count": 5,
+    "next": {
+      "joy of": 3,
+      "beauty of": 2
+    }
+  },
+  "Thus the": {
+    "count": 6,
+    "next": {
+      "hero, Lemminkainen,": 1,
+      "ancient Wainamoinen": 3,
+      "blacksmith, Ilmarinen,": 2
+    }
+  },
+  "As the": {
+    "count": 2,
+    "next": {
+      "duck upon": 1,
+      "songs of": 1
+    }
+  },
+  "the water,": {
+    "count": 4,
+    "next": {
+      "From the": 1,
+      "In the": 1,
+      "By the": 1,
+      "On the": 1
+    }
+  },
+  "himself upon": {
+    "count": 3,
+    "next": {
+      "the eagle,": 2,
+      "the bottom": 1
+    }
+  },
+  "Snaps his": {
+    "count": 2,
+    "next": {
+      "whip above": 2
+    }
+  },
+  "the portals,": {
+    "count": 3,
+    "next": {
+      "Do not": 1,
+      "in the": 1,
+      "Near the": 1
+    }
+  },
+  "thy mind": {
+    "count": 2,
+    "next": {
+      "to journey": 1,
+      "of magic,": 1
+    }
+  },
+  "son beloved,": {
+    "count": 5,
+    "next": {
+      "Do not": 1,
+      "To the": 3,
+      "In the": 1
+    }
+  },
+  "wept and": {
+    "count": 2,
+    "next": {
+      "murmured, Wept": 2
+    }
+  },
+  "a second,": {
+    "count": 6,
+    "next": {
+      "then a": 2,
+      "In the": 2,
+      "On the": 1,
+      "So the": 1
+    }
+  },
+  "I must": {
+    "count": 4,
+    "next": {
+      "hasten to": 1,
+      "go to": 2,
+      "live without": 1
+    }
+  },
+  "Hope and": {
+    "count": 2,
+    "next": {
+      "pleasure of": 1,
+      "joy of": 1
+    }
+  },
+  "me now": {
+    "count": 3,
+    "next": {
+      "the sword": 2,
+      "thy daughter,": 1
+    }
+  },
+  "moonlight glimmers": {
+    "count": 5,
+    "next": {
+      "On the": 4,
+      "O'er the": 1
+    }
+  },
+  "for me": {
+    "count": 5,
+    "next": {
+      "will forge": 1,
+      "the Sampo,": 1,
+      "in heat": 1,
+      "an axe": 1,
+      "to touch": 1
+    }
+  },
+  "shallop; Sooner": {
+    "count": 2,
+    "next": {
+      "wear the": 2
+    }
+  },
+  "wear the": {
+    "count": 2,
+    "next": {
+      "simplest raiment,": 2
+    }
+  },
+  "simplest raiment,": {
+    "count": 2,
+    "next": {
+      "Feed upon": 2
+    }
+  },
+  "Feed upon": {
+    "count": 2,
+    "next": {
+      "the barley": 2
+    }
+  },
+  "bread-crust, Dwell": {
+    "count": 2,
+    "next": {
+      "forever with": 2
+    }
+  },
+  "forever with": {
+    "count": 2,
+    "next": {
+      "my mother": 2
+    }
+  },
+  "my mother": {
+    "count": 2,
+    "next": {
+      "In the": 2
+    }
+  },
+  "Near the": {
+    "count": 2,
+    "next": {
+      "foaming beer": 1,
+      "border of": 1
+    }
+  },
+  "to gather,": {
+    "count": 2,
+    "next": {
+      "There to": 1,
+      "I will": 1
+    }
+  },
+  "There to": {
+    "count": 3,
+    "next": {
+      "sport among": 2,
+      "be the": 1
+    }
+  },
+  "no more": {
+    "count": 3,
+    "next": {
+      "the grass": 1,
+      "the hills": 1,
+      "in Northland,": 1
+    }
+  },
+  "the store-house": {
+    "count": 3,
+    "next": {
+      "on the": 3
+    }
+  },
+  "red rims": {
+    "count": 4,
+    "next": {
+      "of the": 4
+    }
+  },
+  "border of": {
+    "count": 3,
+    "next": {
+      "the highway,": 1,
+      "the court-yard,": 1,
+      "the cloudlets,": 1
+    }
+  },
+  "with gold": {
+    "count": 2,
+    "next": {
+      "and silver.": 1,
+      "and silver,": 1
+    }
+  },
+  "thy kindred,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "I will": 1
+    }
+  },
+  "hastens to": {
+    "count": 2,
+    "next": {
+      "the court-yard,": 1,
+      "the guest-room": 1
+    }
+  },
+  "the court-yard,": {
+    "count": 3,
+    "next": {
+      "There to": 1,
+      "On the": 1,
+      "At the": 1
+    }
+  },
+  "the child": {
+    "count": 2,
+    "next": {
+      "made answer:": 1,
+      "of beauty,": 1
+    }
+  },
+  "poor Aino": {
+    "count": 4,
+    "next": {
+      "wept and": 1,
+      "to the": 3
+    }
+  },
+  "murmured, Wept": {
+    "count": 2,
+    "next": {
+      "one day,": 2
+    }
+  },
+  "and then": {
+    "count": 17,
+    "next": {
+      "a second,": 15,
+      "another, In": 2
+    }
+  },
+  "to ride": {
+    "count": 2,
+    "next": {
+      "the billows,": 2
+    }
+  },
+  "the billows,": {
+    "count": 7,
+    "next": {
+      "On the": 2,
+      "In the": 1,
+      "Speaks these": 1,
+      "O'er the": 1,
+      "In a": 1,
+      "From the": 1
+    }
+  },
+  "be the": {
+    "count": 2,
+    "next": {
+      "whiting's sister": 2
+    }
+  },
+  "whiting's sister": {
+    "count": 2,
+    "next": {
+      "And the": 2
+    }
+  },
+  "Straightway hastened": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "the pain": {
+    "count": 2,
+    "next": {
+      "thou feelest,": 2
+    }
+  },
+  "kingdom of": {
+    "count": 6,
+    "next": {
+      "Tuoni, To": 4,
+      "Tuoni, In": 1,
+      "Tuoni, From": 1
+    }
+  },
+  "Tuoni, To": {
+    "count": 5,
+    "next": {
+      "the realm": 2,
+      "the islands": 1,
+      "the cataract": 1,
+      "the kingdom": 1
+    }
+  },
+  "the realm": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "the isle": {
+    "count": 4,
+    "next": {
+      "of the": 1,
+      "of Mana,": 1,
+      "of Ahti,": 1,
+      "for thee": 1
+    }
+  },
+  "Do not": {
+    "count": 8,
+    "next": {
+      "go to": 3,
+      "go, my": 3,
+      "touch her": 2
+    }
+  },
+  "home in": {
+    "count": 2,
+    "next": {
+      "Kalevala, To": 1,
+      "Kalevala. Spake": 1
+    }
+  },
+  "from morn": {
+    "count": 5,
+    "next": {
+      "till even,": 5
+    }
+  },
+  "the rock": {
+    "count": 2,
+    "next": {
+      "of many": 2
+    }
+  },
+  "music Of": {
+    "count": 2,
+    "next": {
+      "the winds": 1,
+      "the harp": 1
+    }
+  },
+  "the waters.": {
+    "count": 2,
+    "next": {
+      "Spake the": 2
+    }
+  },
+  "stockings, On": {
+    "count": 2,
+    "next": {
+      "the grass": 2
+    }
+  },
+  "the grass": {
+    "count": 2,
+    "next": {
+      "her shoes": 2
+    }
+  },
+  "her shoes": {
+    "count": 3,
+    "next": {
+      "of deer-skin,": 3
+    }
+  },
+  "of deer-skin,": {
+    "count": 3,
+    "next": {
+      "In the": 2,
+      "In his": 1
+    }
+  },
+  "stone of": {
+    "count": 2,
+    "next": {
+      "many colors,": 1,
+      "many colors": 1
+    }
+  },
+  "many colors,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "In the": 1
+    }
+  },
+  "the stone": {
+    "count": 3,
+    "next": {
+      "of many": 3
+    }
+  },
+  "bottom of": {
+    "count": 3,
+    "next": {
+      "the furnace,": 1,
+      "the waters,": 1,
+      "the deep-sea,": 1
+    }
+  },
+  "I sought": {
+    "count": 2,
+    "next": {
+      "the sea-side,": 2
+    }
+  },
+  "the sea-side,": {
+    "count": 2,
+    "next": {
+      "There to": 2
+    }
+  },
+  "sport among": {
+    "count": 2,
+    "next": {
+      "the billows;": 2
+    }
+  },
+  "many colors": {
+    "count": 2,
+    "next": {
+      "Sank poor": 2
+    }
+  },
+  "Sank poor": {
+    "count": 2,
+    "next": {
+      "Aino to": 2
+    }
+  },
+  "Aino to": {
+    "count": 2,
+    "next": {
+      "the bottom": 2
+    }
+  },
+  "father, To": {
+    "count": 2,
+    "next": {
+      "the borders": 1,
+      "the cabins": 1
+    }
+  },
+  "the borders": {
+    "count": 10,
+    "next": {
+      "of the": 9,
+      "of Pohyola,": 1
+    }
+  },
+  "dear, I": {
+    "count": 2,
+    "next": {
+      "sought the": 2
+    }
+  },
+  "sought the": {
+    "count": 2,
+    "next": {
+      "sea-side, There": 2
+    }
+  },
+  "sea-side, There": {
+    "count": 2,
+    "next": {
+      "to sport": 2
+    }
+  },
+  "to sport": {
+    "count": 2,
+    "next": {
+      "among the": 2
+    }
+  },
+  "billows; With": {
+    "count": 2,
+    "next": {
+      "the stone": 2
+    }
+  },
+  "colors Sank": {
+    "count": 2,
+    "next": {
+      "poor Aino": 2
+    }
+  },
+  "Who will": {
+    "count": 5,
+    "next": {
+      "tell the": 1,
+      "bear the": 4
+    }
+  },
+  "tell the": {
+    "count": 4,
+    "next": {
+      "cruel story,": 4
+    }
+  },
+  "cruel story,": {
+    "count": 5,
+    "next": {
+      "Who will": 4,
+      "Learned the": 1
+    }
+  },
+  "bear the": {
+    "count": 4,
+    "next": {
+      "evil tidings": 4
+    }
+  },
+  "evil tidings": {
+    "count": 4,
+    "next": {
+      "To the": 4
+    }
+  },
+  "Who then": {
+    "count": 3,
+    "next": {
+      "tell the": 3
+    }
+  },
+  "gentle lambkins.": {
+    "count": 2,
+    "next": {
+      "Who then": 1,
+      "When the": 1
+    }
+  },
+  "makes answer:": {
+    "count": 2,
+    "next": {
+      "I will": 1,
+      "I have": 1
+    }
+  },
+  "of maidens,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "I will": 1
+    }
+  },
+  "the maidens": {
+    "count": 6,
+    "next": {
+      "Of the": 1,
+      "to the": 3,
+      "on the": 1,
+      "of the": 1
+    }
+  },
+  "To thy": {
+    "count": 2,
+    "next": {
+      "home in": 2
+    }
+  },
+  "made answer,": {
+    "count": 3,
+    "next": {
+      "These the": 2,
+      "To the": 1
+    }
+  },
+  "the sea-shore,": {
+    "count": 3,
+    "next": {
+      "To the": 1,
+      "Heard the": 1,
+      "And the": 1
+    }
+  },
+  "very bottom": {
+    "count": 3,
+    "next": {
+      "Of the": 2,
+      "To the": 1
+    }
+  },
+  "the salmon,": {
+    "count": 3,
+    "next": {
+      "There to": 1,
+      "From the": 1,
+      "Through the": 1
+    }
+  },
+  "the home": {
+    "count": 4,
+    "next": {
+      "of Ahti,": 1,
+      "of Lemminkainen,": 1,
+      "of the": 1,
+      "for thee": 1
+    }
+  },
+  "the morning,": {
+    "count": 5,
+    "next": {
+      "in the": 2,
+      "To the": 1,
+      "When the": 1,
+      "And the": 1
+    }
+  },
+  "of magic": {
+    "count": 2,
+    "next": {
+      "Toward the": 1,
+      "From the": 1
+    }
+  },
+  "Speaks these": {
+    "count": 3,
+    "next": {
+      "words of": 3
+    }
+  },
+  "This the": {
+    "count": 23,
+    "next": {
+      "answer of": 16,
+      "language of": 7
+    }
+  },
+  "of Suomi,": {
+    "count": 2,
+    "next": {
+      "On the": 2
+    }
+  },
+  "of silver,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "For the": 1
+    }
+  },
+  "Northland. Spake": {
+    "count": 2,
+    "next": {
+      "the hostess": 2
+    }
+  },
+  "made answer:": {
+    "count": 4,
+    "next": {
+      "I have": 3,
+      "By the": 1
+    }
+  },
+  "well reflected,": {
+    "count": 2,
+    "next": {
+      "How to": 1,
+      "This the": 1
+    }
+  },
+  "blue-back of": {
+    "count": 5,
+    "next": {
+      "the ocean,": 2,
+      "the waters,": 2,
+      "the mountain,": 1
+    }
+  },
+  "of Kalevala,": {
+    "count": 3,
+    "next": {
+      "Speaks these": 1,
+      "From the": 1,
+      "To the": 1
+    }
+  },
+  "to find": {
+    "count": 2,
+    "next": {
+      "these words": 1,
+      "the harp": 1
+    }
+  },
+  "ancient minstrel,": {
+    "count": 3,
+    "next": {
+      "Whips his": 1,
+      "Let the": 1,
+      "To his": 1
+    }
+  },
+  "my fingers": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "From the": 1
+    }
+  },
+  "the kingdom": {
+    "count": 12,
+    "next": {
+      "of Tuoni,": 5,
+      "of Tuoni.": 2,
+      "of Manala,": 2,
+      "of Manala.": 2,
+      "of the": 1
+    }
+  },
+  "morning, in": {
+    "count": 2,
+    "next": {
+      "the evening,": 2
+    }
+  },
+  "the secret,": {
+    "count": 2,
+    "next": {
+      "How to": 1,
+      "Nor the": 1
+    }
+  },
+  "for a": {
+    "count": 2,
+    "next": {
+      "journey To": 1,
+      "vessel, For": 1
+    }
+  },
+  "journey To": {
+    "count": 4,
+    "next": {
+      "the village": 1,
+      "the kingdom": 1,
+      "the mansions": 1,
+      "the never-pleasant": 1
+    }
+  },
+  "the village": {
+    "count": 5,
+    "next": {
+      "of the": 2,
+      "went Kyllikki,": 2,
+      "of Wainola,": 1
+    }
+  },
+  "Northland, To": {
+    "count": 2,
+    "next": {
+      "the chambers": 1,
+      "the people": 1
+    }
+  },
+  "his journey": {
+    "count": 3,
+    "next": {
+      "To his": 1,
+      "to the": 1,
+      "from Pohyola,": 1
+    }
+  },
+  "along the": {
+    "count": 2,
+    "next": {
+      "highway; Only": 2
+    }
+  },
+  "of magic,": {
+    "count": 3,
+    "next": {
+      "From the": 1,
+      "In the": 1,
+      "At the": 1
+    }
+  },
+  "the bow": {
+    "count": 4,
+    "next": {
+      "of beauty,": 1,
+      "of many": 2,
+      "of heaven,": 1
+    }
+  },
+  "them with": {
+    "count": 2,
+    "next": {
+      "his blade": 1,
+      "his fingers,": 1
+    }
+  },
+  "the magician,": {
+    "count": 6,
+    "next": {
+      "From the": 2,
+      "In the": 2,
+      "O'er the": 1,
+      "At the": 1
+    }
+  },
+  "the breaking": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the horizon,": {
+    "count": 3,
+    "next": {
+      "Nor the": 1,
+      "And the": 2
+    }
+  },
+  "dawning of": {
+    "count": 2,
+    "next": {
+      "the morning,": 1,
+      "the morning": 1
+    }
+  },
+  "and through": {
+    "count": 2,
+    "next": {
+      "the forest,": 1,
+      "the marshes,": 1
+    }
+  },
+  "hero of": {
+    "count": 3,
+    "next": {
+      "the Northland,": 2,
+      "the waters": 1
+    }
+  },
+  "From a": {
+    "count": 2,
+    "next": {
+      "single grain": 2
+    }
+  },
+  "the magic": {
+    "count": 4,
+    "next": {
+      "Sampo, Forge": 2,
+      "playing, Hear": 1,
+      "Sampo To": 1
+    }
+  },
+  "Tuoni, In": {
+    "count": 2,
+    "next": {
+      "the realm": 1,
+      "the blue": 1
+    }
+  },
+  "the heart": {
+    "count": 2,
+    "next": {
+      "of Wainamoinen,": 1,
+      "of Lemminkainen,": 1
+    }
+  },
+  "the highest": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "rolling billows,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "On the": 1
+    }
+  },
+  "Wainamoinen, Slain": {
+    "count": 2,
+    "next": {
+      "the son": 2
+    }
+  },
+  "the son": {
+    "count": 2,
+    "next": {
+      "of Kalevala,": 2
+    }
+  },
+  "answer of": {
+    "count": 7,
+    "next": {
+      "the mother:": 6,
+      "the maiden": 1
+    }
+  },
+  "the mother:": {
+    "count": 4,
+    "next": {
+      "Do not": 2,
+      "There is": 1,
+      "This the": 1
+    }
+  },
+  "the joy": {
+    "count": 4,
+    "next": {
+      "of Kalevala.": 1,
+      "of the": 2,
+      "of Wainamoinen,": 1
+    }
+  },
+  "evening of": {
+    "count": 2,
+    "next": {
+      "the third": 2
+    }
+  },
+  "of waters,": {
+    "count": 2,
+    "next": {
+      "Nor the": 1,
+      "Pride and": 1
+    }
+  },
+  "with the": {
+    "count": 2,
+    "next": {
+      "daughter Of": 1,
+      "gentle lambkins.": 1
+    }
+  },
+  "Build I": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "arose a": {
+    "count": 2,
+    "next": {
+      "mighty storm-wind,": 2
+    }
+  },
+  "mighty storm-wind,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "And the": 1
+    }
+  },
+  "head above": {
+    "count": 2,
+    "next": {
+      "the waters,": 1,
+      "the billows,": 1
+    }
+  },
+  "of Northland,": {
+    "count": 8,
+    "next": {
+      "To the": 2,
+      "For the": 3,
+      "In the": 2,
+      "On the": 1
+    }
+  },
+  "accents, On": {
+    "count": 2,
+    "next": {
+      "the border": 2
+    }
+  },
+  "the border": {
+    "count": 9,
+    "next": {
+      "of the": 9
+    }
+  },
+  "a hundred": {
+    "count": 2,
+    "next": {
+      "islands cluster;": 2
+    }
+  },
+  "Kalevala, To": {
+    "count": 2,
+    "next": {
+      "the village": 1,
+      "the home": 1
+    }
+  },
+  "the morning": {
+    "count": 3,
+    "next": {
+      "of the": 2,
+      "on the": 1
+    }
+  },
+  "mother's dwelling,": {
+    "count": 2,
+    "next": {
+      "These the": 1,
+      "To the": 1
+    }
+  },
+  "hostess of": {
+    "count": 8,
+    "next": {
+      "the Northland,": 6,
+      "the forest,": 1,
+      "the woodlands,": 1
+    }
+  },
+  "the hero": {
+    "count": 7,
+    "next": {
+      "of the": 5,
+      "From the": 1,
+      "O'er the": 1
+    }
+  },
+  "me to": {
+    "count": 5,
+    "next": {
+      "my people,": 1,
+      "Manala, To": 4
+    }
+  },
+  "Wainola, On": {
+    "count": 2,
+    "next": {
+      "the plains": 2
+    }
+  },
+  "Louhi, hostess": {
+    "count": 18,
+    "next": {
+      "of Pohyola,": 10,
+      "of the": 8
+    }
+  },
+  "the hostess": {
+    "count": 22,
+    "next": {
+      "of Pohyola,": 7,
+      "of Pohyola:": 12,
+      "go to": 1,
+      "of the": 1,
+      "Of the": 1
+    }
+  },
+  "and fellow": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "my people,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "Do not": 1
+    }
+  },
+  "forge for": {
+    "count": 3,
+    "next": {
+      "thee the": 3
+    }
+  },
+  "Sampo, Hammer": {
+    "count": 2,
+    "next": {
+      "thee the": 2
+    }
+  },
+  "my daughter,": {
+    "count": 2,
+    "next": {
+      "Give to": 2
+    }
+  },
+  "this answer": {
+    "count": 6,
+    "next": {
+      "to the": 6
+    }
+  },
+  "thee the": {
+    "count": 2,
+    "next": {
+      "Sampo, Hammer": 2
+    }
+  },
+  "the air": {
+    "count": 2,
+    "next": {
+      "and water,": 1,
+      "the pike": 1
+    }
+  },
+  "will forge": {
+    "count": 2,
+    "next": {
+      "the Sampo,": 1,
+      "the loom": 1
+    }
+  },
+  "the Sampo,": {
+    "count": 5,
+    "next": {
+      "Hammer me": 2,
+      "Give to": 1,
+      "On the": 1,
+      "Fragments of": 1
+    }
+  },
+  "Hammer me": {
+    "count": 2,
+    "next": {
+      "the lid": 2
+    }
+  },
+  "the lid": {
+    "count": 10,
+    "next": {
+      "in colors,": 9,
+      "to Pohya,": 1
+    }
+  },
+  "in colors,": {
+    "count": 6,
+    "next": {
+      "From the": 4,
+      "To the": 1,
+      "On the": 1
+    }
+  },
+  "tips of": {
+    "count": 2,
+    "next": {
+      "white-swan feathers,": 2
+    }
+  },
+  "white-swan feathers,": {
+    "count": 2,
+    "next": {
+      "From the": 2
+    }
+  },
+  "milk of": {
+    "count": 2,
+    "next": {
+      "greatest virtue,": 2
+    }
+  },
+  "greatest virtue,": {
+    "count": 2,
+    "next": {
+      "From a": 2
+    }
+  },
+  "single grain": {
+    "count": 2,
+    "next": {
+      "of barley,": 2
+    }
+  },
+  "courser, Hitched": {
+    "count": 2,
+    "next": {
+      "him to": 1,
+      "the fleet-foot": 1
+    }
+  },
+  "to heaven,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "In the": 1
+    }
+  },
+  "overtake thee.": {
+    "count": 2,
+    "next": {
+      "Then the": 1,
+      "Spake the": 1
+    }
+  },
+  "but a": {
+    "count": 4,
+    "next": {
+      "little distance,": 4
+    }
+  },
+  "little distance,": {
+    "count": 5,
+    "next": {
+      "On the": 2,
+      "In the": 1,
+      "To the": 1,
+      "When the": 1
+    }
+  },
+  "in wonder,": {
+    "count": 2,
+    "next": {
+      "Spake these": 1,
+      "In the": 1
+    }
+  },
+  "of beauty,": {
+    "count": 4,
+    "next": {
+      "On the": 1,
+      "But alas!": 1,
+      "With the": 1,
+      "In the": 1
+    }
+  },
+  "Beauteous Maiden": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "Speaks the": {
+    "count": 3,
+    "next": {
+      "ancient Wainamoinen,": 1,
+      "virgin of": 1,
+      "hostess of": 1
+    }
+  },
+  "and chambers,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "To the": 1
+    }
+  },
+  "Heard the": {
+    "count": 2,
+    "next": {
+      "songs of": 2
+    }
+  },
+  "Losing not": {
+    "count": 2,
+    "next": {
+      "the smallest": 2
+    }
+  },
+  "fragments of": {
+    "count": 3,
+    "next": {
+      "the distaff,": 2,
+      "the Sampo,": 1
+    }
+  },
+  "Using not": {
+    "count": 2,
+    "next": {
+      "the foot": 1,
+      "the hand": 1
+    }
+  },
+  "to turn": {
+    "count": 2,
+    "next": {
+      "it, Using": 2
+    }
+  },
+  "nothing to": {
+    "count": 2,
+    "next": {
+      "propel it.": 2
+    }
+  },
+  "propel it.": {
+    "count": 2,
+    "next": {
+      "Spake the": 1,
+      "Thus the": 1
+    }
+  },
+  "There is": {
+    "count": 7,
+    "next": {
+      "no one": 4,
+      "home a": 3
+    }
+  },
+  "no one": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "for assistance,": 1
+    }
+  },
+  "the distaff,": {
+    "count": 2,
+    "next": {
+      "From the": 2
+    }
+  },
+  "day and": {
+    "count": 6,
+    "next": {
+      "then a": 6
+    }
+  },
+  "the origin": {
+    "count": 2,
+    "next": {
+      "of iron;": 1,
+      "of Otso,": 1
+    }
+  },
+  "whip above": {
+    "count": 5,
+    "next": {
+      "the racer,": 5
+    }
+  },
+  "the racer,": {
+    "count": 3,
+    "next": {
+      "And the": 3
+    }
+  },
+  "know the": {
+    "count": 3,
+    "next": {
+      "pain I": 3
+    }
+  },
+  "pain I": {
+    "count": 3,
+    "next": {
+      "suffer, That": 3
+    }
+  },
+  "suffer, That": {
+    "count": 3,
+    "next": {
+      "can heal": 3
+    }
+  },
+  "can heal": {
+    "count": 3,
+    "next": {
+      "this wound": 3
+    }
+  },
+  "this wound": {
+    "count": 2,
+    "next": {
+      "of hatchet,": 2
+    }
+  },
+  "check this": {
+    "count": 3,
+    "next": {
+      "crimson streamlet?": 3
+    }
+  },
+  "crimson streamlet?": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "Near the": 1
+    }
+  },
+  "can know": {
+    "count": 2,
+    "next": {
+      "the pain": 2
+    }
+  },
+  "thou feelest,": {
+    "count": 2,
+    "next": {
+      "That can": 2
+    }
+  },
+  "heal the": {
+    "count": 3,
+    "next": {
+      "wounds of": 3
+    }
+  },
+  "wounds of": {
+    "count": 2,
+    "next": {
+      "the magician,": 1,
+      "the magician.": 1
+    }
+  },
+  "Whips his": {
+    "count": 2,
+    "next": {
+      "racer to": 2
+    }
+  },
+  "a gallop,": {
+    "count": 2,
+    "next": {
+      "Dashes on": 2
+    }
+  },
+  "Dashes on": {
+    "count": 2,
+    "next": {
+      "along the": 2
+    }
+  },
+  "highway; Only": {
+    "count": 2,
+    "next": {
+      "drives a": 2
+    }
+  },
+  "drives a": {
+    "count": 2,
+    "next": {
+      "little distance,": 2
+    }
+  },
+  "of hatchet,": {
+    "count": 2,
+    "next": {
+      "That can": 2
+    }
+  },
+  "racer to": {
+    "count": 3,
+    "next": {
+      "a gallop,": 3
+    }
+  },
+  "for assistance,": {
+    "count": 2,
+    "next": {
+      "Straightway hastens": 1,
+      "Do not": 1
+    }
+  },
+  "Straightway hastens": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "old man,": {
+    "count": 2,
+    "next": {
+      "Thus the": 1,
+      "And the": 1
+    }
+  },
+  "the broad": {
+    "count": 3,
+    "next": {
+      "back of": 3
+    }
+  },
+  "the blacksmith,": {
+    "count": 2,
+    "next": {
+      "By the": 1,
+      "This the": 1
+    }
+  },
+  "a hillock": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "of the": 1
+    }
+  },
+  "the furnace,": {
+    "count": 4,
+    "next": {
+      "In the": 3,
+      "Rising from": 1
+    }
+  },
+  "in streamlets": {
+    "count": 2,
+    "next": {
+      "From the": 2
+    }
+  },
+  "blacksmith, Ilmarinen,": {
+    "count": 4,
+    "next": {
+      "Put the": 1,
+      "There to": 1,
+      "With the": 2
+    }
+  },
+  "the anvil,": {
+    "count": 2,
+    "next": {
+      "By the": 2
+    }
+  },
+  "skilful blacksmith,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "First of": 1
+    }
+  },
+  "ashes in": {
+    "count": 2,
+    "next": {
+      "the water,": 1,
+      "the furnace,": 1
+    }
+  },
+  "Will not": {
+    "count": 2,
+    "next": {
+      "live without": 1,
+      "hasten to": 1
+    }
+  },
+  "of Ilmarinen,": {
+    "count": 3,
+    "next": {
+      "These the": 1,
+      "On the": 1,
+      "To the": 1
+    }
+  },
+  "the poison": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the cloudlets,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "In his": 1
+    }
+  },
+  "thee to": {
+    "count": 2,
+    "next": {
+      "Manala, To": 1,
+      "the woodlands,": 1
+    }
+  },
+  "thou in": {
+    "count": 2,
+    "next": {
+      "the fire": 1,
+      "thy mind": 1
+    }
+  },
+  "the fire": {
+    "count": 4,
+    "next": {
+      "arose a": 1,
+      "through all": 1,
+      "of magic,": 1,
+      "had reached": 1
+    }
+  },
+  "thy father,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "Who will": 1
+    }
+  },
+  "Give to": {
+    "count": 2,
+    "next": {
+      "thee the": 2
+    }
+  },
+  "the veins": {
+    "count": 4,
+    "next": {
+      "of the": 1,
+      "of Wainamoinen,": 1,
+      "of heroes,": 1,
+      "of Lemminkainen,": 1
+    }
+  },
+  "of heroes,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "Sing the": 1
+    }
+  },
+  "beauty of": {
+    "count": 2,
+    "next": {
+      "the Northland,": 1,
+      "the forest,": 1
+    }
+  },
+  "of Tuoni,": {
+    "count": 14,
+    "next": {
+      "When the": 1,
+      "In the": 5,
+      "To the": 3,
+      "There to": 2,
+      "From the": 1,
+      "With the": 1,
+      "Near the": 1
+    }
+  },
+  "this order,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "Do not": 1
+    }
+  },
+  "Come thou": {
+    "count": 2,
+    "next": {
+      "hither, thou": 1,
+      "to the": 1
+    }
+  },
+  "hither, thou": {
+    "count": 3,
+    "next": {
+      "art needed,": 3
+    }
+  },
+  "art needed,": {
+    "count": 2,
+    "next": {
+      "Come thou": 2
+    }
+  },
+  "the smithy,": {
+    "count": 2,
+    "next": {
+      "There to": 1,
+      "And the": 1
+    }
+  },
+  "the honey": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "of the": 1
+    }
+  },
+  "in Northland,": {
+    "count": 3,
+    "next": {
+      "On the": 1,
+      "There is": 1,
+      "In the": 1
+    }
+  },
+  "day, then": {
+    "count": 7,
+    "next": {
+      "a second,": 7
+    }
+  },
+  "Touched the": {
+    "count": 2,
+    "next": {
+      "fissures in": 1,
+      "wounds of": 1
+    }
+  },
+  "fissures in": {
+    "count": 2,
+    "next": {
+      "the mountains,": 2
+    }
+  },
+  "the fragments": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "of the": 1
+    }
+  },
+  "the balm": {
+    "count": 2,
+    "next": {
+      "of many": 1,
+      "of magic": 1
+    }
+  },
+  "ancient wisdom,": {
+    "count": 5,
+    "next": {
+      "These the": 1,
+      "There to": 1,
+      "To the": 1,
+      "Learned the": 1,
+      "From the": 1
+    }
+  },
+  "the floor": {
+    "count": 4,
+    "next": {
+      "arose a": 1,
+      "a child": 2,
+      "the child": 1
+    }
+  },
+  "the aid": {
+    "count": 2,
+    "next": {
+      "of magic,": 2
+    }
+  },
+  "the court": {
+    "count": 2,
+    "next": {
+      "of Louhi,": 1,
+      "of Sariola,": 1
+    }
+  },
+  "Wrapped the": {
+    "count": 2,
+    "next": {
+      "wounds of": 2
+    }
+  },
+  "the magician.": {
+    "count": 2,
+    "next": {
+      "These the": 1,
+      "As the": 1
+    }
+  },
+  "his knee": {
+    "count": 2,
+    "next": {
+      "in all": 1,
+      "the arch": 1
+    }
+  },
+  "high Jumala,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "Of the": 1
+    }
+  },
+  "the racer": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "on the": 1
+    }
+  },
+  "day evening": {
+    "count": 3,
+    "next": {
+      "brings him": 3
+    }
+  },
+  "life-time, Never": {
+    "count": 2,
+    "next": {
+      "while the": 1,
+      "go to": 1
+    }
+  },
+  "while the": {
+    "count": 5,
+    "next": {
+      "moonlight glimmers": 5
+    }
+  },
+  "Never while": {
+    "count": 5,
+    "next": {
+      "the moonlight": 5
+    }
+  },
+  "the ether,": {
+    "count": 3,
+    "next": {
+      "In the": 1,
+      "Let the": 1,
+      "In a": 1
+    }
+  },
+  "the never-pleasant": {
+    "count": 3,
+    "next": {
+      "Northland, To": 2,
+      "Pohya, To": 1
+    }
+  },
+  "Ilmarinen, These": {
+    "count": 2,
+    "next": {
+      "the words": 2
+    }
+  },
+  "the blacksmith": {
+    "count": 3,
+    "next": {
+      "Downward bent": 1,
+      "of Wainola,": 1,
+      "to the": 1
+    }
+  },
+  "thy journey": {
+    "count": 2,
+    "next": {
+      "To thy": 1,
+      "to Pohyola,": 1
+    }
+  },
+  "seven starlets,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "On the": 1
+    }
+  },
+  "Sampo, Forge": {
+    "count": 2,
+    "next": {
+      "the lid": 2
+    }
+  },
+  "Kalevala. Spake": {
+    "count": 2,
+    "next": {
+      "the brother,": 1,
+      "the Northland's": 1
+    }
+  },
+  "the brother,": {
+    "count": 2,
+    "next": {
+      "Ilmarinen, These": 1,
+      "And the": 1
+    }
+  },
+  "go to": {
+    "count": 2,
+    "next": {
+      "upper Northland,": 1,
+      "Kalevala, To": 1
+    }
+  },
+  "Pohya, To": {
+    "count": 2,
+    "next": {
+      "the plains": 1,
+      "the meadows": 1
+    }
+  },
+  "of Sariola,": {
+    "count": 3,
+    "next": {
+      "Do not": 2,
+      "On the": 1
+    }
+  },
+  "journey to": {
+    "count": 3,
+    "next": {
+      "the islands,": 1,
+      "the village": 1,
+      "his home-land,": 1
+    }
+  },
+  "with thee": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "to Pohyola,": 1
+    }
+  },
+  "to get": {
+    "count": 3,
+    "next": {
+      "the magic": 2,
+      "the lid": 1
+    }
+  },
+  "Sang the": {
+    "count": 2,
+    "next": {
+      "joy of": 1,
+      "duck upon": 1
+    }
+  },
+  "Toward the": {
+    "count": 2,
+    "next": {
+      "never-pleasant Northland,": 1,
+      "meadows of": 1
+    }
+  },
+  "never-pleasant Northland,": {
+    "count": 2,
+    "next": {
+      "Toward the": 1,
+      "From the": 1
+    }
+  },
+  "the storm-wind,": {
+    "count": 2,
+    "next": {
+      "O'er the": 1,
+      "Speaks these": 1
+    }
+  },
+  "unfamiliar portals,": {
+    "count": 2,
+    "next": {
+      "At the": 1,
+      "For the": 1
+    }
+  },
+  "At the": {
+    "count": 9,
+    "next": {
+      "hands of": 2,
+      "songs of": 2,
+      "dawning of": 2,
+      "beauty of": 1,
+      "border of": 1,
+      "river of": 1
+    }
+  },
+  "to forge": {
+    "count": 2,
+    "next": {
+      "for me": 1,
+      "the magic": 1
+    }
+  },
+  "the daughter": {
+    "count": 3,
+    "next": {
+      "of the": 2,
+      "of Tuoni,": 1
+    }
+  },
+  "thou forge": {
+    "count": 2,
+    "next": {
+      "for me": 1,
+      "the magic": 1
+    }
+  },
+  "of Ilmarinen:": {
+    "count": 3,
+    "next": {
+      "I will": 1,
+      "When the": 1,
+      "I have": 1
+    }
+  },
+  "I forged": {
+    "count": 4,
+    "next": {
+      "the arch": 1,
+      "the magic": 1,
+      "the Sampo,": 1,
+      "the dome": 1
+    }
+  },
+  "the arch": {
+    "count": 2,
+    "next": {
+      "of heaven,": 2
+    }
+  },
+  "forge the": {
+    "count": 3,
+    "next": {
+      "wondrous Sampo,": 1,
+      "magic Sampo.": 2
+    }
+  },
+  "wondrous Sampo,": {
+    "count": 2,
+    "next": {
+      "I have": 1,
+      "Bring away": 1
+    }
+  },
+  "Ilmarinen. Spake": {
+    "count": 2,
+    "next": {
+      "the blacksmith": 2
+    }
+  },
+  "build a": {
+    "count": 2,
+    "next": {
+      "vessel, Build": 2
+    }
+  },
+  "next day": {
+    "count": 2,
+    "next": {
+      "onward, Till": 2
+    }
+  },
+  "Put the": {
+    "count": 3,
+    "next": {
+      "gray steed": 2,
+      "ashes in": 1
+    }
+  },
+  "of summer,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "On the": 1
+    }
+  },
+  "metals. From": {
+    "count": 2,
+    "next": {
+      "the fire": 2
+    }
+  },
+  "many pieces,": {
+    "count": 2,
+    "next": {
+      "Threw them": 1,
+      "With the": 1
+    }
+  },
+  "Threw them": {
+    "count": 2,
+    "next": {
+      "back within": 1,
+      "in the": 1
+    }
+  },
+  "back within": {
+    "count": 3,
+    "next": {
+      "the furnace,": 3
+    }
+  },
+  "magic Sampo.": {
+    "count": 2,
+    "next": {
+      "On the": 2
+    }
+  },
+  "Downward bent": {
+    "count": 3,
+    "next": {
+      "and well": 3
+    }
+  },
+  "examined, On": {
+    "count": 2,
+    "next": {
+      "the bottom": 2
+    }
+  },
+  "Throws them": {
+    "count": 2,
+    "next": {
+      "back within": 2
+    }
+  },
+  "of magic;": {
+    "count": 2,
+    "next": {
+      "But alas!": 1,
+      "Blows one": 1
+    }
+  },
+  "till even,": {
+    "count": 3,
+    "next": {
+      "When the": 1,
+      "To the": 2
+    }
+  },
+  "one side": {
+    "count": 2,
+    "next": {
+      "the magic": 2
+    }
+  },
+  "magic Sampo,": {
+    "count": 3,
+    "next": {
+      "To the": 1,
+      "There to": 1,
+      "From the": 1
+    }
+  },
+  "the summit": {
+    "count": 4,
+    "next": {
+      "of the": 4
+    }
+  },
+  "to journey": {
+    "count": 3,
+    "next": {
+      "From the": 1,
+      "To the": 2
+    }
+  },
+  "a boat": {
+    "count": 2,
+    "next": {
+      "of copper,": 2
+    }
+  },
+  "Travels one": {
+    "count": 3,
+    "next": {
+      "day, then": 3
+    }
+  },
+  "of Ahti,": {
+    "count": 2,
+    "next": {
+      "Nor the": 1,
+      "For the": 1
+    }
+  },
+  "maidens, At": {
+    "count": 2,
+    "next": {
+      "the dances": 2
+    }
+  },
+  "the dances": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "with the": 1
+    }
+  },
+  "the virgin,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "On the": 1
+    }
+  },
+  "the answer": {
+    "count": 10,
+    "next": {
+      "of the": 9,
+      "From the": 1
+    }
+  },
+  "hero, Lemminkainen,": {
+    "count": 3,
+    "next": {
+      "These the": 2,
+      "Art thou": 1
+    }
+  },
+  "answer: Lemminkainen,": {
+    "count": 2,
+    "next": {
+      "son beloved,": 2
+    }
+  },
+  "the pastures,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "To the": 1
+    }
+  },
+  "the dwellings": {
+    "count": 4,
+    "next": {
+      "of Pohyola,": 1,
+      "of the": 2,
+      "of Tuoni,": 1
+    }
+  },
+  "and beauty": {
+    "count": 4,
+    "next": {
+      "of the": 2,
+      "In the": 1,
+      "To the": 1
+    }
+  },
+  "and silver.": {
+    "count": 2,
+    "next": {
+      "This the": 2
+    }
+  },
+  "Lemminkainen, full": {
+    "count": 2,
+    "next": {
+      "of joyance,": 2
+    }
+  },
+  "of joyance,": {
+    "count": 2,
+    "next": {
+      "Snapped his": 1,
+      "On the": 1
+    }
+  },
+  "Snapped his": {
+    "count": 3,
+    "next": {
+      "whip above": 3
+    }
+  },
+  "mother, These": {
+    "count": 2,
+    "next": {
+      "the words": 2
+    }
+  },
+  "went Kyllikki,": {
+    "count": 2,
+    "next": {
+      "To the": 2
+    }
+  },
+  "village dances,": {
+    "count": 2,
+    "next": {
+      "With the": 2
+    }
+  },
+  "hasten to": {
+    "count": 3,
+    "next": {
+      "the waters,": 1,
+      "the forest,": 2
+    }
+  },
+  "mother of": {
+    "count": 5,
+    "next": {
+      "the hero": 1,
+      "thy husband,": 1,
+      "the woodlands,": 3
+    }
+  },
+  "foaming beer": {
+    "count": 2,
+    "next": {
+      "of Northland,": 1,
+      "of barley,": 1
+    }
+  },
+  "hero, Lemminkainen:": {
+    "count": 2,
+    "next": {
+      "Do not": 1,
+      "O thou": 1
+    }
+  },
+  "of battle,": {
+    "count": 3,
+    "next": {
+      "To the": 1,
+      "From the": 2
+    }
+  },
+  "upper Northland,": {
+    "count": 2,
+    "next": {
+      "To the": 2
+    }
+  },
+  "the uplands,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "in the": 1
+    }
+  },
+  "the treasure": {
+    "count": 2,
+    "next": {
+      "I have": 1,
+      "to the": 1
+    }
+  },
+  "of Lapland,": {
+    "count": 4,
+    "next": {
+      "Through the": 1,
+      "To the": 2,
+      "In the": 1
+    }
+  },
+  "and shoulders": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "Of the": 1
+    }
+  },
+  "language of": {
+    "count": 2,
+    "next": {
+      "the mother:": 1,
+      "the maiden": 1
+    }
+  },
+  "go, my": {
+    "count": 3,
+    "next": {
+      "son beloved,": 3
+    }
+  },
+  "it to": {
+    "count": 2,
+    "next": {
+      "the hands": 1,
+      "the magic": 1
+    }
+  },
+  "come to": {
+    "count": 3,
+    "next": {
+      "meet her,": 2,
+      "journey To": 1
+    }
+  },
+  "the hurdles,": {
+    "count": 2,
+    "next": {
+      "When the": 1,
+      "This the": 1
+    }
+  },
+  "the fleet-foot": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "this dwelling,": {
+    "count": 2,
+    "next": {
+      "That can": 2
+    }
+  },
+  "this answer:": {
+    "count": 3,
+    "next": {
+      "There is": 1,
+      "I have": 1,
+      "When the": 1
+    }
+  },
+  "the middle": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "highways, To": {
+    "count": 2,
+    "next": {
+      "the court-yard": 2
+    }
+  },
+  "the court-yard": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "on the": 1
+    }
+  },
+  "magician, To": {
+    "count": 2,
+    "next": {
+      "thy home": 1,
+      "the harp": 1
+    }
+  },
+  "thy home": {
+    "count": 2,
+    "next": {
+      "and fellow": 1,
+      "in Northland,": 1
+    }
+  },
+  "the centre": {
+    "count": 4,
+    "next": {
+      "of the": 4
+    }
+  },
+  "songs of": {
+    "count": 2,
+    "next": {
+      "the magician,": 1,
+      "the magician.": 1
+    }
+  },
+  "the heroes": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "river of": {
+    "count": 4,
+    "next": {
+      "Tuoni, To": 2,
+      "Tuoni, In": 1,
+      "Tuoni, From": 1
+    }
+  },
+  "and whirlpool,": {
+    "count": 3,
+    "next": {
+      "To the": 1,
+      "In the": 1,
+      "By the": 1
+    }
+  },
+  "the islands": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "of Pohyola:": {
+    "count": 3,
+    "next": {
+      "Give to": 1,
+      "I have": 1,
+      "I will": 1
+    }
+  },
+  "Lemminkainen Spake": {
+    "count": 2,
+    "next": {
+      "these measures": 1,
+      "these words": 1
+    }
+  },
+  "these measures": {
+    "count": 3,
+    "next": {
+      "to the": 3
+    }
+  },
+  "the accents": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "reckless Lemminkainen,": {
+    "count": 2,
+    "next": {
+      "These the": 2
+    }
+  },
+  "snow-capped hills": {
+    "count": 3,
+    "next": {
+      "of Lapland,": 2,
+      "of Northland.": 1
+    }
+  },
+  "the court-yards": {
+    "count": 2,
+    "next": {
+      "of Pohyola,": 1,
+      "to the": 1
+    }
+  },
+  "of Kalma,": {
+    "count": 2,
+    "next": {
+      "Through the": 1,
+      "To the": 1
+    }
+  },
+  "the Northland's": {
+    "count": 2,
+    "next": {
+      "distant borders,": 2
+    }
+  },
+  "distant borders,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "To the": 1
+    }
+  },
+  "the bands": {
+    "count": 2,
+    "next": {
+      "of copper,": 1,
+      "of silver,": 1
+    }
+  },
+  "to hunt": {
+    "count": 2,
+    "next": {
+      "the roebuck,": 2
+    }
+  },
+  "in safety": {
+    "count": 5,
+    "next": {
+      "Through the": 3,
+      "To thy": 1,
+      "From the": 1
+    }
+  },
+  "to leave": {
+    "count": 2,
+    "next": {
+      "the body": 1,
+      "the island,": 1
+    }
+  },
+  "of Louhi,": {
+    "count": 4,
+    "next": {
+      "To the": 1,
+      "From the": 1,
+      "There to": 1,
+      "Spake the": 1
+    }
+  },
+  "the woodlands,": {
+    "count": 5,
+    "next": {
+      "On the": 1,
+      "For the": 1,
+      "To the": 2,
+      "Give to": 1
+    }
+  },
+  "of Northland.": {
+    "count": 2,
+    "next": {
+      "Then the": 1,
+      "Spake the": 1
+    }
+  },
+  "onward, Till": {
+    "count": 2,
+    "next": {
+      "a third": 1,
+      "the third": 1
+    }
+  },
+  "the north-west,": {
+    "count": 3,
+    "next": {
+      "Toward the": 1,
+      "From the": 2
+    }
+  },
+  "the lowlands,": {
+    "count": 3,
+    "next": {
+      "O'er the": 1,
+      "Through the": 2
+    }
+  },
+  "Cast the": {
+    "count": 3,
+    "next": {
+      "dead upon": 2,
+      "pike upon": 1
+    }
+  },
+  "had reached": {
+    "count": 2,
+    "next": {
+      "the castle,": 1,
+      "the chambers": 1
+    }
+  },
+  "the castle,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "This the": 1
+    }
+  },
+  "of Hisi.": {
+    "count": 2,
+    "next": {
+      "Then the": 1,
+      "In the": 1
+    }
+  },
+  "in safety,": {
+    "count": 2,
+    "next": {
+      "For the": 1,
+      "From the": 1
+    }
+  },
+  "thy daughter,": {
+    "count": 4,
+    "next": {
+      "Give to": 3,
+      "Fairest maiden": 1
+    }
+  },
+  "of Lemminkainen,": {
+    "count": 2,
+    "next": {
+      "Through the": 1,
+      "At the": 1
+    }
+  },
+  "the dome": {
+    "count": 2,
+    "next": {
+      "of heaven,": 2
+    }
+  },
+  "Sariola. Then": {
+    "count": 2,
+    "next": {
+      "the hero,": 1,
+      "the blacksmith,": 1
+    }
+  },
+  "only give": {
+    "count": 2,
+    "next": {
+      "my daughter,": 2
+    }
+  },
+  "the river": {
+    "count": 11,
+    "next": {
+      "of Tuoni,": 8,
+      "of Tuoni.": 1,
+      "of Manala,": 2
+    }
+  },
+  "the cataract": {
+    "count": 4,
+    "next": {
+      "of death-land,": 1,
+      "and whirlpool,": 2,
+      "a second,": 1
+    }
+  },
+  "of death-land,": {
+    "count": 3,
+    "next": {
+      "To the": 2,
+      "In the": 1
+    }
+  },
+  "sacred stream": {
+    "count": 3,
+    "next": {
+      "of death-land,": 1,
+      "and whirlpool,": 2
+    }
+  },
+  "waters, From": {
+    "count": 2,
+    "next": {
+      "the river": 1,
+      "the bottom": 1
+    }
+  },
+  "Tuoni, From": {
+    "count": 3,
+    "next": {
+      "the castles": 2,
+      "the kingdom": 1
+    }
+  },
+  "thou hostess": {
+    "count": 3,
+    "next": {
+      "of Pohyola,": 3
+    }
+  },
+  "in hunger,": {
+    "count": 2,
+    "next": {
+      "In a": 1,
+      "Nor the": 1
+    }
+  },
+  "of Pohya": {
+    "count": 2,
+    "next": {
+      "With the": 1,
+      "To the": 1
+    }
+  },
+  "meet her,": {
+    "count": 2,
+    "next": {
+      "And the": 2
+    }
+  },
+  "Sun in": {
+    "count": 2,
+    "next": {
+      "the horizon,": 1,
+      "high Jumala,": 1
+    }
+  },
+  "whirlpool, In": {
+    "count": 3,
+    "next": {
+      "the cataract": 1,
+      "the ears": 1,
+      "the fire": 1
+    }
+  },
+  "the forge": {
+    "count": 3,
+    "next": {
+      "of Ilmarinen,": 1,
+      "and smithy,": 2
+    }
+  },
+  "in length": {
+    "count": 3,
+    "next": {
+      "a hundred": 3
+    }
+  },
+  "the rake": {
+    "count": 2,
+    "next": {
+      "the third": 1,
+      "of magic": 1
+    }
+  },
+  "in heat": {
+    "count": 2,
+    "next": {
+      "of magic,": 1,
+      "of battle,": 1
+    }
+  },
+  "she wades": {
+    "count": 2,
+    "next": {
+      "the river": 2
+    }
+  },
+  "the body": {
+    "count": 3,
+    "next": {
+      "of the": 2,
+      "Of the": 1
+    }
+  },
+  "the mother,": {
+    "count": 2,
+    "next": {
+      "From the": 2
+    }
+  },
+  "dead upon": {
+    "count": 2,
+    "next": {
+      "the waters,": 2
+    }
+  },
+  "with silver,": {
+    "count": 2,
+    "next": {
+      "In a": 1,
+      "Gave it": 1
+    }
+  },
+  "not leave": {
+    "count": 2,
+    "next": {
+      "the isle": 1,
+      "me to": 1
+    }
+  },
+  "fragrant meadows,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "Through the": 1
+    }
+  },
+  "the tongue": {
+    "count": 2,
+    "next": {
+      "of Wainamoinen,": 1,
+      "of Otso,": 1
+    }
+  },
+  "day, and": {
+    "count": 7,
+    "next": {
+      "then a": 7
+    }
+  },
+  "re-echo With": {
+    "count": 2,
+    "next": {
+      "the magic": 1,
+      "the music": 1
+    }
+  },
+  "Time had": {
+    "count": 4,
+    "next": {
+      "gone but": 4
+    }
+  },
+  "Manala, To": {
+    "count": 5,
+    "next": {
+      "the river": 2,
+      "the kingdom": 3
+    }
+  },
+  "fatal stream": {
+    "count": 2,
+    "next": {
+      "and whirlpool,": 1,
+      "of Mana,": 1
+    }
+  },
+  "answer: This": {
+    "count": 2,
+    "next": {
+      "the language": 1,
+      "the blacksmith,": 1
+    }
+  },
+  "hostess, Louhi,": {
+    "count": 2,
+    "next": {
+      "Will not": 1,
+      "In the": 1
+    }
+  },
+  "of Mana,": {
+    "count": 4,
+    "next": {
+      "In the": 2,
+      "Never in": 1,
+      "I have": 1
+    }
+  },
+  "of Tuoni.": {
+    "count": 3,
+    "next": {
+      "Speaks the": 1,
+      "Spake again": 1,
+      "Art thou": 1
+    }
+  },
+  "of Manala,": {
+    "count": 4,
+    "next": {
+      "In the": 1,
+      "Speaks these": 1,
+      "I have": 1,
+      "To the": 1
+    }
+  },
+  "Ukko, First": {
+    "count": 2,
+    "next": {
+      "and last": 2
+    }
+  },
+  "and last": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the boat": {
+    "count": 3,
+    "next": {
+      "of Wainamoinen,": 2,
+      "of the": 1
+    }
+  },
+  "vessel, For": {
+    "count": 2,
+    "next": {
+      "the boat": 2
+    }
+  },
+  "my trunk": {
+    "count": 2,
+    "next": {
+      "in summer.": 1,
+      "the moonlight": 1
+    }
+  },
+  "Three times": {
+    "count": 4,
+    "next": {
+      "in the": 4
+    }
+  },
+  "through all": {
+    "count": 2,
+    "next": {
+      "the forest,": 1,
+      "the waters,": 1
+    }
+  },
+  "in summer.": {
+    "count": 2,
+    "next": {
+      "Thus the": 1,
+      "As the": 1
+    }
+  },
+  "vessel, Build": {
+    "count": 2,
+    "next": {
+      "a boat": 2
+    }
+  },
+  "the lost-words": {
+    "count": 4,
+    "next": {
+      "On the": 1,
+      "of the": 3
+    }
+  },
+  "the mouth": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "virgin of": {
+    "count": 2,
+    "next": {
+      "the Northland,": 1,
+      "the woodlands,": 1
+    }
+  },
+  "Well I": {
+    "count": 2,
+    "next": {
+      "know the": 2
+    }
+  },
+  "my sledge": {
+    "count": 3,
+    "next": {
+      "of magic,": 1,
+      "of magic;": 1,
+      "to fragments.": 1
+    }
+  },
+  "of Manala.": {
+    "count": 2,
+    "next": {
+      "Spake the": 1,
+      "Thus the": 1
+    }
+  },
+  "courage, Not": {
+    "count": 2,
+    "next": {
+      "the weakest": 2
+    }
+  },
+  "the weakest": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "river, To": {
+    "count": 2,
+    "next": {
+      "the kingdom": 1,
+      "the blue": 1
+    }
+  },
+  "the courts": {
+    "count": 4,
+    "next": {
+      "of Sariola,": 2,
+      "of heaven,": 1,
+      "of the": 1
+    }
+  },
+  "Never in": {
+    "count": 2,
+    "next": {
+      "the course": 2
+    }
+  },
+  "him on": {
+    "count": 2,
+    "next": {
+      "the floor": 1,
+      "the highway,": 1
+    }
+  },
+  "the fingers": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the course": {
+    "count": 2,
+    "next": {
+      "of ages,": 2
+    }
+  },
+  "the chambers": {
+    "count": 3,
+    "next": {
+      "of Tuoni,": 1,
+      "of Pohyola,": 1,
+      "of Wainola,": 1
+    }
+  },
+  "the castles": {
+    "count": 4,
+    "next": {
+      "of Manala.": 1,
+      "of Tuoni,": 1,
+      "of Manala,": 1,
+      "of the": 1
+    }
+  },
+  "the rising": {
+    "count": 2,
+    "next": {
+      "Sun in": 2
+    }
+  },
+  "long debated,": {
+    "count": 2,
+    "next": {
+      "How to": 2
+    }
+  },
+  "the edges": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "and smithy,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "Spake these": 1
+    }
+  },
+  "master of": {
+    "count": 2,
+    "next": {
+      "the Northland,": 1,
+      "the vessel": 1
+    }
+  },
+  "thou plague": {
+    "count": 3,
+    "next": {
+      "of Northland,": 2,
+      "of Northland": 1
+    }
+  },
+  "the magicians,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "Through the": 1
+    }
+  },
+  "cataract's commotion,": {
+    "count": 3,
+    "next": {
+      "From the": 1,
+      "To the": 2
+    }
+  },
+  "the oceans,": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "Spake these": 1
+    }
+  },
+  "ended, Gained": {
+    "count": 2,
+    "next": {
+      "the borders": 1,
+      "the border": 1
+    }
+  },
+  "journey whence": {
+    "count": 2,
+    "next": {
+      "thou camest,": 2
+    }
+  },
+  "thou camest,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "To the": 1
+    }
+  },
+  "the caverns": {
+    "count": 6,
+    "next": {
+      "of the": 6
+    }
+  },
+  "will banish": {
+    "count": 2,
+    "next": {
+      "thee still": 2
+    }
+  },
+  "farther, To": {
+    "count": 2,
+    "next": {
+      "the Northland's": 1,
+      "the cataract": 1
+    }
+  },
+  "of Pohyola.": {
+    "count": 3,
+    "next": {
+      "Then the": 1,
+      "In the": 1,
+      "Spake the": 1
+    }
+  },
+  "of copper.": {
+    "count": 2,
+    "next": {
+      "Then the": 1,
+      "Now the": 1
+    }
+  },
+  "the deep-sea,": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "From the": 1
+    }
+  },
+  "Learned the": {
+    "count": 3,
+    "next": {
+      "words of": 2,
+      "songs of": 1
+    }
+  },
+  "the hills": {
+    "count": 2,
+    "next": {
+      "of Northland": 1,
+      "and through": 1
+    }
+  },
+  "Wainamoinen thus": {
+    "count": 2,
+    "next": {
+      "made answer:": 1,
+      "makes answer:": 1
+    }
+  },
+  "to touch": {
+    "count": 2,
+    "next": {
+      "it, Using": 1,
+      "the harp-strings,": 1
+    }
+  },
+  "was completed,": {
+    "count": 2,
+    "next": {
+      "For the": 1,
+      "When the": 1
+    }
+  },
+  "daughter Of": {
+    "count": 2,
+    "next": {
+      "the hostess": 2
+    }
+  },
+  "my journey": {
+    "count": 2,
+    "next": {
+      "to Pohyola,": 2
+    }
+  },
+  "to Pohyola,": {
+    "count": 3,
+    "next": {
+      "To the": 3
+    }
+  },
+  "maid, Annikki,": {
+    "count": 2,
+    "next": {
+      "Of the": 2
+    }
+  },
+  "blue upon": {
+    "count": 2,
+    "next": {
+      "the billows,": 1,
+      "the waters,": 1
+    }
+  },
+  "the vessel": {
+    "count": 5,
+    "next": {
+      "Of the": 2,
+      "to the": 2,
+      "To the": 1
+    }
+  },
+  "the loom": {
+    "count": 2,
+    "next": {
+      "of silver,": 2
+    }
+  },
+  "the days": {
+    "count": 2,
+    "next": {
+      "of summer,": 2
+    }
+  },
+  "in order.": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "On the": 1
+    }
+  },
+  "racer, Hitch": {
+    "count": 2,
+    "next": {
+      "him to": 1,
+      "the fleet-foot": 1
+    }
+  },
+  "gray steed": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "the mansions": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of Pohyola,": 1
+    }
+  },
+  "uproar. Spake": {
+    "count": 2,
+    "next": {
+      "the master": 2
+    }
+  },
+  "up the": {
+    "count": 2,
+    "next": {
+      "very bottom": 2
+    }
+  },
+  "Pohyola. Then": {
+    "count": 2,
+    "next": {
+      "the master": 1,
+      "the blacksmith,": 1
+    }
+  },
+  "the harbor,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "On the": 1
+    }
+  },
+  "the bride": {
+    "count": 2,
+    "next": {
+      "of Ilmarinen,": 1,
+      "of heaven,": 1
+    }
+  },
+  "comes upon": {
+    "count": 2,
+    "next": {
+      "the waters,": 1,
+      "the summit": 1
+    }
+  },
+  "the guest-room": {
+    "count": 2,
+    "next": {
+      "Of the": 1,
+      "of the": 1
+    }
+  },
+  "and river,": {
+    "count": 2,
+    "next": {
+      "Through the": 1,
+      "Spake these": 1
+    }
+  },
+  "the Maiden": {
+    "count": 7,
+    "next": {
+      "of the": 7
+    }
+  },
+  "Fairest maiden": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "This advice": {
+    "count": 2,
+    "next": {
+      "the maiden": 2
+    }
+  },
+  "gives him:": {
+    "count": 2,
+    "next": {
+      "O thou": 2
+    }
+  },
+  "forests of": {
+    "count": 2,
+    "next": {
+      "Tuoni, In": 1,
+      "the island,": 1
+    }
+  },
+  "an eagle": {
+    "count": 2,
+    "next": {
+      "From the": 1,
+      "I will": 1
+    }
+  },
+  "the bird": {
+    "count": 2,
+    "next": {
+      "of heaven,": 1,
+      "of Pohya": 1
+    }
+  },
+  "largest, Nor": {
+    "count": 2,
+    "next": {
+      "belonged he": 2
+    }
+  },
+  "belonged he": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "the blue-back": {
+    "count": 5,
+    "next": {
+      "of Manala.": 1,
+      "of the": 4
+    }
+  },
+  "thou give": {
+    "count": 2,
+    "next": {
+      "me now": 1,
+      "the bride": 1
+    }
+  },
+  "a child": {
+    "count": 2,
+    "next": {
+      "was sitting,": 2
+    }
+  },
+  "was sitting,": {
+    "count": 3,
+    "next": {
+      "And the": 1,
+      "Thus the": 1,
+      "Near the": 1
+    }
+  },
+  "and circled,": {
+    "count": 2,
+    "next": {
+      "Swam one": 2
+    }
+  },
+  "the maidens,": {
+    "count": 4,
+    "next": {
+      "On the": 2,
+      "Near the": 1,
+      "To the": 1
+    }
+  },
+  "the virgin": {
+    "count": 5,
+    "next": {
+      "of the": 3,
+      "to Wainola,": 1,
+      "to the": 1
+    }
+  },
+  "live without": {
+    "count": 2,
+    "next": {
+      "the moonlight,": 2
+    }
+  },
+  "Sing the": {
+    "count": 3,
+    "next": {
+      "songs of": 3
+    }
+  },
+  "the marriage": {
+    "count": 3,
+    "next": {
+      "of the": 1,
+      "Of the": 1,
+      "was completed,": 1
+    }
+  },
+  "hands of": {
+    "count": 3,
+    "next": {
+      "the magician,": 1,
+      "Ilmarinen. Spake": 1,
+      "the magician.": 1
+    }
+  },
+  "the marriage-feast": {
+    "count": 2,
+    "next": {
+      "of Northland.": 1,
+      "of Northland,": 1
+    }
+  },
+  "had travelled": {
+    "count": 2,
+    "next": {
+      "little distance,": 2
+    }
+  },
+  "the language": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the beer-preparer,": {
+    "count": 2,
+    "next": {
+      "Kapo, brewer": 2
+    }
+  },
+  "another, In": {
+    "count": 2,
+    "next": {
+      "the centre": 2
+    }
+  },
+  "'What may": {
+    "count": 2,
+    "next": {
+      "come of": 2
+    }
+  },
+  "come of": {
+    "count": 2,
+    "next": {
+      "this I": 2
+    }
+  },
+  "this I": {
+    "count": 2,
+    "next": {
+      "know not,": 2
+    }
+  },
+  "know not,": {
+    "count": 2,
+    "next": {
+      "In the": 2
+    }
+  },
+  "of Kapo,": {
+    "count": 2,
+    "next": {
+      "To the": 2
+    }
+  },
+  "the hands": {
+    "count": 3,
+    "next": {
+      "of Kapo,": 2,
+      "of magic": 1
+    }
+  },
+  "Kapo, brewer": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "Gave it": {
+    "count": 3,
+    "next": {
+      "to the": 3
+    }
+  },
+  "bear-dens of": {
+    "count": 2,
+    "next": {
+      "the mountain,": 2
+    }
+  },
+  "the mountain,": {
+    "count": 6,
+    "next": {
+      "To the": 2,
+      "Through the": 2,
+      "At the": 1,
+      "Let the": 1
+    }
+  },
+  "islands in": {
+    "count": 2,
+    "next": {
+      "the ocean,": 2
+    }
+  },
+  "gone but": {
+    "count": 5,
+    "next": {
+      "little distance,": 5
+    }
+  },
+  "Pohyola, These": {
+    "count": 2,
+    "next": {
+      "the words": 2
+    }
+  },
+  "the heat": {
+    "count": 2,
+    "next": {
+      "of battle,": 2
+    }
+  },
+  "the salmon": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "with the": 1
+    }
+  },
+  "the people": {
+    "count": 6,
+    "next": {
+      "To the": 1,
+      "That will": 1,
+      "of Pohyola.": 1,
+      "of the": 2,
+      "of Wainola,": 1
+    }
+  },
+  "Not to": {
+    "count": 2,
+    "next": {
+      "go to": 2
+    }
+  },
+  "the question": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "suitor of": {
+    "count": 2,
+    "next": {
+      "my daughter,": 2
+    }
+  },
+  "the dainties": {
+    "count": 3,
+    "next": {
+      "of Pohyola.": 1,
+      "of the": 2
+    }
+  },
+  "the singing,": {
+    "count": 2,
+    "next": {
+      "Let the": 1,
+      "Sing the": 1
+    }
+  },
+  "the minstrel": {
+    "count": 2,
+    "next": {
+      "of Wainola,": 1,
+      "playing, Hear": 1
+    }
+  },
+  "in singing,": {
+    "count": 2,
+    "next": {
+      "I will": 1,
+      "In the": 1
+    }
+  },
+  "the bridegroom,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "On his": 1
+    }
+  },
+  "thy sighing": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "the wife": {
+    "count": 2,
+    "next": {
+      "of Ilmarinen,": 2
+    }
+  },
+  "to Pohya,": {
+    "count": 2,
+    "next": {
+      "There to": 1,
+      "In the": 1
+    }
+  },
+  "thy father": {
+    "count": 3,
+    "next": {
+      "In the": 1,
+      "To thy": 1,
+      "in the": 1
+    }
+  },
+  "the side": {
+    "count": 2,
+    "next": {
+      "of Ilmarinen,": 1,
+      "of the": 1
+    }
+  },
+  "thy husband,": {
+    "count": 2,
+    "next": {
+      "That the": 1,
+      "And the": 1
+    }
+  },
+  "goest from": {
+    "count": 2,
+    "next": {
+      "thy father": 2
+    }
+  },
+  "course of": {
+    "count": 3,
+    "next": {
+      "ages, Never": 3
+    }
+  },
+  "ages, Never": {
+    "count": 3,
+    "next": {
+      "while the": 3
+    }
+  },
+  "father may": {
+    "count": 2,
+    "next": {
+      "not fancy,": 2
+    }
+  },
+  "not fancy,": {
+    "count": 3,
+    "next": {
+      "And the": 3
+    }
+  },
+  "thou goest": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "the village,": {
+    "count": 3,
+    "next": {
+      "There to": 1,
+      "For the": 1,
+      "That the": 1
+    }
+  },
+  "the number": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "of gold": {
+    "count": 5,
+    "next": {
+      "and silver,": 3,
+      "and Sun": 2
+    }
+  },
+  "and silver,": {
+    "count": 2,
+    "next": {
+      "And the": 1,
+      "In a": 1
+    }
+  },
+  "a pine-tree": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "with might": {
+    "count": 2,
+    "next": {
+      "of magic,": 2
+    }
+  },
+  "to visit": {
+    "count": 2,
+    "next": {
+      "Northland, Never": 2
+    }
+  },
+  "That will": {
+    "count": 2,
+    "next": {
+      "go to": 1,
+      "heal the": 1
+    }
+  },
+  "was instructed,": {
+    "count": 2,
+    "next": {
+      "Beauteous Maiden": 1,
+      "Thus the": 1
+    }
+  },
+  "heard within": {
+    "count": 2,
+    "next": {
+      "the village,": 1,
+      "the smithy,": 1
+    }
+  },
+  "a cuckoo": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "in the": 1
+    }
+  },
+  "touch her": {
+    "count": 2,
+    "next": {
+      "with the": 1,
+      "on the": 1
+    }
+  },
+  "the mountains": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "There to": 1
+    }
+  },
+  "heavy-hearted, Spake": {
+    "count": 2,
+    "next": {
+      "these words": 2
+    }
+  },
+  "strangers, To": {
+    "count": 2,
+    "next": {
+      "the meadows": 1,
+      "the village": 1
+    }
+  },
+  "the heather": {
+    "count": 3,
+    "next": {
+      "to the": 1,
+      "of Pohyola,": 1,
+      "As the": 1
+    }
+  },
+  "the portals": {
+    "count": 5,
+    "next": {
+      "to the": 2,
+      "of Pohyola,": 1,
+      "of Pohyola.": 1,
+      "Of the": 1
+    }
+  },
+  "the brothers,": {
+    "count": 2,
+    "next": {
+      "Nor the": 1,
+      "Magic heroes": 1
+    }
+  },
+  "of gladness,": {
+    "count": 2,
+    "next": {
+      "When the": 1,
+      "To the": 1
+    }
+  },
+  "the roebuck,": {
+    "count": 2,
+    "next": {
+      "Chase the": 2
+    }
+  },
+  "Chase the": {
+    "count": 2,
+    "next": {
+      "lynx upon": 2
+    }
+  },
+  "lynx upon": {
+    "count": 2,
+    "next": {
+      "the mountains,": 2
+    }
+  },
+  "wild Lemminkainen": {
+    "count": 3,
+    "next": {
+      "Not to": 1,
+      "Rolled his": 1,
+      "On the": 1
+    }
+  },
+  "mother answered:": {
+    "count": 3,
+    "next": {
+      "I will": 1,
+      "This the": 1,
+      "Do not": 1
+    }
+  },
+  "one day": {
+    "count": 4,
+    "next": {
+      "and then": 1,
+      "then a": 2,
+      "along the": 1
+    }
+  },
+  "my belt": {
+    "count": 2,
+    "next": {
+      "of copper,": 1,
+      "of silver,": 1
+    }
+  },
+  "hamlets of": {
+    "count": 2,
+    "next": {
+      "the island,": 1,
+      "Wainola, To": 1
+    }
+  },
+  "hero's pathway.": {
+    "count": 2,
+    "next": {
+      "These the": 1,
+      "In the": 1
+    }
+  },
+  "the banquet-halls": {
+    "count": 2,
+    "next": {
+      "of Louhi,": 2
+    }
+  },
+  "his fingers,": {
+    "count": 3,
+    "next": {
+      "In his": 1,
+      "Speaks these": 1,
+      "Spake these": 1
+    }
+  },
+  "Set him": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "the landlord": {
+    "count": 2,
+    "next": {
+      "of Pohyola,": 1,
+      "of Pohyola.": 1
+    }
+  },
+  "from Pohyola,": {
+    "count": 2,
+    "next": {
+      "To his": 1,
+      "From the": 1
+    }
+  },
+  "and faithful,": {
+    "count": 2,
+    "next": {
+      "Spake these": 1,
+      "Straightway hastened": 1
+    }
+  },
+  "may live": {
+    "count": 2,
+    "next": {
+      "in safety.": 2
+    }
+  },
+  "the warriors": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "Rolled his": {
+    "count": 2,
+    "next": {
+      "vessel in": 1,
+      "vessel to": 1
+    }
+  },
+  "vessel in": {
+    "count": 2,
+    "next": {
+      "the harbor,": 1,
+      "the ocean,": 1
+    }
+  },
+  "may fell": {
+    "count": 2,
+    "next": {
+      "the forest,": 2
+    }
+  },
+  "duck upon": {
+    "count": 2,
+    "next": {
+      "the waters,": 2
+    }
+  },
+  "vessel to": {
+    "count": 2,
+    "next": {
+      "the ocean,": 1,
+      "the water,": 1
+    }
+  },
+  "alas! upon": {
+    "count": 2,
+    "next": {
+      "the third": 2
+    }
+  },
+  "his home-land,": {
+    "count": 2,
+    "next": {
+      "To the": 2
+    }
+  },
+  "beheld some": {
+    "count": 2,
+    "next": {
+      "foot-prints, Spake": 2
+    }
+  },
+  "the black-frost": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "to the": 1
+    }
+  },
+  "home is": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "to those": {
+    "count": 2,
+    "next": {
+      "about him:": 2
+    }
+  },
+  "metal-artist, Forge": {
+    "count": 2,
+    "next": {
+      "for me": 2
+    }
+  },
+  "an axe": {
+    "count": 2,
+    "next": {
+      "of copper,": 2
+    }
+  },
+  "golden ringlets,": {
+    "count": 2,
+    "next": {
+      "In his": 2
+    }
+  },
+  "maiden, Southern": {
+    "count": 2,
+    "next": {
+      "mother of": 2
+    }
+  },
+  "her herd": {
+    "count": 2,
+    "next": {
+      "across the": 1,
+      "in wonder,": 1
+    }
+  },
+  "herd across": {
+    "count": 2,
+    "next": {
+      "the lowlands,": 2
+    }
+  },
+  "the playing": {
+    "count": 3,
+    "next": {
+      "Of the": 1,
+      "of the": 2
+    }
+  },
+  "magic shoes": {
+    "count": 2,
+    "next": {
+      "of deer-skin,": 2
+    }
+  },
+  "the tidings": {
+    "count": 2,
+    "next": {
+      "Of the": 1,
+      "to Pohyola,": 1
+    }
+  },
+  "and perish": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "in the": 1
+    }
+  },
+  "youth, Kullervo,": {
+    "count": 3,
+    "next": {
+      "Snapped his": 1,
+      "Wicked wizard": 2
+    }
+  },
+  "to fragments.": {
+    "count": 2,
+    "next": {
+      "Thereupon the": 1,
+      "Then the": 1
+    }
+  },
+  "his people.": {
+    "count": 2,
+    "next": {
+      "When the": 1,
+      "Thereupon the": 1
+    }
+  },
+  "Wicked wizard": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "and do": {
+    "count": 4,
+    "next": {
+      "him honor,": 2,
+      "her honor,": 2
+    }
+  },
+  "him honor,": {
+    "count": 2,
+    "next": {
+      "Lay him": 2
+    }
+  },
+  "Lay him": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "home a": {
+    "count": 2,
+    "next": {
+      "sable stallion": 2
+    }
+  },
+  "sable stallion": {
+    "count": 2,
+    "next": {
+      "That will": 2
+    }
+  },
+  "Home return": {
+    "count": 3,
+    "next": {
+      "and do": 3
+    }
+  },
+  "her honor,": {
+    "count": 2,
+    "next": {
+      "Lay her": 2
+    }
+  },
+  "Lay her": {
+    "count": 3,
+    "next": {
+      "in the": 3
+    }
+  },
+  "my tear-drops": {
+    "count": 2,
+    "next": {
+      "From the": 2
+    }
+  },
+  "Rising from": {
+    "count": 2,
+    "next": {
+      "the fire": 1,
+      "the molten": 1
+    }
+  },
+  "All rejoice": {
+    "count": 2,
+    "next": {
+      "but Ilmarinen": 2
+    }
+  },
+  "but Ilmarinen": {
+    "count": 2,
+    "next": {
+      "At the": 2
+    }
+  },
+  "Blows one": {
+    "count": 2,
+    "next": {
+      "day, and": 2
+    }
+  },
+  "second, Blows": {
+    "count": 2,
+    "next": {
+      "a third": 2
+    }
+  },
+  "the molten": {
+    "count": 2,
+    "next": {
+      "metals. From": 2
+    }
+  },
+  "to Wainola,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "Bring away": 1
+    }
+  },
+  "and moaned,": {
+    "count": 2,
+    "next": {
+      "and swam,": 2
+    }
+  },
+  "the snow": {
+    "count": 2,
+    "next": {
+      "beheld some": 2
+    }
+  },
+  "foot-prints, Spake": {
+    "count": 2,
+    "next": {
+      "these measures": 1,
+      "these words": 1
+    }
+  },
+  "to Sariola,": {
+    "count": 2,
+    "next": {
+      "There to": 1,
+      "Sing the": 1
+    }
+  },
+  "Bring away": {
+    "count": 2,
+    "next": {
+      "the lid": 2
+    }
+  },
+  "the rowing,": {
+    "count": 2,
+    "next": {
+      "Let the": 2
+    }
+  },
+  "Sampo To": {
+    "count": 2,
+    "next": {
+      "the people": 2
+    }
+  },
+  "is shining,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "And the": 1
+    }
+  },
+  "the war-ship": {
+    "count": 2,
+    "next": {
+      "of Pohyola,": 1,
+      "To the": 1
+    }
+  },
+  "men to": {
+    "count": 2,
+    "next": {
+      "the rowing,": 2
+    }
+  },
+  "the music": {
+    "count": 2,
+    "next": {
+      "on the": 1,
+      "of the": 1
+    }
+  },
+  "thou daughter": {
+    "count": 2,
+    "next": {
+      "Of the": 1,
+      "from Pohyola,": 1
+    }
+  },
+  "about him:": {
+    "count": 2,
+    "next": {
+      "Let the": 2
+    }
+  },
+  "the harp": {
+    "count": 7,
+    "next": {
+      "of magic,": 1,
+      "to Pohya,": 1,
+      "made answer,": 1,
+      "of Wainamoinen,": 2,
+      "of joyance,": 1,
+      "of magic": 1
+    }
+  },
+  "the harp-strings,": {
+    "count": 2,
+    "next": {
+      "Gave it": 1,
+      "To the": 1
+    }
+  },
+  "the notes": {
+    "count": 3,
+    "next": {
+      "of joyance,": 1,
+      "of the": 2
+    }
+  },
+  "to listen": {
+    "count": 3,
+    "next": {
+      "to the": 2,
+      "To the": 1
+    }
+  },
+  "cloudlets, On": {
+    "count": 2,
+    "next": {
+      "the bow": 1,
+      "the border": 1
+    }
+  },
+  "they hear": {
+    "count": 2,
+    "next": {
+      "the minstrel": 1,
+      "the magic": 1
+    }
+  },
+  "playing, Hear": {
+    "count": 2,
+    "next": {
+      "the harp": 2
+    }
+  },
+  "the whiting,": {
+    "count": 4,
+    "next": {
+      "From the": 1,
+      "To the": 1,
+      "Through the": 1,
+      "And the": 1
+    }
+  },
+  "Magic heroes": {
+    "count": 2,
+    "next": {
+      "of Wainola,": 1,
+      "of the": 1
+    }
+  },
+  "the stone-berg": {
+    "count": 6,
+    "next": {
+      "of Pohyola.": 2,
+      "of Pohyola,": 4
+    }
+  },
+  "the broad-sea": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "to the": 1
+    }
+  },
+  "copper-bearing mountain,": {
+    "count": 2,
+    "next": {
+      "Speaks these": 1,
+      "In the": 1
+    }
+  },
+  "copper-bearing mountain.": {
+    "count": 2,
+    "next": {
+      "Louhi, hostess": 1,
+      "These the": 1
+    }
+  },
+  "fog-point in": {
+    "count": 4,
+    "next": {
+      "the water,": 1,
+      "the ocean,": 2,
+      "the waters,": 1
+    }
+  },
+  "Fragments of": {
+    "count": 2,
+    "next": {
+      "the lid": 2
+    }
+  },
+  "Northland, Never": {
+    "count": 2,
+    "next": {
+      "while the": 1,
+      "in the": 1
+    }
+  },
+  "and tortures,": {
+    "count": 2,
+    "next": {
+      "To the": 1,
+      "From the": 1
+    }
+  },
+  "Honey-eater of": {
+    "count": 2,
+    "next": {
+      "the mountains,": 1,
+      "the woodlands,": 1
+    }
+  },
+  "in slumber,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "And the": 1
+    }
+  },
+  "of Otso,": {
+    "count": 2,
+    "next": {
+      "On the": 1,
+      "Honey-eater of": 1
+    }
+  },
+  "taken. Now": {
+    "count": 2,
+    "next": {
+      "I take": 2
+    }
+  },
+  "I take": {
+    "count": 2,
+    "next": {
+      "the ears": 1,
+      "the tongue": 1
+    }
+  },
+  "powers shall": {
+    "count": 2,
+    "next": {
+      "weaken; Though": 2
+    }
+  },
+  "weaken; Though": {
+    "count": 3,
+    "next": {
+      "I take": 3
+    }
+  },
+  "and Sun": {
+    "count": 2,
+    "next": {
+      "of silver,": 2
+    }
+  },
+  "needle, Through": {
+    "count": 2,
+    "next": {
+      "the death-hole": 2
+    }
+  },
+  "the death-hole": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "pike upon": {
+    "count": 2,
+    "next": {
+      "the pastures,": 1,
+      "the sea-shore,": 1
+    }
+  },
+  "directions, Called,": {
+    "count": 2,
+    "next": {
+      "and moaned,": 2
+    }
+  },
+  "and swam,": {
+    "count": 2,
+    "next": {
+      "and circled,": 2
+    }
+  },
+  "Swam one": {
+    "count": 2,
+    "next": {
+      "day, and": 2
+    }
+  },
+  "second, Swam": {
+    "count": 2,
+    "next": {
+      "the third": 2
+    }
+  },
+  "Swam she": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "islands cluster;": {
+    "count": 2,
+    "next": {
+      "And the": 2
+    }
+  },
+  "the net": {
+    "count": 3,
+    "next": {
+      "in all": 2,
+      "of the": 1
+    }
+  },
+  "single night": {
+    "count": 2,
+    "next": {
+      "in summer.": 2
+    }
+  },
+  "a birch-tree,": {
+    "count": 2,
+    "next": {
+      "In a": 1,
+      "Near the": 1
+    }
+  },
+  "he hastened.": {
+    "count": 2,
+    "next": {
+      "Spake again": 1,
+      "On the": 1
+    }
+  },
+  "iron-banded, In": {
+    "count": 2,
+    "next": {
+      "the stone-berg": 2
+    }
+  },
+  "Mariatta, child": {
+    "count": 4,
+    "next": {
+      "of beauty,": 4
+    }
+  },
+  "the stable": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  }
+}

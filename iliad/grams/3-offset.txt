@@ -1,0 +1,1795 @@
+{
+  "come to the": {
+    "count": 2,
+    "next": {
+      "to the ships": 2
+    }
+  },
+  "to the ships": {
+    "count": 25,
+    "next": {
+      "the ships of": 25
+    }
+  },
+  "the ships of": {
+    "count": 60,
+    "next": {
+      "ships of the": 60
+    }
+  },
+  "ships of the": {
+    "count": 14,
+    "next": {
+      "of the Achaeans": 14
+    }
+  },
+  "of the Achaeans": {
+    "count": 2,
+    "next": {
+      "the Achaeans with": 2
+    }
+  },
+  "On this the": {
+    "count": 2,
+    "next": {
+      "this the rest": 2
+    }
+  },
+  "this the rest": {
+    "count": 2,
+    "next": {
+      "the rest of": 2
+    }
+  },
+  "the rest of": {
+    "count": 11,
+    "next": {
+      "rest of the": 11
+    }
+  },
+  "rest of the": {
+    "count": 3,
+    "next": {
+      "of the Achaeans": 3
+    }
+  },
+  "the Achaeans with": {
+    "count": 2,
+    "next": {
+      "Achaeans with one": 2
+    }
+  },
+  "Achaeans with one": {
+    "count": 2,
+    "next": {
+      "with one voice": 2
+    }
+  },
+  "with one voice": {
+    "count": 2,
+    "next": {
+      "one voice were": 2
+    }
+  },
+  "one voice were": {
+    "count": 2,
+    "next": {
+      "voice were for": 2
+    }
+  },
+  "voice were for": {
+    "count": 2,
+    "next": {
+      "were for respecting": 2
+    }
+  },
+  "were for respecting": {
+    "count": 2,
+    "next": {
+      "for respecting the": 2
+    }
+  },
+  "for respecting the": {
+    "count": 2,
+    "next": {
+      "respecting the priest": 2
+    }
+  },
+  "respecting the priest": {
+    "count": 2,
+    "next": {
+      "the priest and": 2
+    }
+  },
+  "the priest and": {
+    "count": 2,
+    "next": {
+      "priest and taking": 2
+    }
+  },
+  "priest and taking": {
+    "count": 2,
+    "next": {
+      "and taking the": 2
+    }
+  },
+  "and taking the": {
+    "count": 2,
+    "next": {
+      "taking the ransom": 2
+    }
+  },
+  "taking the ransom": {
+    "count": 2,
+    "next": {
+      "the ransom that": 2
+    }
+  },
+  "the ransom that": {
+    "count": 2,
+    "next": {
+      "ransom that he": 2
+    }
+  },
+  "ransom that he": {
+    "count": 2,
+    "next": {
+      "that he offered;": 2
+    }
+  },
+  "that he offered;": {
+    "count": 2,
+    "next": {
+      "he offered; but": 2
+    }
+  },
+  "he offered; but": {
+    "count": 2,
+    "next": {
+      "offered; but not": 2
+    }
+  },
+  "offered; but not": {
+    "count": 2,
+    "next": {
+      "but not so": 2
+    }
+  },
+  "but not so": {
+    "count": 2,
+    "next": {
+      "not so Agamemnon,": 2
+    }
+  },
+  "not so Agamemnon,": {
+    "count": 2,
+    "next": {
+      "so Agamemnon, who": 2
+    }
+  },
+  "so Agamemnon, who": {
+    "count": 2,
+    "next": {
+      "Agamemnon, who spoke": 2
+    }
+  },
+  "Agamemnon, who spoke": {
+    "count": 2,
+    "next": {
+      "who spoke fiercely": 2
+    }
+  },
+  "who spoke fiercely": {
+    "count": 2,
+    "next": {
+      "spoke fiercely to": 2
+    }
+  },
+  "spoke fiercely to": {
+    "count": 2,
+    "next": {
+      "fiercely to him": 2
+    }
+  },
+  "fiercely to him": {
+    "count": 2,
+    "next": {
+      "to him and": 2
+    }
+  },
+  "to him and": {
+    "count": 2,
+    "next": {
+      "him and sent": 2
+    }
+  },
+  "him and sent": {
+    "count": 2,
+    "next": {
+      "and sent him": 2
+    }
+  },
+  "and sent him": {
+    "count": 2,
+    "next": {
+      "sent him with": 2
+    }
+  },
+  "which the sons": {
+    "count": 2,
+    "next": {
+      "the sons of": 2
+    }
+  },
+  "the sons of": {
+    "count": 20,
+    "next": {
+      "sons of the": 20
+    }
+  },
+  "sons of the": {
+    "count": 23,
+    "next": {
+      "of the Achaeans": 23
+    }
+  },
+  "must go back": {
+    "count": 2,
+    "next": {
+      "go back to": 2
+    }
+  },
+  "go back to": {
+    "count": 5,
+    "next": {
+      "back to the": 5
+    }
+  },
+  "of him who": {
+    "count": 4,
+    "next": {
+      "him who has": 4
+    }
+  },
+  "him who has": {
+    "count": 2,
+    "next": {
+      "who has slain": 2
+    }
+  },
+  "she went back": {
+    "count": 2,
+    "next": {
+      "went back to": 2
+    }
+  },
+  "went back to": {
+    "count": 5,
+    "next": {
+      "back to the": 5
+    }
+  },
+  "to the bravest": {
+    "count": 3,
+    "next": {
+      "the bravest of": 3
+    }
+  },
+  "the bravest of": {
+    "count": 9,
+    "next": {
+      "bravest of the": 9
+    }
+  },
+  "bravest of the": {
+    "count": 2,
+    "next": {
+      "of the Achaeans": 2
+    }
+  },
+  "and the Trojans": {
+    "count": 3,
+    "next": {
+      "the Trojans the": 3
+    }
+  },
+  "and went about": {
+    "count": 3,
+    "next": {
+      "went about among": 3
+    }
+  },
+  "went about among": {
+    "count": 7,
+    "next": {
+      "about among the": 7
+    }
+  },
+  "for the sons": {
+    "count": 2,
+    "next": {
+      "the sons of": 2
+    }
+  },
+  "at the ships": {
+    "count": 16,
+    "next": {
+      "the ships of": 16
+    }
+  },
+  "tents and ships": {
+    "count": 3,
+    "next": {
+      "and ships of": 3
+    }
+  },
+  "till they came": {
+    "count": 4,
+    "next": {
+      "they came to": 4
+    }
+  },
+  "they came to": {
+    "count": 11,
+    "next": {
+      "came to the": 11
+    }
+  },
+  "came to the": {
+    "count": 2,
+    "next": {
+      "to the tents": 1,
+      "to the ships": 1
+    }
+  },
+  "to the tents": {
+    "count": 2,
+    "next": {
+      "the tents and": 2
+    }
+  },
+  "the tents and": {
+    "count": 4,
+    "next": {
+      "tents and ships": 4
+    }
+  },
+  "and ships of": {
+    "count": 3,
+    "next": {
+      "ships of the": 3
+    }
+  },
+  "by the old": {
+    "count": 2,
+    "next": {
+      "the old man": 2
+    }
+  },
+  "the old man": {
+    "count": 2,
+    "next": {
+      "old man of": 2
+    }
+  },
+  "The sons of": {
+    "count": 5,
+    "next": {
+      "sons of the": 5
+    }
+  },
+  "host of the": {
+    "count": 3,
+    "next": {
+      "of the Achaeans": 3
+    }
+  },
+  "I will go": {
+    "count": 3,
+    "next": {
+      "will go to": 3
+    }
+  },
+  "will go to": {
+    "count": 2,
+    "next": {
+      "go to the": 2
+    }
+  },
+  "go to the": {
+    "count": 8,
+    "next": {
+      "to the ships": 8
+    }
+  },
+  "the host of": {
+    "count": 14,
+    "next": {
+      "host of the": 14
+    }
+  },
+  "much people at": {
+    "count": 2,
+    "next": {
+      "people at the": 2
+    }
+  },
+  "people at the": {
+    "count": 2,
+    "next": {
+      "at the ships": 2
+    }
+  },
+  "him to the": {
+    "count": 2,
+    "next": {
+      "to the ships": 2
+    }
+  },
+  "him in his": {
+    "count": 2,
+    "next": {
+      "in his ships": 2
+    }
+  },
+  "forth to the": {
+    "count": 3,
+    "next": {
+      "to the ships": 3
+    }
+  },
+  "them. My friends,": {
+    "count": 2,
+    "next": {
+      "My friends, said": 2
+    }
+  },
+  "My friends, said": {
+    "count": 6,
+    "next": {
+      "friends, said he,": 6
+    }
+  },
+  "friends, said he,": {
+    "count": 3,
+    "next": {
+      "said he, princes": 3
+    }
+  },
+  "but do you": {
+    "count": 2,
+    "next": {
+      "do you others": 2
+    }
+  },
+  "do you others": {
+    "count": 2,
+    "next": {
+      "you others go": 2
+    }
+  },
+  "you others go": {
+    "count": 2,
+    "next": {
+      "others go about": 2
+    }
+  },
+  "others go about": {
+    "count": 2,
+    "next": {
+      "go about among": 2
+    }
+  },
+  "go about among": {
+    "count": 7,
+    "next": {
+      "about among the": 7
+    }
+  },
+  "about among the": {
+    "count": 6,
+    "next": {
+      "among the host": 5,
+      "among the ships": 1
+    }
+  },
+  "among the host": {
+    "count": 2,
+    "next": {
+      "the host of": 2
+    }
+  },
+  "said he, princes": {
+    "count": 3,
+    "next": {
+      "he, princes and": 3
+    }
+  },
+  "he, princes and": {
+    "count": 2,
+    "next": {
+      "princes and councillors": 2
+    }
+  },
+  "princes and councillors": {
+    "count": 3,
+    "next": {
+      "and councillors of": 3
+    }
+  },
+  "and councillors of": {
+    "count": 3,
+    "next": {
+      "councillors of the": 3
+    }
+  },
+  "councillors of the": {
+    "count": 2,
+    "next": {
+      "of the Achaeans": 2
+    }
+  },
+  "man of the": {
+    "count": 2,
+    "next": {
+      "of the Achaeans": 2
+    }
+  },
+  "is the foremost": {
+    "count": 2,
+    "next": {
+      "the foremost man": 2
+    }
+  },
+  "the foremost man": {
+    "count": 2,
+    "next": {
+      "foremost man at": 2
+    }
+  },
+  "with him in": {
+    "count": 2,
+    "next": {
+      "him in his": 2
+    }
+  },
+  "the hearts of": {
+    "count": 8,
+    "next": {
+      "hearts of the": 8
+    }
+  },
+  "hearts of the": {
+    "count": 3,
+    "next": {
+      "of the Achaeans": 3
+    }
+  },
+  "so many of": {
+    "count": 2,
+    "next": {
+      "many of the": 2
+    }
+  },
+  "leave Priam and": {
+    "count": 3,
+    "next": {
+      "Priam and the": 3
+    }
+  },
+  "Priam and the": {
+    "count": 4,
+    "next": {
+      "and the Trojans": 3,
+      "and the ships": 1
+    }
+  },
+  "the Trojans the": {
+    "count": 3,
+    "next": {
+      "Trojans the glory": 3
+    }
+  },
+  "Trojans the glory": {
+    "count": 3,
+    "next": {
+      "the glory of": 3
+    }
+  },
+  "the glory of": {
+    "count": 3,
+    "next": {
+      "glory of still": 3
+    }
+  },
+  "glory of still": {
+    "count": 3,
+    "next": {
+      "of still keeping": 3
+    }
+  },
+  "of still keeping": {
+    "count": 3,
+    "next": {
+      "still keeping Helen,": 3
+    }
+  },
+  "still keeping Helen,": {
+    "count": 2,
+    "next": {
+      "keeping Helen, for": 2
+    }
+  },
+  "keeping Helen, for": {
+    "count": 2,
+    "next": {
+      "Helen, for whose": 2
+    }
+  },
+  "Helen, for whose": {
+    "count": 2,
+    "next": {
+      "for whose sake": 2
+    }
+  },
+  "for whose sake": {
+    "count": 2,
+    "next": {
+      "whose sake so": 2
+    }
+  },
+  "whose sake so": {
+    "count": 2,
+    "next": {
+      "sake so many": 2
+    }
+  },
+  "sake so many": {
+    "count": 2,
+    "next": {
+      "so many of": 2
+    }
+  },
+  "many of the": {
+    "count": 4,
+    "next": {
+      "of the Achaeans": 4
+    }
+  },
+  "so she went": {
+    "count": 2,
+    "next": {
+      "she went close": 2
+    }
+  },
+  "she went close": {
+    "count": 2,
+    "next": {
+      "went close up": 2
+    }
+  },
+  "went close up": {
+    "count": 3,
+    "next": {
+      "close up to": 3
+    }
+  },
+  "close up to": {
+    "count": 4,
+    "next": {
+      "up to him": 4
+    }
+  },
+  "up to him": {
+    "count": 24,
+    "next": {
+      "to him and": 24
+    }
+  },
+  "among the ships": {
+    "count": 2,
+    "next": {
+      "the ships of": 2
+    }
+  },
+  "him with his": {
+    "count": 2,
+    "next": {
+      "with his ships": 2
+    }
+  },
+  "back to the": {
+    "count": 4,
+    "next": {
+      "to the ships": 3,
+      "to the host": 1
+    }
+  },
+  "went up to": {
+    "count": 14,
+    "next": {
+      "up to him": 10,
+      "up to Hector": 4
+    }
+  },
+  "with the sons": {
+    "count": 2,
+    "next": {
+      "the sons of": 2
+    }
+  },
+  "get back to": {
+    "count": 2,
+    "next": {
+      "back to the": 2
+    }
+  },
+  "other of the": {
+    "count": 4,
+    "next": {
+      "of the Achaeans": 4
+    }
+  },
+  "courage into the": {
+    "count": 2,
+    "next": {
+      "into the hearts": 2
+    }
+  },
+  "were the chiefs": {
+    "count": 2,
+    "next": {
+      "the chiefs and": 2
+    }
+  },
+  "the chiefs and": {
+    "count": 2,
+    "next": {
+      "chiefs and princes": 2
+    }
+  },
+  "chiefs and princes": {
+    "count": 2,
+    "next": {
+      "and princes of": 2
+    }
+  },
+  "and princes of": {
+    "count": 3,
+    "next": {
+      "princes of the": 3
+    }
+  },
+  "princes of the": {
+    "count": 6,
+    "next": {
+      "of the Achaeans": 6
+    }
+  },
+  "he came to": {
+    "count": 2,
+    "next": {
+      "came to the": 2
+    }
+  },
+  "where the sons": {
+    "count": 2,
+    "next": {
+      "the sons of": 2
+    }
+  },
+  "came close up": {
+    "count": 7,
+    "next": {
+      "close up to": 7
+    }
+  },
+  "When they were": {
+    "count": 5,
+    "next": {
+      "they were close": 5
+    }
+  },
+  "they were close": {
+    "count": 5,
+    "next": {
+      "were close up": 5
+    }
+  },
+  "were close up": {
+    "count": 2,
+    "next": {
+      "close up to": 2
+    }
+  },
+  "for Helen and": {
+    "count": 2,
+    "next": {
+      "Helen and all": 2
+    }
+  },
+  "Helen and all": {
+    "count": 3,
+    "next": {
+      "and all her": 3
+    }
+  },
+  "and all her": {
+    "count": 2,
+    "next": {
+      "all her wealth.": 2
+    }
+  },
+  "all her wealth.": {
+    "count": 2,
+    "next": {
+      "her wealth. Let": 2
+    }
+  },
+  "her wealth. Let": {
+    "count": 2,
+    "next": {
+      "wealth. Let him": 2
+    }
+  },
+  "wealth. Let him": {
+    "count": 2,
+    "next": {
+      "Let him who": 2
+    }
+  },
+  "Let him who": {
+    "count": 3,
+    "next": {
+      "him who shall": 3
+    }
+  },
+  "him who shall": {
+    "count": 2,
+    "next": {
+      "who shall be": 2
+    }
+  },
+  "who shall be": {
+    "count": 2,
+    "next": {
+      "shall be victorious": 2
+    }
+  },
+  "shall be victorious": {
+    "count": 2,
+    "next": {
+      "be victorious and": 2
+    }
+  },
+  "be victorious and": {
+    "count": 2,
+    "next": {
+      "victorious and prove": 2
+    }
+  },
+  "victorious and prove": {
+    "count": 2,
+    "next": {
+      "and prove to": 2
+    }
+  },
+  "and prove to": {
+    "count": 2,
+    "next": {
+      "prove to be": 2
+    }
+  },
+  "prove to be": {
+    "count": 2,
+    "next": {
+      "to be the": 2
+    }
+  },
+  "to be the": {
+    "count": 2,
+    "next": {
+      "be the better": 2
+    }
+  },
+  "be the better": {
+    "count": 2,
+    "next": {
+      "the better man": 2
+    }
+  },
+  "the better man": {
+    "count": 2,
+    "next": {
+      "better man of": 2
+    }
+  },
+  "at him with": {
+    "count": 4,
+    "next": {
+      "him with his": 4
+    }
+  },
+  "then came close": {
+    "count": 2,
+    "next": {
+      "came close up": 2
+    }
+  },
+  "He went up": {
+    "count": 4,
+    "next": {
+      "went up to": 4
+    }
+  },
+  "the princes of": {
+    "count": 7,
+    "next": {
+      "princes of the": 7
+    }
+  },
+  "to go to": {
+    "count": 6,
+    "next": {
+      "go to the": 6
+    }
+  },
+  "you. I will": {
+    "count": 2,
+    "next": {
+      "I will go": 2
+    }
+  },
+  "When they came": {
+    "count": 4,
+    "next": {
+      "they came to": 4
+    }
+  },
+  "he went up": {
+    "count": 4,
+    "next": {
+      "went up to": 4
+    }
+  },
+  "till he came": {
+    "count": 3,
+    "next": {
+      "he came to": 3
+    }
+  },
+  "Thus did the": {
+    "count": 2,
+    "next": {
+      "did the old": 2
+    }
+  },
+  "did the old": {
+    "count": 4,
+    "next": {
+      "the old man": 4
+    }
+  },
+  "went his way": {
+    "count": 2,
+    "next": {
+      "his way to": 2
+    }
+  },
+  "them. When they": {
+    "count": 3,
+    "next": {
+      "When they were": 2,
+      "When they came": 1
+    }
+  },
+  "got close up": {
+    "count": 2,
+    "next": {
+      "close up to": 2
+    }
+  },
+  "smote him with": {
+    "count": 4,
+    "next": {
+      "him with his": 4
+    }
+  },
+  "the wall of": {
+    "count": 7,
+    "next": {
+      "wall of the": 7
+    }
+  },
+  "them back to": {
+    "count": 2,
+    "next": {
+      "back to the": 2
+    }
+  },
+  "for none other": {
+    "count": 2,
+    "next": {
+      "none other of": 2
+    }
+  },
+  "aim at him": {
+    "count": 4,
+    "next": {
+      "at him with": 4
+    }
+  },
+  "safely back to": {
+    "count": 2,
+    "next": {
+      "back to the": 2
+    }
+  },
+  "and the glory": {
+    "count": 2,
+    "next": {
+      "the glory of": 2
+    }
+  },
+  "to the sons": {
+    "count": 3,
+    "next": {
+      "the sons of": 3
+    }
+  },
+  "some one of": {
+    "count": 4,
+    "next": {
+      "one of the": 4
+    }
+  },
+  "one of the": {
+    "count": 3,
+    "next": {
+      "of the Achaeans": 3
+    }
+  },
+  "him to be": {
+    "count": 2,
+    "next": {
+      "to be the": 2
+    }
+  },
+  "put courage into": {
+    "count": 3,
+    "next": {
+      "courage into the": 3
+    }
+  },
+  "into the hearts": {
+    "count": 3,
+    "next": {
+      "the hearts of": 3
+    }
+  },
+  "and made his": {
+    "count": 2,
+    "next": {
+      "made his way": 2
+    }
+  },
+  "made his way": {
+    "count": 3,
+    "next": {
+      "his way to": 3
+    }
+  },
+  "his way to": {
+    "count": 6,
+    "next": {
+      "way to the": 6
+    }
+  },
+  "way to the": {
+    "count": 2,
+    "next": {
+      "to the ships": 1,
+      "to the host": 1
+    }
+  },
+  "off to the": {
+    "count": 2,
+    "next": {
+      "to the host": 1,
+      "to the ships": 1
+    }
+  },
+  "to the host": {
+    "count": 6,
+    "next": {
+      "the host of": 6
+    }
+  },
+  "the Trojans, but": {
+    "count": 2,
+    "next": {
+      "Trojans, but never": 2
+    }
+  },
+  "any other of": {
+    "count": 6,
+    "next": {
+      "other of the": 6
+    }
+  },
+  "First he went": {
+    "count": 2,
+    "next": {
+      "he went up": 2
+    }
+  },
+  "and came to": {
+    "count": 2,
+    "next": {
+      "came to the": 2
+    }
+  },
+  "Menelaus came up": {
+    "count": 2,
+    "next": {
+      "came up to": 2
+    }
+  },
+  "came up to": {
+    "count": 12,
+    "next": {
+      "up to him": 11,
+      "up to Hector": 1
+    }
+  },
+  "came running up": {
+    "count": 5,
+    "next": {
+      "running up to": 5
+    }
+  },
+  "running up to": {
+    "count": 2,
+    "next": {
+      "up to him": 2
+    }
+  },
+  "to Hector and": {
+    "count": 3,
+    "next": {
+      "Hector and the": 3
+    }
+  },
+  "and go about": {
+    "count": 2,
+    "next": {
+      "go about among": 2
+    }
+  },
+  "he went his": {
+    "count": 2,
+    "next": {
+      "went his way": 2
+    }
+  },
+  "took him to": {
+    "count": 2,
+    "next": {
+      "him to the": 2
+    }
+  },
+  "with which the": {
+    "count": 2,
+    "next": {
+      "which the old": 1,
+      "which the sons": 1
+    }
+  },
+  "I must go": {
+    "count": 2,
+    "next": {
+      "must go back": 2
+    }
+  },
+  "up to Hector": {
+    "count": 5,
+    "next": {
+      "to Hector and": 5
+    }
+  },
+  "he heard this": {
+    "count": 2,
+    "next": {
+      "heard this the": 2
+    }
+  },
+  "no man of": {
+    "count": 3,
+    "next": {
+      "man of the": 3
+    }
+  },
+  "in his ships": {
+    "count": 2,
+    "next": {
+      "his ships to": 2
+    }
+  },
+  "his ships to": {
+    "count": 2,
+    "next": {
+      "ships to Ilius": 2
+    }
+  },
+  "the pyre, and": {
+    "count": 2,
+    "next": {
+      "pyre, and having": 2
+    }
+  },
+  "pyre, and having": {
+    "count": 2,
+    "next": {
+      "and having burned": 2
+    }
+  },
+  "and having burned": {
+    "count": 2,
+    "next": {
+      "having burned them": 2
+    }
+  },
+  "having burned them": {
+    "count": 2,
+    "next": {
+      "burned them went": 2
+    }
+  },
+  "burned them went": {
+    "count": 2,
+    "next": {
+      "them went back": 2
+    }
+  },
+  "them went back": {
+    "count": 2,
+    "next": {
+      "went back to": 2
+    }
+  },
+  "the great wall": {
+    "count": 3,
+    "next": {
+      "great wall of": 3
+    }
+  },
+  "great wall of": {
+    "count": 3,
+    "next": {
+      "wall of the": 3
+    }
+  },
+  "wall of the": {
+    "count": 3,
+    "next": {
+      "of the Achaeans": 3
+    }
+  },
+  "and the ships": {
+    "count": 3,
+    "next": {
+      "the ships of": 3
+    }
+  },
+  "onward to the": {
+    "count": 2,
+    "next": {
+      "to the ships": 2
+    }
+  },
+  "by the ships": {
+    "count": 2,
+    "next": {
+      "the ships of": 2
+    }
+  },
+  "may go to": {
+    "count": 3,
+    "next": {
+      "go to the": 3
+    }
+  },
+  "Hector and the": {
+    "count": 10,
+    "next": {
+      "and the Trojans": 5,
+      "and the Trojans,": 5
+    }
+  },
+  "were the hearts": {
+    "count": 2,
+    "next": {
+      "the hearts of": 2
+    }
+  },
+  "that the sons": {
+    "count": 2,
+    "next": {
+      "the sons of": 2
+    }
+  },
+  "but the rest": {
+    "count": 2,
+    "next": {
+      "the rest of": 2
+    }
+  },
+  "for the ships": {
+    "count": 2,
+    "next": {
+      "the ships of": 2
+    }
+  },
+  "other princes of": {
+    "count": 2,
+    "next": {
+      "princes of the": 2
+    }
+  },
+  "to fight the": {
+    "count": 2,
+    "next": {
+      "fight the Trojans,": 2
+    }
+  },
+  "which the old": {
+    "count": 3,
+    "next": {
+      "the old man": 3
+    }
+  },
+  "for one of": {
+    "count": 2,
+    "next": {
+      "one of the": 2
+    }
+  },
+  "stay here by": {
+    "count": 2,
+    "next": {
+      "here by the": 2
+    }
+  },
+  "here by the": {
+    "count": 3,
+    "next": {
+      "by the ships": 3
+    }
+  },
+  "return to the": {
+    "count": 2,
+    "next": {
+      "to the ships": 2
+    }
+  },
+  "must go to": {
+    "count": 2,
+    "next": {
+      "go to the": 2
+    }
+  },
+  "till I come": {
+    "count": 2,
+    "next": {
+      "I come to": 2
+    }
+  },
+  "I come to": {
+    "count": 2,
+    "next": {
+      "come to the": 2
+    }
+  },
+  "some other of": {
+    "count": 4,
+    "next": {
+      "other of the": 4
+    }
+  },
+  "being alive at": {
+    "count": 2,
+    "next": {
+      "alive at the": 2
+    }
+  },
+  "alive at the": {
+    "count": 2,
+    "next": {
+      "at the ships": 2
+    }
+  },
+  "into the host": {
+    "count": 2,
+    "next": {
+      "the host of": 2
+    }
+  },
+  "Minerva came up": {
+    "count": 2,
+    "next": {
+      "came up to": 2
+    }
+  },
+  "from the Trojans,": {
+    "count": 2,
+    "next": {
+      "the Trojans, but": 2
+    }
+  },
+  "filled the Achaeans": {
+    "count": 2,
+    "next": {
+      "the Achaeans with": 2
+    }
+  },
+  "better man of": {
+    "count": 2,
+    "next": {
+      "man of the": 2
+    }
+  },
+  "from the tents": {
+    "count": 2,
+    "next": {
+      "the tents and": 2
+    }
+  },
+  "Polydamas went up": {
+    "count": 2,
+    "next": {
+      "went up to": 2
+    }
+  },
+  "that one of": {
+    "count": 2,
+    "next": {
+      "one of the": 2
+    }
+  },
+  "and gave victory": {
+    "count": 2,
+    "next": {
+      "gave victory to": 2
+    }
+  },
+  "gave victory to": {
+    "count": 2,
+    "next": {
+      "victory to Hector": 2
+    }
+  },
+  "victory to Hector": {
+    "count": 2,
+    "next": {
+      "to Hector and": 2
+    }
+  },
+  "when they came": {
+    "count": 2,
+    "next": {
+      "they came to": 2
+    }
+  },
+  "thrust at him": {
+    "count": 2,
+    "next": {
+      "at him with": 2
+    }
+  },
+  "took aim at": {
+    "count": 4,
+    "next": {
+      "aim at him": 4
+    }
+  },
+  "and took aim": {
+    "count": 2,
+    "next": {
+      "took aim at": 2
+    }
+  },
+  "upon the ships": {
+    "count": 2,
+    "next": {
+      "the ships of": 2
+    }
+  },
+  "rout of the": {
+    "count": 2,
+    "next": {
+      "of the Achaeans": 2
+    }
+  },
+  "the rout of": {
+    "count": 2,
+    "next": {
+      "rout of the": 2
+    }
+  },
+  "and came up": {
+    "count": 2,
+    "next": {
+      "came up to": 2
+    }
+  },
+  "than any other": {
+    "count": 2,
+    "next": {
+      "any other of": 2
+    }
+  },
+  "to go up": {
+    "count": 2,
+    "next": {
+      "go up to": 2
+    }
+  },
+  "go up to": {
+    "count": 3,
+    "next": {
+      "up to him": 3
+    }
+  },
+  "When he heard": {
+    "count": 3,
+    "next": {
+      "he heard this": 3
+    }
+  },
+  "and the Trojans,": {
+    "count": 3,
+    "next": {
+      "the Trojans, but": 3
+    }
+  },
+  "none of the": {
+    "count": 2,
+    "next": {
+      "of the Achaeans": 2
+    }
+  },
+  "never bore him": {
+    "count": 2,
+    "next": {
+      "bore him back": 2
+    }
+  },
+  "bore him back": {
+    "count": 2,
+    "next": {
+      "him back to": 2
+    }
+  },
+  "him back to": {
+    "count": 2,
+    "next": {
+      "back to the": 2
+    }
+  },
+  "whom the sons": {
+    "count": 2,
+    "next": {
+      "the sons of": 2
+    }
+  },
+  "lest one of": {
+    "count": 2,
+    "next": {
+      "one of the": 2
+    }
+  },
+  "none other of": {
+    "count": 2,
+    "next": {
+      "other of the": 2
+    }
+  },
+  "foremost man at": {
+    "count": 2,
+    "next": {
+      "man at the": 2
+    }
+  },
+  "man at the": {
+    "count": 2,
+    "next": {
+      "at the ships": 2
+    }
+  },
+  "commit him to": {
+    "count": 2,
+    "next": {
+      "him to the": 2
+    }
+  },
+  "he made his": {
+    "count": 3,
+    "next": {
+      "made his way": 3
+    }
+  },
+  "and he made": {
+    "count": 2,
+    "next": {
+      "he made his": 2
+    }
+  },
+  "for Hector and": {
+    "count": 2,
+    "next": {
+      "Hector and the": 2
+    }
+  },
+  "then went up": {
+    "count": 2,
+    "next": {
+      "went up to": 2
+    }
+  },
+  "sent him with": {
+    "count": 2,
+    "next": {
+      "him with his": 2
+    }
+  },
+  "with his ships": {
+    "count": 2,
+    "next": {
+      "his ships to": 2
+    }
+  },
+  "ships to Ilius": {
+    "count": 2,
+    "next": {
+      "to Ilius to": 2
+    }
+  },
+  "to Ilius to": {
+    "count": 2,
+    "next": {
+      "Ilius to fight": 2
+    }
+  },
+  "Ilius to fight": {
+    "count": 3,
+    "next": {
+      "to fight the": 3
+    }
+  },
+  "fight the Trojans,": {
+    "count": 2,
+    "next": {
+      "the Trojans, but": 2
+    }
+  },
+  "Trojans, but never": {
+    "count": 2,
+    "next": {
+      "but never shall": 2
+    }
+  },
+  "but never shall": {
+    "count": 2,
+    "next": {
+      "never shall I": 2
+    }
+  },
+  "never shall I": {
+    "count": 2,
+    "next": {
+      "shall I welcome": 2
+    }
+  },
+  "shall I welcome": {
+    "count": 2,
+    "next": {
+      "I welcome him": 2
+    }
+  },
+  "I welcome him": {
+    "count": 2,
+    "next": {
+      "welcome him back": 2
+    }
+  },
+  "welcome him back": {
+    "count": 2,
+    "next": {
+      "him back to": 2
+    }
+  },
+  "Hector who has": {
+    "count": 2,
+    "next": {
+      "who has slain": 2
+    }
+  },
+  "who has slain": {
+    "count": 2,
+    "next": {
+      "has slain so": 2
+    }
+  },
+  "Thetis came to": {
+    "count": 2,
+    "next": {
+      "came to the": 2
+    }
+  },
+  "old man of": {
+    "count": 2,
+    "next": {
+      "man of the": 2
+    }
+  },
+  "and go back": {
+    "count": 2,
+    "next": {
+      "go back to": 2
+    }
+  },
+  "take back to": {
+    "count": 2,
+    "next": {
+      "back to the": 2
+    }
+  },
+  "Hector at the": {
+    "count": 2,
+    "next": {
+      "at the ships": 2
+    }
+  },
+  "alone to the": {
+    "count": 2,
+    "next": {
+      "to the ships": 2
+    }
+  },
+  "has slain so": {
+    "count": 2,
+    "next": {
+      "slain so many": 2
+    }
+  },
+  "slain so many": {
+    "count": 3,
+    "next": {
+      "so many of": 3
+    }
+  },
+  "go forth to": {
+    "count": 2,
+    "next": {
+      "forth to the": 2
+    }
+  },
+  "this the old": {
+    "count": 2,
+    "next": {
+      "the old man": 2
+    }
+  },
+  "heard this the": {
+    "count": 2,
+    "next": {
+      "this the old": 2
+    }
+  },
+  "Mercury went back": {
+    "count": 2,
+    "next": {
+      "went back to": 2
+    }
+  }
+}

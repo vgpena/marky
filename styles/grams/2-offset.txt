@@ -1,0 +1,12617 @@
+{
+  "in the": {
+    "count": 25,
+    "next": {
+      "the man": 1,
+      "the lock": 4,
+      "the room,": 2,
+      "the middle": 2,
+      "the desk": 1,
+      "the early": 1,
+      "the possibility": 1,
+      "the case": 1,
+      "the other": 1,
+      "the household,": 1,
+      "the hall,": 1,
+      "the house,": 1,
+      "the window,": 1,
+      "the shape": 1,
+      "the top": 1,
+      "the name": 1,
+      "the event": 1,
+      "the fact": 1,
+      "the room": 2
+    }
+  },
+  "what was": {
+    "count": 5,
+    "next": {
+      "was going": 1,
+      "was the": 2,
+      "was in": 1,
+      "was at": 1
+    }
+  },
+  "at the": {
+    "count": 21,
+    "next": {
+      "the time": 9,
+      "the figure": 1,
+      "the door": 1,
+      "the head": 1,
+      "the bottom": 3,
+      "the window,": 1,
+      "the truth": 1,
+      "the possibility": 1,
+      "the end": 2,
+      "the top": 1
+    }
+  },
+  "the time": {
+    "count": 8,
+    "next": {
+      "time of": 5,
+      "time I": 1,
+      "time that": 2
+    }
+  },
+  "view of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "of the": {
+    "count": 51,
+    "next": {
+      "the greatest": 2,
+      "the man": 1,
+      "the room": 5,
+      "the night": 2,
+      "the room.": 6,
+      "the door": 2,
+      "the windows,": 2,
+      "the quarrel": 4,
+      "the scrap": 2,
+      "the events": 2,
+      "the other": 3,
+      "the opinion": 2,
+      "the fact": 1,
+      "the candle": 1,
+      "the open": 1,
+      "the day": 1,
+      "the jury": 2,
+      "the room,": 1,
+      "the person": 1,
+      "the head": 1,
+      "the household,": 1,
+      "the window,": 1,
+      "the crime": 1,
+      "the prisoner": 2,
+      "the beard": 1,
+      "the question": 1,
+      "the table": 1,
+      "the strychnine": 1
+    }
+  },
+  "I have": {
+    "count": 13,
+    "next": {
+      "have been": 7,
+      "have to": 2,
+      "have found": 2,
+      "have nothing": 2
+    }
+  },
+  "have been": {
+    "count": 5,
+    "next": {
+      "been administered": 3,
+      "been in": 1,
+      "been able": 1
+    }
+  },
+  "my friend": {
+    "count": 2,
+    "next": {
+      "friend was": 2
+    }
+  },
+  "Poirot and": {
+    "count": 5,
+    "next": {
+      "and the": 1,
+      "and I": 4
+    }
+  },
+  "and the": {
+    "count": 3,
+    "next": {
+      "the other": 1,
+      "the destruction": 1,
+      "the prisoner": 1
+    }
+  },
+  "I will": {
+    "count": 15,
+    "next": {
+      "will tell": 8,
+      "will be": 1,
+      "will not": 4,
+      "will ask": 2
+    }
+  },
+  "down the": {
+    "count": 7,
+    "next": {
+      "the stairs.": 3,
+      "the case": 1,
+      "the jury": 1,
+      "the hall,": 1,
+      "the room,": 1
+    }
+  },
+  "to my": {
+    "count": 3,
+    "next": {
+      "my intense": 2,
+      "my surprise,": 1
+    }
+  },
+  "connected with": {
+    "count": 2,
+    "next": {
+      "with the": 1,
+      "with her": 1
+    }
+  },
+  "with the": {
+    "count": 10,
+    "next": {
+      "the greatest": 1,
+      "the exception": 3,
+      "the murder": 1,
+      "the discovery": 1,
+      "the crime": 1,
+      "the air": 2,
+      "the fact": 1
+    }
+  },
+  "I had": {
+    "count": 16,
+    "next": {
+      "had been": 4,
+      "had an": 4,
+      "had to": 4,
+      "had thought": 2,
+      "had reached": 1,
+      "had only": 1
+    }
+  },
+  "had been": {
+    "count": 12,
+    "next": {
+      "been in": 4,
+      "been on": 3,
+      "been at": 2,
+      "been able": 1,
+      "been found": 2
+    }
+  },
+  "from the": {
+    "count": 9,
+    "next": {
+      "the hall,": 1,
+      "the floor,": 1,
+      "the room,": 1,
+      "the house,": 3,
+      "the subject": 1,
+      "the room.": 1,
+      "the other": 1
+    }
+  },
+  "in a": {
+    "count": 3,
+    "next": {
+      "a case": 2,
+      "a bit": 1
+    }
+  },
+  "I was": {
+    "count": 26,
+    "next": {
+      "was trying": 2,
+      "was in": 3,
+      "was a": 3,
+      "was anxious": 2,
+      "was aware": 2,
+      "was out": 2,
+      "was right": 2,
+      "was the": 1,
+      "was not": 6,
+      "was at": 1,
+      "was going": 1,
+      "was inclined": 1
+    }
+  },
+  "was trying": {
+    "count": 2,
+    "next": {
+      "trying to": 2
+    }
+  },
+  "trying to": {
+    "count": 4,
+    "next": {
+      "to make": 1,
+      "to get": 1,
+      "to believe": 1,
+      "to decide": 1
+    }
+  },
+  "to make": {
+    "count": 8,
+    "next": {
+      "make a": 7,
+      "make of": 1
+    }
+  },
+  "when I": {
+    "count": 11,
+    "next": {
+      "I came": 2,
+      "I was": 4,
+      "I heard": 1,
+      "I took": 1,
+      "I told": 1,
+      "I discovered": 2
+    }
+  },
+  "Cavendish. I": {
+    "count": 4,
+    "next": {
+      "I had": 1,
+      "I must": 1,
+      "I would": 1,
+      "I am": 1
+    }
+  },
+  "He was": {
+    "count": 5,
+    "next": {
+      "was a": 4,
+      "was the": 1
+    }
+  },
+  "was a": {
+    "count": 6,
+    "next": {
+      "a man": 2,
+      "a bit": 1,
+      "a surprise": 1,
+      "a moment": 2
+    }
+  },
+  "though he": {
+    "count": 5,
+    "next": {
+      "he had": 3,
+      "he was": 2
+    }
+  },
+  "We had": {
+    "count": 2,
+    "next": {
+      "had reached": 2
+    }
+  },
+  "and it": {
+    "count": 10,
+    "next": {
+      "it had": 1,
+      "it is": 3,
+      "it was": 4,
+      "it struck": 1,
+      "it would": 1
+    }
+  },
+  "in his": {
+    "count": 2,
+    "next": {
+      "his hand,": 2
+    }
+  },
+  "me down": {
+    "count": 4,
+    "next": {
+      "down to": 1,
+      "down the": 3
+    }
+  },
+  "down to": {
+    "count": 11,
+    "next": {
+      "to the": 10,
+      "to tell": 1
+    }
+  },
+  "will be": {
+    "count": 2,
+    "next": {
+      "be the": 2
+    }
+  },
+  "I asked.": {
+    "count": 2,
+    "next": {
+      "asked. I": 2
+    }
+  },
+  "I suppose": {
+    "count": 6,
+    "next": {
+      "suppose you": 4,
+      "suppose I": 2
+    }
+  },
+  "suppose you": {
+    "count": 3,
+    "next": {
+      "you know": 1,
+      "you are": 1,
+      "you think": 1
+    }
+  },
+  "you know": {
+    "count": 7,
+    "next": {
+      "know that": 5,
+      "know what": 1,
+      "know how": 1
+    }
+  },
+  "know that": {
+    "count": 7,
+    "next": {
+      "that she": 1,
+      "that I": 1,
+      "that Mrs.": 1,
+      "that the": 1,
+      "that Dr.": 1,
+      "that there": 1,
+      "that a": 1
+    }
+  },
+  "that she": {
+    "count": 22,
+    "next": {
+      "she and": 2,
+      "she was": 3,
+      "she might": 1,
+      "she had": 10,
+      "she could": 1,
+      "she may": 1,
+      "she is": 3,
+      "she did": 1
+    }
+  },
+  "I am": {
+    "count": 17,
+    "next": {
+      "am sure": 5,
+      "am not": 8,
+      "am in": 2,
+      "am quite": 2
+    }
+  },
+  "Mrs. Cavendish,": {
+    "count": 2,
+    "next": {
+      "Cavendish, who": 2
+    }
+  },
+  "Cavendish, who": {
+    "count": 2,
+    "next": {
+      "who had": 1,
+      "who was": 1
+    }
+  },
+  "who had": {
+    "count": 6,
+    "next": {
+      "had been": 5,
+      "had left": 1
+    }
+  },
+  "when he": {
+    "count": 6,
+    "next": {
+      "he was": 4,
+      "he had": 2
+    }
+  },
+  "he was": {
+    "count": 14,
+    "next": {
+      "was a": 3,
+      "was in": 2,
+      "was going": 2,
+      "was out": 1,
+      "was not": 1,
+      "was the": 2,
+      "was at": 1,
+      "was what": 1,
+      "was bound": 1
+    }
+  },
+  "woman of": {
+    "count": 2,
+    "next": {
+      "of her": 2
+    }
+  },
+  "as I": {
+    "count": 25,
+    "next": {
+      "I remembered": 1,
+      "I am": 1,
+      "I looked": 1,
+      "I told": 2,
+      "I could": 2,
+      "I can": 1,
+      "I had": 5,
+      "I said,": 1,
+      "I have": 1,
+      "I ask": 1,
+      "I thought": 1,
+      "I might": 2,
+      "I came": 1,
+      "I did": 1,
+      "I turned": 1,
+      "I was": 2,
+      "I went": 1
+    }
+  },
+  "I remembered": {
+    "count": 5,
+    "next": {
+      "remembered that": 5
+    }
+  },
+  "her. She": {
+    "count": 2,
+    "next": {
+      "She could": 1,
+      "She is": 1
+    }
+  },
+  "could not": {
+    "count": 10,
+    "next": {
+      "not be": 5,
+      "not in": 1,
+      "not have": 4
+    }
+  },
+  "not be": {
+    "count": 4,
+    "next": {
+      "be a": 2,
+      "be able": 1,
+      "be likely": 1
+    }
+  },
+  "be a": {
+    "count": 2,
+    "next": {
+      "a piece": 1,
+      "a bit": 1
+    }
+  },
+  "now. I": {
+    "count": 2,
+    "next": {
+      "I could": 1,
+      "I am": 1
+    }
+  },
+  "her as": {
+    "count": 3,
+    "next": {
+      "as much": 2,
+      "as she": 1
+    }
+  },
+  "inclined to": {
+    "count": 5,
+    "next": {
+      "to be": 2,
+      "to give": 1,
+      "to believe": 1,
+      "to think": 1
+    }
+  },
+  "with a": {
+    "count": 8,
+    "next": {
+      "a key": 2,
+      "a bit": 1,
+      "a piece": 1,
+      "a gesture": 3,
+      "a man": 1
+    }
+  },
+  "She was": {
+    "count": 8,
+    "next": {
+      "was a": 3,
+      "was able": 1,
+      "was the": 1,
+      "was not": 1,
+      "was at": 1,
+      "was anxious": 1
+    }
+  },
+  "of her": {
+    "count": 3,
+    "next": {
+      "her as": 2,
+      "her eyes": 1
+    }
+  },
+  "He had": {
+    "count": 3,
+    "next": {
+      "had been": 1,
+      "had heard": 1,
+      "had taken": 1
+    }
+  },
+  "that, on": {
+    "count": 2,
+    "next": {
+      "on the": 1,
+      "on one": 1
+    }
+  },
+  "left the": {
+    "count": 8,
+    "next": {
+      "the room,": 4,
+      "the candle": 1,
+      "the room.": 2,
+      "the room": 1
+    }
+  },
+  "to her": {
+    "count": 3,
+    "next": {
+      "her to": 1,
+      "her by": 2
+    }
+  },
+  "as well": {
+    "count": 4,
+    "next": {
+      "well as": 4
+    }
+  },
+  "well as": {
+    "count": 2,
+    "next": {
+      "as the": 2
+    }
+  },
+  "as the": {
+    "count": 3,
+    "next": {
+      "the key": 1,
+      "the person": 1,
+      "the evidence": 1
+    }
+  },
+  "part of": {
+    "count": 6,
+    "next": {
+      "of his": 1,
+      "of the": 3,
+      "of which": 1,
+      "of it": 1
+    }
+  },
+  "of his": {
+    "count": 2,
+    "next": {
+      "his face": 2
+    }
+  },
+  "that was": {
+    "count": 5,
+    "next": {
+      "was standing": 1,
+      "was the": 1,
+      "was a": 1,
+      "was not": 1,
+      "was as": 1
+    }
+  },
+  "time of": {
+    "count": 4,
+    "next": {
+      "of the": 2,
+      "of her": 2
+    }
+  },
+  "that they": {
+    "count": 2,
+    "next": {
+      "they had": 2
+    }
+  },
+  "thought of": {
+    "count": 5,
+    "next": {
+      "of her": 1,
+      "of the": 1,
+      "of Mrs.": 1,
+      "of Alfred": 1,
+      "of a": 1
+    }
+  },
+  "medicine, and": {
+    "count": 2,
+    "next": {
+      "and that": 1,
+      "and the": 1
+    }
+  },
+  "to the": {
+    "count": 29,
+    "next": {
+      "the events": 1,
+      "the house,": 2,
+      "the room": 1,
+      "the other": 3,
+      "the door": 2,
+      "the window,": 2,
+      "the fact": 2,
+      "the possibility": 1,
+      "the subject": 2,
+      "the jury": 3,
+      "the destruction": 2,
+      "the candle": 1,
+      "the conclusion": 6,
+      "the desk": 1
+    }
+  },
+  "of a": {
+    "count": 5,
+    "next": {
+      "a woman": 1,
+      "a man": 3,
+      "a stain": 1
+    }
+  },
+  "had taken": {
+    "count": 2,
+    "next": {
+      "taken to": 1,
+      "taken it": 1
+    }
+  },
+  "though I": {
+    "count": 4,
+    "next": {
+      "I think": 1,
+      "I should": 1,
+      "I did": 1,
+      "I don't": 1
+    }
+  },
+  "suspicion that": {
+    "count": 2,
+    "next": {
+      "that he": 1,
+      "that it": 1
+    }
+  },
+  "that he": {
+    "count": 28,
+    "next": {
+      "he would": 6,
+      "he might": 2,
+      "he was": 8,
+      "he did": 1,
+      "he had": 7,
+      "he should": 2,
+      "he is": 1,
+      "he will": 1
+    }
+  },
+  "he would": {
+    "count": 9,
+    "next": {
+      "would have": 5,
+      "would be": 1,
+      "would not": 3
+    }
+  },
+  "would have": {
+    "count": 18,
+    "next": {
+      "have been": 10,
+      "have taken": 2,
+      "have to": 2,
+      "have had": 3,
+      "have thought": 1
+    }
+  },
+  "which would": {
+    "count": 2,
+    "next": {
+      "would have": 1,
+      "would at": 1
+    }
+  },
+  "him to": {
+    "count": 7,
+    "next": {
+      "to have": 1,
+      "to go": 2,
+      "to me.": 1,
+      "to take": 1,
+      "to make": 1,
+      "to Mr.": 1
+    }
+  },
+  "to have": {
+    "count": 4,
+    "next": {
+      "have taken": 1,
+      "have been": 2,
+      "have thought": 1
+    }
+  },
+  "he said": {
+    "count": 9,
+    "next": {
+      "said at": 7,
+      "said it": 1,
+      "said he": 1
+    }
+  },
+  "I can": {
+    "count": 4,
+    "next": {
+      "can tell": 3,
+      "can see": 1
+    }
+  },
+  "can tell": {
+    "count": 4,
+    "next": {
+      "tell you,": 2,
+      "tell us": 1,
+      "tell you": 1
+    }
+  },
+  "tell you,": {
+    "count": 4,
+    "next": {
+      "you, my": 2,
+      "you, mon": 1,
+      "you, that": 1
+    }
+  },
+  "Oh, I": {
+    "count": 2,
+    "next": {
+      "I suppose": 1,
+      "I know": 1
+    }
+  },
+  "she was": {
+    "count": 7,
+    "next": {
+      "was going": 1,
+      "was not": 1,
+      "was inclined": 1,
+      "was away": 1,
+      "was of": 1,
+      "was what": 1,
+      "was likely": 1
+    }
+  },
+  "You were": {
+    "count": 2,
+    "next": {
+      "were going": 1,
+      "were in": 1
+    }
+  },
+  "were going": {
+    "count": 2,
+    "next": {
+      "going to": 2
+    }
+  },
+  "going to": {
+    "count": 8,
+    "next": {
+      "to say": 1,
+      "to ask": 1,
+      "to decide": 1,
+      "to take": 1,
+      "to be": 1,
+      "to do": 1,
+      "to leave": 1,
+      "to the": 1
+    }
+  },
+  "He turned": {
+    "count": 7,
+    "next": {
+      "turned to": 7
+    }
+  },
+  "on the": {
+    "count": 28,
+    "next": {
+      "the subject": 5,
+      "the table": 5,
+      "the other": 2,
+      "the floor,": 4,
+      "the face": 1,
+      "the day": 5,
+      "the afternoon": 3,
+      "the night": 1,
+      "the case": 1,
+      "the part": 1
+    }
+  },
+  "is an": {
+    "count": 2,
+    "next": {
+      "an old": 1,
+      "an idea": 1
+    }
+  },
+  "can see": {
+    "count": 2,
+    "next": {
+      "see what": 1,
+      "see how": 1
+    }
+  },
+  "in all": {
+    "count": 2,
+    "next": {
+      "all this": 1,
+      "all the": 1
+    }
+  },
+  "But the": {
+    "count": 2,
+    "next": {
+      "the door": 1,
+      "the evidence": 1
+    }
+  },
+  "to him": {
+    "count": 2,
+    "next": {
+      "him that": 1,
+      "him as": 1
+    }
+  },
+  "took him": {
+    "count": 2,
+    "next": {
+      "him down": 1,
+      "him to": 1
+    }
+  },
+  "know how": {
+    "count": 2,
+    "next": {
+      "how he": 1,
+      "how it": 1
+    }
+  },
+  "But you": {
+    "count": 9,
+    "next": {
+      "you could": 1,
+      "you agree": 1,
+      "you will": 1,
+      "you do": 1,
+      "you have": 2,
+      "you did": 1,
+      "you are": 1,
+      "you would": 1
+    }
+  },
+  "you could": {
+    "count": 4,
+    "next": {
+      "could have": 3,
+      "could not": 1
+    }
+  },
+  "could have": {
+    "count": 8,
+    "next": {
+      "have been": 6,
+      "have made": 1,
+      "have taken": 1
+    }
+  },
+  "down with": {
+    "count": 3,
+    "next": {
+      "with a": 1,
+      "with her": 1,
+      "with the": 1
+    }
+  },
+  "she and": {
+    "count": 2,
+    "next": {
+      "and Alfred": 2
+    }
+  },
+  "and Alfred": {
+    "count": 2,
+    "next": {
+      "Alfred Inglethorp": 2
+    }
+  },
+  "must be": {
+    "count": 3,
+    "next": {
+      "be a": 3
+    }
+  },
+  "but there": {
+    "count": 3,
+    "next": {
+      "there is": 2,
+      "there might": 1
+    }
+  },
+  "It must": {
+    "count": 6,
+    "next": {
+      "must be": 2,
+      "must have": 4
+    }
+  },
+  "at Styles": {
+    "count": 2,
+    "next": {
+      "Styles on": 2
+    }
+  },
+  "up in": {
+    "count": 11,
+    "next": {
+      "in the": 6,
+      "in front": 1,
+      "in a": 3,
+      "in favour": 1
+    }
+  },
+  "John Cavendish": {
+    "count": 4,
+    "next": {
+      "Cavendish was": 2,
+      "Cavendish did": 1,
+      "Cavendish who": 1
+    }
+  },
+  "Cavendish was": {
+    "count": 3,
+    "next": {
+      "was standing": 2,
+      "was not": 1
+    }
+  },
+  "me out": {
+    "count": 2,
+    "next": {
+      "out to": 1,
+      "out of": 1
+    }
+  },
+  "out to": {
+    "count": 8,
+    "next": {
+      "to the": 3,
+      "to me": 1,
+      "to be": 4
+    }
+  },
+  "a drop": {
+    "count": 2,
+    "next": {
+      "drop or": 2
+    }
+  },
+  "drop or": {
+    "count": 2,
+    "next": {
+      "or two": 2
+    }
+  },
+  "or two": {
+    "count": 3,
+    "next": {
+      "two of": 3
+    }
+  },
+  "two of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "owing to": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "miles from": {
+    "count": 2,
+    "next": {
+      "from the": 2
+    }
+  },
+  "the other": {
+    "count": 6,
+    "next": {
+      "other side": 2,
+      "other hand,": 4
+    }
+  },
+  "other side": {
+    "count": 2,
+    "next": {
+      "side of": 2
+    }
+  },
+  "side of": {
+    "count": 7,
+    "next": {
+      "of it.": 1,
+      "of the": 6
+    }
+  },
+  "of it.": {
+    "count": 6,
+    "next": {
+      "it. It": 3,
+      "it. As": 1,
+      "it. I": 1,
+      "it. In": 1
+    }
+  },
+  "it. It": {
+    "count": 5,
+    "next": {
+      "It was": 4,
+      "It does": 1
+    }
+  },
+  "It was": {
+    "count": 19,
+    "next": {
+      "was a": 9,
+      "was as": 1,
+      "was Mr.": 1,
+      "was going": 1,
+      "was the": 2,
+      "was to": 2,
+      "was in": 2,
+      "was what": 1
+    }
+  },
+  "the afternoon": {
+    "count": 3,
+    "next": {
+      "afternoon of": 3
+    }
+  },
+  "to believe": {
+    "count": 4,
+    "next": {
+      "believe that": 3,
+      "believe what": 1
+    }
+  },
+  "I felt": {
+    "count": 7,
+    "next": {
+      "felt I": 2,
+      "felt that": 4,
+      "felt certain": 1
+    }
+  },
+  "felt I": {
+    "count": 2,
+    "next": {
+      "I had": 1,
+      "I might": 1
+    }
+  },
+  "As we": {
+    "count": 5,
+    "next": {
+      "we entered": 2,
+      "we passed": 1,
+      "we went": 2
+    }
+  },
+  "turned in": {
+    "count": 4,
+    "next": {
+      "in at": 3,
+      "in the": 1
+    }
+  },
+  "in at": {
+    "count": 4,
+    "next": {
+      "at the": 4
+    }
+  },
+  "My dear": {
+    "count": 3,
+    "next": {
+      "dear Poirot,": 3
+    }
+  },
+  "what I": {
+    "count": 7,
+    "next": {
+      "I knew": 2,
+      "I could": 1,
+      "I heard": 1,
+      "I have": 1,
+      "I was": 1,
+      "I had": 1
+    }
+  },
+  "if you": {
+    "count": 3,
+    "next": {
+      "you could": 1,
+      "you would": 1,
+      "you are": 1
+    }
+  },
+  "want to": {
+    "count": 8,
+    "next": {
+      "to ask": 4,
+      "to speak": 1,
+      "to be": 2,
+      "to make": 1
+    }
+  },
+  "She is": {
+    "count": 3,
+    "next": {
+      "is an": 1,
+      "is the": 1,
+      "is of": 1
+    }
+  },
+  "for that": {
+    "count": 2,
+    "next": {
+      "that of": 2
+    }
+  },
+  "is a": {
+    "count": 5,
+    "next": {
+      "a fragment": 1,
+      "a man": 2,
+      "a woman": 1,
+      "a question": 1
+    }
+  },
+  "an old": {
+    "count": 2,
+    "next": {
+      "old woman": 2
+    }
+  },
+  "came to": {
+    "count": 9,
+    "next": {
+      "to the": 5,
+      "to take": 1,
+      "to me": 1,
+      "to her": 2
+    }
+  },
+  "in front": {
+    "count": 4,
+    "next": {
+      "front of": 4
+    }
+  },
+  "front of": {
+    "count": 3,
+    "next": {
+      "of the": 2,
+      "of her,": 1
+    }
+  },
+  "A lady": {
+    "count": 2,
+    "next": {
+      "lady in": 2
+    }
+  },
+  "lady in": {
+    "count": 2,
+    "next": {
+      "in a": 1,
+      "in the": 1
+    }
+  },
+  "who was": {
+    "count": 3,
+    "next": {
+      "was the": 2,
+      "was attracted": 1
+    }
+  },
+  "Howard. Miss": {
+    "count": 2,
+    "next": {
+      "Miss Howard": 2
+    }
+  },
+  "Miss Howard": {
+    "count": 4,
+    "next": {
+      "Howard had": 4
+    }
+  },
+  "had an": {
+    "count": 2,
+    "next": {
+      "an idea": 2
+    }
+  },
+  "impression of": {
+    "count": 3,
+    "next": {
+      "of a": 2,
+      "of her": 1
+    }
+  },
+  "I'm sure": {
+    "count": 3,
+    "next": {
+      "sure of": 1,
+      "sure it": 1,
+      "sure you": 1
+    }
+  },
+  "to be": {
+    "count": 13,
+    "next": {
+      "be a": 7,
+      "be the": 1,
+      "be able": 2,
+      "be one": 1,
+      "be in": 2
+    }
+  },
+  "said Miss": {
+    "count": 4,
+    "next": {
+      "Miss Howard,": 1,
+      "Miss Howard": 3
+    }
+  },
+  "Miss Howard,": {
+    "count": 5,
+    "next": {
+      "Howard, I": 3,
+      "Howard, that": 2
+    }
+  },
+  "I'm inclined": {
+    "count": 2,
+    "next": {
+      "inclined to": 2
+    }
+  },
+  "agree with": {
+    "count": 2,
+    "next": {
+      "with me": 2
+    }
+  },
+  "round the": {
+    "count": 2,
+    "next": {
+      "the room.": 1,
+      "the room,": 1
+    }
+  },
+  "from one": {
+    "count": 2,
+    "next": {
+      "one of": 2
+    }
+  },
+  "one of": {
+    "count": 26,
+    "next": {
+      "of the": 22,
+      "of which": 1,
+      "of Mrs.": 2,
+      "of his": 1
+    }
+  },
+  "John. I": {
+    "count": 3,
+    "next": {
+      "I remembered": 1,
+      "I do": 1,
+      "I could": 1
+    }
+  },
+  "sense of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "seemed to": {
+    "count": 13,
+    "next": {
+      "to notice": 1,
+      "to be": 6,
+      "to me": 3,
+      "to have": 2,
+      "to him": 1
+    }
+  },
+  "that I": {
+    "count": 43,
+    "next": {
+      "I have": 3,
+      "I had": 6,
+      "I was": 14,
+      "I am": 3,
+      "I should": 1,
+      "I know": 3,
+      "I can": 1,
+      "I felt": 2,
+      "I do": 1,
+      "I did": 3,
+      "I will": 1,
+      "I want": 1,
+      "I would": 2,
+      "I knew": 1,
+      "I didn't": 1
+    }
+  },
+  "the impression": {
+    "count": 2,
+    "next": {
+      "impression of": 2
+    }
+  },
+  "greeted me": {
+    "count": 2,
+    "next": {
+      "me with": 2
+    }
+  },
+  "me with": {
+    "count": 3,
+    "next": {
+      "with a": 3
+    }
+  },
+  "voice, and": {
+    "count": 2,
+    "next": {
+      "and I": 1,
+      "and he": 1
+    }
+  },
+  "and I": {
+    "count": 26,
+    "next": {
+      "I was": 4,
+      "I fancied": 1,
+      "I went": 1,
+      "I heard": 2,
+      "I felt": 1,
+      "I followed": 2,
+      "I suppose": 1,
+      "I thought": 1,
+      "I would": 1,
+      "I will": 2,
+      "I think": 1,
+      "I took": 1,
+      "I did": 1,
+      "I had": 2,
+      "I found": 1,
+      "I could": 1,
+      "I turned": 1,
+      "I do": 1,
+      "I looked": 1
+    }
+  },
+  "glad that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that the": 1
+    }
+  },
+  "Mrs. Cavendish": {
+    "count": 10,
+    "next": {
+      "Cavendish was": 3,
+      "Cavendish does": 1,
+      "Cavendish who": 3,
+      "Cavendish is": 2,
+      "Cavendish did": 1
+    }
+  },
+  "through the": {
+    "count": 9,
+    "next": {
+      "the open": 3,
+      "the door": 2,
+      "the desk": 2,
+      "the French": 1,
+      "the hall,": 1
+    }
+  },
+  "the open": {
+    "count": 3,
+    "next": {
+      "open window": 3
+    }
+  },
+  "for the": {
+    "count": 9,
+    "next": {
+      "the fact": 3,
+      "the murder": 3,
+      "the jury": 1,
+      "the truth": 1,
+      "the symptoms": 1
+    }
+  },
+  "case of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of Alfred": 1
+    }
+  },
+  "day, and": {
+    "count": 2,
+    "next": {
+      "and Mrs.": 1,
+      "and put": 1
+    }
+  },
+  "and Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Cavendish": 1,
+      "Mrs. Inglethorp": 1
+    }
+  },
+  "There was": {
+    "count": 21,
+    "next": {
+      "was the": 2,
+      "was no": 7,
+      "was a": 12
+    }
+  },
+  "was the": {
+    "count": 9,
+    "next": {
+      "the door": 1,
+      "the person": 2,
+      "the expression": 1,
+      "the end": 1,
+      "the one": 1,
+      "the prisoner": 3
+    }
+  },
+  "Mrs. Inglethorp's": {
+    "count": 8,
+    "next": {
+      "Inglethorp's room,": 5,
+      "Inglethorp's room.": 3
+    }
+  },
+  "rose in": {
+    "count": 2,
+    "next": {
+      "in her": 2
+    }
+  },
+  "You are": {
+    "count": 9,
+    "next": {
+      "are not": 5,
+      "are sure": 3,
+      "are quite": 1
+    }
+  },
+  "out of": {
+    "count": 35,
+    "next": {
+      "of it": 1,
+      "of her.": 1,
+      "of the": 27,
+      "of her": 2,
+      "of his": 4
+    }
+  },
+  "of it": {
+    "count": 4,
+    "next": {
+      "it on": 1,
+      "it as": 1,
+      "it in": 1,
+      "it was": 1
+    }
+  },
+  "it on": {
+    "count": 10,
+    "next": {
+      "on to": 1,
+      "on the": 7,
+      "on top": 1,
+      "on his": 1
+    }
+  },
+  "on to": {
+    "count": 3,
+    "next": {
+      "to the": 3
+    }
+  },
+  "A man": {
+    "count": 2,
+    "next": {
+      "man of": 1,
+      "man in": 1
+    }
+  },
+  "Mrs. Inglethorp": {
+    "count": 33,
+    "next": {
+      "Inglethorp was": 8,
+      "Inglethorp came": 4,
+      "Inglethorp and": 2,
+      "Inglethorp had": 11,
+      "Inglethorp made": 2,
+      "Inglethorp would": 2,
+      "Inglethorp who": 3,
+      "Inglethorp on": 1
+    }
+  },
+  "Why, if": {
+    "count": 2,
+    "next": {
+      "if it": 2
+    }
+  },
+  "if it": {
+    "count": 12,
+    "next": {
+      "it is": 3,
+      "it was": 4,
+      "it had": 1,
+      "it hadn't": 3,
+      "it was.": 1
+    }
+  },
+  "I looked": {
+    "count": 8,
+    "next": {
+      "looked at": 8
+    }
+  },
+  "I did": {
+    "count": 24,
+    "next": {
+      "did not": 24
+    }
+  },
+  "did not": {
+    "count": 17,
+    "next": {
+      "not seem": 4,
+      "not ask": 1,
+      "not take": 3,
+      "not know": 5,
+      "not think": 1,
+      "not appear": 2,
+      "not have": 1
+    }
+  },
+  "It struck": {
+    "count": 4,
+    "next": {
+      "struck me": 4
+    }
+  },
+  "struck me": {
+    "count": 6,
+    "next": {
+      "me that": 3,
+      "me as": 2,
+      "me at": 1
+    }
+  },
+  "me that": {
+    "count": 15,
+    "next": {
+      "that he": 4,
+      "that I": 1,
+      "that the": 2,
+      "that Mrs.": 1,
+      "that my": 2,
+      "that Mr.": 1,
+      "that it": 3,
+      "that in": 1
+    }
+  },
+  "he might": {
+    "count": 2,
+    "next": {
+      "might have": 2
+    }
+  },
+  "This is": {
+    "count": 10,
+    "next": {
+      "is a": 6,
+      "is an": 1,
+      "is the": 3
+    }
+  },
+  "I think": {
+    "count": 9,
+    "next": {
+      "think that": 3,
+      "think we": 2,
+      "think of": 1,
+      "think it": 1,
+      "think you": 2
+    }
+  },
+  "think that": {
+    "count": 10,
+    "next": {
+      "that if": 1,
+      "that you": 1,
+      "that any": 2,
+      "that the": 1,
+      "that my": 1,
+      "that will": 1,
+      "that it": 1,
+      "that I": 1,
+      "that Miss": 1
+    }
+  },
+  "him, as": {
+    "count": 2,
+    "next": {
+      "as he": 2
+    }
+  },
+  "as he": {
+    "count": 11,
+    "next": {
+      "he did": 4,
+      "he and": 1,
+      "he closed": 1,
+      "he was": 1,
+      "he had": 3,
+      "he is": 1
+    }
+  },
+  "With the": {
+    "count": 3,
+    "next": {
+      "the presence": 1,
+      "the exception": 1,
+      "the evidence": 1
+    }
+  },
+  "the presence": {
+    "count": 4,
+    "next": {
+      "presence of": 4
+    }
+  },
+  "presence of": {
+    "count": 3,
+    "next": {
+      "of Mr.": 1,
+      "of the": 2
+    }
+  },
+  "of Mr.": {
+    "count": 3,
+    "next": {
+      "Mr. Inglethorp.": 2,
+      "Mr. Inglethorp": 1
+    }
+  },
+  "upon the": {
+    "count": 2,
+    "next": {
+      "the name": 1,
+      "the question": 1
+    }
+  },
+  "to notice": {
+    "count": 2,
+    "next": {
+      "notice that": 2
+    }
+  },
+  "which I": {
+    "count": 6,
+    "next": {
+      "I remembered": 1,
+      "I want": 1,
+      "I could": 2,
+      "I was": 1,
+      "I found": 1
+    }
+  },
+  "the subject": {
+    "count": 6,
+    "next": {
+      "subject of": 6
+    }
+  },
+  "subject of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "which she": {
+    "count": 4,
+    "next": {
+      "she was": 1,
+      "she must": 1,
+      "she had": 2
+    }
+  },
+  "was to": {
+    "count": 8,
+    "next": {
+      "to take": 3,
+      "to be": 3,
+      "to Mr.": 2
+    }
+  },
+  "to take": {
+    "count": 3,
+    "next": {
+      "take it": 3
+    }
+  },
+  "a question": {
+    "count": 2,
+    "next": {
+      "question of": 2
+    }
+  },
+  "question of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of his": 1
+    }
+  },
+  "I took": {
+    "count": 3,
+    "next": {
+      "took a": 2,
+      "took him": 1
+    }
+  },
+  "took a": {
+    "count": 3,
+    "next": {
+      "a drop": 1,
+      "a sample": 2
+    }
+  },
+  "to him,": {
+    "count": 4,
+    "next": {
+      "him, and": 4
+    }
+  },
+  "him, and": {
+    "count": 4,
+    "next": {
+      "and I": 2,
+      "and Mrs.": 1,
+      "and see": 1
+    }
+  },
+  "myself that": {
+    "count": 2,
+    "next": {
+      "that my": 1,
+      "that the": 1
+    }
+  },
+  "that my": {
+    "count": 2,
+    "next": {
+      "my friend": 2
+    }
+  },
+  "turned to": {
+    "count": 11,
+    "next": {
+      "to give": 1,
+      "to me.": 3,
+      "to the": 4,
+      "to me,": 1,
+      "to me": 2
+    }
+  },
+  "to give": {
+    "count": 2,
+    "next": {
+      "give evidence": 2
+    }
+  },
+  "me in": {
+    "count": 6,
+    "next": {
+      "in his": 3,
+      "in a": 1,
+      "in the": 1,
+      "in spite": 1
+    }
+  },
+  "was in": {
+    "count": 8,
+    "next": {
+      "in the": 5,
+      "in a": 3
+    }
+  },
+  "And you": {
+    "count": 3,
+    "next": {
+      "you will": 1,
+      "you have": 1,
+      "you are": 1
+    }
+  },
+  "you will": {
+    "count": 7,
+    "next": {
+      "will not": 1,
+      "will tell": 1,
+      "will be": 3,
+      "will remember": 1,
+      "will notice": 1
+    }
+  },
+  "it is": {
+    "count": 29,
+    "next": {
+      "is not": 8,
+      "is as": 2,
+      "is of": 2,
+      "is a": 6,
+      "is the": 5,
+      "is true.": 1,
+      "is an": 2,
+      "is possible": 3
+    }
+  },
+  "Mary Cavendish": {
+    "count": 5,
+    "next": {
+      "Cavendish was": 5
+    }
+  },
+  "you really": {
+    "count": 2,
+    "next": {
+      "really think": 2
+    }
+  },
+  "it. I": {
+    "count": 4,
+    "next": {
+      "I came": 1,
+      "I think": 1,
+      "I have": 1,
+      "I know": 1
+    }
+  },
+  "I came": {
+    "count": 6,
+    "next": {
+      "came out": 1,
+      "came down": 2,
+      "came to": 2,
+      "came through": 1
+    }
+  },
+  "a man": {
+    "count": 9,
+    "next": {
+      "man in": 1,
+      "man of": 6,
+      "man who": 2
+    }
+  },
+  "man in": {
+    "count": 3,
+    "next": {
+      "in his": 3
+    }
+  },
+  "and he": {
+    "count": 5,
+    "next": {
+      "he had": 2,
+      "he closed": 1,
+      "he would": 1,
+      "he said": 1
+    }
+  },
+  "used to": {
+    "count": 3,
+    "next": {
+      "to say": 1,
+      "to make": 1,
+      "to the": 1
+    }
+  },
+  "to say": {
+    "count": 2,
+    "next": {
+      "say that": 2
+    }
+  },
+  "say that": {
+    "count": 9,
+    "next": {
+      "that all": 1,
+      "that I": 2,
+      "that it": 3,
+      "that to": 1,
+      "that she": 1,
+      "that Mrs.": 1
+    }
+  },
+  "that all": {
+    "count": 2,
+    "next": {
+      "all the": 2
+    }
+  },
+  "course I": {
+    "count": 3,
+    "next": {
+      "I have": 1,
+      "I may": 1,
+      "I had": 1
+    }
+  },
+  "know at": {
+    "count": 2,
+    "next": {
+      "at once.": 1,
+      "at the": 1
+    }
+  },
+  "at once.": {
+    "count": 2,
+    "next": {
+      "once. I": 2
+    }
+  },
+  "are right": {
+    "count": 2,
+    "next": {
+      "right in": 2
+    }
+  },
+  "right in": {
+    "count": 2,
+    "next": {
+      "in it.": 1,
+      "in her": 1
+    }
+  },
+  "in it.": {
+    "count": 3,
+    "next": {
+      "it. He": 2,
+      "it. I": 1
+    }
+  },
+  "Then, I": {
+    "count": 2,
+    "next": {
+      "I said,": 2
+    }
+  },
+  "I said,": {
+    "count": 9,
+    "next": {
+      "said, I": 5,
+      "said, what": 2,
+      "said, it": 2
+    }
+  },
+  "you think": {
+    "count": 13,
+    "next": {
+      "think that": 2,
+      "think you": 3,
+      "think we": 1,
+      "think of": 1,
+      "think it": 3,
+      "think she": 1,
+      "think I": 2
+    }
+  },
+  "that if": {
+    "count": 6,
+    "next": {
+      "if you": 1,
+      "if I": 1,
+      "if it": 1,
+      "if the": 1,
+      "if he": 2
+    }
+  },
+  "be able": {
+    "count": 8,
+    "next": {
+      "able to": 8
+    }
+  },
+  "able to": {
+    "count": 4,
+    "next": {
+      "to speak": 1,
+      "to tell": 1,
+      "to do": 1,
+      "to account": 1
+    }
+  },
+  "Of course": {
+    "count": 3,
+    "next": {
+      "course I": 3
+    }
+  },
+  "prove it": {
+    "count": 2,
+    "next": {
+      "it to": 2
+    }
+  },
+  "it to": {
+    "count": 13,
+    "next": {
+      "to me.": 1,
+      "to me": 1,
+      "to her": 1,
+      "to the": 2,
+      "to you.": 1,
+      "to me,": 1,
+      "to you": 4,
+      "to be": 2
+    }
+  },
+  "it in": {
+    "count": 7,
+    "next": {
+      "in the": 6,
+      "in a": 1
+    }
+  },
+  "if he": {
+    "count": 3,
+    "next": {
+      "he came": 1,
+      "he was": 1,
+      "he could": 1
+    }
+  },
+  "he came": {
+    "count": 3,
+    "next": {
+      "came down": 1,
+      "came to": 2
+    }
+  },
+  "me. It": {
+    "count": 3,
+    "next": {
+      "It might": 1,
+      "It was": 2
+    }
+  },
+  "It might": {
+    "count": 4,
+    "next": {
+      "might be": 3,
+      "might have": 1
+    }
+  },
+  "might be": {
+    "count": 6,
+    "next": {
+      "be a": 2,
+      "be in": 1,
+      "be able": 1,
+      "be the": 2
+    }
+  },
+  "Not in": {
+    "count": 3,
+    "next": {
+      "in a": 1,
+      "in the": 2
+    }
+  },
+  "a case": {
+    "count": 2,
+    "next": {
+      "case of": 2
+    }
+  },
+  "Dr. Bauerstein": {
+    "count": 5,
+    "next": {
+      "Bauerstein had": 5
+    }
+  },
+  "across the": {
+    "count": 3,
+    "next": {
+      "the room,": 1,
+      "the open": 1,
+      "the face": 1
+    }
+  },
+  "you are": {
+    "count": 7,
+    "next": {
+      "are quite": 3,
+      "are right": 1,
+      "are not": 2,
+      "are sure": 1
+    }
+  },
+  "full of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "she would": {
+    "count": 8,
+    "next": {
+      "would have": 4,
+      "would not": 1,
+      "would be": 3
+    }
+  },
+  "down on": {
+    "count": 3,
+    "next": {
+      "on the": 2,
+      "on his": 1
+    }
+  },
+  "and as": {
+    "count": 7,
+    "next": {
+      "as I": 3,
+      "as we": 1,
+      "as he": 1,
+      "as to": 1,
+      "as soon": 1
+    }
+  },
+  "I should": {
+    "count": 19,
+    "next": {
+      "should like": 10,
+      "should not": 3,
+      "should never": 2,
+      "should have": 4
+    }
+  },
+  "should like": {
+    "count": 9,
+    "next": {
+      "like to": 9
+    }
+  },
+  "like to": {
+    "count": 9,
+    "next": {
+      "to me,": 1,
+      "to speak": 1,
+      "to ask": 4,
+      "to make": 2,
+      "to take": 1
+    }
+  },
+  "who is": {
+    "count": 2,
+    "next": {
+      "is not": 2
+    }
+  },
+  "And she": {
+    "count": 3,
+    "next": {
+      "she is": 2,
+      "she was": 1
+    }
+  },
+  "she is": {
+    "count": 7,
+    "next": {
+      "is the": 1,
+      "is on": 1,
+      "is an": 2,
+      "is of": 1,
+      "is in": 2
+    }
+  },
+  "I don't": {
+    "count": 21,
+    "next": {
+      "don't know": 12,
+      "don't think": 6,
+      "don't see": 3
+    }
+  },
+  "work in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "do you": {
+    "count": 17,
+    "next": {
+      "you think": 4,
+      "you know": 3,
+      "you make": 5,
+      "you not": 2,
+      "you mean": 2,
+      "you account": 1
+    }
+  },
+  "she said.": {
+    "count": 2,
+    "next": {
+      "said. I": 2
+    }
+  },
+  "think you": {
+    "count": 6,
+    "next": {
+      "you could": 2,
+      "you would": 1,
+      "you might": 2,
+      "you have": 1
+    }
+  },
+  "something in": {
+    "count": 3,
+    "next": {
+      "in her": 2,
+      "in the": 1
+    }
+  },
+  "in her": {
+    "count": 5,
+    "next": {
+      "her room": 3,
+      "her eyes": 1,
+      "her hand,": 1
+    }
+  },
+  "and that": {
+    "count": 11,
+    "next": {
+      "that Mrs.": 2,
+      "that she": 1,
+      "that there": 1,
+      "that the": 2,
+      "that I": 1,
+      "that of": 1,
+      "that he": 2,
+      "that in": 1
+    }
+  },
+  "that Mrs.": {
+    "count": 21,
+    "next": {
+      "Mrs. Inglethorp": 15,
+      "Mrs. Inglethorp's": 3,
+      "Mrs. Cavendish": 3
+    }
+  },
+  "kind as": {
+    "count": 2,
+    "next": {
+      "as she": 1,
+      "as to": 1
+    }
+  },
+  "as she": {
+    "count": 8,
+    "next": {
+      "she might": 1,
+      "she was": 2,
+      "she had": 2,
+      "she did": 2,
+      "she said.": 1
+    }
+  },
+  "she might": {
+    "count": 3,
+    "next": {
+      "might be": 1,
+      "might have": 2
+    }
+  },
+  "be in": {
+    "count": 3,
+    "next": {
+      "in the": 2,
+      "in a": 1
+    }
+  },
+  "her to": {
+    "count": 2,
+    "next": {
+      "to her": 1,
+      "to make": 1
+    }
+  },
+  "to me.": {
+    "count": 6,
+    "next": {
+      "me. I": 4,
+      "me. It": 1,
+      "me. How": 1
+    }
+  },
+  "We have": {
+    "count": 4,
+    "next": {
+      "have nothing": 1,
+      "have found": 1,
+      "have been": 1,
+      "have to": 1
+    }
+  },
+  "with me": {
+    "count": 4,
+    "next": {
+      "me that": 3,
+      "me to": 1
+    }
+  },
+  "are quite": {
+    "count": 2,
+    "next": {
+      "quite sure": 2
+    }
+  },
+  "scrap of": {
+    "count": 2,
+    "next": {
+      "of conversation": 2
+    }
+  },
+  "and John": {
+    "count": 2,
+    "next": {
+      "John Cavendish": 2
+    }
+  },
+  "into the": {
+    "count": 6,
+    "next": {
+      "the room.": 2,
+      "the hall,": 1,
+      "the room": 1,
+      "the house,": 2
+    }
+  },
+  "up the": {
+    "count": 2,
+    "next": {
+      "the stairs.": 1,
+      "the key": 1
+    }
+  },
+  "room was": {
+    "count": 2,
+    "next": {
+      "was in": 2
+    }
+  },
+  "me, and": {
+    "count": 4,
+    "next": {
+      "and I": 2,
+      "and there": 1,
+      "and as": 1
+    }
+  },
+  "I saw": {
+    "count": 4,
+    "next": {
+      "saw at": 1,
+      "saw that": 3
+    }
+  },
+  "slowly across": {
+    "count": 2,
+    "next": {
+      "across the": 1,
+      "across to": 1
+    }
+  },
+  "I heard": {
+    "count": 3,
+    "next": {
+      "heard the": 2,
+      "heard of": 1
+    }
+  },
+  "back to": {
+    "count": 8,
+    "next": {
+      "to the": 6,
+      "to her": 1,
+      "to you.": 1
+    }
+  },
+  "He looked": {
+    "count": 2,
+    "next": {
+      "looked at": 2
+    }
+  },
+  "him. He": {
+    "count": 3,
+    "next": {
+      "He looked": 1,
+      "He is": 1,
+      "He was": 1
+    }
+  },
+  "window as": {
+    "count": 2,
+    "next": {
+      "as he": 1,
+      "as it": 1
+    }
+  },
+  "he had": {
+    "count": 16,
+    "next": {
+      "had happened": 1,
+      "had found": 3,
+      "had been": 9,
+      "had taken": 1,
+      "had realized": 1,
+      "had an": 1
+    }
+  },
+  "what it": {
+    "count": 2,
+    "next": {
+      "it was": 2
+    }
+  },
+  "it was": {
+    "count": 44,
+    "next": {
+      "was that": 2,
+      "was to": 3,
+      "was no": 2,
+      "was not": 8,
+      "was Mr.": 3,
+      "was a": 9,
+      "was put": 2,
+      "was the": 7,
+      "was news": 1,
+      "was of": 1,
+      "was standing": 1,
+      "was Mrs.": 4,
+      "was in": 1
+    }
+  },
+  "was that": {
+    "count": 3,
+    "next": {
+      "that was": 1,
+      "that it": 1,
+      "that of": 1
+    }
+  },
+  "Then I": {
+    "count": 7,
+    "next": {
+      "I found": 1,
+      "I will": 2,
+      "I thought": 1,
+      "I must": 1,
+      "I remembered": 1,
+      "I discovered": 1
+    }
+  },
+  "night of": {
+    "count": 3,
+    "next": {
+      "of that": 1,
+      "of the": 2
+    }
+  },
+  "of that": {
+    "count": 2,
+    "next": {
+      "that will": 1,
+      "that of": 1
+    }
+  },
+  "when she": {
+    "count": 5,
+    "next": {
+      "she went": 1,
+      "she had": 3,
+      "she was": 1
+    }
+  },
+  "me for": {
+    "count": 2,
+    "next": {
+      "for a": 2
+    }
+  },
+  "for a": {
+    "count": 8,
+    "next": {
+      "a walk,": 2,
+      "a moment": 3,
+      "a woman": 2,
+      "a piece": 1
+    }
+  },
+  "a walk,": {
+    "count": 2,
+    "next": {
+      "walk, and": 2
+    }
+  },
+  "walk, and": {
+    "count": 2,
+    "next": {
+      "and we": 2
+    }
+  },
+  "and we": {
+    "count": 5,
+    "next": {
+      "we went": 4,
+      "we must": 1
+    }
+  },
+  "returning to": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "we entered": {
+    "count": 2,
+    "next": {
+      "entered the": 2
+    }
+  },
+  "entered the": {
+    "count": 4,
+    "next": {
+      "the hall,": 1,
+      "the room.": 3
+    }
+  },
+  "saw at": {
+    "count": 2,
+    "next": {
+      "at once": 2
+    }
+  },
+  "at once": {
+    "count": 5,
+    "next": {
+      "once that": 5
+    }
+  },
+  "his face": {
+    "count": 5,
+    "next": {
+      "face that": 4,
+      "face in": 1
+    }
+  },
+  "face that": {
+    "count": 3,
+    "next": {
+      "that he": 2,
+      "that was": 1
+    }
+  },
+  "followed him": {
+    "count": 2,
+    "next": {
+      "him up": 1,
+      "him as": 1
+    }
+  },
+  "in, and": {
+    "count": 5,
+    "next": {
+      "and he": 1,
+      "and that": 1,
+      "and you": 1,
+      "and Poirot": 1,
+      "and the": 1
+    }
+  },
+  "the door": {
+    "count": 10,
+    "next": {
+      "door of": 5,
+      "door into": 3,
+      "door must": 2
+    }
+  },
+  "you see": {
+    "count": 2,
+    "next": {
+      "see anything": 1,
+      "see what": 1
+    }
+  },
+  "she went": {
+    "count": 2,
+    "next": {
+      "went to": 2
+    }
+  },
+  "went to": {
+    "count": 7,
+    "next": {
+      "to the": 6,
+      "to my": 1
+    }
+  },
+  "as to": {
+    "count": 13,
+    "next": {
+      "to what": 2,
+      "to her": 1,
+      "to the": 7,
+      "to Mr.": 1,
+      "to leave": 1,
+      "to my": 1
+    }
+  },
+  "to what": {
+    "count": 2,
+    "next": {
+      "what he": 1,
+      "what I": 1
+    }
+  },
+  "what he": {
+    "count": 5,
+    "next": {
+      "he said,": 1,
+      "he had": 1,
+      "he was": 1,
+      "he is": 2
+    }
+  },
+  "I went": {
+    "count": 5,
+    "next": {
+      "went to": 3,
+      "went up": 1,
+      "went out": 1
+    }
+  },
+  "you like": {
+    "count": 2,
+    "next": {
+      "like to": 2
+    }
+  },
+  "as soon": {
+    "count": 4,
+    "next": {
+      "soon as": 4
+    }
+  },
+  "you in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "look at": {
+    "count": 3,
+    "next": {
+      "at the": 3
+    }
+  },
+  "what you": {
+    "count": 6,
+    "next": {
+      "you like": 1,
+      "you have": 1,
+      "you overheard": 1,
+      "you are": 3
+    }
+  },
+  "to me,": {
+    "count": 2,
+    "next": {
+      "me, and": 2
+    }
+  },
+  "a moment": {
+    "count": 6,
+    "next": {
+      "moment I": 1,
+      "moment or": 3,
+      "moment when": 2
+    }
+  },
+  "and stared": {
+    "count": 2,
+    "next": {
+      "stared at": 2
+    }
+  },
+  "stared at": {
+    "count": 3,
+    "next": {
+      "at the": 1,
+      "at me": 2
+    }
+  },
+  "something about": {
+    "count": 3,
+    "next": {
+      "about the": 3
+    }
+  },
+  "to think": {
+    "count": 5,
+    "next": {
+      "think that": 2,
+      "think of": 3
+    }
+  },
+  "it. As": {
+    "count": 2,
+    "next": {
+      "As she": 1,
+      "As we": 1
+    }
+  },
+  "As she": {
+    "count": 2,
+    "next": {
+      "she left": 2
+    }
+  },
+  "she left": {
+    "count": 2,
+    "next": {
+      "left the": 2
+    }
+  },
+  "the room,": {
+    "count": 4,
+    "next": {
+      "room, and": 4
+    }
+  },
+  "you? I": {
+    "count": 5,
+    "next": {
+      "I was": 2,
+      "I am": 1,
+      "I have": 1,
+      "I said,": 1
+    }
+  },
+  "I know": {
+    "count": 4,
+    "next": {
+      "know what": 2,
+      "know how": 1,
+      "know that": 1
+    }
+  },
+  "know what": {
+    "count": 5,
+    "next": {
+      "what I": 1,
+      "what it": 2,
+      "what you": 2
+    }
+  },
+  "isn't one": {
+    "count": 2,
+    "next": {
+      "one of": 2
+    }
+  },
+  "hard up": {
+    "count": 2,
+    "next": {
+      "up and": 1,
+      "up as": 1
+    }
+  },
+  "up and": {
+    "count": 4,
+    "next": {
+      "and trying": 1,
+      "and took": 1,
+      "and down": 2
+    }
+  },
+  "and trying": {
+    "count": 3,
+    "next": {
+      "trying to": 3
+    }
+  },
+  "to get": {
+    "count": 2,
+    "next": {
+      "get hold": 2
+    }
+  },
+  "of her.": {
+    "count": 2,
+    "next": {
+      "her. I": 1,
+      "her. She": 1
+    }
+  },
+  "as much": {
+    "count": 5,
+    "next": {
+      "much as": 4,
+      "much evidence": 1
+    }
+  },
+  "much as": {
+    "count": 3,
+    "next": {
+      "as I": 1,
+      "as you": 1,
+      "as she": 1
+    }
+  },
+  "Of course,": {
+    "count": 2,
+    "next": {
+      "course, it": 2
+    }
+  },
+  "Howard, I": {
+    "count": 2,
+    "next": {
+      "I said,": 1,
+      "I will": 1
+    }
+  },
+  "me by": {
+    "count": 3,
+    "next": {
+      "by the": 3
+    }
+  },
+  "lived in": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "in a": 1
+    }
+  },
+  "I ask": {
+    "count": 2,
+    "next": {
+      "ask you": 2
+    }
+  },
+  "ask you": {
+    "count": 2,
+    "next": {
+      "you to": 2
+    }
+  },
+  "see what": {
+    "count": 5,
+    "next": {
+      "what I": 2,
+      "what you": 2,
+      "what he": 1
+    }
+  },
+  "came through": {
+    "count": 2,
+    "next": {
+      "through the": 2
+    }
+  },
+  "window, and": {
+    "count": 2,
+    "next": {
+      "and Miss": 1,
+      "and the": 1
+    }
+  },
+  "and Miss": {
+    "count": 3,
+    "next": {
+      "Miss Howard": 3
+    }
+  },
+  "was no": {
+    "count": 7,
+    "next": {
+      "no sign": 3,
+      "no doubt": 1,
+      "no one": 2,
+      "no possibility": 1
+    }
+  },
+  "time for": {
+    "count": 2,
+    "next": {
+      "for the": 2
+    }
+  },
+  "herself from": {
+    "count": 2,
+    "next": {
+      "from the": 2
+    }
+  },
+  "man who": {
+    "count": 4,
+    "next": {
+      "who had": 2,
+      "who was": 1,
+      "who entered": 1
+    }
+  },
+  "the greatest": {
+    "count": 2,
+    "next": {
+      "greatest thing": 2
+    }
+  },
+  "put in": {
+    "count": 3,
+    "next": {
+      "in her": 1,
+      "in his": 2
+    }
+  },
+  "there is": {
+    "count": 12,
+    "next": {
+      "is no": 6,
+      "is one": 3,
+      "is a": 2,
+      "is nothing": 1
+    }
+  },
+  "is no": {
+    "count": 2,
+    "next": {
+      "no possibility": 1,
+      "no doubt": 1
+    }
+  },
+  "He took": {
+    "count": 2,
+    "next": {
+      "took out": 2
+    }
+  },
+  "path through": {
+    "count": 2,
+    "next": {
+      "through the": 2
+    }
+  },
+  "we passed": {
+    "count": 2,
+    "next": {
+      "passed through": 2
+    }
+  },
+  "passed through": {
+    "count": 2,
+    "next": {
+      "through the": 2
+    }
+  },
+  "coming in": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "in from": 1
+    }
+  },
+  "That is": {
+    "count": 11,
+    "next": {
+      "is a": 4,
+      "is all": 2,
+      "is the": 2,
+      "is as": 1,
+      "is exactly": 2
+    }
+  },
+  "that Miss": {
+    "count": 2,
+    "next": {
+      "Miss Howard": 2
+    }
+  },
+  "I thought": {
+    "count": 8,
+    "next": {
+      "thought of": 3,
+      "thought I": 3,
+      "thought it": 2
+    }
+  },
+  "house, and": {
+    "count": 3,
+    "next": {
+      "and that": 1,
+      "and at": 1,
+      "and we": 1
+    }
+  },
+  "over me.": {
+    "count": 2,
+    "next": {
+      "me. I": 2
+    }
+  },
+  "me. I": {
+    "count": 9,
+    "next": {
+      "I tell": 1,
+      "I never": 1,
+      "I will": 1,
+      "I was": 2,
+      "I want": 1,
+      "I am": 2,
+      "I did": 1
+    }
+  },
+  "had only": {
+    "count": 2,
+    "next": {
+      "only made": 2
+    }
+  },
+  "only made": {
+    "count": 2,
+    "next": {
+      "made a": 2
+    }
+  },
+  "made a": {
+    "count": 4,
+    "next": {
+      "a will": 4
+    }
+  },
+  "up as": {
+    "count": 2,
+    "next": {
+      "as I": 2
+    }
+  },
+  "are you?": {
+    "count": 2,
+    "next": {
+      "you? My": 1,
+      "you? I": 1
+    }
+  },
+  "you? My": {
+    "count": 2,
+    "next": {
+      "My dear": 2
+    }
+  },
+  "you that": {
+    "count": 9,
+    "next": {
+      "that you": 3,
+      "that they": 1,
+      "that the": 1,
+      "that it": 1,
+      "that I": 2,
+      "that he": 1
+    }
+  },
+  "I must": {
+    "count": 12,
+    "next": {
+      "must confess": 4,
+      "must say": 3,
+      "must have": 3,
+      "must be": 1,
+      "must not": 1
+    }
+  },
+  "up to": {
+    "count": 14,
+    "next": {
+      "to the": 8,
+      "to her": 3,
+      "to tell": 1,
+      "to Mrs.": 1,
+      "to me": 1
+    }
+  },
+  "time I": {
+    "count": 3,
+    "next": {
+      "I felt": 1,
+      "I had": 1,
+      "I was": 1
+    }
+  },
+  "Now that": {
+    "count": 2,
+    "next": {
+      "that is": 1,
+      "that she": 1
+    }
+  },
+  "the air": {
+    "count": 2,
+    "next": {
+      "air of": 2
+    }
+  },
+  "face of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "to me": {
+    "count": 17,
+    "next": {
+      "me for": 1,
+      "me to": 6,
+      "me at": 2,
+      "me that": 6,
+      "me as": 1,
+      "me if": 1
+    }
+  },
+  "moment I": {
+    "count": 2,
+    "next": {
+      "I had": 1,
+      "I heard": 1
+    }
+  },
+  "arrived at": {
+    "count": 3,
+    "next": {
+      "at Styles": 2,
+      "at the": 1
+    }
+  },
+  "Styles on": {
+    "count": 3,
+    "next": {
+      "on the": 3
+    }
+  },
+  "the events": {
+    "count": 4,
+    "next": {
+      "events of": 4
+    }
+  },
+  "events of": {
+    "count": 3,
+    "next": {
+      "of the": 2,
+      "of that": 1
+    }
+  },
+  "Evelyn Howard": {
+    "count": 2,
+    "next": {
+      "Howard had": 2
+    }
+  },
+  "me to": {
+    "count": 7,
+    "next": {
+      "to take": 1,
+      "to dictate": 1,
+      "to the": 3,
+      "to believe": 1,
+      "to ask": 1
+    }
+  },
+  "know if": {
+    "count": 5,
+    "next": {
+      "if Mrs.": 2,
+      "if it": 2,
+      "if the": 1
+    }
+  },
+  "if Mrs.": {
+    "count": 4,
+    "next": {
+      "Mrs. Inglethorp": 4
+    }
+  },
+  "wish to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to believe": 1
+    }
+  },
+  "was Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Cavendish": 2,
+      "Mrs. Inglethorp": 1
+    }
+  },
+  "saw in": {
+    "count": 3,
+    "next": {
+      "in the": 1,
+      "in her": 2
+    }
+  },
+  "the man": {
+    "count": 2,
+    "next": {
+      "man in": 1,
+      "man who": 1
+    }
+  },
+  "but she": {
+    "count": 5,
+    "next": {
+      "she was": 2,
+      "she appeared": 1,
+      "she would": 1,
+      "she went": 1
+    }
+  },
+  "asking him": {
+    "count": 3,
+    "next": {
+      "him up": 1,
+      "him to": 2
+    }
+  },
+  "him up": {
+    "count": 2,
+    "next": {
+      "up to": 2
+    }
+  },
+  "the house,": {
+    "count": 3,
+    "next": {
+      "house, and": 3
+    }
+  },
+  "with him.": {
+    "count": 3,
+    "next": {
+      "him. I": 2,
+      "him. He": 1
+    }
+  },
+  "him. I": {
+    "count": 5,
+    "next": {
+      "I must": 1,
+      "I had": 1,
+      "I do": 1,
+      "I don't": 1,
+      "I told": 1
+    }
+  },
+  "must confess": {
+    "count": 4,
+    "next": {
+      "confess that": 4
+    }
+  },
+  "confess that": {
+    "count": 4,
+    "next": {
+      "that I": 3,
+      "that the": 1
+    }
+  },
+  "day of": {
+    "count": 3,
+    "next": {
+      "of her": 2,
+      "of John": 1
+    }
+  },
+  "connection with": {
+    "count": 2,
+    "next": {
+      "with the": 2
+    }
+  },
+  "which Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp": 3
+    }
+  },
+  "Inglethorp was": {
+    "count": 7,
+    "next": {
+      "was to": 1,
+      "was in": 2,
+      "was not": 1,
+      "was anxious": 1,
+      "was the": 2
+    }
+  },
+  "where it": {
+    "count": 3,
+    "next": {
+      "it was": 1,
+      "it is": 2
+    }
+  },
+  "He seemed": {
+    "count": 2,
+    "next": {
+      "seemed to": 2
+    }
+  },
+  "in which": {
+    "count": 3,
+    "next": {
+      "which he": 3
+    }
+  },
+  "having been": {
+    "count": 2,
+    "next": {
+      "been in": 2
+    }
+  },
+  "the night": {
+    "count": 4,
+    "next": {
+      "night before,": 3,
+      "night of": 1
+    }
+  },
+  "with her": {
+    "count": 2,
+    "next": {
+      "her in": 1,
+      "her to": 1
+    }
+  },
+  "her in": {
+    "count": 3,
+    "next": {
+      "in the": 1,
+      "in her": 2
+    }
+  },
+  "The following": {
+    "count": 2,
+    "next": {
+      "following is": 2
+    }
+  },
+  "she appeared": {
+    "count": 2,
+    "next": {
+      "appeared in": 1,
+      "appeared to": 1
+    }
+  },
+  "appeared in": {
+    "count": 2,
+    "next": {
+      "in her": 1,
+      "in the": 1
+    }
+  },
+  "as we": {
+    "count": 4,
+    "next": {
+      "we had": 1,
+      "we reached": 1,
+      "we were": 2
+    }
+  },
+  "to Cynthia": {
+    "count": 2,
+    "next": {
+      "Cynthia in": 1,
+      "Cynthia was": 1
+    }
+  },
+  "Cynthia in": {
+    "count": 2,
+    "next": {
+      "in her": 1,
+      "in the": 1
+    }
+  },
+  "that this": {
+    "count": 2,
+    "next": {
+      "this is": 2
+    }
+  },
+  "she had": {
+    "count": 13,
+    "next": {
+      "had realized": 1,
+      "had made": 3,
+      "had been": 6,
+      "had heard": 2,
+      "had taken": 1
+    }
+  },
+  "by the": {
+    "count": 10,
+    "next": {
+      "the open": 1,
+      "the sound": 2,
+      "the presence": 1,
+      "the expression": 2,
+      "the window,": 2,
+      "the time": 1,
+      "the fact": 1
+    }
+  },
+  "appeared to": {
+    "count": 2,
+    "next": {
+      "to be": 2
+    }
+  },
+  "us to": {
+    "count": 2,
+    "next": {
+      "to her": 1,
+      "to the": 1
+    }
+  },
+  "Do you": {
+    "count": 21,
+    "next": {
+      "you really": 3,
+      "you know": 3,
+      "you think": 6,
+      "you mean": 7,
+      "you not": 1,
+      "you see": 1
+    }
+  },
+  "person who": {
+    "count": 4,
+    "next": {
+      "who had": 1,
+      "who entered": 1,
+      "who did": 1,
+      "who was": 1
+    }
+  },
+  "does not": {
+    "count": 3,
+    "next": {
+      "not take": 3
+    }
+  },
+  "And I": {
+    "count": 6,
+    "next": {
+      "I know": 1,
+      "I am": 1,
+      "I had": 1,
+      "I told": 1,
+      "I don't": 1,
+      "I will": 1
+    }
+  },
+  "If you": {
+    "count": 5,
+    "next": {
+      "you know": 1,
+      "you will": 1,
+      "you mean": 1,
+      "you like": 1,
+      "you are": 1
+    }
+  },
+  "should have": {
+    "count": 2,
+    "next": {
+      "have been": 1,
+      "have made": 1
+    }
+  },
+  "that there": {
+    "count": 15,
+    "next": {
+      "there was": 7,
+      "there is": 4,
+      "there have": 1,
+      "there might": 2,
+      "there had": 1
+    }
+  },
+  "there was": {
+    "count": 24,
+    "next": {
+      "was not": 3,
+      "was a": 11,
+      "was no": 8,
+      "was the": 1,
+      "was that": 1
+    }
+  },
+  "was not": {
+    "count": 8,
+    "next": {
+      "not in": 4,
+      "not what": 1,
+      "not to": 2,
+      "not plain": 1
+    }
+  },
+  "likelihood of": {
+    "count": 2,
+    "next": {
+      "of her": 1,
+      "of John": 1
+    }
+  },
+  "time it": {
+    "count": 2,
+    "next": {
+      "it is": 2
+    }
+  },
+  "and placed": {
+    "count": 2,
+    "next": {
+      "placed it": 2
+    }
+  },
+  "placed it": {
+    "count": 2,
+    "next": {
+      "it on": 2
+    }
+  },
+  "the table": {
+    "count": 6,
+    "next": {
+      "table by": 6
+    }
+  },
+  "out on": {
+    "count": 3,
+    "next": {
+      "on the": 3
+    }
+  },
+  "all the": {
+    "count": 4,
+    "next": {
+      "the time": 2,
+      "the household,": 1,
+      "the other": 1
+    }
+  },
+  "I followed": {
+    "count": 2,
+    "next": {
+      "followed him": 2
+    }
+  },
+  "pointed out": {
+    "count": 2,
+    "next": {
+      "out the": 1,
+      "out to": 1
+    }
+  },
+  "out the": {
+    "count": 2,
+    "next": {
+      "the key": 2
+    }
+  },
+  "called to": {
+    "count": 3,
+    "next": {
+      "to him": 1,
+      "to her": 1,
+      "to Cynthia": 1
+    }
+  },
+  "looked at": {
+    "count": 5,
+    "next": {
+      "at me": 4,
+      "at the": 1
+    }
+  },
+  "more to": {
+    "count": 5,
+    "next": {
+      "to be": 1,
+      "to tell": 1,
+      "to go": 1,
+      "to ask": 1,
+      "to do": 1
+    }
+  },
+  "go. I": {
+    "count": 2,
+    "next": {
+      "I had": 1,
+      "I should": 1
+    }
+  },
+  "know. He": {
+    "count": 2,
+    "next": {
+      "He was": 2
+    }
+  },
+  "I fancied": {
+    "count": 3,
+    "next": {
+      "fancied that": 3
+    }
+  },
+  "for him.": {
+    "count": 2,
+    "next": {
+      "him. I": 1,
+      "him. He": 1
+    }
+  },
+  "fancied that": {
+    "count": 2,
+    "next": {
+      "that it": 2
+    }
+  },
+  "Cynthia was": {
+    "count": 3,
+    "next": {
+      "was a": 1,
+      "was not": 1,
+      "was in": 1
+    }
+  },
+  "was inclined": {
+    "count": 3,
+    "next": {
+      "inclined to": 3
+    }
+  },
+  "this afternoon,": {
+    "count": 2,
+    "next": {
+      "afternoon, and": 2
+    }
+  },
+  "afternoon, and": {
+    "count": 2,
+    "next": {
+      "and I": 1,
+      "and that": 1
+    }
+  },
+  "remembered that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that she": 1
+    }
+  },
+  "As I": {
+    "count": 4,
+    "next": {
+      "I came": 1,
+      "I was": 2,
+      "I saw": 1
+    }
+  },
+  "came out": {
+    "count": 2,
+    "next": {
+      "out of": 2
+    }
+  },
+  "It is": {
+    "count": 14,
+    "next": {
+      "is a": 3,
+      "is not": 1,
+      "is the": 2,
+      "is of": 1,
+      "is because": 2,
+      "is enough": 1,
+      "is an": 1,
+      "is true.": 1,
+      "is one": 1,
+      "is all": 1
+    }
+  },
+  "I turned": {
+    "count": 5,
+    "next": {
+      "turned to": 5
+    }
+  },
+  "whom I": {
+    "count": 3,
+    "next": {
+      "I have": 1,
+      "I thought": 1,
+      "I should": 1
+    }
+  },
+  "But I": {
+    "count": 20,
+    "next": {
+      "I had": 2,
+      "I don't": 3,
+      "I suppose,": 1,
+      "I was": 1,
+      "I am": 3,
+      "I must": 1,
+      "I should": 2,
+      "I know": 1,
+      "I did": 1,
+      "I can": 2,
+      "I decided": 1,
+      "I could": 1,
+      "I suppose": 1
+    }
+  },
+  "Yes, my": {
+    "count": 4,
+    "next": {
+      "my friend,": 2,
+      "my friend.": 2
+    }
+  },
+  "my friend,": {
+    "count": 10,
+    "next": {
+      "friend, I": 5,
+      "friend, he": 3,
+      "friend, you": 2
+    }
+  },
+  "Poirot was": {
+    "count": 2,
+    "next": {
+      "was not": 1,
+      "was a": 1
+    }
+  },
+  "exactly the": {
+    "count": 2,
+    "next": {
+      "the shape": 2
+    }
+  },
+  "the shape": {
+    "count": 3,
+    "next": {
+      "shape of": 3
+    }
+  },
+  "shape of": {
+    "count": 2,
+    "next": {
+      "of Mr.": 1,
+      "of a": 1
+    }
+  },
+  "on one": {
+    "count": 2,
+    "next": {
+      "one of": 2
+    }
+  },
+  "been in": {
+    "count": 5,
+    "next": {
+      "in his": 1,
+      "in the": 2,
+      "in favour": 1,
+      "in her": 1
+    }
+  },
+  "members of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "some of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "by him": {
+    "count": 2,
+    "next": {
+      "him to": 2
+    }
+  },
+  "to go": {
+    "count": 7,
+    "next": {
+      "go and": 2,
+      "go down": 2,
+      "go to": 3
+    }
+  },
+  "go and": {
+    "count": 2,
+    "next": {
+      "and see": 2
+    }
+  },
+  "and see": {
+    "count": 2,
+    "next": {
+      "see what": 1,
+      "see how": 1
+    }
+  },
+  "Then he": {
+    "count": 4,
+    "next": {
+      "he went": 2,
+      "he is": 1,
+      "he turned": 1
+    }
+  },
+  "the hall,": {
+    "count": 2,
+    "next": {
+      "hall, and": 2
+    }
+  },
+  "Inglethorp came": {
+    "count": 4,
+    "next": {
+      "came out": 1,
+      "came down": 1,
+      "came up": 1,
+      "came to": 1
+    }
+  },
+  "you, she": {
+    "count": 2,
+    "next": {
+      "she said.": 1,
+      "she had": 1
+    }
+  },
+  "said Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp": 1,
+      "Mrs. Cavendish": 1,
+      "Mrs. Cavendish,": 1
+    }
+  },
+  "I told": {
+    "count": 8,
+    "next": {
+      "told him": 4,
+      "told you,": 1,
+      "told you": 3
+    }
+  },
+  "I'll go": {
+    "count": 2,
+    "next": {
+      "go to": 1,
+      "go and": 1
+    }
+  },
+  "go to": {
+    "count": 3,
+    "next": {
+      "to the": 3
+    }
+  },
+  "went into": {
+    "count": 4,
+    "next": {
+      "into the": 3,
+      "into Mrs.": 1
+    }
+  },
+  "again, and": {
+    "count": 3,
+    "next": {
+      "and asked": 1,
+      "and we": 1,
+      "and that": 1
+    }
+  },
+  "He did": {
+    "count": 4,
+    "next": {
+      "did not": 4
+    }
+  },
+  "not seem": {
+    "count": 3,
+    "next": {
+      "seem to": 3
+    }
+  },
+  "seem to": {
+    "count": 6,
+    "next": {
+      "to have": 1,
+      "to be": 2,
+      "to me": 2,
+      "to know": 1
+    }
+  },
+  "he turned": {
+    "count": 2,
+    "next": {
+      "turned to": 2
+    }
+  },
+  "on his": {
+    "count": 3,
+    "next": {
+      "his face": 3
+    }
+  },
+  "and went": {
+    "count": 3,
+    "next": {
+      "went out": 3
+    }
+  },
+  "went out": {
+    "count": 4,
+    "next": {
+      "out of": 3,
+      "out into": 1
+    }
+  },
+  "the stairs.": {
+    "count": 2,
+    "next": {
+      "stairs. I": 2
+    }
+  },
+  "It may": {
+    "count": 3,
+    "next": {
+      "may have": 2,
+      "may be": 1
+    }
+  },
+  "may have": {
+    "count": 7,
+    "next": {
+      "have been": 3,
+      "have taken": 2,
+      "have had": 1,
+      "have to": 1
+    }
+  },
+  "I didn't": {
+    "count": 2,
+    "next": {
+      "didn't want": 2
+    }
+  },
+  "In the": {
+    "count": 4,
+    "next": {
+      "the event": 3,
+      "the room": 1
+    }
+  },
+  "past me": {
+    "count": 2,
+    "next": {
+      "me down": 1,
+      "me out": 1
+    }
+  },
+  "door of": {
+    "count": 4,
+    "next": {
+      "of which": 2,
+      "of his": 1,
+      "of the": 1
+    }
+  },
+  "of which": {
+    "count": 5,
+    "next": {
+      "which she": 2,
+      "which he": 1,
+      "which I": 2
+    }
+  },
+  "behind her.": {
+    "count": 2,
+    "next": {
+      "her. As": 1,
+      "her. She": 1
+    }
+  },
+  "her. As": {
+    "count": 2,
+    "next": {
+      "As I": 1,
+      "As we": 1
+    }
+  },
+  "had to": {
+    "count": 8,
+    "next": {
+      "to go": 3,
+      "to take": 1,
+      "to make": 2,
+      "to be": 2
+    }
+  },
+  "a woman": {
+    "count": 2,
+    "next": {
+      "woman of": 2
+    }
+  },
+  "Then you": {
+    "count": 3,
+    "next": {
+      "you will": 1,
+      "you think": 1,
+      "you must": 1
+    }
+  },
+  "show it": {
+    "count": 3,
+    "next": {
+      "it to": 3
+    }
+  },
+  "has nothing": {
+    "count": 2,
+    "next": {
+      "nothing to": 1,
+      "nothing more": 1
+    }
+  },
+  "nothing to": {
+    "count": 8,
+    "next": {
+      "to do": 4,
+      "to go": 1,
+      "to the": 1,
+      "to her": 1,
+      "to connect": 1
+    }
+  },
+  "to do": {
+    "count": 10,
+    "next": {
+      "do with": 10
+    }
+  },
+  "do with": {
+    "count": 6,
+    "next": {
+      "with the": 3,
+      "with it": 2,
+      "with it.": 1
+    }
+  },
+  "I tell": {
+    "count": 7,
+    "next": {
+      "tell you": 5,
+      "tell you,": 2
+    }
+  },
+  "tell you": {
+    "count": 2,
+    "next": {
+      "you that": 2
+    }
+  },
+  "is not": {
+    "count": 6,
+    "next": {
+      "not what": 2,
+      "not to": 1,
+      "not for": 1,
+      "not against": 2
+    }
+  },
+  "not what": {
+    "count": 3,
+    "next": {
+      "what you": 1,
+      "what I": 1,
+      "what he": 1
+    }
+  },
+  "It does": {
+    "count": 2,
+    "next": {
+      "does not": 2
+    }
+  },
+  "I might": {
+    "count": 4,
+    "next": {
+      "might have": 3,
+      "might be": 1
+    }
+  },
+  "might have": {
+    "count": 7,
+    "next": {
+      "have been": 5,
+      "have taken": 1,
+      "have had": 1
+    }
+  },
+  "you would": {
+    "count": 6,
+    "next": {
+      "would tell": 2,
+      "would have": 2,
+      "would like": 1,
+      "would not": 1
+    }
+  },
+  "kind of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of publicity,": 1
+    }
+  },
+  "I do": {
+    "count": 23,
+    "next": {
+      "do not": 23
+    }
+  },
+  "near the": {
+    "count": 5,
+    "next": {
+      "the door": 1,
+      "the desk": 1,
+      "the window,": 3
+    }
+  },
+  "I knew": {
+    "count": 2,
+    "next": {
+      "knew what": 1,
+      "knew that": 1
+    }
+  },
+  "knew what": {
+    "count": 3,
+    "next": {
+      "what it": 1,
+      "what was": 1,
+      "what you": 1
+    }
+  },
+  "of Mrs.": {
+    "count": 11,
+    "next": {
+      "Mrs. Inglethorp's": 9,
+      "Mrs. Cavendish,": 1,
+      "Mrs. Inglethorp": 1
+    }
+  },
+  "decided to": {
+    "count": 2,
+    "next": {
+      "to take": 1,
+      "to go": 1
+    }
+  },
+  "speak to": {
+    "count": 4,
+    "next": {
+      "to him": 1,
+      "to you": 1,
+      "to me": 1,
+      "to you.": 1
+    }
+  },
+  "again. I": {
+    "count": 4,
+    "next": {
+      "I was": 2,
+      "I suppose,": 1,
+      "I looked": 1
+    }
+  },
+  "was anxious": {
+    "count": 3,
+    "next": {
+      "anxious to": 3
+    }
+  },
+  "anxious to": {
+    "count": 3,
+    "next": {
+      "to get": 1,
+      "to take": 1,
+      "to have": 1
+    }
+  },
+  "get hold": {
+    "count": 2,
+    "next": {
+      "hold of": 2
+    }
+  },
+  "hold of": {
+    "count": 2,
+    "next": {
+      "of it": 1,
+      "of that": 1
+    }
+  },
+  "but he": {
+    "count": 2,
+    "next": {
+      "he was": 1,
+      "he had": 1
+    }
+  },
+  "nowhere to": {
+    "count": 2,
+    "next": {
+      "to be": 2
+    }
+  },
+  "do what": {
+    "count": 2,
+    "next": {
+      "what I": 2
+    }
+  },
+  "I could": {
+    "count": 25,
+    "next": {
+      "could not": 15,
+      "could see": 4,
+      "could have": 6
+    }
+  },
+  "What was": {
+    "count": 2,
+    "next": {
+      "was to": 1,
+      "was that": 1
+    }
+  },
+  "Mr. Inglethorp": {
+    "count": 9,
+    "next": {
+      "Inglethorp was": 4,
+      "Inglethorp and": 1,
+      "Inglethorp on": 2,
+      "Inglethorp who": 1,
+      "Inglethorp had": 1
+    }
+  },
+  "came down": {
+    "count": 2,
+    "next": {
+      "down to": 2
+    }
+  },
+  "the part": {
+    "count": 2,
+    "next": {
+      "part of": 2
+    }
+  },
+  "open window": {
+    "count": 2,
+    "next": {
+      "window in": 2
+    }
+  },
+  "window in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "us. She": {
+    "count": 2,
+    "next": {
+      "She seemed": 1,
+      "She was": 1
+    }
+  },
+  "She seemed": {
+    "count": 2,
+    "next": {
+      "seemed to": 2
+    }
+  },
+  "you take": {
+    "count": 2,
+    "next": {
+      "take it": 2
+    }
+  },
+  "Do not": {
+    "count": 2,
+    "next": {
+      "not think": 1,
+      "not ask": 1
+    }
+  },
+  "Inglethorp. I": {
+    "count": 2,
+    "next": {
+      "I will": 1,
+      "I must": 1
+    }
+  },
+  "take it": {
+    "count": 7,
+    "next": {
+      "it to": 3,
+      "it into": 3,
+      "it in": 1
+    }
+  },
+  "out, and": {
+    "count": 4,
+    "next": {
+      "and went": 1,
+      "and I": 1,
+      "and he": 2
+    }
+  },
+  "the room": {
+    "count": 3,
+    "next": {
+      "room and": 1,
+      "room to": 1,
+      "room at": 1
+    }
+  },
+  "us. We": {
+    "count": 2,
+    "next": {
+      "We went": 2
+    }
+  },
+  "the sound": {
+    "count": 3,
+    "next": {
+      "sound of": 3
+    }
+  },
+  "sound of": {
+    "count": 3,
+    "next": {
+      "of a": 1,
+      "of his": 1,
+      "of the": 1
+    }
+  },
+  "In a": {
+    "count": 2,
+    "next": {
+      "a moment": 2
+    }
+  },
+  "Alfred Inglethorp": {
+    "count": 8,
+    "next": {
+      "Inglethorp had": 2,
+      "Inglethorp was": 4,
+      "Inglethorp who": 1,
+      "Inglethorp and": 1
+    }
+  },
+  "Inglethorp had": {
+    "count": 4,
+    "next": {
+      "had been": 1,
+      "had taken": 1,
+      "had made": 1,
+      "had nothing": 1
+    }
+  },
+  "mean to": {
+    "count": 2,
+    "next": {
+      "to say": 2
+    }
+  },
+  "but Mr.": {
+    "count": 2,
+    "next": {
+      "Mr. Inglethorp": 1,
+      "Mr. Lawrence": 1
+    }
+  },
+  "in from": {
+    "count": 2,
+    "next": {
+      "from the": 2
+    }
+  },
+  "coffee, and": {
+    "count": 2,
+    "next": {
+      "and tell": 1,
+      "and took": 1
+    }
+  },
+  "and tell": {
+    "count": 2,
+    "next": {
+      "tell us": 1,
+      "tell him": 1
+    }
+  },
+  "tell us": {
+    "count": 2,
+    "next": {
+      "us what": 1,
+      "us to": 1
+    }
+  },
+  "us what": {
+    "count": 2,
+    "next": {
+      "what you": 2
+    }
+  },
+  "you have": {
+    "count": 4,
+    "next": {
+      "have been": 4
+    }
+  },
+  "you, I": {
+    "count": 3,
+    "next": {
+      "I am": 1,
+      "I said,": 1,
+      "I will": 1
+    }
+  },
+  "how he": {
+    "count": 5,
+    "next": {
+      "he had": 2,
+      "he did": 2,
+      "he could": 1
+    }
+  },
+  "it had": {
+    "count": 9,
+    "next": {
+      "had taken": 1,
+      "had been": 7,
+      "had nothing": 1
+    }
+  },
+  "hall, and": {
+    "count": 2,
+    "next": {
+      "and the": 1,
+      "and we": 1
+    }
+  },
+  "The door": {
+    "count": 2,
+    "next": {
+      "door into": 2
+    }
+  },
+  "door into": {
+    "count": 3,
+    "next": {
+      "into the": 3
+    }
+  },
+  "It seemed": {
+    "count": 2,
+    "next": {
+      "seemed to": 2
+    }
+  },
+  "at last,": {
+    "count": 2,
+    "next": {
+      "last, I": 2
+    }
+  },
+  "Mr. Inglethorp.": {
+    "count": 3,
+    "next": {
+      "Inglethorp. I": 1,
+      "Inglethorp. Poirot": 1,
+      "Inglethorp. But": 1
+    }
+  },
+  "plan of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "be the": {
+    "count": 2,
+    "next": {
+      "the middle": 1,
+      "the other": 1
+    }
+  },
+  "the middle": {
+    "count": 3,
+    "next": {
+      "middle of": 3
+    }
+  },
+  "middle of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "awakened by": {
+    "count": 2,
+    "next": {
+      "by the": 1,
+      "by Mrs.": 1
+    }
+  },
+  "his hand,": {
+    "count": 2,
+    "next": {
+      "hand, and": 2
+    }
+  },
+  "hand, and": {
+    "count": 2,
+    "next": {
+      "and the": 1,
+      "and it": 1
+    }
+  },
+  "told me": {
+    "count": 7,
+    "next": {
+      "me at": 1,
+      "me if": 1,
+      "me to": 3,
+      "me as": 1,
+      "me that": 1
+    }
+  },
+  "me at": {
+    "count": 3,
+    "next": {
+      "at once": 2,
+      "at once.": 1
+    }
+  },
+  "once that": {
+    "count": 3,
+    "next": {
+      "that the": 1,
+      "that it": 2
+    }
+  },
+  "seems to": {
+    "count": 3,
+    "next": {
+      "to be": 1,
+      "to me": 2
+    }
+  },
+  "once. I": {
+    "count": 2,
+    "next": {
+      "I had": 1,
+      "I could": 1
+    }
+  },
+  "wing of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "and one": {
+    "count": 2,
+    "next": {
+      "one or": 1,
+      "one was": 1
+    }
+  },
+  "one or": {
+    "count": 4,
+    "next": {
+      "or two": 4
+    }
+  },
+  "round in": {
+    "count": 2,
+    "next": {
+      "in a": 1,
+      "in his": 1
+    }
+  },
+  "What do": {
+    "count": 15,
+    "next": {
+      "do you": 15
+    }
+  },
+  "think we": {
+    "count": 2,
+    "next": {
+      "we had": 1,
+      "we were": 1
+    }
+  },
+  "we had": {
+    "count": 5,
+    "next": {
+      "had left": 1,
+      "had entered": 1,
+      "had found": 1,
+      "had been": 2
+    }
+  },
+  "locked or": {
+    "count": 2,
+    "next": {
+      "or bolted": 2
+    }
+  },
+  "or bolted": {
+    "count": 2,
+    "next": {
+      "bolted on": 2
+    }
+  },
+  "bolted on": {
+    "count": 6,
+    "next": {
+      "on the": 6
+    }
+  },
+  "the room.": {
+    "count": 2,
+    "next": {
+      "room. I": 1,
+      "room. Mary": 1
+    }
+  },
+  "Inglethorp's room,": {
+    "count": 2,
+    "next": {
+      "room, and": 2
+    }
+  },
+  "I realized": {
+    "count": 3,
+    "next": {
+      "realized that": 3
+    }
+  },
+  "realized that": {
+    "count": 8,
+    "next": {
+      "that Alfred": 1,
+      "that there": 1,
+      "that it": 3,
+      "that the": 1,
+      "that I": 1,
+      "that she": 1
+    }
+  },
+  "that Alfred": {
+    "count": 3,
+    "next": {
+      "Alfred Inglethorp": 3
+    }
+  },
+  "no sign": {
+    "count": 5,
+    "next": {
+      "sign of": 5
+    }
+  },
+  "sign of": {
+    "count": 3,
+    "next": {
+      "of his": 1,
+      "of the": 2
+    }
+  },
+  "opened the": {
+    "count": 3,
+    "next": {
+      "the door": 2,
+      "the case": 1
+    }
+  },
+  "saw that": {
+    "count": 3,
+    "next": {
+      "that the": 1,
+      "that a": 1,
+      "that she": 1
+    }
+  },
+  "that the": {
+    "count": 15,
+    "next": {
+      "the key": 1,
+      "the door": 3,
+      "the person": 2,
+      "the case": 1,
+      "the man": 3,
+      "the household,": 1,
+      "the crime": 1,
+      "the prisoner": 1,
+      "the evidence": 1,
+      "the lock": 1
+    }
+  },
+  "We went": {
+    "count": 4,
+    "next": {
+      "went straight": 1,
+      "went up": 1,
+      "went out": 1,
+      "went into": 1
+    }
+  },
+  "went straight": {
+    "count": 5,
+    "next": {
+      "straight to": 5
+    }
+  },
+  "straight to": {
+    "count": 4,
+    "next": {
+      "to the": 4
+    }
+  },
+  "go down": {
+    "count": 3,
+    "next": {
+      "down to": 3
+    }
+  },
+  "tell him": {
+    "count": 2,
+    "next": {
+      "him to": 2
+    }
+  },
+  "room. Mary": {
+    "count": 2,
+    "next": {
+      "Mary Cavendish": 2
+    }
+  },
+  "must have": {
+    "count": 18,
+    "next": {
+      "have been": 14,
+      "have made": 2,
+      "have taken": 2
+    }
+  },
+  "moment or": {
+    "count": 2,
+    "next": {
+      "or two": 2
+    }
+  },
+  "one is": {
+    "count": 2,
+    "next": {
+      "is a": 1,
+      "is on": 1
+    }
+  },
+  "than the": {
+    "count": 2,
+    "next": {
+      "the one": 2
+    }
+  },
+  "the one": {
+    "count": 4,
+    "next": {
+      "one in": 3,
+      "one on": 1
+    }
+  },
+  "one in": {
+    "count": 4,
+    "next": {
+      "in the": 2,
+      "in his": 2
+    }
+  },
+  "framework of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "she must": {
+    "count": 3,
+    "next": {
+      "must have": 3
+    }
+  },
+  "room, and": {
+    "count": 3,
+    "next": {
+      "and Poirot": 1,
+      "and handed": 1,
+      "and I": 1
+    }
+  },
+  "he went": {
+    "count": 5,
+    "next": {
+      "went across": 2,
+      "went to": 2,
+      "went into": 1
+    }
+  },
+  "went across": {
+    "count": 2,
+    "next": {
+      "across to": 2
+    }
+  },
+  "across to": {
+    "count": 3,
+    "next": {
+      "to the": 3
+    }
+  },
+  "unbolted the": {
+    "count": 2,
+    "next": {
+      "the door": 2
+    }
+  },
+  "now that": {
+    "count": 3,
+    "next": {
+      "that there": 2,
+      "that he": 1
+    }
+  },
+  "the candle": {
+    "count": 3,
+    "next": {
+      "candle grease": 3
+    }
+  },
+  "was as": {
+    "count": 2,
+    "next": {
+      "as though": 1,
+      "as he": 1
+    }
+  },
+  "as though": {
+    "count": 4,
+    "next": {
+      "though he": 4
+    }
+  },
+  "but I": {
+    "count": 21,
+    "next": {
+      "I could": 1,
+      "I suppose": 1,
+      "I can't": 1,
+      "I knew": 1,
+      "I did": 2,
+      "I expect": 1,
+      "I must": 1,
+      "I was": 2,
+      "I heard": 1,
+      "I am": 2,
+      "I do": 1,
+      "I will": 1,
+      "I have": 1,
+      "I remembered": 1,
+      "I had": 2,
+      "I should": 1,
+      "I don't": 1
+    }
+  },
+  "could see": {
+    "count": 2,
+    "next": {
+      "see by": 2
+    }
+  },
+  "ashes in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "ornaments on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "was able": {
+    "count": 2,
+    "next": {
+      "able to": 2
+    }
+  },
+  "to speak": {
+    "count": 3,
+    "next": {
+      "speak to": 3
+    }
+  },
+  "Then it": {
+    "count": 2,
+    "next": {
+      "it must": 1,
+      "it was": 1
+    }
+  },
+  "it must": {
+    "count": 5,
+    "next": {
+      "must be": 2,
+      "must have": 3
+    }
+  },
+  "that a": {
+    "count": 6,
+    "next": {
+      "a will": 1,
+      "a woman": 1,
+      "a man": 4
+    }
+  },
+  "the windows,": {
+    "count": 2,
+    "next": {
+      "windows, and": 2
+    }
+  },
+  "windows, and": {
+    "count": 2,
+    "next": {
+      "and that": 1,
+      "and the": 1
+    }
+  },
+  "The convulsions": {
+    "count": 2,
+    "next": {
+      "convulsions were": 2
+    }
+  },
+  "convulsions were": {
+    "count": 2,
+    "next": {
+      "were of": 2
+    }
+  },
+  "were of": {
+    "count": 2,
+    "next": {
+      "of a": 2
+    }
+  },
+  "her from": {
+    "count": 2,
+    "next": {
+      "from the": 2
+    }
+  },
+  "staring at": {
+    "count": 2,
+    "next": {
+      "at the": 1,
+      "at me": 1
+    }
+  },
+  "the figure": {
+    "count": 2,
+    "next": {
+      "figure on": 2
+    }
+  },
+  "figure on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "out in": {
+    "count": 2,
+    "next": {
+      "in a": 1,
+      "in the": 1
+    }
+  },
+  "her eyes": {
+    "count": 2,
+    "next": {
+      "eyes fixed": 1,
+      "eyes as": 1
+    }
+  },
+  "eyes fixed": {
+    "count": 3,
+    "next": {
+      "fixed on": 3
+    }
+  },
+  "fixed on": {
+    "count": 3,
+    "next": {
+      "on the": 3
+    }
+  },
+  "reached the": {
+    "count": 3,
+    "next": {
+      "the door": 1,
+      "the top": 1,
+      "the house,": 1
+    }
+  },
+  "that it": {
+    "count": 48,
+    "next": {
+      "it was": 32,
+      "it had": 5,
+      "it is": 4,
+      "it would": 3,
+      "it might": 3,
+      "it could": 1
+    }
+  },
+  "see by": {
+    "count": 2,
+    "next": {
+      "by the": 2
+    }
+  },
+  "the expression": {
+    "count": 2,
+    "next": {
+      "expression on": 2
+    }
+  },
+  "expression on": {
+    "count": 2,
+    "next": {
+      "on his": 2
+    }
+  },
+  "had happened": {
+    "count": 2,
+    "next": {
+      "happened to": 2
+    }
+  },
+  "happened to": {
+    "count": 6,
+    "next": {
+      "to be": 4,
+      "to make": 1,
+      "to notice": 1
+    }
+  },
+  "as fast": {
+    "count": 2,
+    "next": {
+      "fast as": 2
+    }
+  },
+  "fast as": {
+    "count": 2,
+    "next": {
+      "as he": 1,
+      "as I": 1
+    }
+  },
+  "gesture of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of his": 1
+    }
+  },
+  "his eyes": {
+    "count": 2,
+    "next": {
+      "eyes fixed": 2
+    }
+  },
+  "him as": {
+    "count": 2,
+    "next": {
+      "as he": 1,
+      "as soon": 1
+    }
+  },
+  "to you": {
+    "count": 6,
+    "next": {
+      "you in": 1,
+      "you that": 5
+    }
+  },
+  "You do": {
+    "count": 7,
+    "next": {
+      "do not": 7
+    }
+  },
+  "do not": {
+    "count": 9,
+    "next": {
+      "not think": 6,
+      "not know": 3
+    }
+  },
+  "out into": {
+    "count": 6,
+    "next": {
+      "into the": 6
+    }
+  },
+  "heard the": {
+    "count": 2,
+    "next": {
+      "the key": 1,
+      "the table": 1
+    }
+  },
+  "the key": {
+    "count": 6,
+    "next": {
+      "key that": 3,
+      "key of": 3
+    }
+  },
+  "the lock": {
+    "count": 5,
+    "next": {
+      "lock of": 5
+    }
+  },
+  "stairs. I": {
+    "count": 2,
+    "next": {
+      "I was": 1,
+      "I followed": 1
+    }
+  },
+  "What is": {
+    "count": 12,
+    "next": {
+      "is it?": 6,
+      "is the": 4,
+      "is a": 1,
+      "is it": 1
+    }
+  },
+  "is it?": {
+    "count": 3,
+    "next": {
+      "it? I": 3
+    }
+  },
+  "was going": {
+    "count": 5,
+    "next": {
+      "going to": 5
+    }
+  },
+  "I found": {
+    "count": 4,
+    "next": {
+      "found that": 3,
+      "found in": 1
+    }
+  },
+  "John and": {
+    "count": 2,
+    "next": {
+      "and the": 2
+    }
+  },
+  "were in": {
+    "count": 3,
+    "next": {
+      "in the": 2,
+      "in a": 1
+    }
+  },
+  "suppose I": {
+    "count": 2,
+    "next": {
+      "I ought": 1,
+      "I must": 1
+    }
+  },
+  "shook his": {
+    "count": 8,
+    "next": {
+      "his head.": 8
+    }
+  },
+  "his head.": {
+    "count": 3,
+    "next": {
+      "head. I": 1,
+      "head. No,": 2
+    }
+  },
+  "not in": {
+    "count": 6,
+    "next": {
+      "in the": 6
+    }
+  },
+  "if she": {
+    "count": 5,
+    "next": {
+      "she had": 3,
+      "she might": 1,
+      "she did": 1
+    }
+  },
+  "remained in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "Mr. Cavendish,": {
+    "count": 2,
+    "next": {
+      "Cavendish, I": 2
+    }
+  },
+  "Cavendish, I": {
+    "count": 3,
+    "next": {
+      "I should": 1,
+      "I have": 1,
+      "I want": 1
+    }
+  },
+  "bent his": {
+    "count": 2,
+    "next": {
+      "his head.": 2
+    }
+  },
+  "but to": {
+    "count": 2,
+    "next": {
+      "to Mr.": 1,
+      "to leave": 1
+    }
+  },
+  "And he": {
+    "count": 2,
+    "next": {
+      "he will": 1,
+      "he was": 1
+    }
+  },
+  "that you": {
+    "count": 14,
+    "next": {
+      "you have": 3,
+      "you are": 3,
+      "you would": 3,
+      "you did": 2,
+      "you will": 1,
+      "you could": 2
+    }
+  },
+  "and handed": {
+    "count": 2,
+    "next": {
+      "handed them": 1,
+      "handed to": 1
+    }
+  },
+  "handed them": {
+    "count": 2,
+    "next": {
+      "them to": 2
+    }
+  },
+  "them to": {
+    "count": 2,
+    "next": {
+      "to him,": 1,
+      "to you": 1
+    }
+  },
+  "they would": {
+    "count": 3,
+    "next": {
+      "would be": 2,
+      "would not": 1
+    }
+  },
+  "would be": {
+    "count": 4,
+    "next": {
+      "be one": 1,
+      "be likely": 1,
+      "be a": 2
+    }
+  },
+  "an idea": {
+    "count": 4,
+    "next": {
+      "idea of": 2,
+      "idea that": 2
+    }
+  },
+  "head, and": {
+    "count": 2,
+    "next": {
+      "and I": 1,
+      "and Poirot": 1
+    }
+  },
+  "felt that": {
+    "count": 4,
+    "next": {
+      "that the": 2,
+      "that my": 1,
+      "that I": 1
+    }
+  },
+  "John, I": {
+    "count": 5,
+    "next": {
+      "I said,": 2,
+      "I want": 1,
+      "I could": 1,
+      "I should": 1
+    }
+  },
+  "of any": {
+    "count": 2,
+    "next": {
+      "any of": 2
+    }
+  },
+  "of publicity,": {
+    "count": 2,
+    "next": {
+      "publicity, or": 2
+    }
+  },
+  "never to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to think": 1
+    }
+  },
+  "him of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "other hand,": {
+    "count": 2,
+    "next": {
+      "hand, Mrs.": 2
+    }
+  },
+  "no doubt": {
+    "count": 2,
+    "next": {
+      "doubt that": 2
+    }
+  },
+  "doubt that": {
+    "count": 2,
+    "next": {
+      "that the": 2
+    }
+  },
+  "come for": {
+    "count": 2,
+    "next": {
+      "for me": 1,
+      "for a": 1
+    }
+  },
+  "for me": {
+    "count": 5,
+    "next": {
+      "me to": 2,
+      "me in": 1,
+      "me that": 1,
+      "me at": 1
+    }
+  },
+  "said, I": {
+    "count": 5,
+    "next": {
+      "I am": 1,
+      "I wish": 1,
+      "I happened": 1,
+      "I may": 1,
+      "I can": 1
+    }
+  },
+  "to ask": {
+    "count": 4,
+    "next": {
+      "ask you": 4
+    }
+  },
+  "remember my": {
+    "count": 2,
+    "next": {
+      "my speaking": 2
+    }
+  },
+  "my speaking": {
+    "count": 2,
+    "next": {
+      "speaking of": 2
+    }
+  },
+  "speaking of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of a": 1
+    }
+  },
+  "Yes. I": {
+    "count": 5,
+    "next": {
+      "I want": 1,
+      "I suppose": 1,
+      "I am": 1,
+      "I don't": 1,
+      "I should": 1
+    }
+  },
+  "I want": {
+    "count": 13,
+    "next": {
+      "want you": 4,
+      "want to": 9
+    }
+  },
+  "want you": {
+    "count": 4,
+    "next": {
+      "you to": 4
+    }
+  },
+  "you to": {
+    "count": 5,
+    "next": {
+      "to do": 2,
+      "to say": 2,
+      "to the": 1
+    }
+  },
+  "my opinion": {
+    "count": 2,
+    "next": {
+      "opinion that": 1,
+      "opinion of": 1
+    }
+  },
+  "idea of": {
+    "count": 4,
+    "next": {
+      "of what": 2,
+      "of his": 1,
+      "of a": 1
+    }
+  },
+  "put it": {
+    "count": 9,
+    "next": {
+      "it into": 2,
+      "it on": 1,
+      "it in": 2,
+      "it to": 4
+    }
+  },
+  "it into": {
+    "count": 3,
+    "next": {
+      "into Mrs.": 1,
+      "into the": 2
+    }
+  },
+  "hesitated. I": {
+    "count": 2,
+    "next": {
+      "I can't": 1,
+      "I want": 1
+    }
+  },
+  "I can't": {
+    "count": 3,
+    "next": {
+      "can't say": 3
+    }
+  },
+  "as you": {
+    "count": 2,
+    "next": {
+      "you are": 1,
+      "you have": 1
+    }
+  },
+  "said at": {
+    "count": 2,
+    "next": {
+      "at last,": 2
+    }
+  },
+  "fear of": {
+    "count": 2,
+    "next": {
+      "of publicity,": 2
+    }
+  },
+  "way. I": {
+    "count": 2,
+    "next": {
+      "I had": 1,
+      "I should": 1
+    }
+  },
+  "leave it": {
+    "count": 2,
+    "next": {
+      "it in": 1,
+      "it on": 1
+    }
+  },
+  "is as": {
+    "count": 2,
+    "next": {
+      "as we": 1,
+      "as I": 1
+    }
+  },
+  "forgive me": {
+    "count": 2,
+    "next": {
+      "me if": 2
+    }
+  },
+  "me if": {
+    "count": 4,
+    "next": {
+      "if I": 2,
+      "if Mrs.": 1,
+      "if he": 1
+    }
+  },
+  "if I": {
+    "count": 4,
+    "next": {
+      "I am": 1,
+      "I can": 1,
+      "I was": 1,
+      "I had": 1
+    }
+  },
+  "him! I": {
+    "count": 2,
+    "next": {
+      "I looked": 1,
+      "I think": 1
+    }
+  },
+  "until I": {
+    "count": 3,
+    "next": {
+      "I discovered": 1,
+      "I was": 1,
+      "I remembered": 1
+    }
+  },
+  "I discovered": {
+    "count": 4,
+    "next": {
+      "discovered that": 4
+    }
+  },
+  "close to": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "to him,": 1
+    }
+  },
+  "my attention": {
+    "count": 2,
+    "next": {
+      "attention was": 2
+    }
+  },
+  "attention was": {
+    "count": 3,
+    "next": {
+      "was arrested": 2,
+      "was attracted": 1
+    }
+  },
+  "was arrested": {
+    "count": 2,
+    "next": {
+      "arrested by": 2
+    }
+  },
+  "arrested by": {
+    "count": 2,
+    "next": {
+      "by the": 2
+    }
+  },
+  "was Mr.": {
+    "count": 3,
+    "next": {
+      "Mr. Inglethorp.": 1,
+      "Mr. Inglethorp": 2
+    }
+  },
+  "How did": {
+    "count": 6,
+    "next": {
+      "did you": 6
+    }
+  },
+  "found that": {
+    "count": 2,
+    "next": {
+      "that it": 1,
+      "that the": 1
+    }
+  },
+  "all. I": {
+    "count": 2,
+    "next": {
+      "I didn't": 1,
+      "I was": 1
+    }
+  },
+  "didn't want": {
+    "count": 2,
+    "next": {
+      "want to": 2
+    }
+  },
+  "the household,": {
+    "count": 2,
+    "next": {
+      "household, with": 2
+    }
+  },
+  "did you": {
+    "count": 6,
+    "next": {
+      "you know": 2,
+      "you bring": 1,
+      "you take": 2,
+      "you not": 1
+    }
+  },
+  "hear the": {
+    "count": 2,
+    "next": {
+      "the table": 1,
+      "the case": 1
+    }
+  },
+  "to tell": {
+    "count": 2,
+    "next": {
+      "tell you": 2
+    }
+  },
+  "thankful that": {
+    "count": 2,
+    "next": {
+      "that he": 2
+    }
+  },
+  "he did": {
+    "count": 7,
+    "next": {
+      "did not": 7
+    }
+  },
+  "not ask": {
+    "count": 2,
+    "next": {
+      "ask me": 2
+    }
+  },
+  "ask me": {
+    "count": 2,
+    "next": {
+      "me to": 2
+    }
+  },
+  "knocking at": {
+    "count": 2,
+    "next": {
+      "at the": 1,
+      "at Mrs.": 1
+    }
+  },
+  "and Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot had": 1,
+      "Poirot shook": 1
+    }
+  },
+  "friend, I": {
+    "count": 5,
+    "next": {
+      "I will": 2,
+      "I am": 1,
+      "I remembered": 1,
+      "I saw": 1
+    }
+  },
+  "and you": {
+    "count": 3,
+    "next": {
+      "you have": 1,
+      "you know": 1,
+      "you must": 1
+    }
+  },
+  "told him": {
+    "count": 3,
+    "next": {
+      "him of": 3
+    }
+  },
+  "the quarrel": {
+    "count": 2,
+    "next": {
+      "quarrel the": 2
+    }
+  },
+  "quarrel the": {
+    "count": 2,
+    "next": {
+      "the day": 2
+    }
+  },
+  "the day": {
+    "count": 5,
+    "next": {
+      "day of": 5
+    }
+  },
+  "the scrap": {
+    "count": 3,
+    "next": {
+      "scrap of": 3
+    }
+  },
+  "of conversation": {
+    "count": 2,
+    "next": {
+      "conversation you": 2
+    }
+  },
+  "between Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp": 1,
+      "Mrs. Cavendish": 2
+    }
+  },
+  "Inglethorp and": {
+    "count": 2,
+    "next": {
+      "and Miss": 2
+    }
+  },
+  "detail that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that will": 1
+    }
+  },
+  "Is it": {
+    "count": 4,
+    "next": {
+      "it not": 3,
+      "it possible": 1
+    }
+  },
+  "it not": {
+    "count": 5,
+    "next": {
+      "not possible": 2,
+      "not be": 2,
+      "not plain": 1
+    }
+  },
+  "mon ami.": {
+    "count": 2,
+    "next": {
+      "ami. You": 2
+    }
+  },
+  "ami. You": {
+    "count": 2,
+    "next": {
+      "You are": 1,
+      "You have": 1
+    }
+  },
+  "are you": {
+    "count": 2,
+    "next": {
+      "you going": 2
+    }
+  },
+  "you going": {
+    "count": 2,
+    "next": {
+      "going to": 2
+    }
+  },
+  "to decide": {
+    "count": 2,
+    "next": {
+      "decide whether": 2
+    }
+  },
+  "what is": {
+    "count": 2,
+    "next": {
+      "is the": 1,
+      "is it?": 1
+    }
+  },
+  "Poirot shook": {
+    "count": 9,
+    "next": {
+      "shook his": 9
+    }
+  },
+  "Ah, that": {
+    "count": 3,
+    "next": {
+      "that is": 2,
+      "that I": 1
+    }
+  },
+  "that is": {
+    "count": 9,
+    "next": {
+      "is not": 3,
+      "is a": 2,
+      "is all": 2,
+      "is the": 2
+    }
+  },
+  "There is": {
+    "count": 12,
+    "next": {
+      "is nothing": 3,
+      "is a": 4,
+      "is no": 4,
+      "is the": 1
+    }
+  },
+  "And that": {
+    "count": 3,
+    "next": {
+      "that is": 1,
+      "that you": 1,
+      "that was": 1
+    }
+  },
+  "that will": {
+    "count": 2,
+    "next": {
+      "will not": 2
+    }
+  },
+  "will not": {
+    "count": 2,
+    "next": {
+      "not be": 1,
+      "not take": 1
+    }
+  },
+  "Ah! Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot shook": 1,
+      "Poirot seemed": 1
+    }
+  },
+  "at me": {
+    "count": 4,
+    "next": {
+      "me that": 1,
+      "me in": 3
+    }
+  },
+  "It will": {
+    "count": 2,
+    "next": {
+      "will not": 1,
+      "will be": 1
+    }
+  },
+  "always told": {
+    "count": 5,
+    "next": {
+      "told me": 2,
+      "told you": 3
+    }
+  },
+  "why I": {
+    "count": 3,
+    "next": {
+      "I have": 2,
+      "I should": 1
+    }
+  },
+  "you. You": {
+    "count": 3,
+    "next": {
+      "You have": 2,
+      "You are": 1
+    }
+  },
+  "You have": {
+    "count": 2,
+    "next": {
+      "have been": 1,
+      "have found": 1
+    }
+  },
+  "I stared": {
+    "count": 2,
+    "next": {
+      "stared at": 2
+    }
+  },
+  "And, anyway,": {
+    "count": 2,
+    "next": {
+      "anyway, I": 2
+    }
+  },
+  "anyway, I": {
+    "count": 2,
+    "next": {
+      "I don't": 1,
+      "I said,": 1
+    }
+  },
+  "But it": {
+    "count": 14,
+    "next": {
+      "it is": 5,
+      "it was": 7,
+      "it will": 1,
+      "it did": 1
+    }
+  },
+  "is of": {
+    "count": 5,
+    "next": {
+      "of the": 4,
+      "of a": 1
+    }
+  },
+  "As far": {
+    "count": 2,
+    "next": {
+      "far as": 2
+    }
+  },
+  "far as": {
+    "count": 5,
+    "next": {
+      "as I": 1,
+      "as to": 1,
+      "as you": 1,
+      "as he": 1,
+      "as we": 1
+    }
+  },
+  "drawer, and": {
+    "count": 2,
+    "next": {
+      "and took": 2
+    }
+  },
+  "and took": {
+    "count": 6,
+    "next": {
+      "took out": 3,
+      "took it": 3
+    }
+  },
+  "took out": {
+    "count": 2,
+    "next": {
+      "out the": 2
+    }
+  },
+  "Now I": {
+    "count": 3,
+    "next": {
+      "I am": 1,
+      "I want": 1,
+      "I have": 1
+    }
+  },
+  "me, mon": {
+    "count": 3,
+    "next": {
+      "mon ami,": 3
+    }
+  },
+  "mon ami,": {
+    "count": 7,
+    "next": {
+      "ami, I": 3,
+      "ami, it": 3,
+      "ami, he": 1
+    }
+  },
+  "is on": {
+    "count": 3,
+    "next": {
+      "on one": 1,
+      "on the": 2
+    }
+  },
+  "was aware": {
+    "count": 2,
+    "next": {
+      "aware that": 1,
+      "aware of": 1
+    }
+  },
+  "aware that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that the": 1
+    }
+  },
+  "at Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp's": 3
+    }
+  },
+  "would not": {
+    "count": 10,
+    "next": {
+      "not be": 4,
+      "not have": 5,
+      "not take": 1
+    }
+  },
+  "Poirot seemed": {
+    "count": 3,
+    "next": {
+      "seemed to": 3
+    }
+  },
+  "he said,": {
+    "count": 2,
+    "next": {
+      "said, it": 1,
+      "said, but": 1
+    }
+  },
+  "said, it": {
+    "count": 2,
+    "next": {
+      "it is": 1,
+      "it was": 1
+    }
+  },
+  "Poirot, I": {
+    "count": 9,
+    "next": {
+      "I said,": 3,
+      "I am": 2,
+      "I fancied": 1,
+      "I have": 1,
+      "I do": 1,
+      "I thought": 1
+    }
+  },
+  "I wish": {
+    "count": 2,
+    "next": {
+      "wish you": 2
+    }
+  },
+  "wish you": {
+    "count": 2,
+    "next": {
+      "you would": 1,
+      "you could": 1
+    }
+  },
+  "would tell": {
+    "count": 2,
+    "next": {
+      "tell you": 1,
+      "tell us": 1
+    }
+  },
+  "wanted to": {
+    "count": 4,
+    "next": {
+      "to know": 2,
+      "to be": 1,
+      "to tell": 1
+    }
+  },
+  "to know": {
+    "count": 5,
+    "next": {
+      "know if": 2,
+      "know how": 1,
+      "know what": 1,
+      "know that": 1
+    }
+  },
+  "see how": {
+    "count": 5,
+    "next": {
+      "how it": 3,
+      "how he": 2
+    }
+  },
+  "how it": {
+    "count": 3,
+    "next": {
+      "it could": 1,
+      "it was": 2
+    }
+  },
+  "anything to": {
+    "count": 3,
+    "next": {
+      "to do": 2,
+      "to connect": 1
+    }
+  },
+  "silent for": {
+    "count": 2,
+    "next": {
+      "for a": 2
+    }
+  },
+  "he said:": {
+    "count": 3,
+    "next": {
+      "said: I": 3
+    }
+  },
+  "said: I": {
+    "count": 3,
+    "next": {
+      "I do": 1,
+      "I should": 1,
+      "I did": 1
+    }
+  },
+  "until the": {
+    "count": 5,
+    "next": {
+      "the end": 2,
+      "the early": 3
+    }
+  },
+  "the end": {
+    "count": 4,
+    "next": {
+      "end of": 4
+    }
+  },
+  "administered in": {
+    "count": 3,
+    "next": {
+      "in her": 1,
+      "in Mrs.": 1,
+      "in the": 1
+    }
+  },
+  "time was": {
+    "count": 2,
+    "next": {
+      "was the": 1,
+      "was it": 1
+    }
+  },
+  "strychnine is": {
+    "count": 2,
+    "next": {
+      "is a": 2
+    }
+  },
+  "in Mrs.": {
+    "count": 13,
+    "next": {
+      "Mrs. Inglethorp's": 13
+    }
+  },
+  "the symptoms": {
+    "count": 2,
+    "next": {
+      "symptoms do": 2
+    }
+  },
+  "symptoms do": {
+    "count": 2,
+    "next": {
+      "do not": 2
+    }
+  },
+  "about the": {
+    "count": 2,
+    "next": {
+      "the events": 1,
+      "the greatest": 1
+    }
+  },
+  "Still, it": {
+    "count": 4,
+    "next": {
+      "it is": 2,
+      "it would": 1,
+      "it does": 1
+    }
+  },
+  "possibility to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to Mr.": 1
+    }
+  },
+  "according to": {
+    "count": 2,
+    "next": {
+      "to you,": 1,
+      "to my": 1
+    }
+  },
+  "to you,": {
+    "count": 4,
+    "next": {
+      "you, she": 2,
+      "you, Mr.": 1,
+      "you, I": 1
+    }
+  },
+  "my friend.": {
+    "count": 5,
+    "next": {
+      "friend. I": 4,
+      "friend. It": 1
+    }
+  },
+  "it. In": {
+    "count": 2,
+    "next": {
+      "In the": 2
+    }
+  },
+  "he said.": {
+    "count": 2,
+    "next": {
+      "said. I": 2
+    }
+  },
+  "have nothing": {
+    "count": 3,
+    "next": {
+      "nothing to": 2,
+      "nothing more": 1
+    }
+  },
+  "Precisely. It": {
+    "count": 2,
+    "next": {
+      "It is": 1,
+      "It was": 1
+    }
+  },
+  "You know": {
+    "count": 2,
+    "next": {
+      "know that": 2
+    }
+  },
+  "Bauerstein had": {
+    "count": 2,
+    "next": {
+      "had been": 2
+    }
+  },
+  "he is": {
+    "count": 5,
+    "next": {
+      "is a": 3,
+      "is as": 1,
+      "is in": 1
+    }
+  },
+  "went up": {
+    "count": 3,
+    "next": {
+      "up the": 1,
+      "up to": 2
+    }
+  },
+  "together to": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "room and": {
+    "count": 2,
+    "next": {
+      "and the": 2
+    }
+  },
+  "you, my": {
+    "count": 2,
+    "next": {
+      "my friend,": 1,
+      "my friend.": 1
+    }
+  },
+  "friend, he": {
+    "count": 2,
+    "next": {
+      "he said,": 2
+    }
+  },
+  "explained that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that he": 1
+    }
+  },
+  "likely to": {
+    "count": 6,
+    "next": {
+      "to do": 1,
+      "to take": 1,
+      "to be": 2,
+      "to go": 2
+    }
+  },
+  "it. He": {
+    "count": 5,
+    "next": {
+      "He did": 1,
+      "He passed": 1,
+      "He is": 2,
+      "He was": 1
+    }
+  },
+  "table by": {
+    "count": 7,
+    "next": {
+      "by the": 7
+    }
+  },
+  "the window,": {
+    "count": 3,
+    "next": {
+      "window, and": 3
+    }
+  },
+  "but it": {
+    "count": 12,
+    "next": {
+      "it was": 6,
+      "it had": 1,
+      "it will": 1,
+      "it might": 1,
+      "it would": 1,
+      "it did": 1,
+      "it is": 1
+    }
+  },
+  "the top": {
+    "count": 4,
+    "next": {
+      "top of": 4
+    }
+  },
+  "top of": {
+    "count": 10,
+    "next": {
+      "of it": 2,
+      "of the": 6,
+      "of a": 2
+    }
+  },
+  "up, and": {
+    "count": 2,
+    "next": {
+      "and put": 1,
+      "and it": 1
+    }
+  },
+  "Ah, my": {
+    "count": 2,
+    "next": {
+      "my friend,": 2
+    }
+  },
+  "piece of": {
+    "count": 2,
+    "next": {
+      "of one": 1,
+      "of twisted": 1
+    }
+  },
+  "a key": {
+    "count": 2,
+    "next": {
+      "key in": 2
+    }
+  },
+  "key in": {
+    "count": 3,
+    "next": {
+      "in the": 3
+    }
+  },
+  "key of": {
+    "count": 3,
+    "next": {
+      "of the": 2,
+      "of Mrs.": 1
+    }
+  },
+  "a bit": {
+    "count": 3,
+    "next": {
+      "bit of": 3
+    }
+  },
+  "bit of": {
+    "count": 2,
+    "next": {
+      "of twisted": 1,
+      "of a": 1
+    }
+  },
+  "of twisted": {
+    "count": 2,
+    "next": {
+      "twisted wire": 2
+    }
+  },
+  "twisted wire": {
+    "count": 2,
+    "next": {
+      "wire through": 2
+    }
+  },
+  "wire through": {
+    "count": 2,
+    "next": {
+      "through the": 2
+    }
+  },
+  "which he": {
+    "count": 3,
+    "next": {
+      "he had": 2,
+      "he could": 1
+    }
+  },
+  "sealed up": {
+    "count": 2,
+    "next": {
+      "up in": 2
+    }
+  },
+  "On the": {
+    "count": 4,
+    "next": {
+      "the other": 2,
+      "the afternoon": 1,
+      "the top": 1
+    }
+  },
+  "near it.": {
+    "count": 2,
+    "next": {
+      "it. I": 1,
+      "it. What": 1
+    }
+  },
+  "how I": {
+    "count": 3,
+    "next": {
+      "I could": 1,
+      "I have": 1,
+      "I had": 1
+    }
+  },
+  "He passed": {
+    "count": 2,
+    "next": {
+      "passed on": 2
+    }
+  },
+  "passed on": {
+    "count": 3,
+    "next": {
+      "on to": 3
+    }
+  },
+  "the floor,": {
+    "count": 3,
+    "next": {
+      "floor, and": 3
+    }
+  },
+  "fragments of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of the": 1
+    }
+  },
+  "this is": {
+    "count": 4,
+    "next": {
+      "is all": 1,
+      "is an": 1,
+      "is in": 1,
+      "is the": 1
+    }
+  },
+  "Poirot. I": {
+    "count": 3,
+    "next": {
+      "I must": 1,
+      "I don't": 1,
+      "I was": 1
+    }
+  },
+  "there as": {
+    "count": 2,
+    "next": {
+      "as fast": 1,
+      "as though": 1
+    }
+  },
+  "Well, I": {
+    "count": 7,
+    "next": {
+      "I don't": 1,
+      "I said,": 2,
+      "I will": 2,
+      "I have": 1,
+      "I think": 1
+    }
+  },
+  "said Poirot,": {
+    "count": 2,
+    "next": {
+      "Poirot, I": 1,
+      "Poirot, with": 1
+    }
+  },
+  "where he": {
+    "count": 4,
+    "next": {
+      "he had": 3,
+      "he was": 1
+    }
+  },
+  "ami, he": {
+    "count": 2,
+    "next": {
+      "he said,": 1,
+      "he said": 1
+    }
+  },
+  "it did": {
+    "count": 4,
+    "next": {
+      "did not": 4
+    }
+  },
+  "knew that": {
+    "count": 2,
+    "next": {
+      "that it": 1,
+      "that in": 1
+    }
+  },
+  "He picked": {
+    "count": 2,
+    "next": {
+      "picked up": 2
+    }
+  },
+  "picked up": {
+    "count": 3,
+    "next": {
+      "up the": 3
+    }
+  },
+  "floor, and": {
+    "count": 2,
+    "next": {
+      "and the": 1,
+      "and as": 1
+    }
+  },
+  "lock of": {
+    "count": 5,
+    "next": {
+      "of the": 5
+    }
+  },
+  "key that": {
+    "count": 2,
+    "next": {
+      "that was": 1,
+      "that he": 1
+    }
+  },
+  "examination of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of it.": 1
+    }
+  },
+  "room to": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "to be": 1
+    }
+  },
+  "it up": {
+    "count": 3,
+    "next": {
+      "up in": 2,
+      "up with": 1
+    }
+  },
+  "have found": {
+    "count": 2,
+    "next": {
+      "found in": 1,
+      "found that": 1
+    }
+  },
+  "found in": {
+    "count": 6,
+    "next": {
+      "in the": 4,
+      "in Mrs.": 1,
+      "in a": 1
+    }
+  },
+  "Shall I": {
+    "count": 2,
+    "next": {
+      "I tell": 2
+    }
+  },
+  "a stain": {
+    "count": 3,
+    "next": {
+      "stain on": 3
+    }
+  },
+  "stain on": {
+    "count": 3,
+    "next": {
+      "on the": 3
+    }
+  },
+  "for it": {
+    "count": 2,
+    "next": {
+      "it is": 1,
+      "it to": 1
+    }
+  },
+  "a fragment": {
+    "count": 3,
+    "next": {
+      "fragment of": 3
+    }
+  },
+  "fragment of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of conversation": 1
+    }
+  },
+  "was what": {
+    "count": 3,
+    "next": {
+      "what you": 2,
+      "what I": 1
+    }
+  },
+  "Yes. It": {
+    "count": 2,
+    "next": {
+      "It may": 1,
+      "It was": 1
+    }
+  },
+  "turn out": {
+    "count": 2,
+    "next": {
+      "out to": 2
+    }
+  },
+  "a piece": {
+    "count": 5,
+    "next": {
+      "piece of": 5
+    }
+  },
+  "of one": {
+    "count": 2,
+    "next": {
+      "one of": 2
+    }
+  },
+  "of candle": {
+    "count": 2,
+    "next": {
+      "candle grease": 2
+    }
+  },
+  "candle grease": {
+    "count": 6,
+    "next": {
+      "grease on": 6
+    }
+  },
+  "grease on": {
+    "count": 7,
+    "next": {
+      "on the": 7
+    }
+  },
+  "One of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "not to": {
+    "count": 3,
+    "next": {
+      "to the": 1,
+      "to have": 1,
+      "to her": 1
+    }
+  },
+  "only one": {
+    "count": 3,
+    "next": {
+      "one person": 2,
+      "one thing": 1
+    }
+  },
+  "Lawrence Cavendish": {
+    "count": 4,
+    "next": {
+      "Cavendish was": 4
+    }
+  },
+  "it. But": {
+    "count": 4,
+    "next": {
+      "But he": 1,
+      "But she": 1,
+      "But I": 1,
+      "But you": 1
+    }
+  },
+  "But he": {
+    "count": 4,
+    "next": {
+      "he was": 2,
+      "he is": 2
+    }
+  },
+  "Yes, it": {
+    "count": 6,
+    "next": {
+      "it is": 4,
+      "it was": 2
+    }
+  },
+  "hand, Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Inglethorp": 1,
+      "Mrs. Cavendish": 1
+    }
+  },
+  "said, what": {
+    "count": 2,
+    "next": {
+      "what do": 1,
+      "what was": 1
+    }
+  },
+  "what do": {
+    "count": 4,
+    "next": {
+      "do you": 4
+    }
+  },
+  "And the": {
+    "count": 2,
+    "next": {
+      "the door": 1,
+      "the one": 1
+    }
+  },
+  "point? I": {
+    "count": 2,
+    "next": {
+      "I asked.": 2
+    }
+  },
+  "asked. I": {
+    "count": 2,
+    "next": {
+      "I suppose": 1,
+      "I could": 1
+    }
+  },
+  "is the": {
+    "count": 7,
+    "next": {
+      "the explanation": 2,
+      "the key": 1,
+      "the man": 1,
+      "the strychnine": 1,
+      "the greatest": 2
+    }
+  },
+  "sample of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of that": 1
+    }
+  },
+  "thoughtfully. I": {
+    "count": 2,
+    "next": {
+      "I might": 1,
+      "I am": 1
+    }
+  },
+  "that in": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "in his": 1
+    }
+  },
+  "present. He": {
+    "count": 2,
+    "next": {
+      "He looked": 1,
+      "He did": 1
+    }
+  },
+  "is nothing": {
+    "count": 2,
+    "next": {
+      "nothing more": 1,
+      "nothing to": 1
+    }
+  },
+  "nothing more": {
+    "count": 3,
+    "next": {
+      "more to": 3
+    }
+  },
+  "them with": {
+    "count": 2,
+    "next": {
+      "with the": 1,
+      "with a": 1
+    }
+  },
+  "cried. What": {
+    "count": 2,
+    "next": {
+      "What do": 1,
+      "What is": 1
+    }
+  },
+  "think of": {
+    "count": 4,
+    "next": {
+      "of it": 1,
+      "of that": 2,
+      "of the": 1
+    }
+  },
+  "are not": {
+    "count": 2,
+    "next": {
+      "not going": 2
+    }
+  },
+  "No, he": {
+    "count": 5,
+    "next": {
+      "he said": 3,
+      "he was": 2
+    }
+  },
+  "him put": {
+    "count": 2,
+    "next": {
+      "put it": 2
+    }
+  },
+  "had left": {
+    "count": 2,
+    "next": {
+      "left the": 2
+    }
+  },
+  "is it": {
+    "count": 8,
+    "next": {
+      "it not": 7,
+      "it on": 1
+    }
+  },
+  "long enough": {
+    "count": 2,
+    "next": {
+      "enough to": 1,
+      "enough for": 1
+    }
+  },
+  "enough to": {
+    "count": 2,
+    "next": {
+      "to make": 2
+    }
+  },
+  "make a": {
+    "count": 2,
+    "next": {
+      "a man": 1,
+      "a will": 1
+    }
+  },
+  "that of": {
+    "count": 7,
+    "next": {
+      "of Mrs.": 2,
+      "of the": 2,
+      "of his": 1,
+      "of Mr.": 2
+    }
+  },
+  "before. I": {
+    "count": 2,
+    "next": {
+      "I took": 2
+    }
+  },
+  "him down": {
+    "count": 3,
+    "next": {
+      "down to": 2,
+      "down the": 1
+    }
+  },
+  "When I": {
+    "count": 7,
+    "next": {
+      "I went": 3,
+      "I came": 1,
+      "I was": 1,
+      "I found": 1,
+      "I discovered": 1
+    }
+  },
+  "the French": {
+    "count": 2,
+    "next": {
+      "French window,": 2
+    }
+  },
+  "French window,": {
+    "count": 2,
+    "next": {
+      "window, and": 2
+    }
+  },
+  "Yes, I": {
+    "count": 3,
+    "next": {
+      "I suppose": 1,
+      "I said,": 1,
+      "I can't": 1
+    }
+  },
+  "Yes, but": {
+    "count": 4,
+    "next": {
+      "but it": 1,
+      "but what": 1,
+      "but I": 1,
+      "but that": 1
+    }
+  },
+  "how do": {
+    "count": 3,
+    "next": {
+      "do you": 3
+    }
+  },
+  "Dorcas was": {
+    "count": 2,
+    "next": {
+      "was standing": 1,
+      "was the": 1
+    }
+  },
+  "was standing": {
+    "count": 4,
+    "next": {
+      "standing in": 2,
+      "standing on": 2
+    }
+  },
+  "standing in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "of her,": {
+    "count": 3,
+    "next": {
+      "her, and": 3
+    }
+  },
+  "her, and": {
+    "count": 2,
+    "next": {
+      "and told": 1,
+      "and would": 1
+    }
+  },
+  "sir. You": {
+    "count": 2,
+    "next": {
+      "You have": 1,
+      "You are": 1
+    }
+  },
+  "sir. Then": {
+    "count": 2,
+    "next": {
+      "Then you": 1,
+      "Then I": 1
+    }
+  },
+  "questions. I": {
+    "count": 2,
+    "next": {
+      "I put": 1,
+      "I don't": 1
+    }
+  },
+  "I put": {
+    "count": 4,
+    "next": {
+      "put it": 4
+    }
+  },
+  "Yes, sir.": {
+    "count": 3,
+    "next": {
+      "sir. What": 1,
+      "sir. It": 2
+    }
+  },
+  "don't know": {
+    "count": 15,
+    "next": {
+      "know that": 1,
+      "know if": 1,
+      "know what": 11,
+      "know how": 2
+    }
+  },
+  "Poirot looked": {
+    "count": 4,
+    "next": {
+      "looked at": 4
+    }
+  },
+  "Dorcas, it": {
+    "count": 2,
+    "next": {
+      "it is": 2
+    }
+  },
+  "not think": {
+    "count": 11,
+    "next": {
+      "think that": 4,
+      "think so.": 4,
+      "think of": 1,
+      "think we": 1,
+      "think it": 1
+    }
+  },
+  "if there": {
+    "count": 3,
+    "next": {
+      "there was": 2,
+      "there had": 1
+    }
+  },
+  "heard of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of a": 1
+    }
+  },
+  "Well, sir,": {
+    "count": 2,
+    "next": {
+      "sir, I": 1,
+      "sir, you": 1
+    }
+  },
+  "sir, I": {
+    "count": 4,
+    "next": {
+      "I happened": 1,
+      "I expect": 1,
+      "I know": 1,
+      "I should": 1
+    }
+  },
+  "I happened": {
+    "count": 3,
+    "next": {
+      "happened to": 3
+    }
+  },
+  "What time": {
+    "count": 4,
+    "next": {
+      "time was": 2,
+      "time did": 2
+    }
+  },
+  "it may": {
+    "count": 2,
+    "next": {
+      "may have": 1,
+      "may not": 1
+    }
+  },
+  "here. I": {
+    "count": 2,
+    "next": {
+      "I didn't": 1,
+      "I should": 1
+    }
+  },
+  "said. I": {
+    "count": 5,
+    "next": {
+      "I didn't": 1,
+      "I really": 1,
+      "I looked": 1,
+      "I always": 1,
+      "I have": 1
+    }
+  },
+  "And this": {
+    "count": 3,
+    "next": {
+      "this is": 3
+    }
+  },
+  "said, but": {
+    "count": 2,
+    "next": {
+      "but she": 1,
+      "but you": 1
+    }
+  },
+  "need not": {
+    "count": 3,
+    "next": {
+      "not think": 2,
+      "not be": 1
+    }
+  },
+  "that any": {
+    "count": 2,
+    "next": {
+      "any fear": 2
+    }
+  },
+  "any fear": {
+    "count": 2,
+    "next": {
+      "fear of": 2
+    }
+  },
+  "publicity, or": {
+    "count": 2,
+    "next": {
+      "or scandal": 2
+    }
+  },
+  "or scandal": {
+    "count": 2,
+    "next": {
+      "scandal between": 2
+    }
+  },
+  "scandal between": {
+    "count": 4,
+    "next": {
+      "between husband": 4
+    }
+  },
+  "between husband": {
+    "count": 5,
+    "next": {
+      "husband and": 5
+    }
+  },
+  "husband and": {
+    "count": 4,
+    "next": {
+      "and wife": 4
+    }
+  },
+  "and wife": {
+    "count": 2,
+    "next": {
+      "wife is": 2
+    }
+  },
+  "thought I": {
+    "count": 4,
+    "next": {
+      "I heard": 1,
+      "I might": 1,
+      "I would": 2
+    }
+  },
+  "so I": {
+    "count": 4,
+    "next": {
+      "I went": 1,
+      "I had": 1,
+      "I will": 1,
+      "I decided": 1
+    }
+  },
+  "are sure": {
+    "count": 5,
+    "next": {
+      "sure it": 2,
+      "sure of": 2,
+      "sure to": 1
+    }
+  },
+  "sure it": {
+    "count": 3,
+    "next": {
+      "it was": 2,
+      "it is": 1
+    }
+  },
+  "Oh, yes,": {
+    "count": 3,
+    "next": {
+      "yes, I": 3
+    }
+  },
+  "o'clock, Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Inglethorp": 2
+    }
+  },
+  "and told": {
+    "count": 2,
+    "next": {
+      "told me": 2
+    }
+  },
+  "She had": {
+    "count": 2,
+    "next": {
+      "had been": 1,
+      "had only": 1
+    }
+  },
+  "hand. I": {
+    "count": 2,
+    "next": {
+      "I don't": 1,
+      "I would": 1
+    }
+  },
+  "couldn't believe": {
+    "count": 2,
+    "next": {
+      "believe what": 1,
+      "believe it": 1
+    }
+  },
+  "believe what": {
+    "count": 2,
+    "next": {
+      "what was": 1,
+      "what you": 1
+    }
+  },
+  "'I don't": {
+    "count": 2,
+    "next": {
+      "don't know": 2
+    }
+  },
+  "wife is": {
+    "count": 2,
+    "next": {
+      "is a": 2
+    }
+  },
+  "was, in": {
+    "count": 3,
+    "next": {
+      "in her": 1,
+      "in fact,": 2
+    }
+  },
+  "sir. What": {
+    "count": 2,
+    "next": {
+      "What time": 2
+    }
+  },
+  "she be": {
+    "count": 2,
+    "next": {
+      "be likely": 1,
+      "be able": 1
+    }
+  },
+  "be likely": {
+    "count": 4,
+    "next": {
+      "likely to": 4
+    }
+  },
+  "with it": {
+    "count": 3,
+    "next": {
+      "it afterwards?": 2,
+      "it on": 1
+    }
+  },
+  "it afterwards?": {
+    "count": 2,
+    "next": {
+      "afterwards? Well,": 2
+    }
+  },
+  "afterwards? Well,": {
+    "count": 2,
+    "next": {
+      "Well, I": 1,
+      "Well, sir,": 1
+    }
+  },
+  "I expect": {
+    "count": 2,
+    "next": {
+      "expect she": 2
+    }
+  },
+  "expect she": {
+    "count": 2,
+    "next": {
+      "she would": 1,
+      "she did": 1
+    }
+  },
+  "lock it": {
+    "count": 2,
+    "next": {
+      "it up": 1,
+      "it at": 1
+    }
+  },
+  "morning, and": {
+    "count": 3,
+    "next": {
+      "and took": 1,
+      "and the": 1,
+      "and there": 1
+    }
+  },
+  "took it": {
+    "count": 3,
+    "next": {
+      "it up": 1,
+      "it to": 2
+    }
+  },
+  "When did": {
+    "count": 2,
+    "next": {
+      "did you": 2
+    }
+  },
+  "sir, and": {
+    "count": 2,
+    "next": {
+      "and told": 1,
+      "and I": 1
+    }
+  },
+  "But she": {
+    "count": 2,
+    "next": {
+      "she had": 1,
+      "she was": 1
+    }
+  },
+  "and, to": {
+    "count": 2,
+    "next": {
+      "to tell": 1,
+      "to my": 1
+    }
+  },
+  "I. What": {
+    "count": 2,
+    "next": {
+      "What was": 1,
+      "What is": 1
+    }
+  },
+  "all this": {
+    "count": 2,
+    "next": {
+      "this is": 2
+    }
+  },
+  "my business": {
+    "count": 2,
+    "next": {
+      "business to": 2
+    }
+  },
+  "business to": {
+    "count": 2,
+    "next": {
+      "to know": 1,
+      "to think": 1
+    }
+  },
+  "had found": {
+    "count": 2,
+    "next": {
+      "found in": 2
+    }
+  },
+  "it? I": {
+    "count": 4,
+    "next": {
+      "I looked": 1,
+      "I do": 1,
+      "I can't": 1,
+      "I asked.": 1
+    }
+  },
+  "it. Ah,": {
+    "count": 3,
+    "next": {
+      "Ah, but": 2,
+      "Ah, that": 1
+    }
+  },
+  "Ah, but": {
+    "count": 3,
+    "next": {
+      "but you": 1,
+      "but I": 1,
+      "but he": 1
+    }
+  },
+  "but you": {
+    "count": 6,
+    "next": {
+      "you see": 1,
+      "you are": 2,
+      "you know": 1,
+      "you will": 1,
+      "you did": 1
+    }
+  },
+  "as it": {
+    "count": 5,
+    "next": {
+      "it was": 2,
+      "it had": 2,
+      "it will": 1
+    }
+  },
+  "startled by": {
+    "count": 2,
+    "next": {
+      "by the": 2
+    }
+  },
+  "anyone else": {
+    "count": 2,
+    "next": {
+      "else in": 2
+    }
+  },
+  "else in": {
+    "count": 4,
+    "next": {
+      "in the": 4
+    }
+  },
+  "believe that": {
+    "count": 4,
+    "next": {
+      "that any": 1,
+      "that Mrs.": 2,
+      "that he": 1
+    }
+  },
+  "was likely": {
+    "count": 3,
+    "next": {
+      "likely to": 3
+    }
+  },
+  "Why do": {
+    "count": 2,
+    "next": {
+      "do you": 2
+    }
+  },
+  "quite sure": {
+    "count": 4,
+    "next": {
+      "sure of": 2,
+      "sure that": 1,
+      "sure he": 1
+    }
+  },
+  "sure of": {
+    "count": 4,
+    "next": {
+      "of it.": 2,
+      "of his": 1,
+      "of what": 1
+    }
+  },
+  "and Mr.": {
+    "count": 2,
+    "next": {
+      "Mr. Lawrence": 1,
+      "Mr. Inglethorp": 1
+    }
+  },
+  "Mr. Lawrence": {
+    "count": 3,
+    "next": {
+      "Lawrence Cavendish": 3
+    }
+  },
+  "was out": {
+    "count": 2,
+    "next": {
+      "out in": 1,
+      "out of": 1
+    }
+  },
+  "they have": {
+    "count": 2,
+    "next": {
+      "have been": 1,
+      "have to": 1
+    }
+  },
+  "you. I": {
+    "count": 6,
+    "next": {
+      "I should": 1,
+      "I have": 1,
+      "I can": 1,
+      "I didn't": 1,
+      "I will": 1,
+      "I could": 1
+    }
+  },
+  "time did": {
+    "count": 2,
+    "next": {
+      "did you": 2
+    }
+  },
+  "is all": {
+    "count": 2,
+    "next": {
+      "all I": 2
+    }
+  },
+  "all I": {
+    "count": 2,
+    "next": {
+      "I have": 1,
+      "I want": 1
+    }
+  },
+  "have to": {
+    "count": 4,
+    "next": {
+      "to ask": 1,
+      "to be": 3
+    }
+  },
+  "you. He": {
+    "count": 2,
+    "next": {
+      "He took": 1,
+      "He had": 1
+    }
+  },
+  "strolled to": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "when it": {
+    "count": 3,
+    "next": {
+      "it was": 1,
+      "it might": 1,
+      "it is": 1
+    }
+  },
+  "it was.": {
+    "count": 2,
+    "next": {
+      "was. But": 2
+    }
+  },
+  "was. But": {
+    "count": 2,
+    "next": {
+      "But it": 1,
+      "But you": 1
+    }
+  },
+  "here? Yes,": {
+    "count": 2,
+    "next": {
+      "Yes, sir.": 2
+    }
+  },
+  "As to": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "Where did": {
+    "count": 3,
+    "next": {
+      "did you": 3
+    }
+  },
+  "drawer in": {
+    "count": 2,
+    "next": {
+      "in Mrs.": 1,
+      "in the": 1
+    }
+  },
+  "I suppose,": {
+    "count": 2,
+    "next": {
+      "suppose, I": 2
+    }
+  },
+  "No, I": {
+    "count": 16,
+    "next": {
+      "I can't": 3,
+      "I never": 1,
+      "I do": 4,
+      "I did": 1,
+      "I don't": 4,
+      "I think": 1,
+      "I said,": 2
+    }
+  },
+  "can't say": {
+    "count": 3,
+    "next": {
+      "say that": 2,
+      "say it": 1
+    }
+  },
+  "the fact": {
+    "count": 11,
+    "next": {
+      "fact that": 11
+    }
+  },
+  "fact that": {
+    "count": 12,
+    "next": {
+      "that there": 2,
+      "that you": 2,
+      "that all": 2,
+      "that Mrs.": 1,
+      "that Alfred": 1,
+      "that I": 1,
+      "that the": 3
+    }
+  },
+  "but Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot shook": 1,
+      "Poirot would": 1
+    }
+  },
+  "Yet the": {
+    "count": 2,
+    "next": {
+      "the explanation": 1,
+      "the strychnine": 1
+    }
+  },
+  "the explanation": {
+    "count": 2,
+    "next": {
+      "explanation of": 2
+    }
+  },
+  "yourself, my": {
+    "count": 2,
+    "next": {
+      "my friend.": 2
+    }
+  },
+  "for you,": {
+    "count": 2,
+    "next": {
+      "you, Mr.": 1,
+      "you, I": 1
+    }
+  },
+  "because I": {
+    "count": 2,
+    "next": {
+      "I thought": 1,
+      "I never": 1
+    }
+  },
+  "you might": {
+    "count": 3,
+    "next": {
+      "might be": 1,
+      "might have": 2
+    }
+  },
+  "any of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "One was": {
+    "count": 2,
+    "next": {
+      "was to": 1,
+      "was a": 1
+    }
+  },
+  "one was": {
+    "count": 3,
+    "next": {
+      "was to": 2,
+      "was a": 1
+    }
+  },
+  "to Mr.": {
+    "count": 4,
+    "next": {
+      "Mr. Inglethorp.": 3,
+      "Mr. Lawrence": 1
+    }
+  },
+  "don't think": {
+    "count": 7,
+    "next": {
+      "think I": 3,
+      "think so.": 3,
+      "think that": 1
+    }
+  },
+  "think I": {
+    "count": 3,
+    "next": {
+      "I can": 1,
+      "I ought": 1,
+      "I am": 1
+    }
+  },
+  "saucepan in": {
+    "count": 2,
+    "next": {
+      "in Mrs.": 1,
+      "in the": 1
+    }
+  },
+  "cocoa in": {
+    "count": 2,
+    "next": {
+      "in it.": 1,
+      "in the": 1
+    }
+  },
+  "was put": {
+    "count": 2,
+    "next": {
+      "put in": 2
+    }
+  },
+  "her room": {
+    "count": 3,
+    "next": {
+      "room at": 2,
+      "room to": 1
+    }
+  },
+  "it. What": {
+    "count": 2,
+    "next": {
+      "What was": 2
+    }
+  },
+  "Did you": {
+    "count": 6,
+    "next": {
+      "you bring": 1,
+      "you see": 1,
+      "you not": 4
+    }
+  },
+  "you bring": {
+    "count": 2,
+    "next": {
+      "bring it": 2
+    }
+  },
+  "bring it": {
+    "count": 3,
+    "next": {
+      "it up,": 1,
+      "it up": 1,
+      "it in": 1
+    }
+  },
+  "No, sir,": {
+    "count": 2,
+    "next": {
+      "sir, you": 1,
+      "sir, I": 1
+    }
+  },
+  "sir, you": {
+    "count": 2,
+    "next": {
+      "you see": 1,
+      "you know": 1
+    }
+  },
+  "room on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "it up,": {
+    "count": 2,
+    "next": {
+      "up, and": 2
+    }
+  },
+  "and put": {
+    "count": 4,
+    "next": {
+      "put it": 4
+    }
+  },
+  "is in": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "in her": 1
+    }
+  },
+  "this side": {
+    "count": 2,
+    "next": {
+      "side of": 2
+    }
+  },
+  "when did": {
+    "count": 2,
+    "next": {
+      "did you": 2
+    }
+  },
+  "into Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp's": 3
+    }
+  },
+  "came up": {
+    "count": 2,
+    "next": {
+      "up to": 2
+    }
+  },
+  "standing on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "I never": {
+    "count": 4,
+    "next": {
+      "never thought": 4
+    }
+  },
+  "salt on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "it when": {
+    "count": 3,
+    "next": {
+      "when I": 1,
+      "when she": 1,
+      "when you": 1
+    }
+  },
+  "but when": {
+    "count": 2,
+    "next": {
+      "when I": 1,
+      "when did": 1
+    }
+  },
+  "it at": {
+    "count": 3,
+    "next": {
+      "at the": 2,
+      "at once": 1
+    }
+  },
+  "I ought": {
+    "count": 3,
+    "next": {
+      "ought to": 3
+    }
+  },
+  "ought to": {
+    "count": 5,
+    "next": {
+      "to have": 1,
+      "to be": 2,
+      "to make": 1,
+      "to go": 1
+    }
+  },
+  "have taken": {
+    "count": 2,
+    "next": {
+      "taken it": 2
+    }
+  },
+  "taken it": {
+    "count": 2,
+    "next": {
+      "it out": 1,
+      "it into": 1
+    }
+  },
+  "and asked": {
+    "count": 2,
+    "next": {
+      "asked if": 2
+    }
+  },
+  "had realized": {
+    "count": 2,
+    "next": {
+      "realized that": 2
+    }
+  },
+  "known to": {
+    "count": 2,
+    "next": {
+      "to be": 2
+    }
+  },
+  "if that": {
+    "count": 2,
+    "next": {
+      "that was": 2
+    }
+  },
+  "whether it": {
+    "count": 3,
+    "next": {
+      "it was": 2,
+      "it is": 1
+    }
+  },
+  "did Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Inglethorp": 2
+    }
+  },
+  "bolt the": {
+    "count": 2,
+    "next": {
+      "the door": 2
+    }
+  },
+  "you? No,": {
+    "count": 2,
+    "next": {
+      "No, sir,": 2
+    }
+  },
+  "she did": {
+    "count": 3,
+    "next": {
+      "did not": 3
+    }
+  },
+  "when you": {
+    "count": 2,
+    "next": {
+      "you did": 1,
+      "you could": 1
+    }
+  },
+  "you did": {
+    "count": 7,
+    "next": {
+      "did the": 1,
+      "did not": 6
+    }
+  },
+  "did the": {
+    "count": 2,
+    "next": {
+      "the room": 1,
+      "the evidence": 1
+    }
+  },
+  "there had": {
+    "count": 4,
+    "next": {
+      "had been": 4
+    }
+  },
+  "sure to": {
+    "count": 2,
+    "next": {
+      "to have": 1,
+      "to be": 1
+    }
+  },
+  "it? Yes,": {
+    "count": 2,
+    "next": {
+      "Yes, I": 1,
+      "Yes, it": 1
+    }
+  },
+  "I would": {
+    "count": 5,
+    "next": {
+      "would have": 4,
+      "would like": 1
+    }
+  },
+  "it out": {
+    "count": 2,
+    "next": {
+      "out of": 1,
+      "out on": 1
+    }
+  },
+  "the question": {
+    "count": 3,
+    "next": {
+      "question of": 3
+    }
+  },
+  "Why, that": {
+    "count": 2,
+    "next": {
+      "that it": 1,
+      "that there": 1
+    }
+  },
+  "not take": {
+    "count": 2,
+    "next": {
+      "take it": 2
+    }
+  },
+  "the early": {
+    "count": 4,
+    "next": {
+      "early hours": 4
+    }
+  },
+  "If he": {
+    "count": 2,
+    "next": {
+      "he was": 1,
+      "he did": 1
+    }
+  },
+  "not for": {
+    "count": 2,
+    "next": {
+      "for the": 1,
+      "for me": 1
+    }
+  },
+  "thought it": {
+    "count": 2,
+    "next": {
+      "it would": 1,
+      "it was": 1
+    }
+  },
+  "dear Poirot,": {
+    "count": 3,
+    "next": {
+      "Poirot, I": 3
+    }
+  },
+  "to dictate": {
+    "count": 2,
+    "next": {
+      "dictate to": 2
+    }
+  },
+  "dictate to": {
+    "count": 2,
+    "next": {
+      "to you.": 1,
+      "to me": 1
+    }
+  },
+  "to you.": {
+    "count": 3,
+    "next": {
+      "you. You": 1,
+      "you. I": 1,
+      "you. He": 1
+    }
+  },
+  "just as": {
+    "count": 4,
+    "next": {
+      "as I": 2,
+      "as well": 1,
+      "as he": 1
+    }
+  },
+  "desk in": {
+    "count": 4,
+    "next": {
+      "in the": 4
+    }
+  },
+  "it will": {
+    "count": 4,
+    "next": {
+      "will be": 4
+    }
+  },
+  "To my": {
+    "count": 3,
+    "next": {
+      "my surprise,": 1,
+      "my intense": 2
+    }
+  },
+  "my surprise,": {
+    "count": 2,
+    "next": {
+      "surprise, he": 2
+    }
+  },
+  "surprise, he": {
+    "count": 2,
+    "next": {
+      "he did": 1,
+      "he shook": 1
+    }
+  },
+  "man of": {
+    "count": 4,
+    "next": {
+      "of the": 3,
+      "of his": 1
+    }
+  },
+  "that could": {
+    "count": 2,
+    "next": {
+      "could have": 1,
+      "could not": 1
+    }
+  },
+  "friend was": {
+    "count": 2,
+    "next": {
+      "was not": 1,
+      "was at": 1
+    }
+  },
+  "no stamps": {
+    "count": 2,
+    "next": {
+      "stamps in": 2
+    }
+  },
+  "stamps in": {
+    "count": 2,
+    "next": {
+      "in his": 1,
+      "in her": 1
+    }
+  },
+  "there might": {
+    "count": 3,
+    "next": {
+      "might have": 1,
+      "might be": 2
+    }
+  },
+  "us. It": {
+    "count": 2,
+    "next": {
+      "It did": 1,
+      "It was": 1
+    }
+  },
+  "It did": {
+    "count": 2,
+    "next": {
+      "did not": 2
+    }
+  },
+  "envelope out": {
+    "count": 2,
+    "next": {
+      "out of": 2
+    }
+  },
+  "over to": {
+    "count": 3,
+    "next": {
+      "to me.": 1,
+      "to the": 2
+    }
+  },
+  "following is": {
+    "count": 2,
+    "next": {
+      "is a": 2
+    }
+  },
+  "Was it": {
+    "count": 3,
+    "next": {
+      "it possible": 1,
+      "it to": 1,
+      "it not": 1
+    }
+  },
+  "it possible": {
+    "count": 2,
+    "next": {
+      "possible that": 2
+    }
+  },
+  "possible that": {
+    "count": 8,
+    "next": {
+      "that Mrs.": 2,
+      "that she": 4,
+      "that there": 1,
+      "that the": 1
+    }
+  },
+  "And, if": {
+    "count": 2,
+    "next": {
+      "if that": 1,
+      "if it": 1
+    }
+  },
+  "was it": {
+    "count": 3,
+    "next": {
+      "it not": 1,
+      "it when": 2
+    }
+  },
+  "in what": {
+    "count": 2,
+    "next": {
+      "what I": 1,
+      "what was": 1
+    }
+  },
+  "we went": {
+    "count": 3,
+    "next": {
+      "went up": 1,
+      "went out": 1,
+      "went straight": 1
+    }
+  },
+  "night before,": {
+    "count": 2,
+    "next": {
+      "before, and": 2
+    }
+  },
+  "stood by": {
+    "count": 2,
+    "next": {
+      "by the": 2
+    }
+  },
+  "Yes. Then": {
+    "count": 2,
+    "next": {
+      "Then you": 2
+    }
+  },
+  "one on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "He does": {
+    "count": 2,
+    "next": {
+      "does not": 2
+    }
+  },
+  "he took": {
+    "count": 2,
+    "next": {
+      "took a": 1,
+      "took it": 1
+    }
+  },
+  "there that": {
+    "count": 2,
+    "next": {
+      "that I": 2
+    }
+  },
+  "And, with": {
+    "count": 2,
+    "next": {
+      "with a": 2
+    }
+  },
+  "was bound": {
+    "count": 2,
+    "next": {
+      "bound to": 2
+    }
+  },
+  "bound to": {
+    "count": 2,
+    "next": {
+      "to be": 2
+    }
+  },
+  "Poirot had": {
+    "count": 4,
+    "next": {
+      "had been": 3,
+      "had taken": 1
+    }
+  },
+  "You will": {
+    "count": 6,
+    "next": {
+      "will notice": 1,
+      "will not": 2,
+      "will remember": 3
+    }
+  },
+  "early hours": {
+    "count": 4,
+    "next": {
+      "hours of": 4
+    }
+  },
+  "hours of": {
+    "count": 5,
+    "next": {
+      "of the": 5
+    }
+  },
+  "up with": {
+    "count": 2,
+    "next": {
+      "with a": 1,
+      "with him.": 1
+    }
+  },
+  "Lawrence is": {
+    "count": 3,
+    "next": {
+      "is of": 1,
+      "is not": 1,
+      "is a": 1
+    }
+  },
+  "murmured Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot to": 2
+    }
+  },
+  "face. I": {
+    "count": 2,
+    "next": {
+      "I have": 1,
+      "I must": 1
+    }
+  },
+  "told you,": {
+    "count": 2,
+    "next": {
+      "you, do": 1,
+      "you, I": 1
+    }
+  },
+  "that Mr.": {
+    "count": 3,
+    "next": {
+      "Mr. Inglethorp": 3
+    }
+  },
+  "you, Mr.": {
+    "count": 3,
+    "next": {
+      "Mr. Cavendish.": 3
+    }
+  },
+  "Mr. Cavendish.": {
+    "count": 2,
+    "next": {
+      "Cavendish. I": 2
+    }
+  },
+  "would like": {
+    "count": 3,
+    "next": {
+      "like to": 3
+    }
+  },
+  "sure that": {
+    "count": 2,
+    "next": {
+      "that the": 1,
+      "that he": 1
+    }
+  },
+  "never thought": {
+    "count": 4,
+    "next": {
+      "thought of": 3,
+      "thought it": 1
+    }
+  },
+  "keep it": {
+    "count": 2,
+    "next": {
+      "it in": 1,
+      "it out": 1
+    }
+  },
+  "certain that": {
+    "count": 4,
+    "next": {
+      "that you": 2,
+      "that it": 2
+    }
+  },
+  "it would": {
+    "count": 11,
+    "next": {
+      "would have": 1,
+      "would be": 8,
+      "would not": 2
+    }
+  },
+  "we were": {
+    "count": 3,
+    "next": {
+      "were going": 1,
+      "were in": 1,
+      "were speaking": 1
+    }
+  },
+  "was right": {
+    "count": 2,
+    "next": {
+      "right in": 2
+    }
+  },
+  "opinion that": {
+    "count": 2,
+    "next": {
+      "that my": 1,
+      "that it": 1
+    }
+  },
+  "the person": {
+    "count": 3,
+    "next": {
+      "person who": 3
+    }
+  },
+  "manner that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that it": 1
+    }
+  },
+  "he know": {
+    "count": 2,
+    "next": {
+      "know that": 1,
+      "know it": 1
+    }
+  },
+  "he could": {
+    "count": 3,
+    "next": {
+      "could not": 2,
+      "could have": 1
+    }
+  },
+  "it as": {
+    "count": 2,
+    "next": {
+      "as we": 1,
+      "as he": 1
+    }
+  },
+  "or was": {
+    "count": 2,
+    "next": {
+      "was it": 2
+    }
+  },
+  "him that": {
+    "count": 3,
+    "next": {
+      "that he": 1,
+      "that it": 1,
+      "that I": 1
+    }
+  },
+  "the head": {
+    "count": 2,
+    "next": {
+      "head of": 2
+    }
+  },
+  "head of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of a": 1
+    }
+  },
+  "strength of": {
+    "count": 2,
+    "next": {
+      "of her": 2
+    }
+  },
+  "her if": {
+    "count": 2,
+    "next": {
+      "if she": 2
+    }
+  },
+  "Poirot to": {
+    "count": 2,
+    "next": {
+      "to make": 1,
+      "to be": 1
+    }
+  },
+  "had heard": {
+    "count": 2,
+    "next": {
+      "heard the": 2
+    }
+  },
+  "dense, but": {
+    "count": 2,
+    "next": {
+      "but I": 2
+    }
+  },
+  "the name": {
+    "count": 4,
+    "next": {
+      "name of": 4
+    }
+  },
+  "whom Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Inglethorp": 1,
+      "Mrs. Cavendish": 1
+    }
+  },
+  "And in": {
+    "count": 2,
+    "next": {
+      "in a": 2
+    }
+  },
+  "He is": {
+    "count": 3,
+    "next": {
+      "is not": 1,
+      "is a": 2
+    }
+  },
+  "Perhaps you": {
+    "count": 2,
+    "next": {
+      "you would": 1,
+      "you are": 1
+    }
+  },
+  "so that": {
+    "count": 4,
+    "next": {
+      "that my": 1,
+      "that Mrs.": 1,
+      "that the": 1,
+      "that is": 1
+    }
+  },
+  "friend. I": {
+    "count": 5,
+    "next": {
+      "I am": 1,
+      "I stared": 1,
+      "I have": 1,
+      "I was": 1,
+      "I must": 1
+    }
+  },
+  "Mademoiselle Cynthia": {
+    "count": 4,
+    "next": {
+      "Cynthia was": 4
+    }
+  },
+  "led me": {
+    "count": 2,
+    "next": {
+      "me to": 2
+    }
+  },
+  "he closed": {
+    "count": 2,
+    "next": {
+      "closed the": 2
+    }
+  },
+  "closed the": {
+    "count": 2,
+    "next": {
+      "the door": 2
+    }
+  },
+  "hoping that": {
+    "count": 2,
+    "next": {
+      "that there": 1,
+      "that it": 1
+    }
+  },
+  "for I": {
+    "count": 4,
+    "next": {
+      "I saw": 2,
+      "I was": 1,
+      "I found": 1
+    }
+  },
+  "had thought": {
+    "count": 3,
+    "next": {
+      "thought of": 2,
+      "thought I": 1
+    }
+  },
+  "had entered": {
+    "count": 3,
+    "next": {
+      "entered the": 3
+    }
+  },
+  "is one": {
+    "count": 3,
+    "next": {
+      "one thing": 2,
+      "one person": 1
+    }
+  },
+  "one thing": {
+    "count": 2,
+    "next": {
+      "thing I": 2
+    }
+  },
+  "thing I": {
+    "count": 3,
+    "next": {
+      "I should": 1,
+      "I could": 1,
+      "I can't": 1
+    }
+  },
+  "not against": {
+    "count": 2,
+    "next": {
+      "against Mr.": 1,
+      "against him.": 1
+    }
+  },
+  "the event": {
+    "count": 4,
+    "next": {
+      "event of": 4
+    }
+  },
+  "event of": {
+    "count": 3,
+    "next": {
+      "of Mrs.": 1,
+      "of a": 1,
+      "of one": 1
+    }
+  },
+  "if Mr.": {
+    "count": 2,
+    "next": {
+      "Mr. Inglethorp": 2
+    }
+  },
+  "Cavendish does": {
+    "count": 2,
+    "next": {
+      "does not": 2
+    }
+  },
+  "Not at": {
+    "count": 8,
+    "next": {
+      "at all.": 8
+    }
+  },
+  "should not": {
+    "count": 4,
+    "next": {
+      "not be": 2,
+      "not ask": 1,
+      "not think": 1
+    }
+  },
+  "think so.": {
+    "count": 3,
+    "next": {
+      "so. I": 3
+    }
+  },
+  "her money": {
+    "count": 3,
+    "next": {
+      "money to": 3
+    }
+  },
+  "money to": {
+    "count": 2,
+    "next": {
+      "to her": 1,
+      "to him,": 1
+    }
+  },
+  "knowing that": {
+    "count": 2,
+    "next": {
+      "that he": 1,
+      "that Mr.": 1
+    }
+  },
+  "aware of": {
+    "count": 2,
+    "next": {
+      "of that": 1,
+      "of the": 1
+    }
+  },
+  "She may": {
+    "count": 2,
+    "next": {
+      "may have": 2
+    }
+  },
+  "member of": {
+    "count": 4,
+    "next": {
+      "of her": 1,
+      "of the": 3
+    }
+  },
+  "had made": {
+    "count": 2,
+    "next": {
+      "made a": 2
+    }
+  },
+  "will in": {
+    "count": 5,
+    "next": {
+      "in favour": 3,
+      "in her": 1,
+      "in his": 1
+    }
+  },
+  "in favour": {
+    "count": 6,
+    "next": {
+      "favour of": 6
+    }
+  },
+  "favour of": {
+    "count": 4,
+    "next": {
+      "of her": 2,
+      "of the": 2
+    }
+  },
+  "Inglethorp made": {
+    "count": 2,
+    "next": {
+      "made a": 2
+    }
+  },
+  "a will": {
+    "count": 4,
+    "next": {
+      "will in": 4
+    }
+  },
+  "Then why": {
+    "count": 2,
+    "next": {
+      "why did": 2
+    }
+  },
+  "why did": {
+    "count": 2,
+    "next": {
+      "did you": 2
+    }
+  },
+  "to leave": {
+    "count": 2,
+    "next": {
+      "leave it": 2
+    }
+  },
+  "the desk": {
+    "count": 3,
+    "next": {
+      "desk in": 3
+    }
+  },
+  "we must": {
+    "count": 2,
+    "next": {
+      "must be": 2
+    }
+  },
+  "may be": {
+    "count": 2,
+    "next": {
+      "be a": 1,
+      "be in": 1
+    }
+  },
+  "explanation of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of Mr.": 1
+    }
+  },
+  "Poirot turned": {
+    "count": 2,
+    "next": {
+      "turned to": 2
+    }
+  },
+  "question as": {
+    "count": 3,
+    "next": {
+      "as much": 1,
+      "as to": 2
+    }
+  },
+  "corner of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "old as": {
+    "count": 2,
+    "next": {
+      "as he": 1,
+      "as the": 1
+    }
+  },
+  "him with": {
+    "count": 4,
+    "next": {
+      "with a": 1,
+      "with it": 1,
+      "with it.": 1,
+      "with the": 1
+    }
+  },
+  "exactly what": {
+    "count": 2,
+    "next": {
+      "what I": 2
+    }
+  },
+  "Well? Well,": {
+    "count": 2,
+    "next": {
+      "Well, he": 1,
+      "Well, I": 1
+    }
+  },
+  "Well, he": {
+    "count": 2,
+    "next": {
+      "he said": 1,
+      "he is": 1
+    }
+  },
+  "not Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp": 3
+    }
+  },
+  "the bottom": {
+    "count": 3,
+    "next": {
+      "bottom of": 3
+    }
+  },
+  "bottom of": {
+    "count": 3,
+    "next": {
+      "of a": 1,
+      "of the": 1,
+      "of it": 1
+    }
+  },
+  "see anything": {
+    "count": 2,
+    "next": {
+      "anything of": 1,
+      "anything to": 1
+    }
+  },
+  "anything of": {
+    "count": 2,
+    "next": {
+      "of what": 1,
+      "of the": 1
+    }
+  },
+  "of what": {
+    "count": 6,
+    "next": {
+      "what was": 1,
+      "what you": 3,
+      "what I": 2
+    }
+  },
+  "sir. It": {
+    "count": 4,
+    "next": {
+      "It would": 1,
+      "It was": 2,
+      "It may": 1
+    }
+  },
+  "It would": {
+    "count": 6,
+    "next": {
+      "would be": 4,
+      "would have": 2
+    }
+  },
+  "have made": {
+    "count": 2,
+    "next": {
+      "made a": 2
+    }
+  },
+  "consequence of": {
+    "count": 5,
+    "next": {
+      "of that": 1,
+      "of the": 3,
+      "of a": 1
+    }
+  },
+  "The contents": {
+    "count": 2,
+    "next": {
+      "contents of": 2
+    }
+  },
+  "contents of": {
+    "count": 3,
+    "next": {
+      "of that": 1,
+      "of the": 2
+    }
+  },
+  "no one": {
+    "count": 3,
+    "next": {
+      "one of": 1,
+      "one in": 1,
+      "one on": 1
+    }
+  },
+  "am sure": {
+    "count": 4,
+    "next": {
+      "sure you": 3,
+      "sure of": 1
+    }
+  },
+  "sure you": {
+    "count": 4,
+    "next": {
+      "you agree": 1,
+      "you are": 3
+    }
+  },
+  "you agree": {
+    "count": 2,
+    "next": {
+      "agree with": 2
+    }
+  },
+  "should never": {
+    "count": 3,
+    "next": {
+      "never have": 3
+    }
+  },
+  "never have": {
+    "count": 2,
+    "next": {
+      "have been": 2
+    }
+  },
+  "suppose, I": {
+    "count": 2,
+    "next": {
+      "I may": 1,
+      "I said,": 1
+    }
+  },
+  "I may": {
+    "count": 3,
+    "next": {
+      "may not": 1,
+      "may be": 2
+    }
+  },
+  "may not": {
+    "count": 2,
+    "next": {
+      "not ask": 1,
+      "not have": 1
+    }
+  },
+  "Ah, I": {
+    "count": 2,
+    "next": {
+      "I am": 1,
+      "I said,": 1
+    }
+  },
+  "me. This": {
+    "count": 2,
+    "next": {
+      "This was": 1,
+      "This is": 1
+    }
+  },
+  "This was": {
+    "count": 3,
+    "next": {
+      "was the": 1,
+      "was news": 1,
+      "was not": 1
+    }
+  },
+  "No. I": {
+    "count": 8,
+    "next": {
+      "I thought": 1,
+      "I looked": 2,
+      "I was": 2,
+      "I do": 1,
+      "I think": 1,
+      "I put": 1
+    }
+  },
+  "the opinion": {
+    "count": 2,
+    "next": {
+      "opinion that": 2
+    }
+  },
+  "I always": {
+    "count": 4,
+    "next": {
+      "always told": 4
+    }
+  },
+  "told you": {
+    "count": 3,
+    "next": {
+      "you he": 2,
+      "you that": 1
+    }
+  },
+  "you he": {
+    "count": 2,
+    "next": {
+      "he would": 1,
+      "he did": 1
+    }
+  },
+  "listening to": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "to me.": 1
+    }
+  },
+  "should. What": {
+    "count": 2,
+    "next": {
+      "What do": 2
+    }
+  },
+  "father was": {
+    "count": 2,
+    "next": {
+      "was a": 2
+    }
+  },
+  "her. I": {
+    "count": 4,
+    "next": {
+      "I always": 1,
+      "I was": 1,
+      "I really": 1,
+      "I can't": 1
+    }
+  },
+  "murder her": {
+    "count": 2,
+    "next": {
+      "her in": 2
+    }
+  },
+  "It occurred": {
+    "count": 4,
+    "next": {
+      "occurred to": 4
+    }
+  },
+  "occurred to": {
+    "count": 7,
+    "next": {
+      "to me": 7
+    }
+  },
+  "that to": {
+    "count": 4,
+    "next": {
+      "to my": 1,
+      "to him,": 1,
+      "to be": 1,
+      "to me": 1
+    }
+  },
+  "help you": {
+    "count": 2,
+    "next": {
+      "you to": 2
+    }
+  },
+  "until he": {
+    "count": 2,
+    "next": {
+      "he came": 1,
+      "he should": 1
+    }
+  },
+  "will tell": {
+    "count": 7,
+    "next": {
+      "tell you": 5,
+      "tell you,": 1,
+      "tell you.": 1
+    }
+  },
+  "you mean": {
+    "count": 6,
+    "next": {
+      "mean that": 3,
+      "mean to": 3
+    }
+  },
+  "mean that": {
+    "count": 4,
+    "next": {
+      "that I": 2,
+      "that the": 1,
+      "that you": 1
+    }
+  },
+  "fond of": {
+    "count": 2,
+    "next": {
+      "of her.": 1,
+      "of her,": 1
+    }
+  },
+  "old woman": {
+    "count": 2,
+    "next": {
+      "woman in": 2
+    }
+  },
+  "woman in": {
+    "count": 2,
+    "next": {
+      "in her": 1,
+      "in the": 1
+    }
+  },
+  "Don't think": {
+    "count": 2,
+    "next": {
+      "think she": 1,
+      "think it": 1
+    }
+  },
+  "think she": {
+    "count": 2,
+    "next": {
+      "she would": 1,
+      "she was": 1
+    }
+  },
+  "myself to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to the": 1
+    }
+  },
+  "You think": {
+    "count": 2,
+    "next": {
+      "think that": 1,
+      "think it": 1
+    }
+  },
+  "me, it": {
+    "count": 2,
+    "next": {
+      "it is": 1,
+      "it was": 1
+    }
+  },
+  "to Mrs.": {
+    "count": 3,
+    "next": {
+      "Mrs. Inglethorp's": 2,
+      "Mrs. Inglethorp": 1
+    }
+  },
+  "he and": {
+    "count": 2,
+    "next": {
+      "and Mr.": 1,
+      "and I": 1
+    }
+  },
+  "we reached": {
+    "count": 2,
+    "next": {
+      "reached the": 2
+    }
+  },
+  "laid down": {
+    "count": 2,
+    "next": {
+      "down the": 2
+    }
+  },
+  "the case": {
+    "count": 4,
+    "next": {
+      "case of": 1,
+      "case for": 3
+    }
+  },
+  "enough of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of the": 1
+    }
+  },
+  "to connect": {
+    "count": 2,
+    "next": {
+      "connect him": 2
+    }
+  },
+  "obliged to": {
+    "count": 4,
+    "next": {
+      "to you,": 2,
+      "to you.": 1,
+      "to you": 1
+    }
+  },
+  "Poirot, with": {
+    "count": 2,
+    "next": {
+      "with a": 2
+    }
+  },
+  "a gesture": {
+    "count": 3,
+    "next": {
+      "gesture of": 3
+    }
+  },
+  "Dorcas saw": {
+    "count": 2,
+    "next": {
+      "saw in": 2
+    }
+  },
+  "with me.": {
+    "count": 2,
+    "next": {
+      "me. Certainly.": 1,
+      "me. I": 1
+    }
+  },
+  "soon as": {
+    "count": 3,
+    "next": {
+      "as I": 2,
+      "as we": 1
+    }
+  },
+  "had reached": {
+    "count": 2,
+    "next": {
+      "reached the": 2
+    }
+  },
+  "rushed past": {
+    "count": 2,
+    "next": {
+      "past me": 2
+    }
+  },
+  "I really": {
+    "count": 2,
+    "next": {
+      "really do": 2
+    }
+  },
+  "not know": {
+    "count": 6,
+    "next": {
+      "know how": 2,
+      "know what": 2,
+      "know if": 1,
+      "know at": 1
+    }
+  },
+  "Poirot would": {
+    "count": 2,
+    "next": {
+      "would have": 2
+    }
+  },
+  "think it": {
+    "count": 5,
+    "next": {
+      "it would": 1,
+      "it is": 3,
+      "it was": 1
+    }
+  },
+  "is true.": {
+    "count": 2,
+    "next": {
+      "true. I": 2
+    }
+  },
+  "true. I": {
+    "count": 4,
+    "next": {
+      "I am": 1,
+      "I never": 1,
+      "I don't": 1,
+      "I have": 1
+    }
+  },
+  "fellow, I": {
+    "count": 2,
+    "next": {
+      "I said,": 1,
+      "I don't": 1
+    }
+  },
+  "yes. You": {
+    "count": 2,
+    "next": {
+      "You will": 1,
+      "You have": 1
+    }
+  },
+  "yes, I": {
+    "count": 3,
+    "next": {
+      "I did": 1,
+      "I heard": 1,
+      "I had": 1
+    }
+  },
+  "which had": {
+    "count": 3,
+    "next": {
+      "had been": 2,
+      "had taken": 1
+    }
+  },
+  "away from": {
+    "count": 4,
+    "next": {
+      "from the": 4
+    }
+  },
+  "last, I": {
+    "count": 2,
+    "next": {
+      "I have": 1,
+      "I had": 1
+    }
+  },
+  "thought that": {
+    "count": 4,
+    "next": {
+      "that Poirot": 2,
+      "that a": 1,
+      "that Mrs.": 1
+    }
+  },
+  "that Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot was": 2
+    }
+  },
+  "the truth": {
+    "count": 2,
+    "next": {
+      "truth of": 2
+    }
+  },
+  "wonder that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that the": 1
+    }
+  },
+  "Poirot did": {
+    "count": 3,
+    "next": {
+      "did not": 3
+    }
+  },
+  "not appear": {
+    "count": 2,
+    "next": {
+      "appear to": 2
+    }
+  },
+  "appear to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to have": 1
+    }
+  },
+  "me as": {
+    "count": 3,
+    "next": {
+      "as we": 1,
+      "as to": 1,
+      "as you": 1
+    }
+  },
+  "a surprise": {
+    "count": 2,
+    "next": {
+      "surprise to": 2
+    }
+  },
+  "surprise to": {
+    "count": 2,
+    "next": {
+      "to me.": 1,
+      "to me,": 1
+    }
+  },
+  "written on": {
+    "count": 4,
+    "next": {
+      "on one": 1,
+      "on the": 3
+    }
+  },
+  "will notice": {
+    "count": 2,
+    "next": {
+      "notice that": 2
+    }
+  },
+  "notice that": {
+    "count": 3,
+    "next": {
+      "that the": 1,
+      "that he": 1,
+      "that it": 1
+    }
+  },
+  "the fragment": {
+    "count": 2,
+    "next": {
+      "fragment of": 2
+    }
+  },
+  "the possibility": {
+    "count": 4,
+    "next": {
+      "possibility of": 4
+    }
+  },
+  "possibility of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of Alfred": 1
+    }
+  },
+  "they had": {
+    "count": 6,
+    "next": {
+      "had been": 3,
+      "had to": 1,
+      "had heard": 1,
+      "had left": 1
+    }
+  },
+  "wished to": {
+    "count": 3,
+    "next": {
+      "to speak": 1,
+      "to be": 2
+    }
+  },
+  "not have": {
+    "count": 5,
+    "next": {
+      "have been": 4,
+      "have had": 1
+    }
+  },
+  "room at": {
+    "count": 2,
+    "next": {
+      "at all.": 1,
+      "at the": 1
+    }
+  },
+  "at all.": {
+    "count": 4,
+    "next": {
+      "all. I": 4
+    }
+  },
+  "turned out": {
+    "count": 2,
+    "next": {
+      "out to": 2
+    }
+  },
+  "suggested to": {
+    "count": 2,
+    "next": {
+      "to me": 1,
+      "to her": 1
+    }
+  },
+  "Now, if": {
+    "count": 2,
+    "next": {
+      "if it": 2
+    }
+  },
+  "Inglethorp would": {
+    "count": 2,
+    "next": {
+      "would at": 1,
+      "would have": 1
+    }
+  },
+  "would at": {
+    "count": 2,
+    "next": {
+      "at once": 2
+    }
+  },
+  "replaced it": {
+    "count": 2,
+    "next": {
+      "it on": 1,
+      "it in": 1
+    }
+  },
+  "against him.": {
+    "count": 2,
+    "next": {
+      "him. I": 2
+    }
+  },
+  "he knew": {
+    "count": 2,
+    "next": {
+      "knew what": 1,
+      "knew that": 1
+    }
+  },
+  "you make": {
+    "count": 3,
+    "next": {
+      "make of": 3
+    }
+  },
+  "make of": {
+    "count": 4,
+    "next": {
+      "of the": 2,
+      "of her": 1,
+      "of it.": 1
+    }
+  },
+  "the destruction": {
+    "count": 3,
+    "next": {
+      "destruction of": 3
+    }
+  },
+  "destruction of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "who entered": {
+    "count": 2,
+    "next": {
+      "entered the": 2
+    }
+  },
+  "door must": {
+    "count": 2,
+    "next": {
+      "must have": 2
+    }
+  },
+  "by Mrs.": {
+    "count": 4,
+    "next": {
+      "Mrs. Inglethorp": 3,
+      "Mrs. Inglethorp's": 1
+    }
+  },
+  "conviction that": {
+    "count": 2,
+    "next": {
+      "that the": 2
+    }
+  },
+  "She would": {
+    "count": 2,
+    "next": {
+      "would be": 1,
+      "would have": 1
+    }
+  },
+  "got up": {
+    "count": 2,
+    "next": {
+      "up and": 2
+    }
+  },
+  "say it": {
+    "count": 2,
+    "next": {
+      "it is": 1,
+      "it was": 1
+    }
+  },
+  "so, but": {
+    "count": 2,
+    "next": {
+      "but it": 1,
+      "but I": 1
+    }
+  },
+  "it might": {
+    "count": 4,
+    "next": {
+      "might be": 3,
+      "might have": 1
+    }
+  },
+  "conversation you": {
+    "count": 2,
+    "next": {
+      "you overheard": 2
+    }
+  },
+  "you overheard": {
+    "count": 4,
+    "next": {
+      "overheard between": 2,
+      "overheard of": 2
+    }
+  },
+  "overheard between": {
+    "count": 2,
+    "next": {
+      "between Mrs.": 2
+    }
+  },
+  "thing for": {
+    "count": 2,
+    "next": {
+      "for a": 2
+    }
+  },
+  "see, I": {
+    "count": 2,
+    "next": {
+      "I said,": 1,
+      "I think": 1
+    }
+  },
+  "back from": {
+    "count": 2,
+    "next": {
+      "from the": 2
+    }
+  },
+  "Yes, he": {
+    "count": 2,
+    "next": {
+      "he said,": 1,
+      "he is": 1
+    }
+  },
+  "80 degrees": {
+    "count": 2,
+    "next": {
+      "degrees in": 2
+    }
+  },
+  "degrees in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "friend. It": {
+    "count": 2,
+    "next": {
+      "It is": 1,
+      "It was": 1
+    }
+  },
+  "The important": {
+    "count": 2,
+    "next": {
+      "important fact": 2
+    }
+  },
+  "important fact": {
+    "count": 2,
+    "next": {
+      "fact that": 2
+    }
+  },
+  "No, it": {
+    "count": 2,
+    "next": {
+      "it is": 2
+    }
+  },
+  "against Alfred": {
+    "count": 2,
+    "next": {
+      "Alfred Inglethorp": 2
+    }
+  },
+  "You would": {
+    "count": 2,
+    "next": {
+      "would not": 2
+    }
+  },
+  "ami, I": {
+    "count": 3,
+    "next": {
+      "I would": 1,
+      "I did": 1,
+      "I am": 1
+    }
+  },
+  "He got": {
+    "count": 2,
+    "next": {
+      "got up": 2
+    }
+  },
+  "Inglethorp who": {
+    "count": 5,
+    "next": {
+      "who is": 1,
+      "who was": 2,
+      "who had": 2
+    }
+  },
+  "looking for": {
+    "count": 2,
+    "next": {
+      "for a": 1,
+      "for you,": 1
+    }
+  },
+  "gentlemen from": {
+    "count": 2,
+    "next": {
+      "from the": 2
+    }
+  },
+  "Howard had": {
+    "count": 3,
+    "next": {
+      "had been": 3
+    }
+  },
+  "then, and": {
+    "count": 3,
+    "next": {
+      "and I": 1,
+      "and he": 1,
+      "and you": 1
+    }
+  },
+  "of Alfred": {
+    "count": 2,
+    "next": {
+      "Alfred Inglethorp": 2
+    }
+  },
+  "been at": {
+    "count": 3,
+    "next": {
+      "at the": 2,
+      "at Styles": 1
+    }
+  },
+  "be one": {
+    "count": 2,
+    "next": {
+      "one of": 2
+    }
+  },
+  "she could": {
+    "count": 2,
+    "next": {
+      "could have": 1,
+      "could not": 1
+    }
+  },
+  "and there": {
+    "count": 3,
+    "next": {
+      "there is": 2,
+      "there was": 1
+    }
+  },
+  "No. You": {
+    "count": 2,
+    "next": {
+      "You will": 1,
+      "You did": 1
+    }
+  },
+  "entered Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Inglethorp's": 2
+    }
+  },
+  "Inglethorp's room.": {
+    "count": 2,
+    "next": {
+      "room. I": 2
+    }
+  },
+  "was at": {
+    "count": 2,
+    "next": {
+      "at the": 2
+    }
+  },
+  "Could the": {
+    "count": 2,
+    "next": {
+      "the strychnine": 2
+    }
+  },
+  "the strychnine": {
+    "count": 2,
+    "next": {
+      "strychnine have": 2
+    }
+  },
+  "strychnine have": {
+    "count": 2,
+    "next": {
+      "have been": 2
+    }
+  },
+  "been administered": {
+    "count": 2,
+    "next": {
+      "administered in": 2
+    }
+  },
+  "taken to": {
+    "count": 2,
+    "next": {
+      "to her": 1,
+      "to be": 1
+    }
+  },
+  "her by": {
+    "count": 2,
+    "next": {
+      "by Mrs.": 1,
+      "by the": 1
+    }
+  },
+  "the face": {
+    "count": 3,
+    "next": {
+      "face of": 3
+    }
+  },
+  "a sample": {
+    "count": 2,
+    "next": {
+      "sample of": 2
+    }
+  },
+  "me. How": {
+    "count": 2,
+    "next": {
+      "How did": 1,
+      "How do": 1
+    }
+  },
+  "the jury": {
+    "count": 2,
+    "next": {
+      "jury that": 2
+    }
+  },
+  "if the": {
+    "count": 2,
+    "next": {
+      "the case": 1,
+      "the prisoner": 1
+    }
+  },
+  "but that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that was": 1
+    }
+  },
+  "no possibility": {
+    "count": 2,
+    "next": {
+      "possibility of": 2
+    }
+  },
+  "was of": {
+    "count": 4,
+    "next": {
+      "of a": 1,
+      "of the": 2,
+      "of any": 1
+    }
+  },
+  "truth of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of his": 1
+    }
+  },
+  "How do": {
+    "count": 6,
+    "next": {
+      "do you": 6
+    }
+  },
+  "there have": {
+    "count": 2,
+    "next": {
+      "have been": 2
+    }
+  },
+  "not possible": {
+    "count": 2,
+    "next": {
+      "possible that": 2
+    }
+  },
+  "she may": {
+    "count": 2,
+    "next": {
+      "may have": 2
+    }
+  },
+  "strychnine at": {
+    "count": 4,
+    "next": {
+      "at the": 4
+    }
+  },
+  "much obliged": {
+    "count": 4,
+    "next": {
+      "obliged to": 4
+    }
+  },
+  "There would": {
+    "count": 2,
+    "next": {
+      "would have": 1,
+      "would be": 1
+    }
+  },
+  "have had": {
+    "count": 3,
+    "next": {
+      "had to": 1,
+      "had an": 2
+    }
+  },
+  "to account": {
+    "count": 4,
+    "next": {
+      "account for": 4
+    }
+  },
+  "account for": {
+    "count": 5,
+    "next": {
+      "for the": 5
+    }
+  },
+  "So the": {
+    "count": 2,
+    "next": {
+      "the question": 1,
+      "the discovery": 1
+    }
+  },
+  "In answer": {
+    "count": 2,
+    "next": {
+      "answer to": 2
+    }
+  },
+  "answer to": {
+    "count": 3,
+    "next": {
+      "to the": 2,
+      "to Mr.": 1
+    }
+  },
+  "That would": {
+    "count": 2,
+    "next": {
+      "would have": 1,
+      "would be": 1
+    }
+  },
+  "husband, and": {
+    "count": 2,
+    "next": {
+      "and we": 1,
+      "and the": 1
+    }
+  },
+  "all went": {
+    "count": 2,
+    "next": {
+      "went to": 1,
+      "went out": 1
+    }
+  },
+  "really do": {
+    "count": 2,
+    "next": {
+      "do not": 2
+    }
+  },
+  "all that": {
+    "count": 2,
+    "next": {
+      "that is": 2
+    }
+  },
+  "overheard of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "deliberately, that": {
+    "count": 2,
+    "next": {
+      "that you": 2
+    }
+  },
+  "was news": {
+    "count": 2,
+    "next": {
+      "news to": 2
+    }
+  },
+  "news to": {
+    "count": 2,
+    "next": {
+      "to me": 1,
+      "to him": 1
+    }
+  },
+  "Yes, that": {
+    "count": 2,
+    "next": {
+      "that is": 2
+    }
+  },
+  "In fact,": {
+    "count": 2,
+    "next": {
+      "fact, I": 2
+    }
+  },
+  "am not": {
+    "count": 3,
+    "next": {
+      "not in": 2,
+      "not going": 1
+    }
+  },
+  "realize that": {
+    "count": 4,
+    "next": {
+      "that it": 2,
+      "that he": 1,
+      "that I": 1
+    }
+  },
+  "eyes as": {
+    "count": 2,
+    "next": {
+      "as she": 2
+    }
+  },
+  "them. I": {
+    "count": 2,
+    "next": {
+      "I felt": 1,
+      "I should": 1
+    }
+  },
+  "felt certain": {
+    "count": 2,
+    "next": {
+      "certain that": 2
+    }
+  },
+  "moment she": {
+    "count": 2,
+    "next": {
+      "she would": 1,
+      "she must": 1
+    }
+  },
+  "where I": {
+    "count": 2,
+    "next": {
+      "I knew": 1,
+      "I discovered": 1
+    }
+  },
+  "with it.": {
+    "count": 2,
+    "next": {
+      "it. I": 1,
+      "it. When": 1
+    }
+  },
+  "afternoon of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of her": 1
+    }
+  },
+  "nothing of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "You did": {
+    "count": 2,
+    "next": {
+      "did not": 2
+    }
+  },
+  "Inglethorp on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "very fond": {
+    "count": 3,
+    "next": {
+      "fond of": 3
+    }
+  },
+  "handed to": {
+    "count": 2,
+    "next": {
+      "to the": 2
+    }
+  },
+  "it does": {
+    "count": 2,
+    "next": {
+      "does not": 2
+    }
+  },
+  "mention of": {
+    "count": 2,
+    "next": {
+      "of any": 1,
+      "of the": 1
+    }
+  },
+  "and down": {
+    "count": 2,
+    "next": {
+      "down the": 2
+    }
+  },
+  "Howard, that": {
+    "count": 2,
+    "next": {
+      "that is": 1,
+      "that it": 1
+    }
+  },
+  "said it": {
+    "count": 2,
+    "next": {
+      "it was": 2
+    }
+  },
+  "purchased strychnine": {
+    "count": 3,
+    "next": {
+      "strychnine at": 2,
+      "strychnine in": 1
+    }
+  },
+  "do. Do": {
+    "count": 2,
+    "next": {
+      "Do you": 2
+    }
+  },
+  "the register": {
+    "count": 3,
+    "next": {
+      "register in": 3
+    }
+  },
+  "register in": {
+    "count": 3,
+    "next": {
+      "in which": 1,
+      "in his": 2
+    }
+  },
+  "mine. I": {
+    "count": 2,
+    "next": {
+      "I will": 1,
+      "I don't": 1
+    }
+  },
+  "Inglethorp shook": {
+    "count": 2,
+    "next": {
+      "shook his": 2
+    }
+  },
+  "head. I": {
+    "count": 2,
+    "next": {
+      "I don't": 2
+    }
+  },
+  "tell you.": {
+    "count": 4,
+    "next": {
+      "you. I": 3,
+      "you. He": 1
+    }
+  },
+  "idea that": {
+    "count": 2,
+    "next": {
+      "that I": 1,
+      "that it": 1
+    }
+  },
+  "No. Did": {
+    "count": 2,
+    "next": {
+      "Did you": 2
+    }
+  },
+  "then that": {
+    "count": 2,
+    "next": {
+      "that you": 1,
+      "that she": 1
+    }
+  },
+  "time that": {
+    "count": 2,
+    "next": {
+      "that Mr.": 1,
+      "that the": 1
+    }
+  },
+  "Be careful,": {
+    "count": 2,
+    "next": {
+      "careful, Mr.": 2
+    }
+  },
+  "careful, Mr.": {
+    "count": 2,
+    "next": {
+      "Mr. Inglethorp.": 1,
+      "Mr. Cavendish.": 1
+    }
+  },
+  "Inglethorp. Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot was": 1,
+      "Poirot shook": 1
+    }
+  },
+  "Pardon me,": {
+    "count": 2,
+    "next": {
+      "me, mon": 2
+    }
+  },
+  "Inglethorp, you": {
+    "count": 2,
+    "next": {
+      "you have": 1,
+      "you are": 1
+    }
+  },
+  "Poirot. There": {
+    "count": 2,
+    "next": {
+      "There was": 2
+    }
+  },
+  "yes. But": {
+    "count": 2,
+    "next": {
+      "But I": 1,
+      "But in": 1
+    }
+  },
+  "told that": {
+    "count": 2,
+    "next": {
+      "that a": 1,
+      "that there": 1
+    }
+  },
+  "coffee on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "drew me": {
+    "count": 2,
+    "next": {
+      "me aside,": 2
+    }
+  },
+  "you do": {
+    "count": 3,
+    "next": {
+      "do not": 3
+    }
+  },
+  "speak of": {
+    "count": 2,
+    "next": {
+      "of Mr.": 1,
+      "of the": 1
+    }
+  },
+  "But we": {
+    "count": 3,
+    "next": {
+      "we must": 2,
+      "we were": 1
+    }
+  },
+  "way, he": {
+    "count": 2,
+    "next": {
+      "he said,": 1,
+      "he would": 1
+    }
+  },
+  "it hadn't": {
+    "count": 3,
+    "next": {
+      "hadn't been": 3
+    }
+  },
+  "hadn't been": {
+    "count": 3,
+    "next": {
+      "been for": 3
+    }
+  },
+  "been for": {
+    "count": 2,
+    "next": {
+      "for the": 2
+    }
+  },
+  "been on": {
+    "count": 3,
+    "next": {
+      "on the": 3
+    }
+  },
+  "the evidence": {
+    "count": 5,
+    "next": {
+      "evidence at": 2,
+      "evidence against": 3
+    }
+  },
+  "evidence at": {
+    "count": 5,
+    "next": {
+      "at the": 5
+    }
+  },
+  "must say": {
+    "count": 3,
+    "next": {
+      "say I": 3
+    }
+  },
+  "say I": {
+    "count": 3,
+    "next": {
+      "I was": 2,
+      "I think": 1
+    }
+  },
+  "off. I": {
+    "count": 3,
+    "next": {
+      "I think": 1,
+      "I will": 1,
+      "I had": 1
+    }
+  },
+  "he should": {
+    "count": 3,
+    "next": {
+      "should not": 2,
+      "should have": 1
+    }
+  },
+  "is exactly": {
+    "count": 2,
+    "next": {
+      "exactly what": 2
+    }
+  },
+  "Inglethorp. But": {
+    "count": 2,
+    "next": {
+      "But it": 1,
+      "But you": 1
+    }
+  },
+  "but what": {
+    "count": 2,
+    "next": {
+      "what you": 1,
+      "what about": 1
+    }
+  },
+  "must not": {
+    "count": 3,
+    "next": {
+      "not be": 2,
+      "not appear": 1
+    }
+  },
+  "That I": {
+    "count": 3,
+    "next": {
+      "I have": 1,
+      "I don't": 1,
+      "I can": 1
+    }
+  },
+  "I'm much": {
+    "count": 2,
+    "next": {
+      "much obliged": 2
+    }
+  },
+  "Well, my": {
+    "count": 4,
+    "next": {
+      "my friend,": 4
+    }
+  },
+  "before I": {
+    "count": 6,
+    "next": {
+      "I could": 4,
+      "I had": 2
+    }
+  },
+  "refuse to": {
+    "count": 2,
+    "next": {
+      "to say": 2
+    }
+  },
+  "in spite": {
+    "count": 3,
+    "next": {
+      "spite of": 3
+    }
+  },
+  "spite of": {
+    "count": 2,
+    "next": {
+      "of what": 1,
+      "of her": 1
+    }
+  },
+  "say to": {
+    "count": 2,
+    "next": {
+      "to the": 1,
+      "to you": 1
+    }
+  },
+  "No, my": {
+    "count": 4,
+    "next": {
+      "my friend,": 2,
+      "my friend.": 2
+    }
+  },
+  "long as": {
+    "count": 2,
+    "next": {
+      "as the": 1,
+      "as I": 1
+    }
+  },
+  "evidence against": {
+    "count": 2,
+    "next": {
+      "against Mr.": 1,
+      "against him.": 1
+    }
+  },
+  "Here is": {
+    "count": 2,
+    "next": {
+      "is a": 1,
+      "is the": 1
+    }
+  },
+  "you, mon": {
+    "count": 2,
+    "next": {
+      "mon ami,": 1,
+      "mon ami.": 1
+    }
+  },
+  "ami, it": {
+    "count": 2,
+    "next": {
+      "it was": 1,
+      "it is": 1
+    }
+  },
+  "But if": {
+    "count": 2,
+    "next": {
+      "if you": 2
+    }
+  },
+  "whom he": {
+    "count": 2,
+    "next": {
+      "he had": 2
+    }
+  },
+  "But in": {
+    "count": 4,
+    "next": {
+      "in the": 3,
+      "in her": 1
+    }
+  },
+  "conclusion that": {
+    "count": 7,
+    "next": {
+      "that he": 2,
+      "that it": 1,
+      "that Mrs.": 1,
+      "that Alfred": 1,
+      "that Mademoiselle": 1,
+      "that if": 1
+    }
+  },
+  "but, to": {
+    "count": 2,
+    "next": {
+      "to make": 1,
+      "to my": 1
+    }
+  },
+  "there must": {
+    "count": 2,
+    "next": {
+      "must be": 2
+    }
+  },
+  "appearance of": {
+    "count": 2,
+    "next": {
+      "of Mr.": 1,
+      "of the": 1
+    }
+  },
+  "Inglethorp? It": {
+    "count": 2,
+    "next": {
+      "It may": 1,
+      "It is": 1
+    }
+  },
+  "that. I": {
+    "count": 3,
+    "next": {
+      "I must": 1,
+      "I was": 1,
+      "I am": 1
+    }
+  },
+  "you not": {
+    "count": 2,
+    "next": {
+      "not know": 1,
+      "not think": 1
+    }
+  },
+  "by means": {
+    "count": 5,
+    "next": {
+      "means of": 5
+    }
+  },
+  "means of": {
+    "count": 5,
+    "next": {
+      "of the": 1,
+      "of Mrs.": 1,
+      "of it": 1,
+      "of which": 1,
+      "of one": 1
+    }
+  },
+  "that did": {
+    "count": 2,
+    "next": {
+      "did not": 2
+    }
+  },
+  "of course.": {
+    "count": 2,
+    "next": {
+      "course. But": 2
+    }
+  },
+  "course. But": {
+    "count": 2,
+    "next": {
+      "But it": 1,
+      "But you": 1
+    }
+  },
+  "If it": {
+    "count": 2,
+    "next": {
+      "it had": 2
+    }
+  },
+  "her evidence": {
+    "count": 2,
+    "next": {
+      "evidence at": 2
+    }
+  },
+  "earlier in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "unless I": {
+    "count": 2,
+    "next": {
+      "I am": 1,
+      "I can": 1
+    }
+  },
+  "were speaking": {
+    "count": 3,
+    "next": {
+      "speaking the": 2,
+      "speaking of": 1
+    }
+  },
+  "speaking the": {
+    "count": 2,
+    "next": {
+      "the truth": 2
+    }
+  },
+  "never occurred": {
+    "count": 2,
+    "next": {
+      "occurred to": 2
+    }
+  },
+  "really think": {
+    "count": 2,
+    "next": {
+      "think so?": 2
+    }
+  },
+  "think so?": {
+    "count": 2,
+    "next": {
+      "so? I": 2
+    }
+  },
+  "so? I": {
+    "count": 3,
+    "next": {
+      "I asked.": 2,
+      "I could": 1
+    }
+  },
+  "No. But": {
+    "count": 2,
+    "next": {
+      "But it": 1,
+      "But you": 1
+    }
+  },
+  "looking out": {
+    "count": 2,
+    "next": {
+      "out of": 2
+    }
+  },
+  "home to": {
+    "count": 2,
+    "next": {
+      "to him": 1,
+      "to him,": 1
+    }
+  },
+  "household, with": {
+    "count": 2,
+    "next": {
+      "with the": 2
+    }
+  },
+  "the exception": {
+    "count": 4,
+    "next": {
+      "exception of": 4
+    }
+  },
+  "exception of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of Mrs.": 1
+    }
+  },
+  "together in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "happen to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to know": 1
+    }
+  },
+  "charge of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of it.": 1
+    }
+  },
+  "asked you": {
+    "count": 2,
+    "next": {
+      "you to": 2
+    }
+  },
+  "Poirot went": {
+    "count": 2,
+    "next": {
+      "went straight": 1,
+      "went up": 1
+    }
+  },
+  "you, do": {
+    "count": 2,
+    "next": {
+      "do you": 1,
+      "do not": 1
+    }
+  },
+  "face in": {
+    "count": 2,
+    "next": {
+      "in his": 1,
+      "in a": 1
+    }
+  },
+  "he shook": {
+    "count": 2,
+    "next": {
+      "shook his": 2
+    }
+  },
+  "me of": {
+    "count": 2,
+    "next": {
+      "of what": 1,
+      "of it.": 1
+    }
+  },
+  "and, as": {
+    "count": 3,
+    "next": {
+      "as you": 3
+    }
+  },
+  "no question": {
+    "count": 2,
+    "next": {
+      "question as": 2
+    }
+  },
+  "arrested for": {
+    "count": 2,
+    "next": {
+      "for the": 2
+    }
+  },
+  "he caught": {
+    "count": 2,
+    "next": {
+      "caught me": 2
+    }
+  },
+  "caught me": {
+    "count": 2,
+    "next": {
+      "me by": 2
+    }
+  },
+  "No. Is": {
+    "count": 2,
+    "next": {
+      "Is it": 2
+    }
+  },
+  "you, that": {
+    "count": 2,
+    "next": {
+      "that was": 1,
+      "that you": 1
+    }
+  },
+  "There must": {
+    "count": 2,
+    "next": {
+      "must be": 2
+    }
+  },
+  "know it": {
+    "count": 2,
+    "next": {
+      "it was": 2
+    }
+  },
+  "one person": {
+    "count": 2,
+    "next": {
+      "person who": 2
+    }
+  },
+  "who did": {
+    "count": 2,
+    "next": {
+      "did not": 2
+    }
+  },
+  "so. I": {
+    "count": 5,
+    "next": {
+      "I felt": 1,
+      "I should": 1,
+      "I put": 2,
+      "I was": 1
+    }
+  },
+  "he will": {
+    "count": 4,
+    "next": {
+      "will be": 3,
+      "will not": 1
+    }
+  },
+  "attention to": {
+    "count": 3,
+    "next": {
+      "to my": 2,
+      "to the": 1
+    }
+  },
+  "was away": {
+    "count": 2,
+    "next": {
+      "away from": 2
+    }
+  },
+  "way, Mrs.": {
+    "count": 2,
+    "next": {
+      "Mrs. Inglethorp": 2
+    }
+  },
+  "got hold": {
+    "count": 2,
+    "next": {
+      "hold of": 2
+    }
+  },
+  "it could": {
+    "count": 4,
+    "next": {
+      "could have": 2,
+      "could not": 2
+    }
+  },
+  "Now there": {
+    "count": 2,
+    "next": {
+      "there is": 1,
+      "there was": 1
+    }
+  },
+  "reason. I": {
+    "count": 2,
+    "next": {
+      "I did": 1,
+      "I must": 1
+    }
+  },
+  "name of": {
+    "count": 3,
+    "next": {
+      "of the": 1,
+      "of Alfred": 2
+    }
+  },
+  "her. It": {
+    "count": 2,
+    "next": {
+      "It was": 1,
+      "It would": 1
+    }
+  },
+  "about her": {
+    "count": 3,
+    "next": {
+      "her evidence": 2,
+      "her room": 1
+    }
+  },
+  "me. Certainly.": {
+    "count": 2,
+    "next": {
+      "Certainly. What": 2
+    }
+  },
+  "Certainly. What": {
+    "count": 2,
+    "next": {
+      "What is": 2
+    }
+  },
+  "the extra": {
+    "count": 4,
+    "next": {
+      "extra coffee-cup,": 4
+    }
+  },
+  "extra coffee-cup,": {
+    "count": 4,
+    "next": {
+      "coffee-cup, and": 4
+    }
+  },
+  "coffee-cup, and": {
+    "count": 4,
+    "next": {
+      "and you": 4
+    }
+  },
+  "'Find the": {
+    "count": 3,
+    "next": {
+      "the extra": 3
+    }
+  },
+  "something to": {
+    "count": 2,
+    "next": {
+      "to be": 1,
+      "to you.": 1
+    }
+  },
+  "strychnine in": {
+    "count": 3,
+    "next": {
+      "in it.": 1,
+      "in Mrs.": 1,
+      "in the": 1
+    }
+  },
+  "me aside,": {
+    "count": 2,
+    "next": {
+      "aside, and": 2
+    }
+  },
+  "aside, and": {
+    "count": 2,
+    "next": {
+      "and asked": 1,
+      "and as": 1
+    }
+  },
+  "informed me": {
+    "count": 2,
+    "next": {
+      "me that": 2
+    }
+  },
+  "it, but": {
+    "count": 2,
+    "next": {
+      "but I": 2
+    }
+  },
+  "don't see": {
+    "count": 3,
+    "next": {
+      "see how": 2,
+      "see anything": 1
+    }
+  },
+  "am in": {
+    "count": 2,
+    "next": {
+      "in a": 1,
+      "in her": 1
+    }
+  },
+  "remain in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "asked if": {
+    "count": 2,
+    "next": {
+      "if she": 1,
+      "if I": 1
+    }
+  },
+  "like that": {
+    "count": 2,
+    "next": {
+      "that there": 1,
+      "that could": 1
+    }
+  },
+  "there, with": {
+    "count": 2,
+    "next": {
+      "with her": 1,
+      "with the": 1
+    }
+  },
+  "and at": {
+    "count": 2,
+    "next": {
+      "at once": 2
+    }
+  },
+  "by one": {
+    "count": 2,
+    "next": {
+      "one of": 2
+    }
+  },
+  "on top": {
+    "count": 3,
+    "next": {
+      "top of": 3
+    }
+  },
+  "before, and": {
+    "count": 2,
+    "next": {
+      "and the": 1,
+      "and he": 1
+    }
+  },
+  "it. There": {
+    "count": 2,
+    "next": {
+      "There was": 2
+    }
+  },
+  "beard in": {
+    "count": 3,
+    "next": {
+      "in the": 3
+    }
+  },
+  "as there": {
+    "count": 2,
+    "next": {
+      "there was": 1,
+      "there had": 1
+    }
+  },
+  "times when": {
+    "count": 2,
+    "next": {
+      "when I": 1,
+      "when it": 1
+    }
+  },
+  "will ask": {
+    "count": 2,
+    "next": {
+      "ask you": 2
+    }
+  },
+  "convinced he": {
+    "count": 2,
+    "next": {
+      "he did": 2
+    }
+  },
+  "quietly. I": {
+    "count": 2,
+    "next": {
+      "I will": 1,
+      "I was": 1
+    }
+  },
+  "Haven't I": {
+    "count": 3,
+    "next": {
+      "I always": 3
+    }
+  },
+  "crime had": {
+    "count": 3,
+    "next": {
+      "had been": 3
+    }
+  },
+  "believe it": {
+    "count": 2,
+    "next": {
+      "it was.": 1,
+      "it at": 1
+    }
+  },
+  "against Mr.": {
+    "count": 2,
+    "next": {
+      "Mr. Inglethorp.": 1,
+      "Mr. Lawrence": 1
+    }
+  },
+  "is because": {
+    "count": 2,
+    "next": {
+      "because you": 2
+    }
+  },
+  "because you": {
+    "count": 2,
+    "next": {
+      "you have": 1,
+      "you are": 1
+    }
+  },
+  "you must": {
+    "count": 2,
+    "next": {
+      "must be": 1,
+      "must have": 1
+    }
+  },
+  "Don't ask": {
+    "count": 2,
+    "next": {
+      "ask me": 2
+    }
+  },
+  "nothing. It": {
+    "count": 2,
+    "next": {
+      "It is": 2
+    }
+  },
+  "is enough": {
+    "count": 2,
+    "next": {
+      "enough for": 2
+    }
+  },
+  "enough for": {
+    "count": 3,
+    "next": {
+      "for me": 1,
+      "for a": 2
+    }
+  },
+  "know, I": {
+    "count": 4,
+    "next": {
+      "I don't": 1,
+      "I do": 1,
+      "I was": 2
+    }
+  },
+  "quietly, that": {
+    "count": 2,
+    "next": {
+      "that was": 1,
+      "that I": 1
+    }
+  },
+  "You and": {
+    "count": 2,
+    "next": {
+      "and Miss": 1,
+      "and John": 1
+    }
+  },
+  "my intense": {
+    "count": 4,
+    "next": {
+      "intense surprise,": 4
+    }
+  },
+  "intense surprise,": {
+    "count": 2,
+    "next": {
+      "surprise, he": 2
+    }
+  },
+  "from me.": {
+    "count": 2,
+    "next": {
+      "me. I": 2
+    }
+  },
+  "This time": {
+    "count": 3,
+    "next": {
+      "time it": 2,
+      "time I": 1
+    }
+  },
+  "I decided": {
+    "count": 4,
+    "next": {
+      "decided that": 2,
+      "decided to": 2
+    }
+  },
+  "decided that": {
+    "count": 2,
+    "next": {
+      "that if": 1,
+      "that I": 1
+    }
+  },
+  "end of": {
+    "count": 3,
+    "next": {
+      "of that": 1,
+      "of the": 1,
+      "of his": 1
+    }
+  },
+  "He shook": {
+    "count": 2,
+    "next": {
+      "shook his": 2
+    }
+  },
+  "head. No,": {
+    "count": 2,
+    "next": {
+      "No, he": 1,
+      "No, my": 1
+    }
+  },
+  "Poirot, you": {
+    "count": 2,
+    "next": {
+      "you are": 2
+    }
+  },
+  "Still, as": {
+    "count": 2,
+    "next": {
+      "as far": 1,
+      "as it": 1
+    }
+  },
+  "as far": {
+    "count": 4,
+    "next": {
+      "far as": 4
+    }
+  },
+  "am quite": {
+    "count": 2,
+    "next": {
+      "quite sure": 2
+    }
+  },
+  "sure he": {
+    "count": 2,
+    "next": {
+      "he had": 1,
+      "he is": 1
+    }
+  },
+  "fact, I": {
+    "count": 2,
+    "next": {
+      "I was": 2
+    }
+  },
+  "it struck": {
+    "count": 2,
+    "next": {
+      "struck me": 2
+    }
+  },
+  "course, it": {
+    "count": 2,
+    "next": {
+      "it was": 1,
+      "it will": 1
+    }
+  },
+  "of John": {
+    "count": 2,
+    "next": {
+      "John Cavendish": 2
+    }
+  },
+  "understand that": {
+    "count": 2,
+    "next": {
+      "that you": 1,
+      "that he": 1
+    }
+  },
+  "If I": {
+    "count": 2,
+    "next": {
+      "I am": 1,
+      "I had": 1
+    }
+  },
+  "No, but": {
+    "count": 2,
+    "next": {
+      "but I": 2
+    }
+  },
+  "of whom": {
+    "count": 2,
+    "next": {
+      "whom I": 1,
+      "whom he": 1
+    }
+  },
+  "moment, I": {
+    "count": 2,
+    "next": {
+      "I thought": 1,
+      "I was": 1
+    }
+  },
+  "and out": {
+    "count": 2,
+    "next": {
+      "out of": 2
+    }
+  },
+  "surely it": {
+    "count": 2,
+    "next": {
+      "it must": 1,
+      "it could": 1
+    }
+  },
+  "have thought": {
+    "count": 2,
+    "next": {
+      "thought of": 2
+    }
+  },
+  "Impossible! Not": {
+    "count": 2,
+    "next": {
+      "Not at": 2
+    }
+  },
+  "that Dr.": {
+    "count": 4,
+    "next": {
+      "Dr. Bauerstein": 4
+    }
+  },
+  "said he": {
+    "count": 2,
+    "next": {
+      "he had": 2
+    }
+  },
+  "Well, it": {
+    "count": 3,
+    "next": {
+      "it was": 1,
+      "it is": 2
+    }
+  },
+  "which Poirot": {
+    "count": 2,
+    "next": {
+      "Poirot had": 1,
+      "Poirot and": 1
+    }
+  },
+  "what about": {
+    "count": 2,
+    "next": {
+      "about the": 2
+    }
+  },
+  "this: that": {
+    "count": 2,
+    "next": {
+      "that Dr.": 1,
+      "that Mrs.": 1
+    }
+  },
+  "threatened to": {
+    "count": 2,
+    "next": {
+      "to tell": 1,
+      "to have": 1
+    }
+  },
+  "the crime": {
+    "count": 2,
+    "next": {
+      "crime had": 2
+    }
+  },
+  "introduced into": {
+    "count": 2,
+    "next": {
+      "into the": 2
+    }
+  },
+  "believed that": {
+    "count": 3,
+    "next": {
+      "that a": 1,
+      "that the": 2
+    }
+  },
+  "day. I": {
+    "count": 2,
+    "next": {
+      "I must": 1,
+      "I told": 1
+    }
+  },
+  "because he": {
+    "count": 2,
+    "next": {
+      "he said": 1,
+      "he was": 1
+    }
+  },
+  "time, it": {
+    "count": 2,
+    "next": {
+      "it would": 1,
+      "it was": 1
+    }
+  },
+  "that John": {
+    "count": 2,
+    "next": {
+      "John and": 1,
+      "John Cavendish": 1
+    }
+  },
+  "and would": {
+    "count": 3,
+    "next": {
+      "would be": 1,
+      "would have": 2
+    }
+  },
+  "kind, and": {
+    "count": 2,
+    "next": {
+      "and you": 1,
+      "and would": 1
+    }
+  },
+  "She stared": {
+    "count": 2,
+    "next": {
+      "stared at": 2
+    }
+  },
+  "mind when": {
+    "count": 2,
+    "next": {
+      "when he": 1,
+      "when I": 1
+    }
+  },
+  "She could": {
+    "count": 2,
+    "next": {
+      "could not": 2
+    }
+  },
+  "In spite": {
+    "count": 4,
+    "next": {
+      "spite of": 4
+    }
+  },
+  "opinion of": {
+    "count": 2,
+    "next": {
+      "of his": 1,
+      "of the": 1
+    }
+  },
+  "room. I": {
+    "count": 3,
+    "next": {
+      "I was": 2,
+      "I followed": 1
+    }
+  },
+  "got to": {
+    "count": 2,
+    "next": {
+      "to do": 2
+    }
+  },
+  "the murder": {
+    "count": 4,
+    "next": {
+      "murder of": 4
+    }
+  },
+  "murder of": {
+    "count": 4,
+    "next": {
+      "of Mrs.": 3,
+      "of his": 1
+    }
+  },
+  "Who told": {
+    "count": 2,
+    "next": {
+      "told you": 2
+    }
+  },
+  "Yes. Well,": {
+    "count": 2,
+    "next": {
+      "Well, it": 1,
+      "Well, my": 1
+    }
+  },
+  "On top": {
+    "count": 2,
+    "next": {
+      "top of": 2
+    }
+  },
+  "time. But": {
+    "count": 2,
+    "next": {
+      "But it": 1,
+      "But I": 1
+    }
+  },
+  "or it": {
+    "count": 2,
+    "next": {
+      "it might": 1,
+      "it would": 1
+    }
+  },
+  "declared that": {
+    "count": 3,
+    "next": {
+      "that she": 2,
+      "that he": 1
+    }
+  },
+  "Not that": {
+    "count": 2,
+    "next": {
+      "that it": 1,
+      "that I": 1
+    }
+  },
+  "not going": {
+    "count": 3,
+    "next": {
+      "going to": 3
+    }
+  },
+  "And, as": {
+    "count": 2,
+    "next": {
+      "as she": 1,
+      "as he": 1
+    }
+  },
+  "new piece": {
+    "count": 2,
+    "next": {
+      "piece of": 2
+    }
+  },
+  "evening, had": {
+    "count": 2,
+    "next": {
+      "had to": 1,
+      "had been": 1
+    }
+  },
+  "found the": {
+    "count": 2,
+    "next": {
+      "the extra": 2
+    }
+  },
+  "or not": {
+    "count": 2,
+    "next": {
+      "not to": 2
+    }
+  },
+  "friend, you": {
+    "count": 2,
+    "next": {
+      "you have": 2
+    }
+  },
+  "which they": {
+    "count": 2,
+    "next": {
+      "they had": 1,
+      "they have": 1
+    }
+  },
+  "moment when": {
+    "count": 2,
+    "next": {
+      "when you": 2
+    }
+  },
+  "Long enough": {
+    "count": 2,
+    "next": {
+      "enough for": 2
+    }
+  },
+  "us at": {
+    "count": 2,
+    "next": {
+      "at once.": 1,
+      "at the": 1
+    }
+  },
+  "remembering that": {
+    "count": 2,
+    "next": {
+      "that it": 1,
+      "that she": 1
+    }
+  },
+  "whether or": {
+    "count": 3,
+    "next": {
+      "or not": 3
+    }
+  },
+  "brought home": {
+    "count": 2,
+    "next": {
+      "home to": 2
+    }
+  },
+  "case, there": {
+    "count": 2,
+    "next": {
+      "there is": 1,
+      "there have": 1
+    }
+  },
+  "last link": {
+    "count": 2,
+    "next": {
+      "link of": 2
+    }
+  },
+  "he may": {
+    "count": 2,
+    "next": {
+      "may be": 1,
+      "may have": 1
+    }
+  },
+  "case for": {
+    "count": 3,
+    "next": {
+      "for the": 3
+    }
+  },
+  "called upon": {
+    "count": 2,
+    "next": {
+      "upon to": 2
+    }
+  },
+  "upon to": {
+    "count": 2,
+    "next": {
+      "to give": 2
+    }
+  },
+  "give evidence": {
+    "count": 2,
+    "next": {
+      "evidence at": 1,
+      "evidence against": 1
+    }
+  },
+  "Cavendish did": {
+    "count": 2,
+    "next": {
+      "did not": 2
+    }
+  },
+  "the prisoner": {
+    "count": 6,
+    "next": {
+      "prisoner had": 4,
+      "prisoner in": 2
+    }
+  },
+  "prisoner had": {
+    "count": 3,
+    "next": {
+      "had been": 1,
+      "had found": 1,
+      "had entered": 1
+    }
+  },
+  "been able": {
+    "count": 2,
+    "next": {
+      "able to": 2
+    }
+  },
+  "conversation on": {
+    "count": 2,
+    "next": {
+      "on the": 2
+    }
+  },
+  "in consequence": {
+    "count": 3,
+    "next": {
+      "consequence of": 3
+    }
+  },
+  "decide whether": {
+    "count": 2,
+    "next": {
+      "whether or": 2
+    }
+  },
+  "proof of": {
+    "count": 2,
+    "next": {
+      "of the": 1,
+      "of her": 1
+    }
+  },
+  "Yes. And": {
+    "count": 2,
+    "next": {
+      "And that": 1,
+      "And the": 1
+    }
+  },
+  "admitted that": {
+    "count": 2,
+    "next": {
+      "that he": 1,
+      "that it": 1
+    }
+  },
+  "prisoner in": {
+    "count": 2,
+    "next": {
+      "in the": 2
+    }
+  },
+  "since it": {
+    "count": 3,
+    "next": {
+      "it was": 2,
+      "it is": 1
+    }
+  },
+  "June. In": {
+    "count": 2,
+    "next": {
+      "In the": 1,
+      "In fact,": 1
+    }
+  },
+  "in fact,": {
+    "count": 2,
+    "next": {
+      "fact, have": 2
+    }
+  },
+  "fact, have": {
+    "count": 2,
+    "next": {
+      "have been": 2
+    }
+  },
+  "leaving it": {
+    "count": 2,
+    "next": {
+      "it on": 1,
+      "it in": 1
+    }
+  },
+  "as Mr.": {
+    "count": 2,
+    "next": {
+      "Mr. Inglethorp": 1,
+      "Mr. Inglethorp.": 1
+    }
+  },
+  "jury that": {
+    "count": 2,
+    "next": {
+      "that they": 1,
+      "that there": 1
+    }
+  },
+  "much evidence": {
+    "count": 2,
+    "next": {
+      "evidence against": 2
+    }
+  },
+  "been found": {
+    "count": 2,
+    "next": {
+      "found in": 2
+    }
+  },
+  ". .": {
+    "count": 17,
+    "next": {
+      ". .": 17
+    }
+  },
+  "the discovery": {
+    "count": 2,
+    "next": {
+      "discovery of": 2
+    }
+  },
+  "discovery of": {
+    "count": 2,
+    "next": {
+      "of the": 2
+    }
+  },
+  "the beard": {
+    "count": 2,
+    "next": {
+      "beard in": 2
+    }
+  },
+  "there in": {
+    "count": 2,
+    "next": {
+      "in a": 1,
+      "in the": 1
+    }
+  },
+  "Evidence as": {
+    "count": 2,
+    "next": {
+      "as to": 2
+    }
+  },
+  "the conclusion": {
+    "count": 6,
+    "next": {
+      "conclusion that": 6
+    }
+  },
+  "alone for": {
+    "count": 2,
+    "next": {
+      "for a": 2
+    }
+  },
+  "you account": {
+    "count": 2,
+    "next": {
+      "account for": 2
+    }
+  },
+  "the greater": {
+    "count": 3,
+    "next": {
+      "greater part": 3
+    }
+  },
+  "greater part": {
+    "count": 3,
+    "next": {
+      "part of": 3
+    }
+  },
+  "head that": {
+    "count": 2,
+    "next": {
+      "that the": 1,
+      "that Mademoiselle": 1
+    }
+  },
+  "voice for": {
+    "count": 2,
+    "next": {
+      "for that": 2
+    }
+  },
+  "air of": {
+    "count": 2,
+    "next": {
+      "of a": 2
+    }
+  },
+  "this, as": {
+    "count": 2,
+    "next": {
+      "as it": 1,
+      "as we": 1
+    }
+  },
+  "precision of": {
+    "count": 3,
+    "next": {
+      "of the": 3
+    }
+  },
+  "link of": {
+    "count": 2,
+    "next": {
+      "of which": 1,
+      "of the": 1
+    }
+  },
+  "discovered that": {
+    "count": 5,
+    "next": {
+      "that the": 1,
+      "that I": 1,
+      "that it": 1,
+      "that there": 1,
+      "that she": 1
+    }
+  },
+  "way. You": {
+    "count": 2,
+    "next": {
+      "You are": 1,
+      "You will": 1
+    }
+  },
+  "Cavendish who": {
+    "count": 4,
+    "next": {
+      "who entered": 1,
+      "who had": 2,
+      "who was": 1
+    }
+  },
+  "Cavendish is": {
+    "count": 2,
+    "next": {
+      "is in": 1,
+      "is a": 1
+    }
+  },
+  "lighted in": {
+    "count": 2,
+    "next": {
+      "in her": 1,
+      "in Mrs.": 1
+    }
+  },
+  "will remember": {
+    "count": 2,
+    "next": {
+      "remember my": 2
+    }
+  },
+  "no means": {
+    "count": 2,
+    "next": {
+      "means of": 2
+    }
+  },
+  "her hand,": {
+    "count": 2,
+    "next": {
+      "hand, and": 2
+    }
+  },
+  "had nothing": {
+    "count": 2,
+    "next": {
+      "nothing to": 2
+    }
+  },
+  "guilty of": {
+    "count": 2,
+    "next": {
+      "of a": 1,
+      "of the": 1
+    }
+  },
+  "took in": {
+    "count": 2,
+    "next": {
+      "in the": 1,
+      "in her": 1
+    }
+  },
+  "was attracted": {
+    "count": 2,
+    "next": {
+      "attracted by": 2
+    }
+  },
+  "attracted by": {
+    "count": 2,
+    "next": {
+      "by the": 2
+    }
+  },
+  "is possible": {
+    "count": 2,
+    "next": {
+      "possible that": 2
+    }
+  },
+  "plain to": {
+    "count": 2,
+    "next": {
+      "to me,": 1,
+      "to you": 1
+    }
+  },
+  "not plain": {
+    "count": 2,
+    "next": {
+      "plain to": 2
+    }
+  },
+  "connect him": {
+    "count": 2,
+    "next": {
+      "him with": 2
+    }
+  },
+  "it. When": {
+    "count": 2,
+    "next": {
+      "When I": 1,
+      "When did": 1
+    }
+  },
+  "determined that": {
+    "count": 2,
+    "next": {
+      "that he": 1,
+      "that there": 1
+    }
+  },
+  "might never": {
+    "count": 2,
+    "next": {
+      "never have": 2
+    }
+  },
+  "before he": {
+    "count": 2,
+    "next": {
+      "he could": 1,
+      "he came": 1
+    }
+  },
+  "Because he": {
+    "count": 2,
+    "next": {
+      "he did": 1,
+      "he is": 1
+    }
+  },
+  "Yes. Do": {
+    "count": 2,
+    "next": {
+      "Do you": 2
+    }
+  },
+  "that Mademoiselle": {
+    "count": 2,
+    "next": {
+      "Mademoiselle Cynthia": 2
+    }
+  },
+  "greatest thing": {
+    "count": 2,
+    "next": {
+      "thing in": 2
+    }
+  },
+  "thing in": {
+    "count": 2,
+    "next": {
+      "in all": 1,
+      "in the": 1
+    }
+  }
+}

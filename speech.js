@@ -1,20 +1,47 @@
 const fs = require('fs');
-const maxWords = 20;
+const maxWords = 100;
+let maxSentences = 6;
 let dictionary = {};
 const utterance = [];
+let sentenceCount = 0;
+const offset = process.argv[3] === 'true';
+const endSentenceMarkers = ['.', '?', '!'];
+const endSentenceRegex = /\.|\?|\!/;
+console.log(offset);
 
 function indexDictionary() {
-	fs.readFile(`./grams/${ process.argv[2] }.txt`, 'utf8', (err, data) => {
+	fs.readFile(`./${ process.argv[4] }/grams/${ process.argv[2] }${ offset ? '-offset' : '' }.txt`, 'utf8', (err, data) => {
 		if (err) {
 			throw new Error(err);
 		}
 
 		dictionary = JSON.parse(data);
-		while (utterance.length < maxWords) {
-			utterance.push(generateNextWord(utterance.length > 0 ? utterance[utterance.length - 1] : null));
+		sentenceCount = 0;
+		let currWord = null;
+
+		while (sentenceCount < maxSentences) {
+			const next = generateNextWord(currWord);
+			utterance.push(offset ? next.split(' ')[next.split(' ').length - (Number(process.argv[2]) - 1)] : next);
+			currWord = next;
+			if (next.search(endSentenceRegex) > -1) {
+				sentenceCount++;
+			}
+			if (utterance.length >= maxWords) {
+				maxSentences = sentenceCount + 1;
+				if (utterance.length >= maxWords * 2) {
+					break;
+				}
+			}
 		}
 
-		console.log(utterance.join(' '));
+		const out = utterance.join(' ');
+		const firstSenIndex = Math.max(out.search(endSentenceRegex), 0);
+		const lastSenIndex = Math.max(out.lastIndexOf('.'), out.lastIndexOf('?'), out.lastIndexOf('!'), 0);
+		if (firstSenIndex === lastSenIndex) {
+			console.log(out);
+		} else {
+			console.log(`${ out.substring(firstSenIndex > 0 ? firstSenIndex + 2 : firstSenIndex, lastSenIndex) }.`);
+		}
 	});
 }
 
@@ -34,6 +61,7 @@ function generateNextWord(seedWord) {
 	}
 
 	// if the utterance had a previous word
+	// console.log(seedWord);
 	const nextWords = Object.keys(dictionary[seedWord].next);
 	const nextArr = [];
 	for (let i = 0; i < nextWords.length; i++) {
