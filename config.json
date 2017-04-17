@@ -1,0 +1,28 @@
+{
+	"corpora": [
+		{
+			"name": "bible",
+			"grams": ["1", "2-offset", "2", "3-offset", "3"]
+		},
+		{
+			"name": "iliad",
+			"grams": ["1", "2-offset", "2", "3-offset"]
+		},
+		{
+			"name": "kalevala",
+			"grams": ["1", "2-offset", "2"]
+		},
+		{
+			"name": "karenina",
+			"grams": ["1", "2-offset", "2", "3-offset", "4-offset"]
+		},
+		{
+			"name": "quijote",
+			"grams": ["1", "2-offset", "2", "3-offset"]
+		},
+		{
+			"name": "styles",
+			"grams": ["1", "2-offset"]
+		}
+	]
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>itsa me!</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        color: #333;
+        font-size: 18px;
+        max-width: 50rem;
+        margin: 0 auto;
+        box-sizing: border-box;
+      }
+      div {
+        padding: 0.5em 0;
+      }
+      .select {
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 2em;
+      }
+      #form {
+        position: fixed;
+        background-color: #fff;
+        border-bottom: solid 2px #ccc;
+        width: 50rem;
+        padding: 5rem 1rem 1rem 1rem;
+        box-sizing: border-box;
+      }
+      #utterances {
+        padding: 12rem 1rem 2rem 1rem;
+      }
+      #utterances div {
+        border-bottom: solid 2px #eee;
+      }
+      #utterances div:first-letter {
+        text-transform: uppercase;
+      }
+    </style>
+  </head>
+  <body>
+    <form id="form" action="POST">
+      <div class="select">
+        <label for="corpus">corpus</label>
+        <select name="corpus" id="corpus">
+        </select>
+      </div>
+      <div class="select">
+        <label for="grams">grams</label>
+        <select name="grams" id="grams">
+        </select>
+      </div>
+      <div>
+        <button type="submit">new utterance</button>
+      </div>
+    </form>
+
+    <div id="utterances">
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      const socket = io('http://localhost:1337');
+      document.getElementById('form').onsubmit = () => {
+        const corpus = document.getElementById('corpus');
+        const grams = document.getElementById('grams');
+        socket.emit('submit', {
+          corpus: corpus.options[corpus.options.selectedIndex].text,
+          grams: grams.options[grams.options.selectedIndex].text,
+        });
+        return false;
+      };
+
+      function setGramsFor(data) {
+        const gramsSelect = document.getElementById('grams');
+        gramsSelect.innerHTML = "";
+
+        data.grams.forEach((gram, i) => {
+          const option = document.createElement('option');
+          option.value = i;
+          option.innerHTML = gram;
+          gramsSelect.appendChild(option);
+        });
+      }
+
+      socket.on('connection', (data) => {
+        const corpusSelect = document.getElementById('corpus');
+
+        data.corpora.forEach((datum, i) => {
+          const option = document.createElement('option');
+          option.value = i;
+          option.innerHTML = datum.name;
+          corpusSelect.appendChild(option);
+        });
+
+        setGramsFor(data.corpora[0]);
+
+        corpusSelect.onchange = (e) => {
+          document.getElementById('utterances').innerHTML = '';
+          setGramsFor(data.corpora[e.target.selectedIndex]);
+        }
+      });
+
+      socket.on('next', (data) => {
+        const elt = document.createElement('div');
+        elt.innerHTML = data;
+        document.getElementById('utterances').appendChild(elt);
+      });
+    </script>
+  </body>
+</html>
